@@ -18,6 +18,11 @@
 
 Ustanovenie vymedzuje vekové rozpätie kategórie mladistvého — od dovŕšenia štrnásteho roku (spodná hranica trestnej zodpovednosti podľa § 22) do neprekročenia osemnásteho roku veku (hranica zletilosti). Odsek 2 zakotvuje vzťah tejto hlavy k zvyšku Trestného zákona ako vzťah **lex specialis k lex generalis** — osobitná úprava má prednosť, vo zvyšku sa mladistvý posudzuje podľa všeobecných ustanovení (napr. o zavinení, štádiách trestnej činnosti či okolnostiach vylučujúcich protiprávnosť).
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2021:1618010708.1, 2021-02-16
+  > „- podľa § 212 ods. 4 Trestného zákona s poukazom na § 36 písm. l), § 37 písm. h), § 38 ods. 2 Trestného zákona, s použitím § 41 ods. 1 Trestného zákona a za použitia § 117 ods. 1 Trestného zákona úhrnný trest odňatia slobody vo výmere osemnásť mesiacov, výkon ktorého podľa § 49 ods. 1 písm. a) v spojení s § 94 ods. 2 Trestného zákona podmienečne odložil a podľa § 119 ods. 1 Trestného zákona určil skúšobnú dobu vo výmere dva roky."
+
 ### § 95 — Trestná zodpovednosť
 
 > **§ 95**
@@ -99,6 +104,17 @@ Fakultatívne upustenie od potrestania je najmiernejším spôsobom vybavenia ve
 **Výklad:**
 
 Dopĺňa § 98 o dva ďalšie samostatné dôvody upustenia od potrestania za prečin. Písmeno a) rieši situáciu, keď čin súvisel s duševnou poruchou mladistvého, ktorá ešte nedosahuje intenzitu nepríčetnosti (tá by viedla k vylúčeniu trestnej zodpovednosti podľa § 95 ods. 1, prípadne § 23) — namiesto trestu súd uloží ochranné liečenie, ak je spôsobilé zaistiť nápravu lepšie ako trest. Písmeno b) rieši prekrytie sankcií — ak sa voči mladistvému už vykonáva ochranné alebo výchovné opatrenie, ktoré samo osebe postačuje na dosiahnutie účelu zákona, je uloženie trestu popri ňom nadbytočné.
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2017:6017897534.1, 2017-08-03
+  > „- Y., Slovenská republika, t.č. vo výkone trestu odňatia slobody v Rakúsku, uznaný vinným zo zločinu lúpeže podľa § 142 ods. 1/ rakúskeho Trestného zákona, prečinu pozbavenia osobnej slobody podľa § 99 ods. 1/ rakúskeho Trestného zákona a prečinu utajenia dokladov podľa § 229 ods. 1/ rakúskeho Trestného zákona, ktorých sa dopustil na tom skutkovom základe, že J."
+- *NS SR* sp. zn. 6 Urto 6/2017, 2017-08-03
+  > „v D., trvale bytom D.Š., Slovenská republika, t.č. vo výkone trestu odňatia slobody v Rakúsku, uznaný vinným zo zločinu lúpeže podľa § 142 ods. 1/ rakúskeho Trestného zákona, prečinu pozbavenia osobnej slobody podľa § 99 ods. 1/ rakúskeho Trestného zákona a prečinu utajenia dokladov podľa § 229 ods. 1/ rakúskeho Trestného zákona, ktorých sa dopustil na tom skutkovom základe, že M."
+- *NS SR* sp. zn. 6Urto/6/2017, 2017-08-03
+  > „- Y., Slovenská republika, t.č. vo výkone trestu odňatia slobody v Rakúsku, uznaný vinným zo zločinu lúpeže podľa § 142 ods. 1/ rakúskeho Trestného zákona, prečinu pozbavenia osobnej slobody podľa § 99 ods. 1/ rakúskeho Trestného zákona a prečinu utajenia dokladov podľa § 229 ods. 1/ rakúskeho Trestného zákona, ktorých sa dopustil na tom skutkovom základe, že J."
+- *NS SR* sp. zn. 6 Tost 32/2016, 2016-08-31
+  > „v konaní o európskom zatýkacom rozkaze pre trestný čin ozbrojenej a organizovanej lúpeţe podľa § 99, § 142, § 143, § 229 rakúskeho Trestného zákona na neverejnom zasadnutí konanom 31. augusta 2016 v Bratislave, o sťaţnosti B."
 
 ### § 100 — Účinky upustenia od potrestania
 
@@ -206,6 +222,11 @@ Rieši osobitnú situáciu osôb pod hranicou trestnej zodpovednosti (§ 22) —
 
 ## Piaty diel — Výchovné opatrenia
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2014:4013000045.1, 2014-01-30
+  > „B/ prečinu nátlaku podľa § 15, § 105 odsek 1 Trestného zákona na tom skutkovom základe, že: T."
+
 ### § 106 — Druhy výchovných opatrení a ich ukladanie
 
 > **§ 106**
@@ -225,6 +246,11 @@ Rieši osobitnú situáciu osôb pod hranicou trestnej zodpovednosti (§ 22) —
 **Výklad:**
 
 Odsek 2 taxatívne vymenúva dva druhy výchovných opatrení — výchovné povinnosti a obmedzenia (rozvedené v § 107) a napomenutie s výstrahou (§ 108). Podľa odseku 1 sa ukladajú buď pri podmienečnom upustení od potrestania (§ 101), alebo už v prípravnom konaní, teda ešte pred rozhodnutím súdu vo veci samej. Odsek 3 umožňuje, aby v prípravnom konaní výchovné opatrenie uložil aj prokurátor, výlučne so súhlasom mladistvého, ktorý môže byť kedykoľvek odvolaný, čím sa výkon opatrenia ukončí (procesná záruka dobrovoľnosti). Odsek 4 pamätá na situáciu, keď je plnenie opatrenia objektívne nemožné alebo mladistvý zavinene neplní — súd, respektíve prokurátor, opatrenie zruší alebo zmení.
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2012:5011200974.1, 2012-11-29
+  > „Keďže v danom prípade, ako vyplýva z obsahu spisu, realizáciu odkladu výkonu rozhodnutia nebolo možné v danej veci zabezpečiť orgánmi činnými v trestnom konaní (nejde o trestný čin marenia výkonu úradného rozhodnutia (§ 348 Trestného zákona) ani v stavebnom konaní (nejde o priestupok podľa § 106 stavebného zákona), postup podľa § 5 OZ by prichádzal do úvahy za splnenia zákonom stanovených podmienok, ako sú popísané vyššie."
 
 ### § 107 — Výchovné povinnosti a obmedzenia
 
@@ -292,6 +318,13 @@ Najmiernejšie z výchovných opatrení — spočíva vo formálnom, dôraznom v
 
 Taxatívny, uzavretý katalóg ôsmich trestov, ktoré možno uložiť mladistvému — je užší ako všeobecný katalóg trestov dostupných pri dospelých páchateľoch (chýba napríklad trest odňatia slobody na doživotie, ktorý je s vekovou kategóriou mladistvých nezlučiteľný) a jeho jednotlivé zložky sú v nasledujúcich ustanoveniach modifikované osobitnými, prísnejšími podmienkami a nižšími sadzbami zohľadňujúcimi vek a vývojovú fázu páchateľa.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* sp. zn. 10Sžr/141/2011, 2012-05-23
+  > „Krajský súd v Nitre v odôvodnení svojho rozsudku konštatoval, že medzi účastníkmi konania nebolo sporné, že rozsudkom Okresného súdu v Nitre sp. zn. 5T 231/81 zo dňa 10. decembra 1981 boli navrhovatelia uznaní vinnými z trestného činu opustenia republiky podľa § 109 ods. 2 Trestného zákona."
+- *NS SR* sp. zn. 5 Cdo 222/2007, 2008-05-30
+  > „7To 58/71, zo dňa 19.3.1971 bol právny predchodca navrhovateľov uznaný vinným z trestného činu opustenia republiky podľa § 109 ods. 2 Trestného zákona a odsúdený na trest odňatia slobody a podľa § 51 ods. 2 Trestného 5 Cdo 222/2007 4 zákona bol vyslovený aj trest prepadnutia celého majetku."
+
 ### § 110 — Ukladanie trestu
 
 > **§ 110**
@@ -303,6 +336,13 @@ Taxatívny, uzavretý katalóg ôsmich trestov, ktoré možno uložiť mladistv�
 **Výklad:**
 
 Odsek 1 zavádza osobitnú poľahčujúcu okolnosť špecifickú pre mladistvých — spôsob, akým splnil skôr uložené výchovné povinnosti a obmedzenia podľa § 107, sa zohľadní pri výmere trestu. Odsek 2 rieši prípad páchateľa, ktorý časť trestnej činnosti spáchal ako mladistvý a časť už ako dospelý — pri ukladaní úhrnného alebo súhrnného trestu sa postupuje podľa všeobecných pravidiel (§ 41 a § 42), avšak trestné sadzby za činy spáchané pred dovŕšením osemnásteho roku sa naďalej posudzujú podľa zníženého rámca pre mladistvých (§ 117).
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* sp. zn. 3 Tost 11/2014, 2014-03-26
+  > „X., trvale bytom B., Slovenská republika, t.č. vo vydávacej väzbe v Ústave na výkon väzby v Bratislave, pre dva trestné činy, a to zločinného spolčovania podľa § 416 talianskeho Trestného zákona a pokusu krádeže s priťažením podľa § 56, § 110, § 624 ods. 1 a § 625 ods. 2 – 5 talianskeho Trestného zákona, ktorých sa mal dopustiť na tom skutkovom základe, že 1/ R. L., T."
+- *NS SR* sp. zn. 3 Tost 12/2014, 2014-03-26
+  > „GIP na účely trestného stíhania pre dva trestné činy účasti na trestom zoskupení, organizovaní ozbrojenej lúpeže podľa § 416, § 56, § 110, § 624 ods. 1 a § 625 ods. 2 – 5 a § 61 ods. 5 talianskeho Trestného zákona."
 
 ### § 111 — Trest povinnej práce
 
@@ -349,6 +389,11 @@ Ustanovenie s písmenovým označením "a" bolo do katalógu doplnené novelizá
 **Výklad:**
 
 Trest vyhostenia možno mladistvému uložiť len v rozpätí jeden až päť rokov (užšom než pri dospelých) a súd je pritom výslovne povinný zohľadniť rodinné a osobné pomery mladistvého tak, aby ho vyhostením nevystavil nebezpečenstvu "spustnutia" — teda sociálneho a mravného úpadku v dôsledku vytrhnutia z doterajšieho prostredia bez primeraného zázemia.
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2017:2112010764.1, 2017-02-01
+  > „Navrhol, aby Najvyšší súd Slovenskej republiky podľa § 386 ods. 1 Trestného poriadku vyslovil rozsudkom porušenie zákona v ustanovení § 319 Trestného poriadku, v ustanovení § 172 ods. 1 písm. a/, písm. c/, písm. d/, ods. 2 písm. c/ Trestného zákona v spojení s § 138 písm. j/ Trestného zákona, v ustanovení § 38 ods. 1 Trestného zákona, v ustanovení § 113 ods. 2 Trestného poriadku, v ustanovení § 119 ods. 2 Trestného poriadku a v ustanovení § 263 ods. 4 Trestného poriadku v neprospech obvineného R. X."
 
 ### § 114 — Peňažný trest
 
@@ -422,6 +467,17 @@ Aj toto ustanovenie nesie písmenové označenie "a", čo naznačuje jeho dodato
 
 Kľúčové ustanovenie tohto dielu. Odsek 1 zavádza všeobecné **prelomenie zákonných trestných sadzieb u mladistvých na polovicu**, súčasne s absolútnymi stropmi — horná hranica akejkoľvek zníženej sadzby nesmie presiahnuť sedem rokov, dolná dva roky, bez ohľadu na to, aká vysoká by bola polovičná sadzba u konkrétneho trestného činu. Odsek 2 zakotvuje **subsidiaritu nepodmienečného trestu odňatia slobody** — možno ho uložiť len vtedy, ak by iný (miernejší) trest zjavne neviedol k dosiahnutiu účelu trestu. Odsek 3 obsahuje výnimku z absolútneho stropu siedmich rokov — pri obzvlášť závažnom zločine s mimoriadne vysokou mierou spoločenskej závažnosti (pre zavrhnutiahodný spôsob, pohnútku alebo ťažký následok) môže súd uložiť trest až do pätnásť rokov, ak zníženú sadzbu podľa odseku 1 považuje za nepostačujúcu. Odsek 4 stanovuje osobitný spôsob výkonu trestu odňatia slobody u osôb do 18 rokov — v ústavoch pre mladistvých odsúdených, oddelene od dospelej väzenskej populácie.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2019:6714010218.1, 2019-05-22
+  > „Horná hranica takto zvýšenej trestnej sadzby pritom nesmie prevyšovať 25 (dvadsaťpäť) rokov a u mladistvého páchateľa niektorú z trestných sadzieb určených v § 117 ods. 1 a ods. 3 Trestného zákona; pre určovanie trestnej sadzby sa uplatní rovnaký postup, ako podľa § 38 ods. 8 Trestného zákona."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:7918010262.1, 2020-04-14
+  > „za to podľa § 188 ods. 1 Trestného zákona s použitím § 117 ods. 1 Trestného zákona, § 36 písm. j), písm. l) Trestného zákona uložil okresný súd trest odňatia slobody vo výmere 30 (tridsať) mesiacov."
+- *NS SR* ECLI ECLI:SK:NSSR:2016:7112011585.1, 2016-08-22
+  > „Za to obvinenému súd uložil podľa § 20, § 188 ods. 2, § 38 ods. 3, § 36 písm. j/, písm. l/ Trestného zákona, § 117 ods. 1 Trestného zákona trest odňatia slobody v trvaní 3 (troch) rokov."
+- *NS SR* sp. zn. 6 Tdo 6/2016, 2016-08-22
+  > „Za to obvinenému súd uloţil podľa § 20, § 188 ods. 2, § 38 ods. 3, § 36 písm. j/, písm. l/ Trestného zákona, § 117 ods. 1 Trestného zákona trest odňatia slobody v trvaní 3 (troch) rokov."
+
 ### § 118 — Mimoriadne zníženie trestu odňatia slobody
 
 > **§ 118**
@@ -433,6 +489,13 @@ Kľúčové ustanovenie tohto dielu. Odsek 1 zavádza všeobecné **prelomenie z
 **Výklad:**
 
 Odsek 1 zmierňuje u mladistvých všeobecnú úpravu mimoriadneho zníženia trestu (§ 39 ods. 1 alebo 2) tak, že súd nie je viazaný obmedzeniami, ktoré inak (podľa § 39 ods. 3) limitujú mieru možného zníženia trestu pod dolnú hranicu sadzby — u mladistvých je teda priestor na zníženie trestu širší. Odsek 2 túto výhodu vylučuje pri trestných činoch, za ktoré zákon dovoľuje uložiť trest odňatia slobody na doživotie, kde sa uplatní osobitný, prísnejší režim § 117 ods. 3.
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2020:3517010541.1, 2020-03-31
+  > „podľa § 208 ods. 3 Trestného zákona, § 117 ods. 1 Trestného zákona s poukazom § 36 písm. j) Trestného zákona, § 38 ods. 2, ods. 3, ods. 8 Trestného zákona, s použitím § 39 ods. 1, § 118 Trestného zákona uložil trest odňatia slobody vo výmere jeden rok, výkon ktorého mu podľa § 119 ods. 1, § 49 ods. 1 písm. a) a § 51 ods. 1, ods. 2 Trestného zákona podmienečne odložil na skúšobnú dobu troch rokov a zároveň uložil probačný dohľad nad jeho správaním v skúšobnej dobe."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:7215011427.1, 2020-07-15
+  > „uložený podľa § 188 ods. 1, § 38 ods. 2, § 36 písm. j), § 37 písm. m), § 42 ods. 1, § 41 ods. 2, § 117 ods. 1, § 39 ods. 1, § 118 ods. 1 Trestného zákona súhrnný trest odňatia slobody vo výmere 6 (šesť) mesiacov, výkon ktorého bol obvinenému podľa § 49 ods. 1 písm. a) Trestného zákona podmienečne odložený a podľa § 119 ods. 1 Trestného zákona určená skúšobná doba 18 (osemnásť) mesiacov."
 
 ### § 119 — Podmienečný odklad výkonu trestu a podmienečný odklad výkonu trestu s probačným dohľadom
 
@@ -453,6 +516,17 @@ Odsek 1 zmierňuje u mladistvých všeobecnú úpravu mimoriadneho zníženia tr
 **Výklad:**
 
 Odsek 1 určuje skúšobnú dobu pri podmienečnom odklade výkonu trestu odňatia slobody (bez alebo s probačným dohľadom) na rozpätie jeden až tri roky, s možnosťou kontroly technickými prostriedkami. Odsek 2 dáva súdu, obdobne ako pri § 101 ods. 3, priestor ponechať podmienečný odklad v platnosti aj napriek tomu, že mladistvý zavdal príčinu na nariadenie výkonu trestu — namiesto toho môže zaviesť či sprísniť probačný dohľad, predĺžiť skúšobnú dobu (najviac o dva roky, celkovo však nie nad päť rokov), uložiť ďalšie výchovné opatrenie podľa § 106 ods. 2 alebo nariadiť technickú kontrolu doteraz uložených obmedzení.
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2020:7918010262.1, 2020-04-14
+  > „Podľa § 49 ods. 1 písm. a), § 119 ods. 1 Trestného zákona mu bol výkon uloženého trestu odňatia slobody podmienečne odložený na skúšobnú dobu 4 (štyri) roky."
+- *NS SR* ECLI ECLI:SK:NSSR:2016:7112011585.1, 2016-08-22
+  > „Podľa § 49 ods. 1 písm. a/, § 119 ods. 1 Trestného zákona súd podmienečne odložil výkon trestu na skúšobnú dobu s probačným dohľadom v trvaní 3 (troch) rokov."
+- *NS SR* sp. zn. 6 Tdo 6/2016, 2016-08-22
+  > „Podľa § 49 ods. 1 písm. a/, § 119 ods. 1 Trestného zákona súd podmienečne odloţil výkon trestu na skúšobnú dobu s probačným dohľadom v trvaní 3 (troch) rokov."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:2218011793.1, 2020-10-27
+  > „Z týchto dôvodov obvinená navrhla, aby Najvyšší súd Slovenskej republiky rozhodol, že napadnutým uznesením krajského súdu a v konaní, ktoré mu predchádzalo, bol porušený zákon v ust. § 2 ods. 9, ods. 10, § 119 ods. 1 Trestného poriadku, § 34 Trestného zákona a čl. 6 a 7 Dohovoru o ochrane ľudských práv a základných slobôd v jej neprospech."
 
 ### § 120 — Premlčanie výkonu trestu
 
@@ -493,3 +567,15 @@ Odsek 1 stanovuje pre mladistvých kratšie premlčacie doby výkonu trestu ako 
 **Výklad:**
 
 Uzatvárajúce ustanovenie komplexne upravuje fikciu neodsúdenia (zahladenie odsúdenia) pre mladistvých podľa druhu uloženého trestu, pričom u kratších alebo miernejších trestov nastupuje priamo zo zákona, kým pri závažnejších je potrebné rozhodnutie súdu. Odsek 1 zavádza automatické zahladenie pri treste odňatia slobody nepresahujúcom jeden rok (vrátane prípadov milosti prezidenta), a to dňom výkonu alebo právoplatného upustenia od výkonu. Odsek 2 vyžaduje pri dlhších trestoch odňatia slobody osobitné rozhodnutie súdu po výkone trestu, s prihliadnutím na správanie mladistvého počas výkonu. Odsek 3 preberá pre podmienečne odsúdených a podmienečne prepustených mladistvých fikciu neodsúdenia naviazanú na vyslovenie osvedčenia (rovnako ako § 100 a § 101 ods. 6). Odseky 4 až 8 postupne stanovujú okamih nástupu fikcie neodsúdenia pre zvyšné druhy trestov z katalógu § 109 — peňažný trest, prepadnutie veci, povinnú prácu a zákaz činnosti, vyhostenie a zákaz účasti na verejných podujatiach — vždy naviazaný na riadny výkon alebo právoplatné upustenie od výkonu (prípadne jeho zvyšku).
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* sp. zn. 3 Tost 4/2015, 2015-05-06
+  > „Najvyšší súd preto pri rozhodovaní o zahladení odsúdenia postupoval podľa Trestného zákona účinného od 1. januára 2006. Podľa § 121 ods. 2 Trestného zákona účinného od 1. januára 2006 o tom, či sa odsúdenie mladistvého na trest odňatia slobody, na ktoré sa nevzťahuje § 121 ods. 1 Trestného zákona účinného od 1. januára 2006, zahladzuje, rozhodne súd, prihliadajúc na správanie mladistvého vo výkone trestu odňatia slobody, po výkone tohto trestu."
+- *NS SR* ECLI ECLI:SK:NSSR:2021:6118010275.1, 2021-06-01
+  > „Odôvodnenie Uznesením Okresného súdu Banská Bystrica zo 6. júna 2018, sp. zn. 1Nt/26/2018, bola podľa § 121 ods. 2 Trestného zákona zamietnutá žiadosť odsúdeného Z. Z., nar."
+- *NS SR* ECLI ECLI:SK:NSSR:2016:3510010220.1, 2016-05-11
+  > „Pokiaľ dovolateľ poukázal na naplnenie dovolacieho dôvodu podľa § 371 ods. 1 písm. i/ Trestného poriadku aj pre to, že mu nebol uložený súhrnný trest, tak v tejto súvislosti je nutné upriamiť pozornosť na ustanovenie § 121 ods. 1 Trestného zákona, z ktorého vyplýva, že na mladistvého, ktorému bol uložený, alebo rozhodnutím prezidenta Slovenskej republiky zmiernený alebo odpustený trest odňatia slobody v dĺžke neprevyšujúcej jeden rok, sa hľadí, ako keby nebol odsúdený dňom výkonu tohto trestu alebo dňom, keď bolo právoplatne od takého trestu alebo jeho zvyšku upustené."
+- *NS SR* sp. zn. 6Tdo/11/2016, 2016-05-11
+  > „Pokiaľ dovolateľ poukázal na naplnenie dovolacieho dôvodu podľa § 371 ods. 1 písm. i/ Trestného poriadku aj pre to, že mu nebol uložený súhrnný trest, tak v tejto súvislosti je nutné upriamiť pozornosť na ustanovenie § 121 ods. 1 Trestného zákona, z ktorého vyplýva, že na mladistvého, ktorému bol uložený, alebo rozhodnutím prezidenta Slovenskej republiky zmiernený alebo odpustený trest odňatia slobody v dĺžke neprevyšujúcej jeden rok, sa hľadí, ako keby nebol odsúdený dňom výkonu tohto trestu alebo dňom, keď bolo právoplatne od takého trestu alebo jeho zvyšku upustené."
+

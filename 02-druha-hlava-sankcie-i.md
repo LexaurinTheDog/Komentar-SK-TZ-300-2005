@@ -22,6 +22,17 @@
 
 Trest (odsek 2) je viazaný na spáchaný trestný čin a ukladá sa výlučne páchateľovi — ide o represívnu reakciu na preukázanú vinu. Naproti tomu ochranné opatrenie (odsek 3) môže postihnúť nielen páchateľa, ale aj inú osobu, a jeho účelom nie je trestať, ale chrániť spoločnosť pred (ďalšími) trestnými činmi alebo činmi inak trestnými — teda aj pred konaním osôb, ktoré vzhľadom na vek, nepríčetnosť či inú okolnosť nie sú (alebo nemôžu byť) trestne zodpovedné. Toto rozlíšenie účelu je kľúčové pre výklad celej zvyšnej časti Druhej hlavy: kým tresty sa ukladajú s prihliadnutím na závažnosť činu a mieru zavinenia (proporcionalita k vine), ochranné opatrenia sa riadia predovšetkým potrebou ochrany spoločnosti (pozri § 35 ods. 5).
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2020:2102898383.1, 2020-12-09
+  > „Súd nepresvedčivo odôvodnil účel a druh trestu podľa § 23 ods. 1 a § 31 ods. 1 Trestného zákona účinného do 31. decembra 2005, nakoľko stupeň nebezpečnosti činu pre spoločnosť je vzhľadom na odstup času od jeho spáchania nepatrný."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:6114010841.1, 2020-07-15
+  > „Na základe uvedeného obvinený navrhol, aby Najvyšší súd Slovenskej republiky na podklade dovolania podaného obvineným rozhodol tak, že - podľa § 386 ods. 1 Trestného poriadku rozsudkom vysloví, že rozsudkom Krajského súdu v Banskej Bystrici z 21. novembra 2018, sp. zn. 3To/150/2018 bol porušený zákon v § 172 ods. 1 písm. c), písm. d), ods. 2 písm. a), ods. 3 písm. c) Trestného zákona, § 31 ods. 2 Trestného zákona a § 2 ods. 12 Trestného poriadku v neprospech obvineného C."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:9508100010.1, 2020-05-18
+  > „Súčasne súd prvého stupňa porušil zákaz dvojnásobného pričítania rovnakej okolnosti podľa § 31 ods. 3 Trestného zákona."
+- *NS SR* ECLI ECLI:SK:NSSR:2014:9013899282.1, 2014-02-25
+  > „Takto uložený trest podľa názoru najvyššieho súdu v konkrétnom prípade zohľadňujú všetky podstatné okolnosti, ktoré sú rozhodné pre stanovenie druhu a výmery trestu podľa § 31 ods. 1 Trestného zákona a stupeň spoločenskej nebezpečnosti konania (§ 3 ods. 4 Tr. zák.) obžalovaného."
+
 ### § 32 — Druhy trestov
 
 > **§ 32**
@@ -58,6 +69,17 @@ Ustanovenie obsahuje **taxatívny (uzavretý) výpočet** jedenástich druhov tr
 
 Poznámka, že ide o výpočet trestov ukladateľných "páchateľovi, ktorý je fyzickou osobou", odkazuje na to, že trestná zodpovednosť právnických osôb a s ňou spojené sankcie sú upravené samostatným zákonom (porov. výklad k § 19 ods. 2), takže tento výpočet sa na právnické osoby nevzťahuje. Podrobná úprava jednotlivých druhov trestov nasleduje v Treťom diele tejto hlavy (§ 46 a nasl., resp. v druhej polovici hlavy pokrytej nasledujúcou kapitolou).
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2021:7218010254.1, 2021-01-13
+  > „Najvyšší súd poznamenáva, že trest prepadnutia majetku možno považovať za jeden z najprísnejších druhov trestu (§ 32 Trestného zákona), pretože páchateľa „zbavuje takmer všetkého majetku" - § 59 Trestného zákona a robí z neho nemajetného občana, ktorému po výkone tohto trestu, ostane len minimum toho, čo potrebuje na „prežitie"."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:2119011042.1, 2020-07-22
+  > „Podľa § 92 ods. 2 Trestného zákona, ak ide o odsúdenie na tresty uvedené v § 32 písm. b) až l) , k zahladeniu dochádza ich vykonaním."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:1118010350.1, 2020-07-01
+  > „Podľa § 32 písm. a) Trestného zákona za spáchané trestné činy môže súd uložiť páchateľovi, ktorý je fyzickou osobou trest odňatia slobody."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:9519100045.1, 2020-06-17
+  > „S poukazom na osobu obžalovaného s tým, že sa jedná o šesťkrát súdom trestanú osobu, špeciálneho recidivistu, prichádza do úvahy ako druh trestu podľa § 32 písm. a) Trestného zákona jedine trest odňatia slobody."
+
 ### § 33 — Druhy ochranných opatrení
 
 > **§ 33**
@@ -83,6 +105,11 @@ Obdobne ako pri trestoch ide o **taxatívny výpočet** — tentoraz šiestich d
 ---
 
 ## Druhý diel — Základné zásady ukladania sankcií
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2020:7111010503.1, 2020-12-01
+  > „Za to bol menovanému podľa § 171a ods. 2 Trestného zákona s poukazom na § 33 písm. g) Trestného zákona a s použitím § 35 ods. 2 Trestného zákona uložený súhrnný trest odňatia slobody vo výmere 24 (dvadsaťštyri) mesiacov, pričom podľa § 58 ods. 1 Trestného zákona súd obvinenému výkon trestu odňatia slobody podmienečne odložil s tým, že podľa § 59 ods. 1 Trestného zákona určil pri povolení odkladu výkonu trestu skúšobnú dobu vo výmere 4 (štyri) roky."
 
 ### § 33a — Všeobecné zásady ukladania sankcií
 
@@ -151,6 +178,17 @@ Odsek 7 vymenúva **kombinácie trestov, ktoré nemožno uložiť súbežne**, s
 - *NSSSR* 1Stk/7/2023 — Rozsudok, 2025-03-31, ECLI ECLI:SK:NSSSR:2025:5021200561.1
   > „Prihliadanie na osobu páchateľa, jeho pomery a možnosť nápravy je v zmysle § 34 ods. 4 Trestného zákona zásadou ukladania trestov. Ako však bolo naznačené vyššie, aplikácia jednotlivých trestnoprávnych zásad v správnom trestaní nie je absolútna a povinnosťou správneho orgánu nie je vysporiadať sa v rozhodnutí, ktorým sa ukladá sankcia, s otázkou možnej likvidačnej povahy pokuty vo vzťahu k osobe páchateľa vždy a za každých okolností v akejkoľvek veci správneho trestania. S prihliadnutím na povahu tejto konkrétnej veci však bola táto povinnosť správnych orgánov podľa názoru kasačného súdu jednoznačne daná. Ukladala sa totiž relatívne vysoká pokuta v sume 100.000- eur a sťažovateľ likvidačnú povahu pokuty v správnom konaní namietal a doložil dôkazy preukazujúce jeho finančnú situáciu, a teda pre správny orgán v konaní vyplynuli konkrétne okolnosti odôvodňujúce potrebu zaoberať sa možným likvidačným dopadom pokuty a túto trestnoprávnu zásadu ukladania sankcie aplikovať tak, aby bol naplnený účel ukladanej sankcie."
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2016:5112011350.1, 2016-06-01
+  > „Navrhol, aby Najvyšší súd Slovenskej republiky podľa § 386 ods. 1 Trestného poriadku vyslovil, že výrokom o treste trestného rozkazu Okresného súdu Žilina zo 14. augusta 2013, sp. zn. 28T/155/2012, v spojení s uznesením Okresného súdu Žilina z 29. októbra 2014, sp. zn. 28T/155/2012, bol porušený zákon v ustanovení § 34 ods. 6 Trestného zákona v prospech obvineného C."
+- *NS SR* ECLI ECLI:SK:NSSR:2019:2116011336.1, 2019-07-23
+  > „V zmysle konštantnej judikatúry najvyššieho súdu hmotnoprávne ustanovenie § 39 Trestného zákona (resp. § 40 v znení účinnom do 1. januára 2006) o mimoriadnom znížení trestu odňatia slobody sa svojou povahou a významom primkýna ku všeobecným hľadiskám stanoveným pre voľbu druhu trestu a jeho výmery v § 34 ods. 1, ods. 3, ods. 4 Trestného zákona a nasl."
+- *NS SR* sp. zn. 4Tdo/8/2019, 2019-07-23
+  > „V zmysle konštantnej judikatúry najvyššieho súdu hmotnoprávne ustanovenie § 39 Trestného zákona (resp. § 40 v znení účinnom do 1. januára 2006) o mimoriadnom znížení trestu odňatia slobody sa svojou povahou a významom primkýna ku všeobecným hľadiskám stanoveným pre voľbu druhu trestu a jeho výmery v § 34 ods. 1, ods. 3, ods. 4 Trestného zákona a nasl."
+- *NS SR* ECLI ECLI:SK:NSSR:2014:9513100009.1, 2014-03-27
+  > „Čo sa týka uložených trestov, najvyšší súd dospel k záveru, že súd prvého stupňa pri ich ukladaní dôsledne vychádzal z kritérií pre ukladanie trestu obsiahnutých v ustanovení § 34 Tr. zák. Treba si uvedomiť, že Trestný zákon výrazne odsudzuje uvedenú trestnú činnosť ako mimoriadne spoločensky závažnú a škodlivú, a to vyjadruje aj trestnou sadzbou, ktorá pri odseku 4 obzvlášť závažného zločinu vydieračského únosu podľa § 186, resp. pri obzvlášť závažnom zločine vydierania podľa § 189 Tr. zák. je trest odňatia slobody 20 až 25 rokov alebo trest odňatia slobody na doživotie."
+
 ### § 35 — Zásady ukladania ochranných opatrení
 
 > **§ 35**
@@ -172,6 +210,17 @@ Odsek 7 vymenúva **kombinácie trestov, ktoré nemožno uložiť súbežne**, s
 Odsek 1 pripúšťa uloženie ochranného opatrenia buď popri treste, alebo namiesto neho pri upustení od potrestania — podmienkou v druhom prípade je, že ochranné opatrenie zabezpečí ochranu spoločnosti účinnejšie ako samotný trest. Odsek 2 zrkadlí zásadu osobnej pôsobnosti z § 34 ods. 3 aj pre ochranné opatrenia. Kľúčový je odsek 3, ktorý — v súlade s already vysvetleným § 7a ods. 2 — umožňuje uložiť ochranné opatrenie aj páchateľovi činu inak trestného (teda osobe, ktorá pre neexistenciu trestnej zodpovednosti nemôže byť odsúdená, napr. pre vek či nepríčetnosť) alebo dokonca inej osobe, ak je to nevyhnutné na ochranu spoločnosti pred novou trestnou činnosťou — čo potvrdzuje, že ochranné opatrenie nie je viazané na vinu, ale na nebezpečnosť. Odsek 4 stanovuje jediné výslovné vylúčenie súbehu — ochrannú výchovu a ochranný dohľad nemožno uložiť súčasne, keďže oba smerujú k obdobnému cieľu usmerňovania správania.
 
 Odsek 5 formuluje kľúčovú odlišnosť oproti trestom: pri ochranných opatreniach sa súd neriadi zásadou proporcionality k závažnosti činu, ale výlučne **potrebou ochrany spoločnosti** a potrebou liečenia, výchovy alebo nápravy — ochranné opatrenie tak môže trvať dlhšie (alebo kratšie) než by zodpovedalo závažnosti spáchaného činu, pretože jeho dĺžka je funkciou pretrvávania nebezpečnosti, nie miery zavinenia. Rovnako ako pri trestoch (§ 34 ods. 4) sa aj tu zdôrazňuje cieľ odňatia majetkového prospechu, s osobitným dôrazom na zhabanie časti majetku pri trestných činoch poškodzujúcich finančné záujmy EÚ. Odsek 6 napokon stanovuje univerzálne pravidlo skončenia výkonu ochranného opatrenia — najneskôr dosiahnutím účelu, uplynutím uloženej doby, alebo dovŕšením zákonom ustanoveného veku (relevantné najmä pre ochrannú výchovu mladistvých).
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2015:9015898603.1, 2015-11-11
+  > „Pokiaľ ide o námietku obvineného ohľadom uloženia súhrnného trestu vo vzťahu ku konaniu na Okresnom súde Topoľčany pod sp. zn. 2T 14/00, najvyšší súd konštatuje nasledovné: Podľa § 35 ods. 3 Trestného zákona účinného do 31. decembra 2005 súd uloží súhrnný trest podľa zásad uvedených v odsekoch 1 a 2, keď odsudzuje páchateľa za trestný čin, ktorý spáchal skôr, ako bol súdom prvého stupňa vyhlásený odsudzujúci rozsudok za iný jeho trestný čin."
+- *NS SR* ECLI ECLI:SK:NSSR:2021:9506100087.1, 2021-05-06
+  > „podľa § 160a ods. 2 Trestného zákona s použitím § 35 ods. 2 Trestného zákona a s použitím nálezu Ústavného súdu Slovenskej republiky z 28. novembra 2012, sp. zn. PL.ÚS 106/2011, publikovaného v Zbierke zákonov pod č. 428/2012 Z. z. uložený úhrnný trest odňatia slobody vo výmere štyroch rokov."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:2105013018.2, 2020-07-22
+  > „uložil podľa § 234 ods. 2 Trestného zákona účinného do 31. decembra 2005 s použitím § 35 ods. 2, ods. 3 Trestného zákona účinného do 31. decembra 2005, súhrnný trest odňatia slobody v trvaní 6 (šesť) rokov."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:9505100014.3, 2020-06-29
+  > „podľa § 250 ods. 5 Trestného zákona, § 35 ods. 2 Trestného zákona súhrnný trest odňatia slobody na 9 (deväť) rokov so zaradením na jeho výkon do III."
 
 ### Poľahčujúce okolnosti a priťažujúce okolnosti
 
@@ -218,6 +267,17 @@ Odsek 5 formuluje kľúčovú odlišnosť oproti trestom: pri ochranných opatre
 Ustanovenie obsahuje **demonštratívny (nie taxatívny)** výpočet šestnástich poľahčujúcich okolností — formulácia "najmä" pripúšťa zohľadnenie aj iných okolností svedčiacich v prospech páchateľa, ktoré zákon výslovne nemenuje. Okolnosti možno systematicky rozdeliť do niekoľkých skupín. Prvú tvoria okolnosti súvisiace s oslabenou rozpoznávacou či vôľovou spôsobilosťou páchateľa v čase činu — silné citové rozrušenie (písm. a), nedostatok vedomostí či skúseností (písm. b), choroba (písm. c), vek blízky mladistvým alebo vyšší vek s vplyvom na spôsobilosť (písm. d). Druhú skupinu tvoria okolnosti vonkajšieho tlaku na páchateľa — odkázanosť či podriadenosť (písm. e), hrozba či nátlak (písm. f), nezavinená núdza (písm. g), nezavinené tiesnivé pomery (písm. h). Osobitne významné je písmeno i), ktoré poľahčujúco zohľadňuje situáciu, keď páchateľ konal v kontexte niektorej z okolností vylučujúcich protiprávnosť (§ 24 – § 30), avšak nie všetky jej podmienky boli celkom splnené — teda tzv. **excesy** z nutnej obrany, krajnej núdze a ďalších liberačných dôvodov, ktoré síce nevylučujú trestnosť, ale znižujú závažnosť činu.
 
 Tretiu skupinu tvoria okolnosti súvisiace s doterajším životom a postpenálnym správaním — riadny predchádzajúci život (písm. j), odstránenie následkov alebo náhrada škody (písm. k), priznanie a ľútosť (písm. l), sebaoznámenie (písm. m), súčinnosť pri objasňovaní (písm. n, o). Tieto okolnosti motivujú páchateľa k aktívnej náprave a spolupráci s orgánmi činnými v trestnom konaní, čo koreluje aj s inštitútom mimoriadneho zníženia trestu podľa § 39 ods. 2 písm. b) a d). Napokon písmeno p) reaguje na požiadavku primeranej dĺžky trestného konania (článok 6 Dohovoru o ochrane ľudských práv a základných slobôd) — neprimerane dlhé trestné stíhanie, ktoré nemožno pričítať páchateľovi ani jeho obhajcovi, sa zohľadňuje ako poľahčujúca okolnosť, keďže samotné dlhotrvajúce konanie predstavuje pre páchateľa záťaž.
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2019:2116011336.1, 2019-07-23
+  > „V tejto súvislosti najvyšší súd poukazuje na to, že okresný, ako ani krajský súd v napadnutých rozhodnutiach prítomnosť poľahčujúcej okolnosti v zmysle § 36 písm. n) Trestného zákona nekonštatovali, z ktorého dôvodu sa dovolací súd touto skutkovou okolnosťou, vzhľadom na podanie dovolania obvineným (nejedná sa o dovolanie podané ministrom spravodlivosti podľa § 371 ods. 3 Trestného poriadku), nezaoberal."
+- *NS SR* sp. zn. 4Tdo/8/2019, 2019-07-23
+  > „V tejto súvislosti najvyšší súd poukazuje na to, že okresný, ako ani krajský súd v napadnutých rozhodnutiach prítomnosť poľahčujúcej okolnosti v zmysle § 36 písm. n) Trestného zákona nekonštatovali, z ktorého dôvodu sa dovolací súd touto skutkovou okolnosťou, vzhľadom na podanie dovolania obvineným (nejedná sa o dovolanie podané ministrom spravodlivosti podľa § 371 ods. 3 Trestného poriadku), nezaoberal."
+- *NS SR* ECLI ECLI:SK:NSSR:2019:6708011045.1, 2019-04-24
+  > „V súvislosti s dovolacou námietkou nepriznania poľahčujúcej okolnosti podľa § 36 písm. n) Trestného zákona najvyšší súd opätovne poukazuje na vyššie citovanú judikatúru, v zmysle ktorej zhodnotenie (ne)existencie poľahčujúcich okolností a priťažujúcich okolností je otázkou skutkovou, vylúčenou z preskúmania dovolacieho súdu v prípade, ak tento koná na podklade dovolania obvineného podľa § 371 ods. 1 Trestného poriadku, pričom danosť tejto poľahčujúcej okolnosti nebola konštatovaná ani vo výroku rozhodnutia okresného či krajského súdu (R 18/2015)."
+- *NS SR* sp. zn. 4Tdo/61/2018, 2019-04-24
+  > „V súvislosti s dovolacou námietkou nepriznania poľahčujúcej okolnosti podľa § 36 písm. n) Trestného zákona najvyšší súd opätovne poukazuje na vyššie citovanú judikatúru, v zmysle ktorej zhodnotenie (ne)existencie poľahčujúcich okolností a priťažujúcich okolností je otázkou skutkovou, vylúčenou z preskúmania dovolacieho súdu v prípade, ak tento koná na podklade dovolania obvineného podľa § 371 ods. 1 Trestného poriadku, pričom danosť tejto poľahčujúcej okolnosti nebola konštatovaná ani vo výroku rozhodnutia okresného či krajského súdu (R 18/2015)."
 
 ### § 37 — Priťažujúce okolnosti
 
@@ -266,6 +326,17 @@ Tretiu skupinu tvoria okolnosti súvisiace s mnohosťou trestnej činnosti a zap
 - *NSSSR* 31D/18/2023 — Rozhodnutie, 2024-09-24, ECLI ECLI:SK:NSSSR:2024:9623200496.1
   > „Porušená povinnosť v predchádzajúcom odsudzujúcom rozhodnutí bola iná ako povinnosť vytýkaná disciplinárne obvinenému v tomto konaní. Z tohto dôvodu nešlo o okolnosť, ktorá by škodlivosť konania zvyšovala natoľko, aby konanie disciplinárne obvineného napĺňalo znaky závažného disciplinárneho previnenia."
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2020:2113011423.1, 2020-09-09
+  > „Čo sa týka prvého okruhu dovolacích námietok obvineného, k tomu najvyšší súd uvádza, že argumentáciu obvineného, podľa ktorého v kontexte jeho trestnej veci tvoriacej predmet dovolacieho prieskumu nemožno priznať priťažujúcu okolnosť podľa § 37 písm. h) Trestného zákona z dôvodu, že by bola v rozpore so zásadou ne bis in idem s poukazom na Stanovisko trestnoprávneho kolégia Najvyššieho súdu Slovenskej republiky k rozdielnemu výkladu § 37 písm. h) Trestného zákona v otázke pojmu „viac" trestných činov sp. zn. Tpj 104/2009, prijaté 14. júna 2010, je potrebné odmietnuť ako neaktuálnu."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:5116011395.1, 2020-05-07
+  > „K dovolateľom tvrdenému dvojitému pričítaniu vplyvu návykovej látky na páchateľa ako zákonného znaku trestného činu a súčasne aj ako priťažujúcej okolnosti, a to v rozpore s pravidlom podľa § 38 ods. 1 Trestného zákona najvyšší súd poukazuje na to, že okresný súd pri ukladaní trestu odňatia slobody zohľadnil inú priťažujúcu okolnosť, a to predchádzajúce odsúdenie dovolateľa podľa § 37 písm. m) Trestného zákona."
+- *NS SR* ECLI ECLI:SK:NSSR:2019:9517100147.1, 2019-06-26
+  > „V súvislosti s námietkou obžalovanej týkajúcej sa použitia priťažujúcej okolnosti podľa § 37 písm. m) Trestného zákona a možnosti neprihliadnutia na túto okolnosť podľa povahy predchádzajúceho odsúdenia najvyšší súd konštatuje, že rozsudkom Okresného súdu Bratislava I z 25. júna 2014, sp. zn. 8T/24/2014 bola obžalovaná uznaná vinnou zo spáchania trestného činu marenia výkonu úradného rozhodnutia podľa § 348 ods. 1 písm. a) Trestného zákona, za čo jej bol súdom uložený trest odňatia slobody vo výmere 8 (osem) mesiacov."
+- *NS SR* ECLI ECLI:SK:NSSR:2019:9518100181.1, 2019-05-15
+  > „Pokiaľ Najvyšší súd Slovenskej republiky uzná argumentáciu prokurátora vo vzťahu ku konaniu obžalovaného, pričom niet pochybností o tom, že obžalovaný tak bezprostredne konal, obžalovaný bol uzrozumený s tým, že spácha trestný čin na mieste požívajúcom podľa všeobecne záväzného právneho predpisu osobitnú ochranu, najmä v dome alebo byte iného, a teda je potrebné aj túto okolnosť posúdiť ako priťažujúcu okolnosť podľa § 37 písm. g) Trestného zákona."
+
 ### § 38 — Zákaz dvojitého zohľadnenia okolností a recidíva
 
 > **§ 38**
@@ -287,6 +358,17 @@ Tretiu skupinu tvoria okolnosti súvisiace s mnohosťou trestnej činnosti a zap
 Odsek 1 zakotvuje **zásadu zákazu dvojitého zohľadnenia** okolnosti (zákaz tzv. dvojitého pričítania) — okolnosť, ktorá je už zákonným znakom skutkovej podstaty (základnej alebo kvalifikovanej) alebo ktorá podmieňuje uloženie trestu pod dolnú hranicu sadzby či použitie vyššej sadzby, nemožno súčasne zohľadniť aj ako poľahčujúcu či priťažujúcu okolnosť podľa § 36 a § 37. Ide o logický dôsledok toho, že takáto okolnosť už bola zohľadnená pri stanovení zákonnej trestnej sadzby ako takej. Odsek 2 ukladá súdu povinnosť pri určovaní druhu a výmery trestu vážiť vzájomný pomer a mieru závažnosti zistených poľahčujúcich a priťažujúcich okolností — ide o kvalitatívne, nie len kvantitatívne (počtové) posúdenie.
 
 Odseky 3 a 4 upravujú **obligatórne zvýšenie dolnej hranice trestnej sadzby pri recidíve** — o jednu tretinu pri opätovnom spáchaní zločinu (odsek 3), resp. o jednu polovicu pri opätovnom spáchaní obzvlášť závažného zločinu, pričom v tomto prísnejšom prípade sa odsek 3 už neuplatní (odsek 4) — ide teda o alternatívne, nie kumulatívne pravidlá. Odsek 5 vylučuje uplatnenie tohto zvýšenia, ak sa súčasne ukladá zvýšený úhrnný trest (§ 41 ods. 2) alebo súhrnný trest (§ 42), pokiaľ by kumulácia týchto inštitútov bola pre páchateľa neprimerane prísna — ide o poistku proti nadmernej kumulácii sprísňujúcich mechanizmov. Odsek 6 napokon stanovuje technické pravidlo výpočtu zvýšenej dolnej hranice (v rámci rozpätia medzi zákonnou dolnou a hornou hranicou) a vylučuje jeho použitie tam, kde osobitná časť ustanovuje jedinú pevnú sadzbu (dvadsaťpäť rokov alebo doživotie) bez rozpätia, ktoré by bolo možné zvyšovať.
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2017:4113010832.1, 2017-05-09
+  > „V podstate z týchto dôvodov generálny prokurátor navrhol, aby Najvyšší súd Slovenskej republiky ako dovolací súd: 1) podľa § 386 ods. 1 Trestného poriadku vyslovil, že rozsudkom krajského súdu bol porušený zákon v ustanovení § 38 ods. 5 Trestného zákona v prospech obvineného A."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:7617010240.1, 2020-11-04
+  > „Napriek tomu najvyšší súd poznamenáva, že okresný súd správne a v súlade so zákonom použil označenú priťažujúcu okolnosť a s ohľadom na to správne podľa § 38 ods. 4 Trestného zákona upravil trestnú sadzbu a menovanému uložil trest v zákonnej výmere."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:8315010289.1, 2020-08-25
+  > „Napriek uvedenému už len pre úplnosť najvyšší súd dodáva, že naozaj podľa ustálenej súdnej praxe (primerane rozhodnutie najvyššieho súdu publikované v Zbierke pod číslom 133/2012) analogicky o dôvod povinnej obhajoby pôjde aj v prípade, ak je obvinený trestne stíhaný pre trestný čin, ktorého dolná hranica základnej zákonom stanovenej trestnej sadzby (uvedenej v osobitnej časti Trestného zákona) síce nedosahuje úroveň 10 rokov, avšak po jej úprave podľa ustanovení § 38 ods. 4, ods. 5, ods. 6 Trestného zákona túto úroveň dosiahne."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:5116011395.1, 2020-05-07
+  > „K dovolateľom tvrdenému dvojitému pričítaniu vplyvu návykovej látky na páchateľa ako zákonného znaku trestného činu a súčasne aj ako priťažujúcej okolnosti, a to v rozpore s pravidlom podľa § 38 ods. 1 Trestného zákona najvyšší súd poukazuje na to, že okresný súd pri ukladaní trestu odňatia slobody zohľadnil inú priťažujúcu okolnosť, a to predchádzajúce odsúdenie dovolateľa podľa § 37 písm. m) Trestného zákona."
 
 ### § 39 — Mimoriadne zníženie trestu
 
@@ -330,6 +412,17 @@ Odsek 3 stanovuje **absolútne dolné limity**, pod ktoré nemožno ísť ani pr
 
 Odseky 4 a 5 upravujú osobitné, procesne podmienené zníženie trestu súvisiace s **dohodou o uznaní viny a prijatí trestu** a s **vyhlásením o vine na hlavnom pojednávaní** (inštitúty Trestného poriadku motivujúce obvineného k skoršiemu priznaniu a zjednodušeniu konania) — v oboch prípadoch možno znížiť trest odňatia slobody o jednu tretinu pod dolnú hranicu sadzby, s absolútnym minimom dvadsať rokov pri najzávažnejších činoch podľa odseku 3 písm. a). Ak sú súčasne splnené aj podmienky mimoriadneho zníženia podľa odsekov 1 alebo 2, môže súd ísť ešte pod hranice odseku 3 — teda kumulácia procesného zvýhodnenia s hmotnoprávnym mimoriadnym znížením je prípustná.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2021:2114010845.1, 2021-03-18
+  > „Teda vo vzťahu k dovolacej námietke (nepoužitie ustanovenia § 39 Trestného zákona o mimoriadnom znížení trestu) je potrebné uviesť, že (aj v zmysle použiteľnej judikatúry najvyššieho súdu) nemožno na absencii aplikácie zmierňovacieho ustanovenia založiť dovolací dôvod podľa § 371 ods. 1 písm. c) [ani písm. h), i)] Trestného poriadku Ako už bolo uvedené, výška trestu je v dovolacom konaní revidovateľná len vtedy, ak bol trest uložený mimo zákonom ustanovenej sadzby, čo sa v teraz prejednávanej veci nestalo."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:8214010231.1, 2020-03-31
+  > „Navyše nad rámec uvedeného najvyšší súd už len doplňuje, že dĺžka konania je dôvodom pre mimoriadne zníženie trestu podľa § 39 Trestného zákona len ak sa o dĺžku konania obvinený nepričinil, pritom v prejednávanej veci si napríklad okresný súd musel prítomnosť obvineného na hlavnom pojednávaní konanom 26. októbra 2017 zabezpečiť jeho predvedením."
+- *NS SR* ECLI ECLI:SK:NSSR:2019:9517100147.1, 2019-06-26
+  > „Najvyšší súd konštatuje, že podľa § 39 ods. 1 Trestného zákona sú takýmito pomermi všetky relevantné okolnosti, ktoré sú súčasťou skutku, resp. vo výnimočnom prípade aj také, ktoré síce nie sú nevyhnutnou súčasťou príslušnej skutkovej podstaty, ale v danej kvalite a kvantite sa pravidelne nevyskytujú."
+- *NS SR* ECLI ECLI:SK:NSSR:2018:1416010137.1, 2018-11-21
+  > „Navrhol, aby najvyšší súd ako súd dovolací rozhodol tak, že - podľa § 386 ods. 1 Trestného poriadku vysloví, že právoplatným rozsudkom Krajského súdu v Bratislave, sp. zn. 1To/62/2017 z 11. októbra 2017 bol porušený zákon v ustanovení § 39 ods. 4 Trestného zákona v prospech obvineného A."
+
 ### § 40 — Upustenie od potrestania
 
 > **§ 40**
@@ -353,6 +446,17 @@ Odseky 4 a 5 upravujú osobitné, procesne podmienené zníženie trestu súvisi
 Upustenie od potrestania je inštitút, pri ktorom súd vysloví vinu páchateľa, ale neuloží mu trest — samotné prejednanie veci pred súdom sa považuje za dostatočnú reakciu. Odsek 1 ho obmedzuje na prečiny (nie zločiny) bez následku smrti alebo ťažkej ujmy na zdraví, a podmieňuje ho jednou z troch alternatív: priznaním, ľútosťou a účinnou snahou o nápravu spojenou s prognózou, že už samotné súdne konanie postačí (písm. a); prijatím záruky za nápravu treťou osobou s výchovným vplyvom (písm. b, obdobne ako pri probačných inštitútoch); alebo spáchaním prečinu v stave zmenšenej príčetnosti s uložením účinnejšieho ochranného liečenia namiesto trestu, s výnimkou, ak si páchateľ zmenšenú príčetnosť spôsobil sám návykovou látkou (písm. c — sebazavinená intoxikácia teda upustenie od potrestania z tohto dôvodu vylučuje).
 
 Odsek 2 zakotvuje osobitný, samostatný dôvod upustenia od potrestania nezávislý od kategórie prečinu — pre obete, ktoré samy spáchali trestný čin z donútenia v priamej súvislosti s tým, že boli obeťou obchodovania s ľuďmi, sexuálneho zneužívania, týrania blízkej alebo zverenej osoby alebo výroby detskej pornografie. Ide o výraz zásady **non-punishment** (nepostihovania obetí za činy spáchané v dôsledku ich vlastnej viktimizácie), ktorá je súčasťou medzinárodných záväzkov SR v oblasti boja proti obchodovaniu s ľuďmi. Odsek 3 podmieňuje upustenie od potrestania podľa odseku 1 písm. a) a b) v prípadoch, kde vznikla škoda alebo prospech, vydaním výnosu z trestnej činnosti a náhradou škody (alebo dohodou o nej) — pri prečinoch poškodzujúcich finančné záujmy EÚ navyše platí kvantitatívny limit 50 000 eur, po prekročení ktorého upustenie od potrestania z týchto dôvodov nemožno použiť. Odsek 4 stanovuje dôležitý dôsledok upustenia od potrestania podľa odsekov 1 a 2 — fikciu neodsúdenia (na páchateľa sa hľadí, ako keby nebol odsúdený), čo ho odlišuje od bežného odsúdenia so zápisom v registri trestov.
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* sp. zn. 3To/1/2017, 2017-12-13
+  > „Odvolací súd je toho názoru, že aj trest uložený vo výmere pri dolnej hranici zákonom stanovenej trestnej sadzby, (pre aplikáciu ustanovenia § 40 ods. 1 Trestného zákona o mimoriadnom znížení trestu zákonné dôvody nenašiel), spolu s trestom zákazu činnosti a peňažným trestom, ktoré tresty ostali rozhodnutím najvyššieho súdu nedotknuté, splní zákonom požadovaný účel.Najvyšší súd Slovenskej republiky sa stotožnil so záverom špecializovaného trestného súdu, keď postupom podľa § 285 písm. c) Trestného poriadku oslobodil obžalovaného J."
+- *NS SR* ECLI ECLI:SK:NSSR:2019:2116011336.1, 2019-07-23
+  > „V zmysle konštantnej judikatúry najvyššieho súdu hmotnoprávne ustanovenie § 39 Trestného zákona (resp. § 40 v znení účinnom do 1. januára 2006) o mimoriadnom znížení trestu odňatia slobody sa svojou povahou a významom primkýna ku všeobecným hľadiskám stanoveným pre voľbu druhu trestu a jeho výmery v § 34 ods. 1, ods. 3, ods. 4 Trestného zákona a nasl."
+- *NS SR* sp. zn. 4Tdo/8/2019, 2019-07-23
+  > „V zmysle konštantnej judikatúry najvyššieho súdu hmotnoprávne ustanovenie § 39 Trestného zákona (resp. § 40 v znení účinnom do 1. januára 2006) o mimoriadnom znížení trestu odňatia slobody sa svojou povahou a významom primkýna ku všeobecným hľadiskám stanoveným pre voľbu druhu trestu a jeho výmery v § 34 ods. 1, ods. 3, ods. 4 Trestného zákona a nasl."
+- *NS SR* ECLI ECLI:SK:NSSR:2021:8813010424.1, 2021-04-07
+  > „Podľa § 40 ods. 1 Trestného zákona, ak má súd vzhľadom na okolnosti prípadu alebo vzhľadom na pomery páchateľa za to, že by použitie trestnej sadzby odňatia slobody ustanovenej týmto zákonom bolo pre páchateľa neprimerane prísne a že možno účel trestu dosiahnuť i trestom kratšieho trvania, môže znížiť trest odňatia slobody pod dolnú hranicu trestnej sadzby ustanovenej týmto zákonom."
 
 ### § 40a — Podmienečné upustenie od potrestania
 
@@ -401,6 +505,17 @@ Odsek 2 zavádza **asperačnú zásadu** v užšom zmysle — pri súbehu aspoň
 - *NSSSR* 31D/18/2022 — Rozhodnutie, 2024-06-04, ECLI ECLI:SK:NSSSR:2024:9622200135.1
   > „Pokiaľ má sudca zdravotné problémy, ktoré mu bránia v riadnom výkone práce, je potrebné využiť v právnom poriadku stanovené inštitúty."
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2020:6112010674.1, 2020-08-18
+  > „Bez toho, aby najvyšší súd v tomto smere ďalej akokoľvek špekuloval, z pohľadu uplatnenej dovolacej námietky, ktorou je viazaný (§ 385 ods. 1 Trestného poriadku), je podstatné, že aj keď okresný súd pri právnej kvalifikácii konania dovolateľa (na rozdiel od spoluobvinených) výslovne neuviedol, že spáchal v jednočinnom súbehu dva pokračovacie trestné činy, z výroku o treste vyplýva, že jeho konanie popísané v bodoch 5) a 7) obžaloby považoval za jeden skutok, keďže mu uložil úhrnný trest podľa § 41 ods. 1 Trestného zákona."
+- *NS SR* ECLI ECLI:SK:NSSR:2015:3810010251.1, 2015-02-24
+  > „XXXX/XX.“ Generálny prokurátor Slovenskej republiky navrhuje, aby Najvyšší súd Slovenskej republiky: 1) podľa § 386 odsek 1 Trestného poriadku vyslovil, že uznesením Krajského súdu v Trenčíne, sp. zn. 3 To 106/2013, zo dňa 15. januára 2014 bol porušený zákon v ustanovení § 41 odsek 3 Trestného zákona, v prospech obvinenej A."
+- *NS SR* sp. zn. 2 Tdo 58/2014, 2015-02-24
+  > „v B., trvale bytom P., K..“ Generálny prokurátor Slovenskej republiky navrhuje, aby Najvyšší súd Slovenskej republiky: 1) podľa § 386 odsek 1 Trestného poriadku vyslovil, že uznesením Krajského súdu v Trenčíne, sp. zn. 3 To 106/2013, zo dňa 15. januára 2014 bol porušený zákon v ustanovení § 41 odsek 3 Trestného zákona, v prospech obvinenej J."
+- *NS SR* sp. zn. 6 Ndt 6/2012, 2012-05-03
+  > „bol s poukazom na právoplatne ustálenú vinu ohľadom bodu 4/ rozsudku Okresného súdu Tmava, sp. zn. 6T 172/2006, zo dňa 10. júla 2007 v spojení s uznesením Krajského súdu v Trnave, sp. zn. 3To 72/2007, zo dňa 25. septembra 2007 podľa § 208 ods. 2 Trestného zákona účinného od 01. januára 2006 s použitím § 41 ods. 2 Trestného zákona účinného od 01. januára 2006 uložený úhrnný trest odňatia slobody v trvaní 13 (trinásť) rokov a 6 (šesť) mesiacov."
+
 ### § 42 — Súhrnný trest
 
 > **§ 42**
@@ -417,6 +532,17 @@ Súhrnný trest rieši prípad **dodatočne zisteného súbehu** — keď sa až
 
 Odsek 2 stanovuje procesný mechanizmus: súd zároveň s uložením súhrnného trestu zruší výrok o treste zo skoršieho rozsudku (a nadväzujúce rozhodnutia, ktoré stratili podklad), pričom súhrnný trest nesmie byť miernejší než trest uložený skorším rozsudkom (analogická poistka ako pri spoločnom treste podľa § 41 ods. 3). Osobitne sa upravuje osud vedľajších trestov (strata titulov, prepadnutie majetku, peňažný trest, prepadnutie veci, zákaz činnosti, zákaz účasti na verejných podujatiach) uložených už skorším rozsudkom — tie súd v rámci súhrnného trestu prevezme, pokiaľ tomu nebráni pravidlo nekumulovateľnosti niektorých trestov podľa § 34 ods. 7. Odsek 3 vylučuje použitie súhrnného trestu, ak sa na páchateľa vzhľadom na povahu skoršieho odsúdenia hľadí, akoby nebol odsúdený (typicky po osvedčení sa alebo zahladení), alebo ak skorší rozsudok vydal súd iného členského štátu EÚ — v oboch prípadoch chýba legitímny podklad na zásah do skoršieho rozhodnutia.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2020:1005010011.1, 2020-10-05
+  > „Najvyšší súd vo vzťahu k námietke obvineného ohľadom neprípustnosti opätovného uloženia trestu zákazu činnosti z dôvodu uplynutia skúšobnej doby podmienečného upustenia od jeho zvyšku uvádza nasledovné: Podľa § 42 ods. 2 Trestného zákona, spolu s uložením súhrnného trestu súd zruší výrok o treste uloženom páchateľovi skorším rozsudkom, ako aj všetky rozhodnutia na tento výrok obsahovo nadväzujúce, ak vzhľadom na zmenu, ku ktorej došlo zrušením, stratili podklad."
+- *NS SR* ECLI ECLI:SK:NSSR:2019:3710010442.1, 2019-12-10
+  > „V zmysle judikatúry najvyššieho súdu postup podľa § 42 ods. 1, resp. § 44 Trestného zákona prichádza do úvahy len vtedy, ak bol skorší rozsudok vydaný súdom Slovenskej republiky, slovenské súdy nie sú z hľadiska použitia uvedených ustanovení viazané cudzozemskými rozsudkami."
+- *NS SR* ECLI ECLI:SK:NSSR:2019:9517100147.1, 2019-06-26
+  > „V tejto súvislosti najvyšší súd uzatvára, že tak z rozsudku špecializovaného trestného súdu, ako ani z obsahu spisového nevyplývajú žiadne mimoriadne okolnosti alebo pomery obžalovanej, ktoré sa vo vyššie opísanej kvalite a kvantite obvykle nevyskytujú a ktoré by vôbec odôvodňovali postup podľa § 39 ods. 1 Trestného zákona spočívajúci v mimoriadnom znížení uloženého trestu odňatia slobody (za súčasnej viazanosti ustanovením § 42 ods. 2 Trestného zákona pri ukladaní súhrnného trestu odňatia slobody, ktorý by nesmel byť prísnejší ako trest uložený skorším rozsudkom)."
+- *NS SR* sp. zn. 3Tdo/75/2017, 2018-03-07
+  > „K ukladaniu súhrnného trestu najvyšší súd poznamenáva.Ak súd odsudzuje páchateľa za trestný čin, ktorý spáchal skôr, ako bol slovenským súdom prvého stupňa vyhlásený prvý odsudzujúci rozsudok, ktorý sa stal právoplatným a možno na neho prihliadať - § 42 ods. 3, za iný jeho trestný čin a tieto trestné činy sú vo viacčinnom súbehu, uloží mu súhrnný trest podľa zásad na uloženie úhrnného trestu.Takto modifikované a upravené ustanovenie § 42 ods. 1 Trestného zákona zodpovedá dlhodobej súdnej praxi ustálenej viacerými stanoviskami a judikátmi súdov."
+
 ### § 43 — Ďalší trest
 
 > **§ 43**
@@ -427,6 +553,17 @@ Odsek 2 stanovuje procesný mechanizmus: súd zároveň s uložením súhrnného
 
 Ustanovenie upravuje tretiu variantu súbehu trestov — situáciu, keď skorší trest ešte nebol vykonaný (na rozdiel od súhrnného trestu, kde ide o odsúdenie pred vyhlásením skoršieho rozsudku) a súd za ďalší, skôr spáchaný trestný čin ukladá trest **rovnakého druhu**. Zákon v takom prípade nepredpisuje uloženie súhrnného trestu, ale stanovuje limit: súčet nového trestu a nevykonanej časti skoršieho trestu nesmie prekročiť najvyššiu zákonnú výmeru pre daný druh trestu (pri odňatí slobody dvadsaťpäť rokov, resp. doživotie). Táto konštrukcia bráni tomu, aby sa kumuláciou samostatne ukladaných trestov rovnakého druhu obišiel zákonný strop trestnej represie.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2019:2116011336.1, 2019-07-23
+  > „V súvislosti s dovolacou námietkou, podľa ktorej mal byť obvinenému uložený v zmysle § 43 ods. 1 Trestného zákona ďalší trest dovolací súd poukazuje na to, že obvinený sa prejednávaného skutku dopustil 17. júna 2015. Rozsudkom Okresného súdu Pezinok z 29. marca 2013, sp. zn. 0T/33/2013, právoplatným 17. apríla 2013, bol odsúdený za prečin krádeže podľa § 20, § 212 ods. 2 písm. a) Trestného zákona a iné, na nepodmienečný úhrnný trest odňatia slobody vo výmere 1 rok a 6 mesiacov, na výkon ktorého bol zaradený do ústavu na výkon trestu so stredným stupňom stráženia."
+- *NS SR* sp. zn. 4Tdo/8/2019, 2019-07-23
+  > „V súvislosti s dovolacou námietkou, podľa ktorej mal byť obvinenému uložený v zmysle § 43 ods. 1 Trestného zákona ďalší trest dovolací súd poukazuje na to, že obvinený sa prejednávaného skutku dopustil 17. júna 2015. Rozsudkom Okresného súdu Pezinok z 29. marca 2013, sp. zn. 0T/33/2013, právoplatným 17. apríla 2013, bol odsúdený za prečin krádeže podľa § 20, § 212 ods. 2 písm. a) Trestného zákona a iné, na nepodmienečný úhrnný trest odňatia slobody vo výmere 1 rok a 6 mesiacov, na výkon ktorého bol zaradený do ústavu na výkon trestu so stredným stupňom stráženia."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:9508100010.1, 2020-05-18
+  > „Zo znenia citovaných hmotnoprávnych ustanovení vyplýva taxatívny výpočet podmienok na uloženie trestu odňatia slobody na doživotie, ktoré musia byť splnené kumulovane: 1) Trestný zákon v osobitnej časti dovoľuje za predmetný trestný čin uložiť trest odňatia slobody na doživotie alebo sú splnené podmienky na uloženie trestu podľa § 43 Trestného zákona (tzv. zásada trikrát a dosť), 2) sú splnené podmienky pod písm. a), b), c) z odseku 3. Ad 1) Dodržaním základnej podmienky je naplnenie dovolacieho dôvodu podľa § 371 ods. 1 písm. h) Tr. zák. vylúčené z dôvodu vzájomnej negácie."
+- *NS SR* ECLI ECLI:SK:NSSR:2017:9017200069.1, 2017-12-13
+  > „ÚS/525/2014, z 12. februára 2015, v zmysle ktorého podľa § 43 Trestného zákona ak súd odsudzuje páchateľa za trestný čin, ktorý spáchal predtým, než bol trest uložený skorším rozsudkom vykonaný a ukladá mu trest rovnakého druhu, nesmie tento trest spolu s doteraz nevykonanou časťou trestu uloženého skorším rozsudkom prevyšovať najvyššiu výmeru dovolenú týmto zákonom pre tento druh trestu."
+
 ### § 44 — Upustenie od súhrnného trestu a ďalšieho trestu
 
 > **§ 44**
@@ -436,6 +573,17 @@ Ustanovenie upravuje tretiu variantu súbehu trestov — situáciu, keď skorš�
 **Výklad:**
 
 Ide o doplnkový korektív k § 42 a § 43 — ak súd dospeje k záveru, že trest uložený skorším právoplatným rozsudkom už sám osebe dostatočne zabezpečuje ochranu spoločnosti a nápravu páchateľa, upustí od uloženia súhrnného alebo ďalšieho trestu úplne, teda za dodatočne súdený čin sa vôbec neukladá žiadny ďalší trest. Ide o výraz zásady primeranosti a hospodárnosti trestnej represie — nie je účelné umelo navyšovať trest, ak už uložená sankcia svoj účel napĺňa.
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2019:3710010442.1, 2019-12-10
+  > „V zmysle judikatúry najvyššieho súdu postup podľa § 42 ods. 1, resp. § 44 Trestného zákona prichádza do úvahy len vtedy, ak bol skorší rozsudok vydaný súdom Slovenskej republiky, slovenské súdy nie sú z hľadiska použitia uvedených ustanovení viazané cudzozemskými rozsudkami."
+- *NS SR* ECLI ECLI:SK:NSSR:2021:7115011449.4, 2021-05-12
+  > „Neidentifikoval však nesprávne - nezákonne uložený súhrnný trest podľa § 42 Trestného zákona, od ktorého uloženia bolo v zmysle § 44 Trestného zákona upustené, nevytkol túto skutočnosť súdu I."
+- *NS SR* ECLI ECLI:SK:NSSR:2021:7115011449.5, 2021-05-12
+  > „Postupom podľa § 44 Trestného zákona súd prvého stupňa upustil od uloženia súhrnného trestu „nakoľko trest uložený mu rozsudkom Špecializovaného trestného súdu Pezinok, sp. zn. PK-2T/33/2015, zo 17. marca 2016 v spojení s rozsudkom Najvyššieho súdu Slovenskej republiky, sp. zn. 5To/7/2016, z 18. augusta 2016 vo výmere 12 rokov a 6 mesiacov so zaradením na výkon trestu do ústavu s maximálnym stupňom stráženia pokladá na ochranu spoločnosti a nápravu páchateľa za dostatočný"."
+- *NS SR* ECLI ECLI:SK:NSSR:2021:7115011449.3, 2021-05-12
+  > „Neidentifikoval však nesprávne - nezákonne uložený súhrnný trest podľa § 42 Trestného zákona, od ktorého uloženia bolo v zmysle § 44 Trestného zákona upustené, nevytkol túto skutočnosť súdu I."
 
 ### § 45 — Započítanie väzby a trestu
 
@@ -461,6 +609,17 @@ Odsek 4 obsahuje záchrannú klauzulu pre prípady, keď započítanie z technic
 
 ## Tretí diel — Ukladanie a výkon jednotlivých trestov
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2020:2019010040.1, 2020-01-22
+  > „Uznesením Okresného súdu Trnava, sp. zn. 3T/36/2011, zo dňa 28. februára 2013 bol podľa § 45 ods. 2 Trestného zákona s použitím § 414 ods. 1 Tr. por. odsúdenému započítaný do súhrnného trestu odňatia slobody vykonaný trest odňatia slobody od 13. mája 2005 do 12. mája 2006 v zrušenej veci Okresného súdu Bratislava IV, sp. zn. 1T/ 147/2005. Krajskému súdu v Trnave bol dňa 15. mája 2019 doručený návrh odsúdeného na podmienečné prepustenie z výkonu trestu odňatia slobody."
+- *NS SR* sp. zn. 2Tost/45/2018, 2018-12-03
+  > „bol teda v priebehu trestného konania vo väzbe až do 12. septembra 2017, kedy bol na základe príkazu predsedu senátu Najvyššieho súdu Slovenskej republiky, sp. zn. 2Tost/28/2017, prepustený z väzby na slobodu.Podľa § 45 ods. 1 Trestného zákona ak sa viedlo proti páchateľovi trestné stíhanie vo väzbe a dôjde v tomto konaní k jeho odsúdeniu, započíta sa mu doba strávená vo väzbe do uloženého trestu, prípadne do úhrnného trestu alebo súhrnného trestu, ak je vzhľadom na druh uloženého trestu započítanie možné."
+- *NS SR* ECLI ECLI:SK:NSSR:2015:5013000006.1, 2015-04-15
+  > „Podľa § 45 ods. 1 Trestného zákona ak sa viedlo proti páchateľovi trestné stíhanie vo väzbe a dôjde v tomto konaní k jeho odsúdeniu, započíta sa mu doba strávená vo väzbe do uloženého trestu, prípadne do úhrnného trestu alebo súhrnného trestu, ak je vzhľadom na druh uloženého trestu započítanie možné."
+- *NS SR* sp. zn. 3 Urtost 2/2015, 2015-04-15
+  > „Podľa § 45 ods. 1 Trestného zákona ak sa viedlo proti páchateľovi trestné stíhanie vo väzbe a dôjde v tomto konaní k jeho odsúdeniu, započíta sa mu doba strávená vo väzbe do uloţeného trestu, prípadne do úhrnného trestu alebo súhrnného trestu, ak je vzhľadom na druh uloţeného trestu započítanie moţné."
+
 ### § 46 — Trest odňatia slobody
 
 > **§ 46**
@@ -470,6 +629,17 @@ Odsek 4 obsahuje záchrannú klauzulu pre prípady, keď započítanie z technic
 **Výklad:**
 
 Základné ustanovenie stanovuje dve formy trestu odňatia slobody: **dočasný** (na určitú dobu, s absolútnym horným stropom dvadsaťpäť rokov) a **doživotný**. Konkrétnu výmeru v rámci tohto rozpätia určuje trestná sadzba za jednotlivý trestný čin v osobitnej časti (prípadne zvýšená podľa pravidiel o recidíve či súbehu z predchádzajúcich ustanovení), podmienky pre uloženie doživotného trestu upravuje nasledujúci § 47.
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2020:7020200663.1, 2020-11-25
+  > „Odsúdenému uložil krajský súd bez jeho premeny druh sankcie (trest odňatia slobody - § 46 Trestného zákona) a aj jej výšku zlučiteľnú s právnym poriadkom Slovenskej republiky, pričom ak sa odsúdený domáha uloženia súhrnného trestu, tak podľa § 42 ods. 3 Trestného poriadku ustanovenie o súhrnnom treste sa nepoužije, ak skoršie odsúdenie je takej povahy, že sa na páchateľa hľadí, ako keby nebol odsúdený alebo ak skorší rozsudok bol vydaný súdom iného členského štátu Európskej únie."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:6114010841.1, 2020-07-15
+  > „Za to súd prvého stupňa obvinenému uložil podľa § 172 ods. 2 Trestného zákona, s použitím 37 písm. m) Trestného zákona a § 38 ods. 2, ods. 4 Trestného zákona a § 46 Trestného zákona trest odňatia slobody vo výmere 13 (trinásť) rokov."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:6112010674.2, 2020-08-18
+  > „Za to mu okresný súd uložil podľa § 212 ods. 4 Trestného zákona, s použitím § 38 ods. 2 a § 46 Trestného zákona trest odňatia slobody v trvaní troch rokov, na výkon ktorého ho podľa § 48 ods. 2 písm. a) Trestného zákona zaradil do ústavu na výkon trestu odňatia slobody s minimálnym stupňom stráženia."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:6116010565.1, 2020-01-23
+  > „Okresný súd obvineným 1), 2) a 3) podľa § 221 ods. 2, § 38 ods. 2, ods. 3, ods. 8, § 36 písm. j), § 46 Trestného zákona uložil trest odňatia slobody vo výmere jeden rok."
 
 ### § 47 — Trest odňatia slobody na doživotie
 
@@ -488,6 +658,17 @@ Základné ustanovenie stanovuje dve formy trestu odňatia slobody: **dočasný*
 Odsek 1 stanovuje dve kumulatívne materiálne podmienky pre uloženie **doživotného trestu**, popri formálnej podmienke, že ho osobitná časť pre daný trestný čin vôbec pripúšťa: nevyhnutnosť z hľadiska účinnej ochrany spoločnosti (písm. a) a absencia nádeje na nápravu miernejším trestom do dvadsaťpäť rokov (písm. b). Ide teda o **ultima ratio** medzi trestami — doživotie prichádza do úvahy len tam, kde ani najprísnejší dočasný trest nezaručuje ochranu spoločnosti ani nápravu páchateľa.
 
 Odsek 2 zavádza osobitný, prísnejší režim pre **recidivistov** vo vzťahu k taxatívne vymenovanému okruhu najzávažnejších násilných, majetkovo-násilných, drogových, sexuálnych a protištátnych trestných činov a zločinov proti ľudskosti — ak bol páchateľovi už dvakrát uložený nepodmienečný trest odňatia slobody za niektorý z týchto činov (hoci aj v štádiu pokusu) a sú splnené materiálne podmienky odseku 1, súd mu **musí** uložiť doživotný trest; ak tieto materiálne podmienky splnené nie sú, uloží (opäť v zásade obligatórne, ibaže by tomu bránili okolnosti hodné osobitného zreteľa) trest na dvadsaťpäť rokov, pričom v žiadnom prípade nemôže ísť pod dvadsať rokov. Táto úprava predstavuje slovenskú obdobu inštitútu tzv. **"three strikes"** — kvalifikovanej recidívy pri najzávažnejšej trestnej činnosti, kde opakované páchanie rovnako závažných činov vedie k prakticky automatickému uloženiu najprísnejšieho trestu.
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2021:8619010029.1, 2021-03-24
+  > „Vzhľadom na predchádzajúce odsúdenia a čiastočne vykonané nepodmienečné tresty odňatia slobody za zločiny lúpeže bolo správne pri kvalifikovaní konania obžalovaného použité aj ustanovenie § 47 ods. 2 Trestného zákona, Najvyšší súd dospel k nasledovnému záveru: Podľa § 128 ods. 7 Trestného poriadku: Potrestaným sa rozumie ten odsúdený, ktorý celkom alebo sčasti vykonal súdom uložený trest."
+- *NS SR* ECLI ECLI:SK:NSSR:2021:1518010647.1, 2021-02-10
+  > „K tomu najvyšší súd považuje za potrebné z hľadiska správnosti formálno-právnej subsumpcie uviesť, že § 47 ods. 2 Trestného zákona predstavuje hmotnoprávne ustanovenie kogentnej povahy, ktorého nesprávna aplikácia môže vo vzťahu k výroku o treste naplniť atribúty výlučne špeciálneho dovolacieho dôvodu podľa § 371 ods. 1 písm. i) Trestného poriadku, a teda nie všeobecný hmotnoprávny dôvod vymedzený v § 371 ods. 1 písm. h) Trestného poriadku (porovnaj s S 5/2011)."
+- *NS SR* ECLI ECLI:SK:NSSR:2021:4218010307.1, 2021-06-30
+  > „S poukazom na skutočnosť, že odsúdenému uložený trest odňatia slobody vo výmere, ktorú zákon za spáchanie zločinu lúpeže podľa § 188 odsek 2 Trestného zákona v kombinácii s ustanovením § 47 odsek 2 Trestného zákona pripúšťa, uložený trest je zákonný."
+- *NS SR* ECLI ECLI:SK:NSSR:2021:3016000021.3, 2021-06-22
+  > „Podľa § 67 ods. 1 Trestného zákona osoba odsúdená za obzvlášť závažný zločin alebo osoba odsúdená na trest odňatia slobody podľa § 47 ods. 2 Trestného zákona okrem osoby odsúdenej na doživotie môže byť podmienečne prepustená až po výkone troch štvrtín uloženého trestu odňatia slobody."
 
 ### § 48 — Vonkajšia diferenciácia výkonu trestu odňatia slobody
 
@@ -517,6 +698,17 @@ Ustanovenie upravuje tzv. **vonkajšiu diferenciáciu** výkonu trestu odňatia 
 
 Odsek 3 stanovuje obligatórne zaradenie do ústavu s **maximálnym stupňom stráženia** pre dve kategórie páchateľov — odsúdených na doživotie a páchateľov obzvlášť závažného zločinu (bez ohľadu na predchádzajúcu trestnú minulosť) — čo odráža mimoriadnu závažnosť týchto kategórií. Odsek 4 dáva súdu diskréciu odchýliť sa od základných pravidiel odseku 2, ak to lepšie zaručí nápravu páchateľa (vrátane možnosti zaradiť aj recidivistu — pokiaľ ide o úmyselný prečin — do najmiernejšieho stupňa), s dvoma absolútnymi limitmi: odsúdený na doživotie alebo páchateľ obzvlášť závažného zločinu s trestom nad pätnásť rokov nemôže byť zaradený do ústavu s minimálnym či stredným stupňom stráženia. Odsek 5 napokon uvoľňuje viazanosť súdu pravidlami odsekov 2 a 3 pri schvaľovaní dohody o uznaní viny a prijatí trestu alebo pri mimoriadnom znížení trestu podľa § 39 ods. 2 písm. b) (spolupráca s orgánmi činnými v trestnom konaní) — v týchto prípadoch má súd väčšiu voľnosť zohľadniť špecifickú situáciu páchateľa, ktorý napríklad spolupracoval s vyšetrovaním.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2021:8020200656.2, 2021-04-14
+  > „v zmysle § 48 ods. 2 písm. b) Trestného zákona zaradil na výkon trestu odňatia slobody do ústavu na výkon trestu so stredným stupňom stráženia (najvyšší súd je viazaný zásadou zákazu reformatio in peius), pričom postupoval podľa § 517 ods. 2 Trestného poriadku, tzn."
+- *NS SR* ECLI ECLI:SK:NSSR:2021:4020200481.1, 2021-04-13
+  > „na výkon trestu odňatia slobody do príslušného ústavu na výkon trestu odňatia slobody, najvyšší súd sa stotožnil s názorom krajského súdu týkajúceho sa zaradenia odsúdeného do ústavu na výkon trestu odňatia slobody s minimálnym stupňom stráženia, z dôvodu, že z rozsudku Krajinského súdu pre veci trestné Viedeň nie je možné zistiť, v akom stupni stráženia trest vykonáva a aby nedošlo k zhoršeniu postavenia odsúdeného i napriek tomu, že v zmysle právneho poriadku Slovenskej republiky mal byť zaradený do stredného stupňa stráženia podľa § 48 ods. 2 písm. b) Trestného zákona."
+- *NS SR* ECLI ECLI:SK:NSSR:2021:1020201260.1, 2021-01-26
+  > „Záverom považuje najvyšší súd za potrebné vo vzťahu k zaradeniu odsúdeného do ústavu na výkon trestu odňatia slobody s minimálnym stupňom stráženia podľa § 48 ods. 2 písm. a) Trestného zákona uviesť, že prevzatie výroku o treste cudzieho rozhodnutia súdmi Slovenskej republiky, doplnene´ o výrok o zaradení odsúdeného na výkon trestu odňatia slobody do ústavu s príslušným stupňom stráženia, podľa kritérií na prevzatie a výkon rozhodnutia uvedených v § 17 zákona cˇ."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:4020200130.1, 2020-11-19
+  > „Záverom považuje najvyšší súd za potrebné vo vzťahu k zaradeniu odsúdeného do ústavu na výkon trestu odňatia slobody s minimálnym stupňom stráženia podľa § 48 ods. 2 písm. a) Trestného zákona uviesť, že prevzatie výroku o treste cudzieho rozhodnutia súdmi Slovenskej republiky, doplnene´ o výrok o zaradení odsúdeného na výkon trestu odňatia slobody do ústavu s príslušným stupňom stráženia, podľa kritérií na prevzatie a výkon rozhodnutia uvedených v § 17 zákona cˇ."
+
 ### Podmienečný odklad výkonu trestu odňatia slobody
 
 ### § 49 — Podmienky podmienečného odkladu výkonu trestu
@@ -538,6 +730,17 @@ Odsek 3 stanovuje obligatórne zaradenie do ústavu s **maximálnym stupňom str
 Podmienečný odklad výkonu trestu odňatia slobody je najvýznamnejším alternatívnym inštitútom, ktorý umožňuje neuskutočniť fakticky uložený trest, ak na to nie sú dôvody z hľadiska ochrany spoločnosti a nápravy páchateľa. Odsek 1 stanovuje základnú hranicu — trest neprevyšujúci tri roky — a dve alternatívne podmienky: pozitívnu prognózu vyplývajúcu z osoby páchateľa, jeho doterajšieho života a prostredia (písm. a), alebo prijatie záruky za nápravu treťou osobou s výchovným vplyvom (písm. b, analogicky k § 40 ods. 1 písm. b)). Odsek 2 znižuje túto hranicu na dva roky pri taxatívne vymenovaných trestných činoch poškodzujúcich finančné záujmy EÚ — teda pri tejto kategórii je prístup k podmienečnému odkladu prísnejší, v súlade s celkovým sprísneným režimom, ktorý pre tieto činy platí už od § 34 ods. 4 a 6.
 
 Odsek 3 vylučuje podmienečný odklad, ak páchateľ spáchal úmyselný trestný čin počas skúšobnej doby už predtým uloženého podmienečného odsúdenia alebo počas skúšobnej doby podmienečného prepustenia z výkonu trestu — logika je, že ak sa páchateľ neosvedčil v predchádzajúcej skúšobnej dobe (dopustil sa novej úmyselnej trestnej činnosti), nemožno mu dôveru v podobe ďalšieho podmienečného trestu poskytnúť znova.
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2020:9519100047.1, 2020-07-15
+  > „Najvyšší súd na podklade odvolania prokurátora doplnil do výroku o treste u obidvoch obžalovaných aj písm. b) § 49 ods. 1 Trestného zákona tak, aby aj výrok o podmienečnom odklade výkonu trestu odňatia slobody bol kompletný a zohľadňoval ďalší oddeliteľný výrok podľa § 4 ods. 4 Trestného poriadku."
+- *NS SR* ECLI ECLI:SK:NSSR:2021:9519100154.1, 2021-06-30
+  > „Podľa § 51 ods. 1 Trestného zákona, s poukazom na § 49 ods. 1 písm. a) Trestného zákona, výkon trestu odňatia slobody podmienečne odkladá a zároveň ukladá probačný dohľad nad správaním obžalovanej v skúšobnej dobe."
+- *NS SR* ECLI ECLI:SK:NSSR:2021:5819010361.1, 2021-06-22
+  > „Podľa § 49 ods. 1 písm. a) Trestného zákona okresný súd obvinenému výkon uloženého trestu podmienečne odložil."
+- *NS SR* ECLI ECLI:SK:NSSR:2021:6116010595.1, 2021-06-08
+  > „Podľa § 51 ods. 1 Trestného zákona s použitím § 49 ods. 1 písm. a) Trestného zákona obvinenému bol výkon trestu podmienečne odložený a zároveň bol uložený probačný dohľad nad jeho správaním."
 
 ### § 50 — Skúšobná doba a rozhodovanie o osvedčení
 
@@ -570,6 +773,17 @@ Odsek 1 stanovuje rozpätie **skúšobnej doby** jeden až päť rokov, plynúce
 Odsek 4 je jadrom úpravy — popisuje mechanizmus **osvedčenia sa**: pri riadnom živote a splnení uložených povinností súd vysloví osvedčenie, inak nariadi výkon trestu (prípadne už v priebehu skúšobnej doby, teda súd nemusí čakať na jej uplynutie, ak je zrejmé, že sa páchateľ neosvedčí). Zákon pamätá aj na výnimočnú možnosť ponechať podmienečné odsúdenie v platnosti napriek tomu, že odsúdený zavdal príčinu na nariadenie výkonu trestu — súd môže namiesto toho sprísniť podmienky (ustanoviť probačný dohľad s dosiaľ neuloženými obmedzeniami, alebo primerane, najviac o dva roky, predĺžiť skúšobnú dobu v rámci zákonného rozpätia). Ide o flexibilný nástroj umožňujúci diferencovanú reakciu na menej závažné porušenie podmienok bez nutnosti hneď nariaďovať výkon trestu.
 
 Odseky 5 a 6 zavádzajú **fikcie osvedčenia sa** pre prípad nečinnosti súdu — ak súd nerozhodne do roka od uplynutia skúšobnej doby (bez zavinenia odsúdeného), platí, že sa osvedčil; predĺžená dvojročná lehota platí, ak proti odsúdenému v tomto čase beží trestné stíhanie pre iný čin spáchaný v skúšobnej dobe (súd tak dostáva viac času vyčkať na výsledok tohto stíhania). Odsek 7 spája osvedčenie sa (skutočné aj fingované) s fikciou neodsúdenia, rovnako ako pri iných probačných inštitútoch tejto hlavy. Odsek 8 napokon ukladá súdu pri nariadení výkonu odloženého trestu súčasne rozhodnúť aj o spôsobe jeho výkonu (nadväzuje na diferenciáciu podľa § 48).
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* sp. zn. 3Tost/15/2018, 2018-05-23
+  > „Preto bolo povinnosťou súdu skúmať podmienky na osvedčenie sa odsúdeného v zmysle § 52 Trestného zákona a nie podľa § 50 ods. 4 Trestného zákona.Už len pre vyššie uvedené formálne pochybenia bolo potrebné považovať sťažnosťou napadnuté uznesenie za zmätočné a nezákonné.Najvyšší súd poznamenáva, že nie každé odsúdenie páchateľa za trestný čin spáchaný v skúšobnej dobe podmienečného odsúdenia musí automaticky viesť k rozhodnutiu o jeho neosvedčení sa v skúšobnej dobe pri predchádzajúcom odsúdení."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:7115010035.1, 2020-09-08
+  > „Najvyšší súd z trestného spisu zistil, že Okresný súd Košice I napadnutým uznesením z 9. februára 2018, sp. zn. 5T/2/2015, podľa § 50 ods. 4 Trestného zákona s použitím § 419 ods. 3 Trestného poriadku rozhodol o osvedčení sa obvineného Z. Z. v skúšobnej dobe podmienečného odsúdenia uloženého mu rozsudkom Okresného súdu Košice I z 20. januára 2015, sp. zn. 5T/2/2015. V zmysle § 419 ods. 3 Trestného poriadku rozhodnutie o tom, že sa odsúdený osvedčil môže predseda senátu urobiť so súhlasom prokurátora."
+- *NS SR* ECLI ECLI:SK:NSSR:2013:1509010104.1, 2013-11-20
+  > „bol porušený zákon v ustanovení § 50 ods. 4 Trestného zákona o výkone trestu, čím je daný dôvod dovolania podľa § 371 ods. 2 Tr. por. Dovolateľ navrhol, aby Najvyšší súd Slovenskej republiky ako súd dovolací vyslovil porušenie zákona v neprospech obvineného v ustanovení § 50 ods. 4 Tr. zák., zrušil napadnuté rozhodnutie a zrušil aj ďalšie rozhodnutia na zrušené rozhodnutie obsahovo nadväzujúce, ak vzhľadom na zmenu, ku ktorej došlo zrušením stratili podklad."
+- *NS SR* sp. zn. 1 Tdo 44/2013, 2013-11-20
+  > „Z. bol porušený zákon v ustanovení § 50 ods. 4 Trestného zákona o výkone trestu, čím je daný dôvod dovolania podľa § 371 ods. 2 Tr. por. Dovolateľ navrhol, aby Najvyšší súd Slovenskej republiky ako súd dovolací vyslovil porušenie zákona v neprospech obvineného v ustanovení § 50 ods. 4 Tr. zák., zrušil napadnuté rozhodnutie a zrušil aj ďalšie rozhodnutia na zrušené rozhodnutie obsahovo nadväzujúce, ak vzhľadom na zmenu, ku ktorej došlo zrušením stratili podklad."
 
 ### Podmienečný odklad výkonu trestu odňatia slobody s probačným dohľadom
 
@@ -639,6 +853,17 @@ Odseky 3 a 4 obsahujú rozsiahly, demonštratívny katalóg **obmedzení** (zák
 
 Odsek 5 zakotvuje povinnosť páchateľa strpieť kontrolu probačným a mediačným úradníkom, prípadne aj technickými prostriedkami (napr. elektronický náramok), ak je to nariadené v súlade s osobitným predpisom. Odseky 6 a 7 riešia technické otázky vzťahu skúšobnej doby k iným trestom a jej započítania pri opakovanom dohľade či súhrnnom/spoločnom treste (analogicky k § 50 ods. 3). Odsek 8 zavádza dôležitú informačnú povinnosť súdu voči chránenej (určenej) osobe pri uložení zákazu kontaktu alebo príkazu dodržiavať vzdialenosť — informovať ju o možnosti požiadať o **európsky ochranný príkaz**, ktorý zabezpečí jej ochranu aj pri pobyte v inom členskom štáte EÚ. Odsek 9 podmieňuje uloženie povinnosti podrobiť sa výchovnému programu (odsek 4 písm. h) vyžiadaním odbornej správy probačného a mediačného úradníka o vhodnosti tejto povinnosti, pokiaľ vhodnosť už nevyplýva z iného odborného podkladu.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* sp. zn. 3Tost/47/2016, 2017-04-12
+  > „Najvyšší súd povaţuje za potrebné poznamenať, ţe zmyslom probačného dohľadu v trestnom konaní je okrem iného udrţať páchateľa v spoločnosti, resp. mimo ústavu na výkon trestu odňatia slobody (ide o tzv. udrţiavaciu funkciu probačného dohľadu), avšak len pri súčasnom zabezpečení kontroly plnenia povinností a obmedzení uloţených súdom podľa § 51 ods. 3, ods. 4 Trestného zákona."
+- *NS SR* ECLI ECLI:SK:NSSR:2017:9515100022.1, 2017-05-17
+  > „Okrem vyššie uvedeného najvyšší súd na rozdiel od špecializovaného trestného súdu vo výrokoch jednotlivých trestov neaplikoval konštatačné zákonné ustanovenia: - „Podľa § 51 ods. 5 Trestného zákona obžalovaná je povinná strpieť nad sebou kontrolu vykonávanú probačným a mediačným úradníkom okresného súdu v mieste bydliska obžalovanej“, - „Podľa § 57 ods. 2 Trestného zákona zaplatená suma peňažného trestu pripadá štátu“, - „Podľa § 60 ods. 6 Trestného zákona vlastníkom prepadnutej veci sa stáva štát“."
+- *NS SR* sp. zn. 6To/7/2016, 2017-05-17
+  > „Okrem vyššie uvedeného najvyšší súd na rozdiel od špecializovaného trestného súdu vo výrokoch jednotlivých trestov neaplikoval konštatačné zákonné ustanovenia: - „Podľa § 51 ods. 5 Trestného zákona obžalovaná je povinná strpieť nad sebou kontrolu vykonávanú probačným a mediačným úradníkom okresného súdu v mieste bydliska obžalovanej“, - „Podľa § 57 ods. 2 Trestného zákona zaplatená suma peňažného trestu pripadá štátu“, - „Podľa § 60 ods. 6 Trestného zákona vlastníkom prepadnutej veci sa stáva štát“."
+- *NS SR* ECLI ECLI:SK:NSSR:2021:9519100154.1, 2021-06-30
+  > „Podľa § 51 ods. 1 Trestného zákona, s poukazom na § 49 ods. 1 písm. a) Trestného zákona, výkon trestu odňatia slobody podmienečne odkladá a zároveň ukladá probačný dohľad nad správaním obžalovanej v skúšobnej dobe."
+
 ### § 52 — Rozhodovanie o osvedčení pri probačnom dohľade
 
 > **§ 52**
@@ -664,3 +889,15 @@ Odsek 5 zakotvuje povinnosť páchateľa strpieť kontrolu probačným a mediač
 Ustanovenie zrkadlí konštrukciu § 50 pre prípad probačného dohľadu, s tým rozdielom, že podmienkou osvedčenia sa tu nie je len riadny život, ale aj **dodržiavanie konkrétnych podmienok dohľadu** a splnenie uložených obmedzení a povinností (odsek 1). Rovnako ako pri prostom podmienečnom odklade zákon pripúšťa výnimočné ponechanie dohľadu v platnosti napriek zavdanej príčine na nariadenie výkonu trestu, tentoraz s troma alternatívami zmiernenia/sprísnenia režimu: predĺženie dohľadu (najviac o dva roky, v rámci hornej hranice podľa § 51 ods. 2), uloženie dosiaľ neuložených obmedzení či povinností, alebo nariadenie technickej kontroly už uložených obmedzení, ak doteraz nariadená nebola. Táto flexibilita umožňuje súdu reagovať na čiastočné zlyhanie odsúdeného postupňovaním sprísnenia namiesto rovno vykonania trestu.
 
 Odseky 2 a 3 preberajú rovnaký mechanizmus fikcie osvedčenia sa pri nečinnosti súdu ako § 50 ods. 5 a 6 (ročná, resp. pri prebiehajúcom nadväzujúcom trestnom stíhaní dvojročná lehota). Odsek 4 spája osvedčenie sa s fikciou neodsúdenia, zhodne s ostatnými probačnými inštitútmi tejto hlavy. Odsek 5 napokon — analogicky k § 50 ods. 8 — ukladá súdu pri premene podmienečného trestu na nepodmienečný súčasne rozhodnúť o spôsobe jeho výkonu, čím sa tento diel uzatvára komplexnou úpravou celého cyklu ukladania trestu odňatia slobody: od jeho základných foriem (§ 46 – § 47) cez diferenciáciu výkonu (§ 48) až po alternatívne mechanizmy podmienečného odkladu, samostatného aj s probačným dohľadom (§ 49 – § 52).
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* sp. zn. 3Tost/15/2018, 2018-05-23
+  > „Preto bolo povinnosťou súdu skúmať podmienky na osvedčenie sa odsúdeného v zmysle § 52 Trestného zákona a nie podľa § 50 ods. 4 Trestného zákona.Už len pre vyššie uvedené formálne pochybenia bolo potrebné považovať sťažnosťou napadnuté uznesenie za zmätočné a nezákonné.Najvyšší súd poznamenáva, že nie každé odsúdenie páchateľa za trestný čin spáchaný v skúšobnej dobe podmienečného odsúdenia musí automaticky viesť k rozhodnutiu o jeho neosvedčení sa v skúšobnej dobe pri predchádzajúcom odsúdení."
+- *NS SR* ECLI ECLI:SK:NSSR:2021:3214010130.1, 2021-05-05
+  > „Následne uznesením Okresný súd Bánovce nad Bebravou, sp. zn. 3T/54/2014 z 21. mája 2020 rozhodol postupom podľa § 419 ods. 1 Trestného poriadku a § 52 ods. 1 Trestného zákona, že obvinený Y.E."
+- *NS SR* ECLI ECLI:SK:NSSR:2019:4414010631.1, 2019-12-18
+  > „Odôvodnenie Okresný súd Nové Zámky uznesením, sp. zn. 2T/173/2014 z 20. februára 2019, podľa § 52 ods. 1 Trestného zákona vyslovil, že obvinený N."
+- *NS SR* ECLI ECLI:SK:NSSR:2019:2112011060.1, 2019-12-10
+  > „Odôvodnenie Okresný súd Trnava uznesením zo dňa 20. októbra 2016, sp. zn. 6T/45/2012, podľa § 52 ods. 1 Trestného zákona nariadil výkon nepodmienečného trestu odňatia slobody vo výmere 2 (dva) roky a 4 (štyri) mesiace, ktorý bol obvinenému I."
+

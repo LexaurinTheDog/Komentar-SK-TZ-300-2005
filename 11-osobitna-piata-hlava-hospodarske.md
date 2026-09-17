@@ -34,6 +34,17 @@ Skutková podstata chráni riadny priebeh hospodárskej súťaže pred dvoma odl
 
 Kvalifikované skutkové podstaty v odseku 2 postihujú prísnejšie spôsobenie škody veľkého rozsahu, privodenie úpadku konkurenta, spáchanie z osobitného motívu alebo závažnejším spôsobom konania.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2015:9015898787.1, 2015-11-24
+  > „Nad rámec argumentácie krajského súdu najvyšší súd zdôrazňuje, že pre trestný čin podvodu podľa § 250 ods. 5, Trestný zákon umožňuje uloženie trestu odňatia slobody na 5 (päť) až 12 (dvanásť) rokov."
+- *NS SR* ECLI ECLI:SK:NSSR:2015:9514100036.1, 2015-10-27
+  > „W., ktorý bol vo veci 2T/5/2005 vo väzbe v Ústave na výkon väzby Nitra pre trestný čin podvodu spolupáchateľstvom podľa § 9 ods. 2 k § 250 ods. 1. ods. 4 písm. a/, ods. 5 Trestného zákona účinného do 01.01.2006, v doposiaľ presne neustálenom čase najneskôr od 22. januára 2010 na nezistenom mieste, cez ďalšie doposiaľ neustálené osoby požiadal obžalovaného v 2 rade/ JUDr. Y."
+- *NS SR* sp. zn. 3 Ndt 5/2015, 2015-05-06
+  > „V tejto súvislosti najvyšší súd konštatuje, že v predmetnej veci je obvinený trestne stíhaný na Okresnom súde Poprad aj Okresnom súde Zvolen pre pokračovací trestný čin 4 3 Ndt 5/2015 podvodu podľa § 250 ods. 1, ods. 4 písm. b/ Trestného zákona účinného do 31. decembra 2005. V uvedenom prípade je preto potrebné vykonať spoločné konanie vo vzťahu ku všetkým čiastkovým skutkom tohto pokračovacieho trestného činu."
+- *NS SR* ECLI ECLI:SK:NSSR:2015:4306010439.1, 2015-04-22
+  > „vinným v bode 1/ z trestného činu podvodu podľa § 250 ods. 1, ods. 5 Trestného zákona v znení zákona č. 485/2001 Z. z., pričom rozsah spôsobenej škody bol ustálený na sume 35 004 600 Sk a v bodoch 2/ a 3/ z pokračovacieho trestného činu neodvedenia dane a poistného podľa § 148a ods. 1, ods. 2 písm. a/ Trestného zákona, kde spôsobená škoda predstavovala sumu 504 899 Sk."
+
 ### § 251 — Neoprávnené podnikanie
 
 > **§ 251**
@@ -67,6 +78,15 @@ Neoprávnené podnikanie postihuje výkon podnikateľskej činnosti bez potrebn�
 Odsek 2 obsahuje bohatú paletu kvalifikačných okolností — závažnejší spôsob konania, využitie inej osoby ako pracovnej sily (tzv. čierna práca), získanie väčšieho prospechu, páchanie verejným činiteľom alebo v súvislosti s výkonom zamestnania, ako aj špecifickú skutkovú podstatu neoprávneného poskytovania odborných služieb bez kvalifikácie (písm. e), ktorá chráni verejnosť pred rizikovým výkonom regulovaných povolaní.
 
 Odseky 3 a 4 postupňujú trestnosť podľa výšky spôsobenej škody (značná škoda, škoda veľkého rozsahu) alebo spáchania ako člen nebezpečného zoskupenia.
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* rozhodnutie z 2011-02-08, 2011-02-08
+  > „Uznesením Okresného riaditeľstva PZ, Úradu justičnej a kriminálnej polície v Poprade č. ČVS : ORP -516/OEK-P-2009 zo dňa 5.11.2009 bolo začaté trestné stíhanie podľa § 206 ods. l T restného poriadku proti ţalobkyni, ktorá bola obvinená z prečinu neoprávneného podnikania podľa ust. § 251 ods. l , ods. 2 písm. a/ Trestného zákona s poukazom na ust. § 138 písm. b/ Trestného zákona."
+- *NS SR* ECLI ECLI:SK:NSSR:2014:7612010026.1, 2014-06-26
+  > „Generálny prokurátor navrhol, aby Najvyšší súd Slovenskej republiky 1/ podľa § 386 ods. 1 Trestného poriadku vyslovil, že bol uznesením Krajského súdu v Košiciach, sp. zn. 8To 70/2012, zo dňa 2. októbra 2012 a predchádzajúcim uznesením Okresného súdu Rožňava, sp. zn. 1T 48/2012, zo dňa 21. júna 2012, porušený zákon v ustanovení § 319 Trestného poriadku a predchádzajúcim konaním v ustanoveniach § 241 ods. 1 písm. c/ Trestného poriadku, § 215 ods. 1 písm. b/ Trestného poriadku a § 8 ods. 1, § 251 ods. 1, ods. 2 písm. a/ Trestného zákona, v prospech obžalovanej JUDr. M."
+- *NS SR* sp. zn. 6 Tdo 32/2013, 2014-06-26
+  > „Generálny prokurátor navrhol, aby Najvyšší súd Slovenskej republiky 1/ podľa § 386 ods. 1 Trestného poriadku vyslovil, že bol uznesením Krajského súdu v Košiciach, sp. zn. 8To 70/2012, zo dňa 2. októbra 2012 a predchádzajúcim uznesením Okresného súdu Rožňava, sp. zn. 1T 48/2012, zo dňa 21. júna 2012, porušený zákon v ustanovení § 319 Trestného poriadku a predchádzajúcim konaním v ustanoveniach § 241 ods. 1 písm. c/ Trestného poriadku, § 215 ods. 1 písm. b/ Trestného poriadku a § 8 ods. 1, § 251 ods. 1, ods. 2 písm. a/ Trestného zákona, v prospech obžalovanej JUDr. S. K., nar."
 
 ### § 251a — Neoprávnené zamestnávanie
 
@@ -150,6 +170,17 @@ Chráni devízové hospodárstvo pred neoprávneným obchodovaním s devízovým
 
 Odseky 2 a 3 postupňujú trest podľa výšky získaného prospechu, spáchania ako člen nebezpečného zoskupenia alebo za krízovej situácie — posledná okolnosť reflektuje osobitnú spoločenskú škodlivosť devízových deliktov v období hospodárskej alebo bezpečnostnej krízy.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2016:4110011421.1, 2016-08-18
+  > „Nad rámec uvedeného si najvyšší súd dovoľuje skonštatovať, že konanie tak ako je vymedzené v skutkovej vete napĺňa všetky zákonné znaky trestného činu podielnictva podľa § 251 ods. 1 písm. a/ Tr. zák. (napokon túto skutočnosť nespochybňuje ani obhajoba, ktorá netvrdí, že by skutok nebol trestným činom, iba tvrdí, že nejde o trestný čin podľa § 252 Tr. zák.), za ktorý Trestný zákon umožňoval uložiť trest odňatia slobody až na dva roky."
+- *NS SR* sp. zn. 5 Tdo 55/2016, 2016-08-18
+  > „Nad rámec uvedeného si najvyšší súd dovoľuje skonštatovať, že konanie tak ako je vymedzené v skutkovej vete napĺňa všetky zákonné znaky trestného činu podielnictva podľa § 251 ods. 1 písm. a/ Tr. zák. (napokon túto skutočnosť nespochybňuje ani obhajoba, ktorá netvrdí, že by skutok nebol trestným činom, iba tvrdí, že nejde o trestný čin podľa § 252 Tr. zák.), za ktorý Trestný zákon umožňoval uložiť trest odňatia slobody až na dva roky."
+- *NS SR* ECLI ECLI:SK:NSSR:2018:5613205401.1, 2018-11-22
+  > „Vychádzal z toho, že uznesením vyšetrovateľa Policajného zboru, Okresného úradu vyšetrovania Liptovský Mikuláš z 30. januára 2002 bol žalobca obvinený z trestného činu legalizácie príjmu z trestnej činnosti podľa § 252 ods. 1 písm. b/, ods. 3 Trestného zákona, rozsudkom Okresného súdu Liptovský Mikuláš z 18. apríla 2012 sp. zn. 2 T 18/2011 bol však podľa § 285 písm. a/ Trestného poriadku oslobodený."
+- *NS SR* sp. zn. 3 Tost 23/2015, 2015-10-14
+  > „pre pokračovací trestný čin legalizácie príjmu z trestnej činnosti spolupáchateľstvom podľa § 9 ods. 2 k § 252 ods. 1 písm. a/, písm. b/, ods. 3 Trestného zákona účinného do 31. decembra 2005 a iné, vedenej na Krajskom súde v Bratislave pod sp. zn. 3T/2/2005, o sťažnosti obžalovaných JUDr. J."
+
 ### § 253 — Nepovolená výroba liehu, tabaku a tabakových výrobkov
 
 > **§ 253**
@@ -161,6 +192,11 @@ Odseky 2 a 3 postupňujú trest podľa výšky získaného prospechu, spáchania
 **Výklad:**
 
 Postihuje neoprávnenú výrobu liehu, tabaku a tabakových výrobkov vo väčšom množstve bez povolenia, ako aj ich prechovávanie či uvádzanie do obehu (odsek 1, subsidiárne voči prísnejšie trestným skutkovým podstatám, napríklad daňovým deliktom pri súbežnom krátení spotrebnej dane), a samostatne zhotovenie alebo prechovávanie výrobného zariadenia (odsek 2). Ide o ochranu regulácie výroby týchto rizikových a fiškálne významných komodít pred paralelnou „tieňovou“ výrobou.
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* sp. zn. 2Sžf/9/2011, 2012-03-21
+  > „Najvyšší súd Slovenskej republiky zdôrazňuje, ţe k zničeniu liehu prišlo na základe právoplatného rozsudku Okresného súdu Ţilina sp. zn. 22T 14/2006 zo dňa 16. októbra 2006, ktorým bolo konštatované protiprávne konanie ţalobcu – prečin nepovolenej výroby liehu podľa § 253 ods. 1, ods. 2 Trestného zákona."
 
 ### § 254 — Porušovanie predpisov o obehu tovaru v styku s cudzinou
 
@@ -190,6 +226,17 @@ Chráni záujem štátu na riadnej regulácii zahraničného obchodu — odsek 1
 
 Kvalifikačné znaky v odsekoch 3 až 5 postupňujú trestnosť podľa spolupáchania s najmenej dvoma osobami, výšky spôsobenej škody a spáchania ako člen nebezpečného zoskupenia — hraničná hodnota v odseku 2 je jednou z mála konkrétnych peňažných súm uvedených priamo v texte tejto hlavy.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2020:5018200377.1, 2020-09-10
+  > „24. Krajský súd neprihliadol na dôvodnú námietku sťažovateľa, že colný dlh mal vzniknúť podľa colného orgánu nesprávnou deklaráciou tovaru dovozcom - sťažovateľom (trestný čin porušovania predpisov o obehu tovaru v styku s cudzinou podľa § 254 Trestného zákona ani ostatné súvisiace trestné činy nie je možné spáchať z nedbanlivosti, iba úmyselne)."
+- *NS SR* sp. zn. 4 Cdo 96/2010, 2010-05-20
+  > „z 31. mája 2005, O., bola vec podozrenia zo spáchania trestného činu zatajenia veci podľa § 254 ods. 2 Trestného zákona a trestného činu krádeže podľa § 247 ods. 1 a ods. 5 písm. c/ Trestného zákona, ktorých sa mala dopustiť a ktoré okrem iného mali byť dôvodom jej dedičskej nespôsobilosti, odmietnutá z dôvodu, že na základe vykonaného vyšetrovania bolo zistené, že táto nenaplnila skutkovú podstatu ani jedného z uvedených trestných činov, ani iných trestných činov uvedených v Trestnom zákone."
+- *NS SR* sp. zn. 3 Tost 3/2008, 2009-07-08
+  > „Súd ďalej žiadal od prokurátora špecifikovať žalovaný skutok, a to s poukazom na zostavenie colného dlhu zo spotrebnej dane, dane z pridanej hodnoty a cla, keďže do úvahy prichádza aj právne posúdenie tohto skutku ešte podľa ďalších ustanovení zákona (§ 124 ods. 2 Tr. zák., resp. podľa § 254 ods. 2 zák. č. 300/2005 Z.z. v znení neskorších predpisov – Trestný zákon)."
+- *NS SR* sp. zn. 2 To 4/2011, 2011-09-20
+  > „Tak je tomu i podľa súčasne účinného Trestného zákona (§ 254 ods. 2), avšak pri použití prísnejšej sankcie (pre žalovaný čin by išlo o sadzbu sedem až dvanásť rokov podľa § 254 ods. 5, § 125 ods. 1 Tr. zák. v znení účinnom od 1. januára 2006, čo je pre páchateľa v dotknutej veci najmenej priaznivá zákonná úprava)."
+
 ### § 255 — Porušovanie predpisov o nakladaní s kontrolovaným tovarom a technológiami
 
 > **§ 255**
@@ -203,6 +250,17 @@ Kvalifikačné znaky v odsekoch 3 až 5 postupňujú trestnosť podľa spolupác
 Ustanovenia § 255 až § 257 zdieľajú v zdrojovom texte spoločný marginálny nadpis „Porušovanie predpisov o nakladaní s kontrolovaným tovarom a technológiami“ a chránia medzinárodný kontrolný režim nad citlivým (tzv. dual-use) tovarom a technológiami, ktorých vývoz, dovoz alebo iné nakladanie podlieha osobitným (najmä exportno-kontrolným a sankčným) predpisom.
 
 § 255 postihuje priame porušenie zákazu alebo obmedzenia nakladania s takýmto tovarom (odsek 1) a prísnejšie neoprávnený vývoz alebo prevod kontrolovaného tovaru na cudzí štát, zahraničnú organizáciu alebo cudzieho činiteľa (odsek 2) — druhá skutková podstata má citeľne vyššiu sadzbu, čo odzrkadľuje väčšiu spoločenskú nebezpečnosť faktického úniku kontrolovaného tovaru za hranice oproti samotnému porušeniu vnútroštátneho režimu.
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2018:1510010828.1, 2018-01-11
+  > „za vinného z trestného činu porušovania povinnosti pri správe cudzieho majetku podľa § 255 ods. 1, ods. 3 Tr. zák. účinného do 31. decembra 2005 (ďalej len „Trestný zákon“) v znení zákona č. 227/2005 Z. z. v jednočinnom súbehu s trestným činom poškodzovania veriteľa podľa § 256 ods. 1 písm. a), ods. 4 písm. b) Trestného zákona v znení zákona č. 227/2005 Z. z., a to na skutkovom základe uvedenom v rozsudku."
+- *NS SR* sp. zn. 5Tdo/80/2017, 2018-01-11
+  > „uznal za vinného z trestného činu porušovania povinnosti pri správe cudzieho majetku podľa § 255 ods. 1, ods. 3 Trestného zákona, pričom obvinenému uložil podľa § 255 ods. 3 Trestného zákona trest odňatia slobody vo výmere 18 (osemnásť) mesiacov, ktorého výkon podmienečne odložil na skúšobnú dobu v trvaní 2 (dvoch) rokov."
+- *NS SR* sp. zn. 7 Cdo 262/2015, 2016-03-16
+  > „Pv 707/1999 z 30. novembra 1999 o začatí trestného stíhania a súčasne vznesení obvinenia voči navrhovateľovi pre trestný čin porušovania povinností pri správe cudzieho majetku podľa § 255 ods. 1 a ods. 2 písm. a/ Trestného zákona účinného do 31. augusta 1999 bol navrhovateľ obvinený zo spáchania uvedeného trestného činu."
+- *NS SR* ECLI ECLI:SK:NSSR:2015:6108011485.1, 2015-11-11
+  > „mohlo minimálne napĺňať znaky skutkovej podstaty trestného činu porušovania povinnosti pri správe cudzieho majetku podľa § 255 Trestného zákona."
 
 ### § 256 — Porušovanie predpisov o nakladaní s kontrolovaným tovarom a technológiami
 
@@ -230,6 +288,17 @@ Ustanovenia § 255 až § 257 zdieľajú v zdrojovom texte spoločný margináln
 
 Postihuje osobitnú kategóriu páchateľa — osobu, ktorá poruší dôležitú povinnosť svojho zamestnania, povolania, postavenia či funkcie a tým spôsobí neoprávnené vydanie povolenia na nakladanie s kontrolovaným tovarom alebo únik takého tovaru z evidencie. Ide teda o „vnútorného“ páchateľa v administratívnom alebo kontrolnom aparáte, ktorého zlyhanie umožní obídenie exportno-kontrolného režimu, s kvalifikáciami podľa toho, či sa tovar dostal do cudziny, akej výšky škody a či šlo o úmysel získať značný, resp. veľký prospech.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2018:5714010376.1, 2018-03-14
+  > „Rovnako treba poukázať na fakt, že ak by bol najvyšší súd akceptoval námietku obvineného, že mal byť udelený trest podľa § 256 ods. 3 Trestného zákona účinného do 31. decembra 2005, dolná hranica trestnej sadzby je rovnaká ako bola obvinenému uložená, a preto taktiež s poukazom na ustanovenie § 371 ods. 5 Trestného poriadku nemožno túto námietku akceptovať, nakoľko zmena odseku pri udeľovaní trestu by nemala takú intenciu, aby zásadne ovplyvnila postavenie obvineného."
+- *NS SR* sp. zn. 3Tdo/54/2017, 2018-03-14
+  > „Na základe uvedeného je teda zrejmé, že poškodené spoločnosti využili svoje oprávnenia na vymoženie dlžnej sumy od obvineného, ktorý ako živnostník ručil celým svojím majetkom, avšak neúspešne práve kvôli vyššie spomínaným úkonom obvineného, ktorými sa zbavil svojho majetku, čím naplnil skutkovú podstatu trestného činu poškodzovania veriteľa podľa § 256 ods. 1 písm. a) Trestného zákona účinného do 31. decembra 2005, preto najvyšší súd nemôže prihliadať na túto námietku obvineného."
+- *NS SR* ECLI ECLI:SK:NSSR:2018:1510010828.1, 2018-01-11
+  > „za vinného z trestného činu porušovania povinnosti pri správe cudzieho majetku podľa § 255 ods. 1, ods. 3 Tr. zák. účinného do 31. decembra 2005 (ďalej len „Trestný zákon“) v znení zákona č. 227/2005 Z. z. v jednočinnom súbehu s trestným činom poškodzovania veriteľa podľa § 256 ods. 1 písm. a), ods. 4 písm. b) Trestného zákona v znení zákona č. 227/2005 Z. z., a to na skutkovom základe uvedenom v rozsudku."
+- *NS SR* sp. zn. 5Tdo/80/2017, 2018-01-11
+  > „V predmetnej trestnej veci si obvinený po vznesení obvinenia pre trestný čin porušovania povinnosti pri správe cudzieho majetku podľa § 255 ods. 1, ods. 3 Trestného zákona a trestný čin poškodzovania veriteľa podľa § 256 ods. 1 písm. a), ods. 4 písm. a), písm. b) Trestného zákona zvolil za obhajcu JUDr. Ondreja Mularčíka z Advokátskej kancelárie MULARČÍK A PARTNERI, s.r.o., ktorý obvineného zastupoval v prípravnom konaní a v pôvodnom súdnom konaní."
+
 ### § 257 — Porušovanie predpisov o nakladaní s kontrolovaným tovarom a technológiami
 
 > **§ 257**
@@ -241,6 +310,17 @@ Postihuje osobitnú kategóriu páchateľa — osobu, ktorá poruší dôležit�
 **Výklad:**
 
 Dopĺňa postih podvodného vylákania potrebného dokladu na základe nepravdivých alebo neúplných údajov (odsek 1) a poškodenia, zatajenia či nevedenia evidencie kontrolovaného tovaru vrátane zásahu do počítačového systému, v ktorom sa táto evidencia vedie (odsek 2). Spolu s § 255 a § 256 tak vytvára uzavretý systém trestnoprávnej ochrany exportno-kontrolného režimu — postihuje samotné porušenie zákazu, zlyhanie zodpovednej osoby aj podvodné či ničiace konanie voči podkladovej evidencii.
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2020:4118010354.1, 2020-09-09
+  > „Najvyšší súd opätovne pripomína, že výrok o vine - právna kvalifikácia konania obvineného podľa § 171 ods. 1 písm. c), písm. d), ods. 2 písm. c), písm. d) Trestného zákona s poukazom na ustanovenie § 138 písm. d), písm. j) Trestného zákona a § 139 ods. 1 písm. a) Trestného zákona, je po priznaní viny obvineným v zmysle § 257 ods. 5 Trestného poriadku nemenná a neodvolateľná, ak dovolací súd nezistí naplnenie dovolacieho dôvodu podľa § 371 ods. 1 písm. c) Trestného poriadku."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:4617010783.1, 2020-07-08
+  > „Citovaný výňatok sa má podľa dovolateľa týkať poľahčujúcej okolnosti podľa § 36 písm. n) Trestného zákona, ktorá sa po postupe v zmysle § 257 ods. 7 Trestného poriadku stáva v určitom zmysle kvalifikovanou okolnosťou, majúcou za následok možnosť nevykonania dokazovania v určitom rozsahu na hlavnom pojednávaní."
+- *NS SR* ECLI ECLI:SK:NSSR:2019:3517010220.1, 2019-07-23
+  > „existenciu poľahčujúcej okolnosti, a to priznanie k trestnej činnosti na hlavnom pojednávaní podľa § 36 písm. n) Trestného zákona postupom podľa § 257 Trestného poriadku."
+- *NS SR* ECLI ECLI:SK:NSSR:2019:7614010530.1, 2019-04-16
+  > „Zo zápisnice o hlavnom pojednávaní Okresného súdu Spišská Nová Ves zo 7. novembra 2014 vyplýva, že obvinený bol poučený o svojom práve urobiť niektoré z vyhlásení podľa § 257 ods. 1 Trestného zákona, ako aj o následkoch vyhlásenia v zmysle § 257 ods. 2 Trestného poriadku (č.l."
 
 ### § 258 — Ohrozenie devízového hospodárstva
 
@@ -269,6 +349,17 @@ Postihuje ohrozenie devízového hospodárstva porušením devízových predpiso
 ---
 
 ## Druhý diel — Trestné činy proti hospodárskej disciplíne
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* sp. zn. 2 To 4/2011, 2011-09-20
+  > „Keďže teda bolo v neprospech obvineného porušené ustanovenie Trestného zákona, najvyšší súd podľa § 258 ods. 1 písm. d/, ods. 2 Tr. por. v znení účinnom do 1. januára 2006 zrušil napadnutý rozsudok v časti, týkajúcej sa obžalovaného T."
+- *NS SR* sp. zn. 3 Tdo 37/2010, 2011-01-12
+  > „Krajský súd v Nitre rozsudkom zo dňa 16. januára 2007, sp. zn. 3To 80/2006, na podklade odvolania podaného prokurátorom, podľa § 258 ods. 1 písm. b/, písm. d/ Trestného zákona č. 141/1961 Zb."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:5819010093.2, 2020-05-21
+  > „Odôvodnenie Najvyšší súd Slovenskej republiky (ďalej len „najvyšší súd") ako súd dovolací,na podklade dovolania obvineného rozsudkom z 21. mája 2020, sp. zn. 5 Tdo 14/2020 vyslovil, že rozsudkom Krajského súdu v Žiline z 27. augusta 2019, sp. zn. 1To/64/2019, bol porušený zákon v ustanoveniach § 321 ods. 1 písm. d), ods. 3, § 322 ods. 3, § 37 ods. 1 písm. c), § 119 ods. 2, § 258 ods. 4 Trestného poriadku a § 125 ods. 1, § 172 ods. 2 písm. e) Trestného zákona v neprospech obvineného K.."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:5819010093.1, 2020-05-21
+  > „proti rozsudku Krajského súdu v Žiline z 27. augusta 2019, sp. zn. 1To/64/2019, takto rozhodol: Podľa § 386 ods. 1, ods. 2 Trestného poriadku, z dôvodu podľa § 371 ods. 1 písm. c), písm. g) a písm. i) Trestného poriadku, rozsudkom Krajského súdu v Žiline z 27. augusta 2019, sp. zn. 1To/64/2019, b o l p o r u š e n ý z á k o n v ustanoveniach § 321 ods. 1 písm. d), ods. 3, § 322 ods. 3, § 37 ods. 1 písm. c), § 119 ods. 2, § 258 ods. 4 Trestného poriadku a § 125 ods. 1, § 172 ods. 2 písm. e) Trestného zákona, v neprospech obvineného K.."
 
 ### § 259 — Skresľovanie údajov hospodárskej a obchodnej evidencie
 
@@ -318,6 +409,17 @@ Skutková podstata chráni pravdivosť a úplnosť údajov v širokom okruhu hos
 
 Odsek 2 rozširuje trestnosť na zásah do počítačového systému alebo fyzické zničenie, poškodenie či nevedenie podkladov s rovnakým úmyslom. Kvalifikované skutkové podstaty (odseky 3 a 4) postupňujú trest podľa výšky spôsobenej škody, závažnejšieho spôsobu konania, osobitného motívu alebo spôsobenia obzvlášť závažnej poruchy v chode hospodárstva Slovenskej republiky — táto posledná okolnosť je jednou z najprísnejšie formulovaných kvalifikácií v celej hlave a odráža systémový význam dôveryhodnosti hospodárskej evidencie pre fungovanie štátu.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2021:4217010768.1, 2021-02-10
+  > „Obvinená je toho názoru, že skutok tak ako bol ustálený, nenapĺňa znaky prečinu skresľovania údajov hospodárskej a obchodnej evidencie podľa § 259 ods. 1 písm. g) Trestného zákona."
+- *NS SR* ECLI ECLI:SK:NSSR:2019:6112010785.2, 2019-12-18
+  > „pre pokračovací zločin skresľovania údajov hospodárskej a obchodnej evidencie v štádiu prípravy podľa § 13 ods. 1 k § 259 ods. 1 písm. g), ods. 4 písm. a) Trestného zákona, na neverejnom zasadnutí konanom dňa 18. decembra 2019 v Bratislave, o dovolaní obvineného H."
+- *NS SR* sp. zn. 3Tdo/43/2018, 2018-09-26
+  > „uznaná za vinnú zo zločinu porušovania povinnosti pri správe cudzieho majetku podľa § 237 ods. 1, ods. 3 písm. a) Trestného zákona v súbehu so zločinom skresľovania údajov hospodárskej a obchodnej evidencie podľa § 259 ods. 1 písm. c), ods. 3 písm. a) Trestného zákona na tom skutkovom základe, že - ako zamestnankyňa spol."
+- *NS SR* ECLI ECLI:SK:NSSR:2018:9017200124.1, 2018-04-18
+  > „zn. 6To/34/2017 uznaný za vinného z prečinu skresľovania údajov hospodárskej a obchodnej evidencie podľa § 259 ods. 1 písm. c), ods. 2 písm. b) Trestného zákona, za čo mu bol uložený trest odňatia slobody vo výmere jeden rok s podmienečným odkladom na skúšobnú dobu dvoch rokov."
+
 ### § 260 — Nedbanlivostné skresľovanie údajov hospodárskej a obchodnej evidencie
 
 > **§ 260**
@@ -329,6 +431,17 @@ Odsek 2 rozširuje trestnosť na zásah do počítačového systému alebo fyzic
 Nedbanlivostná forma trestného činu skresľovania údajov hospodárskej a obchodnej evidencie — na rozdiel od § 259, ktorý vyžaduje úmysel, tu postačuje nedbanlivostné zavinenie, avšak trestnosť je viazaná na konanie podľa § 259 ods. 1 s výnimkou písmen a) a b) (teda mimo úmyselného zabezpečovania neoprávnených výhod pri štatistickom zisťovaní a evidencii zamestnancov, kde by nedbanlivostná forma bola pojmovo nekonzistentná s požiadavkou úmyslu v základnej skutkovej podstate) a súčasne na spôsobenie škody veľkého rozsahu — ide teda o úzko vymedzenú, prísne podmienenú nedbanlivostnú kvalifikáciu.
 
 Zdrojový text ustanovenia obsahuje formuláciu „odňatím slobody až na jeden rok až päť rokov“, ktorá kombinuje dve odlišné vyjadrenia hranice trestnej sadzby („až na“ a „až“); túto textovú nezrovnalosť preberáme verbatim zo zdroja bez opravy alebo domýšľania správneho znenia.
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2017:5015200618.1, 2017-04-25
+  > „45. Tiež musí Najvyšší súd zdôrazniť, že právo nie je bezmocné, pokiaľ osoba zodpovedná za zaúčtovanie účtovného prípadu nerešpektuje citovaný zák. č. 431/2002 Z.z., nakoľko potom uvedeným postupom môže naplniť skutkovú podstatu trestného činu (§ 259, resp. § 260 Trestného zákona)."
+- *NS SR* ECLI ECLI:SK:NSSR:2017:6014200874.1, 2017-01-24
+  > „Podľa § 260 Trestného zákona v citovanom znení kto sa z nedbanlivosti dopustí trestného činu skresľovania údajov hospodárskej a obchodnej evidencie konaním uvedeným v § 259 ods. 1 okrem písmena a) alebo b) a spôsobí ním škodu veľkého rozsahu (>500x266), potrestá sa odňatím slobody až na tri roky až osem rokov."
+- *NS SR* ECLI ECLI:SK:NSSR:2017:6014201706.1, 2017-01-24
+  > „Podľa § 260 Trestného zákona v citovanom znení kto sa z nedbanlivosti dopustí trestného činu skresľovania údajov hospodárskej a obchodnej evidencie konaním uvedeným v § 259 ods. 1 okrem písmena a) alebo b) a spôsobí ním škodu veľkého rozsahu (>500x266), potrestá sa odňatím slobody až na tri roky až osem rokov."
+- *NS SR* sp. zn. 1Sžf/91/2015, 2017-01-24
+  > „Podľa § 260 Trestného zákona v citovanom znení kto sa z nedbanlivosti dopustí trestného činu skresľovania údajov hospodárskej a obchodnej evidencie konaním uvedeným v § 259 ods. 1 okrem písmena a) alebo b) a spôsobí ním škodu veľkého rozsahu (>500x266), potrestá sa odňatím slobody až na tri roky až osem rokov."
 
 ### § 261 — Poškodzovanie finančných záujmov Európskej únie
 
@@ -362,6 +475,17 @@ Kľúčové ustanovenie na ochranu finančných záujmov Európskej únie postih
 
 Odsek 3 postihuje osobitnú kategóriu „vnútorných“ páchateľov — zamestnancov, členov, zástupcov alebo iné osoby oprávnené konať za poskytovateľa prostriedkov, ktoré vedome umožnia ich získanie žiadateľovi nespĺňajúcemu podmienky, alebo ich protiprávne zadržanie či použitie. Kvalifikačné okolnosti (odseky 4 až 6) postupňujú trest podľa výšky spôsobenej škody, osobitného motívu, závažnejšieho spôsobu konania alebo spáchania ako člen nebezpečného zoskupenia. Ustanovenie zodpovedá záväzku Slovenskej republiky trestnoprávne postihovať konania poškodzujúce finančné záujmy Únie.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2021:9516100170.1, 2021-04-13
+  > „Tieto dôvody viedli najvyšší súd k tomu, že na podklade odvolania prokurátora jednomyseľne zrušil napadnutý rozsudok v celom rozsahu a sám rozhodol tak, že po úprave skutkovej vety v súlade s ním doplneným dokazovaním uznal obžalovaného vinným zo zločinu poškodzovania finančných záujmov Európskych spoločenstiev podľa § 261 ods. 1, ods. 4 písm. a) Trestného zákona spáchaného v jednočinnom súbehu so zločinom subvenčného podvodu podľa § 225 ods. 1, ods. 5 Trestného zákona."
+- *NS SR* ECLI ECLI:SK:NSSR:2019:9515100041.2, 2019-11-05
+  > „K trestnému činu poškodzovaniu finančných záujmov Európskych spoločenstiev a k argumentom obhajoby najvyšší súd poznamenáva všeobecne a následne i konkrétne nasledovné: Trestný čin poškodzovania finančných záujmov Európskych spoločenstiev podľa § 261 Trestného zákona v základnej skutkovej podstate (ods. 1) obsahuje pojmy, ktoré uvádza ako podmienky trestnej zodpovednosti s tým, že tieto pojmy majú povahu normatívneho znaku skutkovej podstaty trestného činu."
+- *NS SR* ECLI ECLI:SK:NSSR:2019:9515100005.1, 2019-03-20
+  > „K trestnému činu poškodzovaniu finančných záujmov Európskych spoločenstiev a k argumentom obhajoby najvyšší súd poznamenáva: Trestný čin poškodzovania finančných záujmov Európskych spoločenstiev podľa § 261 Trestného zákona v základnej skutkovej podstate (ods. 1) obsahuje pojmy, ktoré uvádza ako podmienky trestnej zodpovednosti s tým, že tieto pojmy majú povahu normatívneho znaku skutkovej podstaty trestného činu."
+- *NS SR* sp. zn. 3To/10/2018, 2019-03-20
+  > „K trestnému činu poškodzovaniu finančných záujmov Európskych spoločenstiev a k argumentom obhajoby najvyšší súd poznamenáva: Trestný čin poškodzovania finančných záujmov Európskych spoločenstiev podľa § 261 Trestného zákona v základnej skutkovej podstate (ods. 1) obsahuje pojmy, ktoré uvádza ako podmienky trestnej zodpovednosti s tým, že tieto pojmy majú povahu normatívneho znaku skutkovej podstaty trestného činu."
+
 ### § 262 — Umožnenie poškodenia finančných záujmov Európskej únie porušením kontrolnej povinnosti
 
 > **§ 262**
@@ -376,6 +500,17 @@ Odsek 3 postihuje osobitnú kategóriu „vnútorných“ páchateľov — zames
 
 Doplnková skutková podstata k § 261 postihujúca „dozorného“ páchateľa — toho, kto poruší alebo nesplní povinnosť vyplývajúcu z jeho zamestnania, povolania, postavenia alebo funkcie v riadení alebo kontrole činnosti ním riadených osôb, a tým umožní spáchanie trestného činu poškodzovania finančných záujmov Európskej únie podľa § 261 ods. 1. Ide o konštrukciu obdobnú trestnoprávnej zodpovednosti za zanedbanie kontrolnej či dohliadacej povinnosti, s kvalifikáciami podľa výšky spôsobenej škody (odseky 2 a 3).
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2015:9514100020.1, 2015-11-11
+  > „Z hľadiska právneho posúdenia konania obžalovanej bude potrebné, aby prvostupňový súd, samozrejme po predchádzajúcom ustálení skutkového stavu sa zaoberal aj možným naplnením zákonných znakov skutkovej podstaty trestného činu podľa § 262 Trestného zákona, prípadne nedbanlivostného variantu tohto trestného činu podľa § 263 Trestného zákona."
+- *NS SR* sp. zn. 3To/12/2014, 2015-11-11
+  > „Z hľadiska právneho posúdenia konania obžalovanej bude potrebné, aby prvostupňový súd, samozrejme po predchádzajúcom ustálení skutkového stavu sa zaoberal aj možným naplnením zákonných znakov skutkovej podstaty trestného činu podľa § 262 Trestného zákona, prípadne nedbanlivostného variantu tohto trestného činu podľa § 263 Trestného zákona."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:9519100066.1, 2020-07-15
+  > „Trestným činom podľa § 261 Trestného zákona (ale aj podľa § 262 a § 263 Trestného zákona) sa poskytuje ochrana pred „spreneverou“ eurofondov, alebo pred protiprávnym zadržaním prostriedkov z rozpočtov Európskych spoločenstiev."
+- *NS SR* ECLI ECLI:SK:NSSR:2019:9515100041.2, 2019-11-05
+  > „Trestným činom podľa § 261 Trestného zákona (ale aj podľa § 262 a § 263 Trestného zákona) sa poskytuje ochrana pred „spreneverou" eurofondov, alebo pred protiprávnym zadržaním prostriedkov z rozpočtov Európskych spoločenstiev."
+
 ### § 263 — Poškodzovanie finančných záujmov Európskej únie z nedbanlivosti
 
 > **§ 263**
@@ -387,6 +522,17 @@ Doplnková skutková podstata k § 261 postihujúca „dozorného“ páchateľa
 **Výklad:**
 
 Nedbanlivostná forma poškodzovania finančných záujmov Európskej únie, viazaná na konanie podľa § 261 ods. 1 — zrkadlí konštrukciu § 260 voči § 259, len s miernejšou základnou sadzbou (do jedného roka) a kvalifikáciou pri spôsobení značnej škody (odsek 2).
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2015:9514100020.1, 2015-11-11
+  > „Z hľadiska právneho posúdenia konania obžalovanej bude potrebné, aby prvostupňový súd, samozrejme po predchádzajúcom ustálení skutkového stavu sa zaoberal aj možným naplnením zákonných znakov skutkovej podstaty trestného činu podľa § 262 Trestného zákona, prípadne nedbanlivostného variantu tohto trestného činu podľa § 263 Trestného zákona."
+- *NS SR* sp. zn. 3To/12/2014, 2015-11-11
+  > „Z hľadiska právneho posúdenia konania obžalovanej bude potrebné, aby prvostupňový súd, samozrejme po predchádzajúcom ustálení skutkového stavu sa zaoberal aj možným naplnením zákonných znakov skutkovej podstaty trestného činu podľa § 262 Trestného zákona, prípadne nedbanlivostného variantu tohto trestného činu podľa § 263 Trestného zákona."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:9516100014.1, 2020-06-23
+  > „Naopak vyjadril názor, že by bolo na mieste skúmať, či nedošlo k spáchaniu trestného činu podľa § 263 Trestného zákona, ak by odvolací súd dospel k záveru, že došlo k poškodeniu finančných záujmov EÚ."
+- *NS SR* ECLI ECLI:SK:NSSR:2018:9517100215.1, 2018-09-05
+  > „Trestný čin poškodzovania finančných záujmov Európskych spoločenstiev v danom ustanovení síce uvedený je, avšak jedná sa o nedbanlivostný trestný čin poškodzovania finančných záujmov Európskych spoločenstiev podľa § 263 Trestného zákona."
 
 ### § 264 — Ohrozenie obchodného, bankového, poštového, telekomunikačného a daňového tajomstva
 
@@ -413,6 +559,17 @@ Nedbanlivostná forma poškodzovania finančných záujmov Európskej únie, via
 **Výklad:**
 
 Chráni širokú škálu tajomstiev súvisiacich s hospodárskym a finančným stykom — obchodné, bankové, poštové, telekomunikačné a daňové tajomstvo, a to tak vyzvedanie v úmysle vyzradiť ho nepovolanej osobe, ako aj samotné úmyselné vyzradenie (odsek 1). Kvalifikované skutkové podstaty postupňujú trest podľa výšky spôsobenej škody, osobitného motívu, závažnejšieho spôsobu konania, spáchania ako člen nebezpečného zoskupenia alebo za krízovej situácie (odseky 2 a 3).
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2020:1517010370.1, 2020-01-21
+  > „pre zločin ohrozenia obchodného, bankového, poštového, telekomunikačného a daňového tajomstva podľa § 264 ods. 1, ods. 2 písm. c) Trestného zákona, na neverejnom zasadnutí s verejným vyhlásením rozsudku dňa 21. januára 2020 v Bratislave, o dovolaní obvineného J."
+- *NS SR* ECLI ECLI:SK:NSSR:2016:1011201238.2, 2016-08-24
+  > „vyplýva, že všetky osoby zúčastnené na ústnom pojednávaní boli v súlade s § 23 ods. 3 zákona o správe daní poučené o povinnosti zachovávať daňové tajomstvo a o právnych dôsledkoch porušenia tejto povinnosti podľa § 264 Trestného zákona."
+- *NS SR* ECLI ECLI:SK:NSSR:2016:1011201237.2, 2016-08-24
+  > „vyplýva, že všetky osoby zúčastnené na ústnom pojednávaní boli v súlade s § 23 ods. 3 zákona o správe daní poučené o povinnosti zachovávať daňové tajomstvo a o právnych dôsledkoch porušenia tejto povinnosti podľa § 264 Trestného zákona."
+- *NS SR* ECLI ECLI:SK:NSSR:2016:1011201233.2, 2016-08-24
+  > „vyplýva, že všetky osoby zúčastnené na ústnom pojednávaní boli v súlade s § 23 ods. 3 zákona o správe daní poučené o povinnosti zachovávať daňové tajomstvo a o právnych dôsledkoch porušenia tejto povinnosti podľa § 264 Trestného zákona."
 
 ### § 265 — Zneužívanie informácií v obchodnom styku
 
@@ -441,6 +598,13 @@ Chráni širokú škálu tajomstiev súvisiacich s hospodárskym a finančným s
 Postihuje dve odlišné formy zneužitia informačnej asymetrie v obchodnom styku — po prvé (odsek 1) neoprávnené použitie verejne neprístupnej informácie získanej v zamestnaní, povolaní, postavení či funkcii, ktorej zverejnenie podstatne ovplyvňuje obchodné rozhodovanie, na uskutočnenie alebo podnietenie obchodu na organizovanom trhu (typický „insider trading“), ako aj neoprávnené použitie alebo vyzradenie dôvernej informácie podľa osobitného predpisu; po druhé (odsek 2) tzv. konflikt záujmov — uzavretie alebo podnietenie zmluvy na úkor jedného z viacerých podnikov, v ktorých páchateľ súčasne pôsobí ako zamestnanec, člen orgánu, spoločník, podnikateľ alebo účastník s rovnakým alebo podobným predmetom činnosti.
 
 Kvalifikácie v odsekoch 3 a 4 postupňujú trest podľa výšky spôsobenej škody, osobitného motívu, závažnejšieho spôsobu konania alebo spáchania ako člen nebezpečného zoskupenia.
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2018:1112234420.1, 2018-06-21
+  > „Súd prvej inštancie mal ďalej za preukázané, že Najvyšší súd Slovenskej republiky rozsudkom z 10. júna 2004 sp. zn. 5Tz/8/2003 zrušil hore uvedený rozsudok Vojenského obvodového súdu v Košiciach a v zmysle § 223 ods. 1 Trestného poriadku z dôvodov uvedených v § 11 ods. 1 písm. f/ Trestného poriadku zastavil trestné stíhanie žalobcu dôvodiac tým, že v jeho prípade bol už predtým odsúdený, a to 13. decembra 1957 Vojenským obvodovým súdom v Karlových Varoch pre trestný čin podľa § 265 ods. 1 Trestného zákona."
+- *NS SR* sp. zn. 2Cdo/101/2017, 2018-06-21
+  > „Súd prvej inštancie mal ďalej za preukázané, že Najvyšší súd Slovenskej republiky rozsudkom z 10. júna 2004 sp. zn. 5Tz/8/2003 zrušil hore uvedený rozsudok Vojenského obvodového súdu v Košiciach a v zmysle § 223 ods. 1 Trestného poriadku z dôvodov uvedených v § 11 ods. 1 písm. f/ Trestného poriadku zastavil trestné stíhanie žalobcu dôvodiac tým, že v jeho prípade bol už predtým odsúdený, a to 13. decembra 1957 Vojenským obvodovým súdom v Karlových Varoch pre trestný čin podľa § 265 ods. 1 Trestného zákona."
 
 ### § 265a — Manipulácia s trhom
 
@@ -510,6 +674,17 @@ Základná skutková podstata machinácií pri verejnom obstarávaní a verejnej
 
 Kvalifikácie v odseku 2 zahŕňajú okrem obvyklých okolností (škoda, motív, závažnejší spôsob konania) aj osobitnú kategóriu páchateľa — vyhlasovateľa alebo usporiadateľa verejnej súťaže či dražby, člena privatizačnej komisie alebo licitátora (písm. c), ako aj korupčný prvok žiadania, prijatia alebo sľúbenia majetkového či iného prospechu (písm. d); odsek 3 postupňuje trest pri škode veľkého rozsahu alebo spáchaní ako člen nebezpečného zoskupenia.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2020:9515100127.1, 2020-06-23
+  > „o tom, že nenaplnil objektívnu stránku trestného činu podľa § 266 ods. 1 Trestného zákona, pretože nerozhodoval o rozdelení stavebných dozorov na dve samostatné verejné obstarávania a ani nebol spôsobilý posudzovať správnosť takéhoto postupu, najvyšší súd dáva do pozornosti, že obžaloba mu nekládla za vinu to (a napokon ani napadnutým rozsudkom nebol uznaný za vinného), že by mal rozhodovať o rozdelení stavebných dozorov na dve verejné obstarávania, ale to, že na základe poverenia Ing."
+- *NS SR* ECLI ECLI:SK:NSSR:2019:9513100084.1, 2019-07-24
+  > „Vyslovil názor, že v zmysle § 7 ods. 2 cit. zákona, kritériom použitia informačno-technických prostriedkov (ďalej len „ITP") ako dôkazu v trestnom konaní aj v inej veci je zákonná možnosť použitia ITP aj v tejto inej veci, čomu žalovaný pôvodný zločin machinácií pri verejnom obstarávaní a verejnej dražbe podľa § 266 ods. 1, ods. 3 písm. a) Trestného zákona vyhovuje a pritom sa nemusia súčasne viesť viaceré trestné konania."
+- *NS SR* sp. zn. 6To/6/2018, 2019-07-24
+  > „Vyslovil názor, že v zmysle § 7 ods. 2 cit. zákona, kritériom použitia informačno-technických prostriedkov (ďalej len „ITP") ako dôkazu v trestnom konaní aj v inej veci je zákonná možnosť použitia ITP aj v tejto inej veci, čomu žalovaný pôvodný zločin machinácií pri verejnom obstarávaní a verejnej dražbe podľa § 266 ods. 1, ods. 3 písm. a) Trestného zákona vyhovuje a pritom sa nemusia súčasne viesť viaceré trestné konania."
+- *NS SR* ECLI ECLI:SK:NSSR:2019:1113220699.1, 2019-01-17
+  > „podal 13. júna 2013 Generálnej prokuratúre Slovenskej republiky oznámenie o podozrení z trestného činu machinácie pri verejnom obstarávaní a verejnej dražbe podľa § 266 Trestného zákona, ktoré odôvodnil existenciou dôvodného podozrenia, že pri spornej dražbe došlo k spáchaniu trestného činu."
+
 ### § 267 — Marenie účasti na verejnom obstarávaní
 
 > **§ 267**
@@ -546,6 +721,11 @@ Spolu s nasledujúcim § 268 postihuje konkurenčné praktiky smerujúce k umel�
 
 Zrkadlí konštrukciu § 267, avšak vo vzťahu k verejnej dražbe veci — postihuje prinútenie iného, aby sa zdržal podávania návrhov pri dražbe, ponúknutie alebo sľúbenie prospechu za takúto zdržanlivosť a žiadanie či prijatie prospechu výmenou za ňu. Rovnako ako v § 267 nemá ustanovenie v zdrojovom texte vlastný marginálny nadpis a chráni integritu dražobného procesu pred kartelovými dohodami účastníkov.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2021:7220010522.2, 2021-04-22
+  > „Podľa § 386 ods. 1 Trestného poriadku sa vyslovuje, že uznesením Krajského súdu v Košiciach z 5. augusta 2020, sp. zn. 4Tos/78/2020, z dôvodu uvedeného v § 371 ods. 1 písm. g) a písm. j) Trestného poriadku b o l p o r u š e n ý z á k o n v § 193 ods. 1 písm. c) Trestného poriadku, § 295 ods. 2 v spojení s § 268 ods. 2 Trestného poriadku a § 73 ods. 1 Trestného zákona v n e p r o s p e c h Q."
+
 ### § 269 — Poškodzovanie spotrebiteľa
 
 > **§ 269**
@@ -579,6 +759,15 @@ Zrkadlí konštrukciu § 267, avšak vo vzťahu k verejnej dražbe veci — post
 Chráni spotrebiteľa pred klamlivým alebo inak nekalým konaním predávajúceho, ktoré mu spôsobí malú škodu — klamanie o kvalite, množstve alebo hmotnosti tovaru, resp. o druhu, akosti a množstve poskytovaných výkonov (písm. a), uvedenie na trh výrobkov, prác či služieb so zatajením ich podstatných vád (písm. b) a cenové praktiky nad rámec zákonom stanoveného cenového obmedzenia (písm. c).
 
 Kvalifikácie postupňujú trest podľa výšky získaného prospechu, postihu chránenej osoby, závažnejšieho spôsobu konania alebo recidívy (odsek 2), prospechu značného rozsahu alebo spôsobenia poruchy v zásobovaní (odsek 3) a prospechu veľkého rozsahu (odsek 4).
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2018:1112217000.1, 2018-09-13
+  > „Ďalším rozsudkom (Vojenského obvodného súdu Banská Bystrica z 8. decembra 1989 sp. zn. 3 T 140/98) bol žalobca opätovne uznaný vinným z trestného činu nenastúpenia služby v ozbrojených silách podľa § 269 ods. 1 Trestného zákona, za čo mu bol uložený trest odňatia slobody v trvaní 2 rokov nepodmienečne."
+- *NS SR* sp. zn. 3Cdo/19/2017, 2018-09-13
+  > „Ďalším rozsudkom (Vojenského obvodného súdu Banská Bystrica z 8. decembra 1989 sp. zn. 3 T 140/98) bol žalobca opätovne uznaný vinným z trestného činu nenastúpenia služby v ozbrojených silách podľa § 269 ods. 1 Trestného zákona, za čo mu bol uložený trest odňatia slobody v trvaní 2 rokov nepodmienečne."
+- *NS SR* sp. zn. 4 Tdo 58/2011, 2012-03-13
+  > „K., pre trestný čin nenastúpenia služby v ozbrojených silách podľa § 269 ods. 1 Trestného zákona účinného v čase spáchania skutku, o dovolaní obvineného podanom prostredníctvom obhajcu JUDr. Ľ."
 
 ### § 269a — Nekalé obchodné praktiky voči spotrebiteľovi
 
@@ -632,6 +821,17 @@ Kľúčová skutková podstata ochrany meny a cenných papierov pred falšovaní
 
 Kvalifikácie v odsekoch 3 a 4 postupňujú trest podľa závažnejšieho spôsobu konania, rozsahu (väčší/veľký) alebo spáchania ako člen nebezpečného zoskupenia, pričom horná hranica sadzby dosahuje až dvanásť rokov — jedna z najprísnejších v celej hlave, čo odráža zásadný verejný záujem na integrite peňažného obehu.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2020:9519100068.2, 2020-06-10
+  > „Obžalovaný je v prejednávanej veci stíhaný aj pre obzvlášť závažný zločin falšovania, pozmeňovania a neoprávnenej výroby peňazí a cenných papierov podľa § 270 ods. 2, ods. 4 písm. b) Trestného zákona spáchaného formou spolupáchateľstva podľa § 20 Trestného zákona, pričom najvyšší súd žiadne výnimočné okolnosti, ktoré by väzbu obžalovaného umožňovali dohľadom probačného a mediačného úradníka nahradiť, nezistil."
+- *NS SR* sp. zn. 3 Tost 10/2015, 2015-04-22
+  > „týkajúcej sa pôsobnosti Špecializovaného trestné súdu najvyšší súd poukazuje na ustanovenie § 14 písm. c/ Trestného poriadku, podľa ktorého pôsobnosť Špecializovaného trestného súdu sa vzťahuje na trestný čin falšovania, pozmeňovania a neoprávnenej výroby peňazí a cenných papierov podľa § 270 ods. 4 Trestného zákona."
+- *NS SR* ECLI ECLI:SK:NSSR:2018:9017200124.1, 2018-04-18
+  > „V doplnenom odvolaní poukázal na nesprávnu právnu kvalifikáciu trestného činu v oboch prípadoch a síce čiastočným štádiom pokusu podľa § 14 ods. 1 k § 270 ods. 4 písm. b) Trestného zákona a ustálením výšky škody pri § 221 Trestného zákona."
+- *NS SR* ECLI ECLI:SK:NSSR:2021:9519100068.6, 2021-01-12
+  > „pre obzvlášť závažný zločin falšovania, pozmeňovania a neoprávnenej výroby peňazí a cenných papierov podľa § 270 ods. 2, ods. 4 písm. b) Trestného zákona spáchaného formou spolupáchateľstva podľa § 20 Trestného zákona a iné, na verejnom zasadnutí konanom 12. januára 2021 v Bratislave, o odvolaniach obžalovaných Mgr. Q."
+
 ### § 271 — Uvádzanie falšovaných, pozmenených a neoprávnene vyrobených peňazí a cenných papierov
 
 > **§ 271**
@@ -645,6 +845,13 @@ Kvalifikácie v odsekoch 3 a 4 postupňujú trest podľa závažnejšieho spôso
 **Výklad:**
 
 Nadväzuje na § 270 postihom uvádzania falzifikátov do obehu — konkrétne dovoz, vývoz, prepravu, prijatie alebo získanie falzifikátov s cieľom uviesť ich do obehu (odsek 1, sadzba zhodná s „primárnym“ konaním podľa § 270 ods. 2), ako aj osobitnú, miernejšie trestanú situáciu, keď páchateľ dostal falzifikát ako platbu v dobrej viere (ako pravý) a následne ho vedome pustí ďalej do obehu (odsek 2 pre peniaze, odsek 3 pre cenné papiere) — nižšia trestnosť je tu odôvodnená tým, že páchateľ sám bol pôvodne obeťou podvodu.
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2020:1117010688.1, 2020-10-05
+  > „Práve tento obvineným prezentovaný motív je zákonným znakom inej skutkovej podstaty trestného činu, a to prísnejšej skutkovej podstaty zločinu falšovania, pozmeňovania a neoprávnenej výroby peňazí a cenných papierov podľa § 271 odsek 1 Trestného zákona, kde je vyjadrený formuláciou „s cieľom uviesť ich (falšované peniaze - pozn."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:7518010370.1, 2020-10-27
+  > „vinným z pokračovacieho obzvlášť závažného zločinu falšovania, pozmeňovania a neoprávnenej výroby peňazí a cenných papierov podľa § 271 ods. 2, ods. 3 písm. b) Trestného zákona, za ktoré mu podľa § 271 ods. 3 Trestného zákona, s prihliadnutím na poľahčujúcu okolnosť podľa § 36 písm. j) Trestného zákona a s použitím § 38 ods. 2, ods. 3 Trestného zákona uložil trest odňatia slobody vo výmere desať rokov, na výkon ktorého bol podľa § 48 ods. 4 Trestného zákona zaradený do ústavu na výkon trestu odňatia slobody so stredným stupňom stráženia."
 
 ### § 272 — Výroba a držba falšovateľského náčinia
 
@@ -670,6 +877,11 @@ Postihuje prípravnú fázu falšovania — výrobu, zadováženie alebo prechov
 
 Najmiernejšie trestaná skutková podstata v tomto diele postihuje odmietanie alebo poškodzovanie platných tuzemských peňazí bez zákonného dôvodu (napríklad účelové znehodnocovanie bankoviek alebo odopieranie ich prijatia ako zákonného platidla) sadzbou len do šiestich mesiacov; chráni dôveru v riadny obeh platnej meny nezávisle od úmyslu spôsobiť škodu.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2019:5113011314.1, 2019-02-13
+  > „podľa § 273 ods. 3 Trestného zákona, § 38 ods. 3 Trestného zákona a § 36 písm. j) Trestného zákona trest odňatia slobody vo výmere 3 (tri) roky."
+
 ### § 274 — Falšovanie, pozmeňovanie a nedovolená výroba kolkových známok, poštových cenín, nálepiek a poštových pečiatok
 
 > **§ 274**
@@ -694,6 +906,17 @@ Najmiernejšie trestaná skutková podstata v tomto diele postihuje odmietanie a
 
 Rozširuje ochranu pred falšovaním z peňazí a cenných papierov aj na kolkové známky, tuzemské a cudzozemské poštové ceniny (vrátane stiahnutých z obehu), poštové nálepky a poštové pečiatky — postihuje ich falšovanie, pozmeňovanie alebo neoprávnenú výrobu v úmysle spôsobiť škodu alebo získať neoprávnený prospech, ako aj ich uvádzanie do obehu alebo použitie ako pravých (odsek 1). Kvalifikácie (odseky 2 a 3) postupňujú trest podľa výšky získaného prospechu, osobitného motívu, závažnejšieho spôsobu konania alebo spáchania ako člen nebezpečného zoskupenia.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2020:6212010256.3, 2020-05-20
+  > „bol rozsudkom Okresného súdu Frýdek-Místek, sp. zn. 5T/113/2010, z 19. januára 2011 v spojení s uznesením Krajského súdu v Ostrave, sp. zn. 6To/130/2011, z 8. apríla 2011 (právoplatný 8. apríla 2011) uznaný za vinného z prečinu ohrozenia pod vplyvom návykovej látky podľa § 274 ods. 1 Trestného zákona Českej republiky na tom skutkovom základe, že 5. apríla 2010 približne o 12.20 hod."
+- *NS SR* sp. zn. 1 Tost 29/2014, 2014-08-19
+  > „vo Z., bytom Z., Z. č. X./X., za účelom jeho vydania na trestné stíhanie do Českej republiky pre skutky kvalifikované ako trestný čin marenia výkonu úradného rozhodnutia a vykázania podľa § 337 ods. 1 písm. a/ českého Trestného zákona a ohrozenia 3 1 Tost 29/2014 pod vplyvom návykovej látky podľa § 274 ods. 1 českého Trestného zákona, ktoré mal spáchať tak, že dňa 25. marca 2014 okolo 17,10 hod."
+- *NS SR* ECLI ECLI:SK:NSSR:2013:9511100083.10, 2013-11-28
+  > „spod obžaloby za skutok kvalifikovaný ako prečin nedovolanej výroby omamných a psychotropných látok, jedov alebo prekurzorov, ich držania a obchodovania s nimi podľa § 171 ods. 2 Trestného zákona (D.) a prečin falšovania, pozmeňovania a nedovolenej výroby kolkových známok, poštových cenín, nálepiek a poštových pečiatok podľa § 274 ods. 1, ods. 2 písm. a/ Trestného zákona, z časti dokonaný."
+- *NS SR* sp. zn. 3 Tost 26/2012, 2012-07-18
+  > „v C., bytom K., občana Slovenskej republiky, do predbežnej väzby na základe európskeho zatýkacieho rozkazu vydaného Mestským súdom Szekesfehérvar, Maďarská republika dňa 16. apríla 2012 pod číslom konania 5 BNY 157/2012, za účelom trestného stíhania pre trestné činy krádeže podľa § 316 ods. 1, ods. 6 a § 274 ods. 1 maďarského Trestného zákona s tým, že väzba mu začala plynúť dňa 28. júna 2012 od 06.16 hod."
+
 ### § 275 — Falšovanie a pozmeňovanie kontrolných technických opatrení na označenie tovaru
 
 > **§ 275**
@@ -717,6 +940,13 @@ Rozširuje ochranu pred falšovaním z peňazí a cenných papierov aj na kolkov
 **Výklad:**
 
 Obdobná skutková podstata ako § 274, avšak zameraná na kontrolné technické opatrenia označenia tovaru (kontrolné známky, kontrolné pásky a iné technické opatrenia) slúžiace na daňové alebo iné zákonom ustanovené účely — postihuje ich falšovanie a pozmeňovanie v úmysle spôsobiť škodu alebo získať prospech, ako aj ich uvádzanie do obehu, používanie ako pravých alebo prechovávanie (odsek 1), s rovnakou štruktúrou kvalifikácií podľa výšky prospechu, motívu a rozsahu ako predchádzajúce ustanovenie (odseky 2 a 3). Toto ustanovenie úzko súvisí s § 279, ktorý postihuje „druhú stranu“ — obchádzanie požiadavky označenia tovaru samotnými kontrolnými známkami.
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2012:9511100083.5, 2012-11-15
+  > „z prečinu falšovania a pozmeňovania kontrolných technických opatrení na označenie tovaru podľa § 275 ods. 1 Trestného zákona (bod 14/) na tom skutkovom základe, ako je uvedené v skutkovej vete výrokovej časti napadnutého I."
+- *NS SR* sp. zn. 6 To 4/2012, 2012-11-15
+  > „z prečinu falšovania a pozmeňovania kontrolných technických opatrení na označenie tovaru podľa § 275 ods. 1 Trestného zákona (bod 14/) na tom skutkovom základe, ako je uvedené v skutkovej vete výrokovej časti napadnutého I."
 
 ### § 276 — Skrátenie dane a poistného
 
@@ -744,6 +974,17 @@ Základná daňová skutková podstata postihuje skrátenie dane, poistného na 
 
 Kvalifikácie postupňujú podľa recidívy, porušenia úradného uzáveru na uľahčenie činu, závažnejšieho spôsobu konania alebo väčšieho rozsahu (odsek 2), a ďalej podľa rozsahu značného (odsek 3) a veľkého (odsek 4) — konštrukcia postupného zvyšovania sadzby podľa peňažného rozsahu skrátenia je typická pre celú skupinu daňových trestných činov v tomto diele.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2020:5113011474.1, 2020-04-21
+  > „Z dôvodu totožnosti podstaty konaní tvoriacich objektívnu stránku skutkových podstát trestného činu neodvedenia dane a poistného podľa druhej aliney § 277 ods. 1 Trestného zákona a trestného činu skrátenia dane a poistného podľa § 276 Trestného zákona sa možno s otázkou, či skutková podstata súdeného trestného činu vyžaduje pre jeho spáchanie konanie špeciálneho subjektu, vysporiadať analogicky poukazom na ustálenú judikatúru."
+- *NS SR* ECLI ECLI:SK:NSSR:2021:5614010187.1, 2021-03-23
+  > „Obvinený Radim Kakalejčík bol v úvode označeným rozsudkom okresného súdu uznaný vinným z pokračovacieho zločinu skrátenia dane a poistného podľa § 276 ods. 1, ods. 4 Trestného zákona, pričom s takto ustáleným právnym posúdením zisteného skutku sa krajský súd, ako to vyplýva z jeho uznesenia, v plnom rozsahu stotožnil."
+- *NS SR* ECLI ECLI:SK:NSSR:2018:5111010223.1, 2018-11-21
+  > „Z vyššie uvedeného vyplýva, že skutková veta tak , ako bola ustálená, obsahuje všetky zákonné znaky trestného činu - zločinu skrátenia dane a poistného podľa § 276 ods. 1, ods. 2 písm. d) Trestného zákona, z ktorého bol obvinený Ing."
+- *NS SR* ECLI ECLI:SK:NSSR:2021:4119011634.1, 2021-03-31
+  > „B., pre pokračovací zločin skrátenia dane a poistného podľa § 276 ods. 1, ods. 4 Trestného zákona, prerokoval na neverejnom zasadnutí konanom 18. februára 2021 v Bratislave dovolanie obvineného podané prostredníctvom obhajcu JUDr. Ladislava Ščuryho proti rozsudku Krajského súdu v Žiline z 25. júna 2020, č. k."
+
 ### § 277 — Neodvedenie dane a poistného
 
 > **§ 277**
@@ -763,6 +1004,17 @@ Kvalifikácie postupňujú podľa recidívy, porušenia úradného uzáveru na u
 **Výklad:**
 
 Na rozdiel od § 276 (aktívne skrátenie dane) postihuje § 277 pasívne konanie — zadržanie a neodvedenie už zrazenej alebo vybranej splatnej dane či poistného (typicky zrážková daň zo mzdy zamestnancov, poistné zrazené zamestnávateľom) určenému príjemcovi, v úmysle zadovážiť neoprávnený prospech (odsek 1); ide teda o zneužitie postavenia platiteľa, ktorý má povinnosť odviesť už vybraté prostriedky, nie o vlastnú daňovú povinnosť. Kvalifikácie postupujú obdobne ako pri § 276 podľa rozsahu a spôsobenej škody (odseky 2 až 4).
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2020:5113011474.1, 2020-04-21
+  > „Z dôvodu totožnosti podstaty konaní tvoriacich objektívnu stránku skutkových podstát trestného činu neodvedenia dane a poistného podľa druhej aliney § 277 ods. 1 Trestného zákona a trestného činu skrátenia dane a poistného podľa § 276 Trestného zákona sa možno s otázkou, či skutková podstata súdeného trestného činu vyžaduje pre jeho spáchanie konanie špeciálneho subjektu, vysporiadať analogicky poukazom na ustálenú judikatúru."
+- *NS SR* ECLI ECLI:SK:NSSR:2019:4415010348.1, 2019-11-20
+  > „Pokiaľ ide o námietku obvineného k nezákonnosti príkazu na domovú prehliadku najvyšší súd uvádza nasledovné: Uvedenie nesprávnej právnej kvalifikácii zločinu neodvedenia dane a poistného podľa § 277 ods. 1, ods. 2 písm. b) Trestného zákona, pričom išlo o konanie vo veci obzvlášť závažného podvodu podľa § 221 ods. 1, ods. 4 písm. a) Trestného zákona v predmetnom príkaze posúdil aj dovolací súd jednoznačne ako pisársku chybu, ktorá nemá zásadný vplyv na zákonnosť daného príkazu."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:4115010093.2, 2020-04-16
+  > „V súvislosti s nesprávnou právnou kvalifikáciou, uplatnenou v rámci dovolacieho dôvodu podľa § 371 ods. 1 písm. i) Tr. por. považuje najvyšší súd za potrebné opätovne zdôrazniť, že v zmysle § 277 Trestného zákona v znení účinnom do 30. septembra 2012, predmetné ustanovenie obsahovalo v sebe dve samostatné skutkové podstaty, prvú týkajúcu sa zadržania a neodvedenia splatnej dane a poistného, zrazených a vybratých podľa zákona (prvá alinea) a druhú, týkajúcu sa neoprávneného uplatňovania nároku na vrátenie DPH (alinea druhá)."
+- *NS SR* ECLI ECLI:SK:NSSR:2018:9513100016.1, 2018-12-18
+  > „R., a to za spáchanie zločinu zosnovania a podporovania zločineckej skupiny podľa § 296 Trestného zákona a za spáchanie zločinu neodvedenia dane a poistného podľa § 277 ods. 1 ods. 4 Trestného zákona) vykonáva Najvyšší súd Slovenskej republiky pod sp. zn. 2TdoV/13/2015, konanie o dovolaní podanom obvineným L."
 
 ### § 277a — Daňový podvod
 
@@ -790,6 +1042,17 @@ Samostatná a prísne trestaná skutková podstata daňového podvodu postihuje 
 
 Kvalifikácie v odsekoch 2 a 3 postupujú podľa recidívy, rozsahu (značný, veľký) alebo spáchania ako člen nebezpečného zoskupenia, pričom už základná sadzba (šesť mesiacov až tri roky) je prísnejšia než pri „obyčajnom“ skrátení dane v malom rozsahu podľa § 276 ods. 1, čo odzrkadľuje osobitnú škodlivosť podvodného vylákania štátnych prostriedkov oproti „iba“ neodvedeniu vlastnej povinnosti.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2020:5113011474.1, 2020-04-21
+  > „Na podporu prezentovaných záverov najvyšší súd dopĺňa, že súdený trestný čin (novelou Trestného zákona s účinnosťou od 1. októbra 2012 zakotvený ako "nová" skutková podstata trestného činu daňového podvodu do § 277a Trestného zákona) je jedným z dvoch samostatných daňových trestných činov, ktorých sa páchateľ dopúšťa podvodným spôsobom konania, a teda je z hľadiska svojej podstaty, spočívajúcej v jeho založení na podvodnom konaní na úseku daní, totožný s trestným činom skrátenia dane a poistného podľa § 276 Trestného zákona."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:1317010541.1, 2020-01-14
+  > „K jednotlivým dovolacím námietkam obvineného vymedzených v rámci samostatne špecifikovaných okruhov najvyšší súd uvádza nasledovné: Podľa § 277a ods. 1 Trestného zákona, kto neoprávnene vo väčšom rozsahu uplatní nárok na vrátenie dane z pridanej hodnoty alebo spotrebnej dane v úmysle zadovážiť sebe alebo inému neoprávnený prospech, potrestá sa odňatím slobody na jeden až päť rokov."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:4115010093.2, 2020-04-16
+  > „Novelou Trestného zákona č. 246/2012 s účinnosťou od 1. októbra 2012, bol vytvorený samostatný trestný čin daňového podvodu podľa § 277a Trestného zákona, ktorého spáchania sa páchateľ dopustí tým, že neoprávnene vo väčšom rozsahu uplatní nárok na vrátenie dane z pridanej hodnoty alebo spotrebnej dane v úmysle zadovážiť sebe alebo inému neoprávnený prospech."
+- *NS SR* sp. zn. 6Tost/1/2019, 2019-01-09
+  > „pre pokračujúci zločin skrátenia dane a poistného podľa § 276 ods. l, ods. 4 Trestného zákona v jednočinnom súbehu so zločinom daňového podvodu podľa § 277a ods. l, ods. 3 písm. a/ Trestného zákona s poukazom na 138 písm. i/ Trestného zákona, o sťažnosti obvineného MVDr."
+
 ### § 278 — Nezaplatenie dane a poistného
 
 > **§ 278**
@@ -803,6 +1066,17 @@ Kvalifikácie v odsekoch 2 a 3 postupujú podľa recidívy, rozsahu (značný, v
 **Výklad:**
 
 Postihuje nezaplatenie splatnej dane, poistného na sociálne poistenie, verejného zdravotného poistenia alebo príspevku na starobné dôchodkové sporenie vo väčšom rozsahu (odsek 1) — na rozdiel od § 276 a § 277 tu absentuje aktívne skresľovanie alebo zneužitie zadržaných prostriedkov; ide o „čisté“ nezaplatenie vlastnej splatnej povinnosti bez ďalšieho kvalifikačného znaku úmyslu získať prospech, čo vysvetľuje miernejšiu základnú sadzbu (do dvoch rokov). Kvalifikácie postupujú podľa rozsahu — značného (odsek 2) a veľkého (odsek 3).
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2020:2119011042.1, 2020-07-22
+  > „33, 47), nemôže prevládnuť nad rešpektovaním zákona, najmä § 2 ods. 15 Trestného zákona, § 278 ods. 1 Trestného poriadku, ale aj judikatúry Najvyššieho súdu Slovenskej republiky - R 4/1969, R 37/1969, R 8/1984, R 9/1993, ktoré najvyšší súd len označil, bez potreby podrobne ich rozoberať, keďže konanie obvineného po dopravnej nehode nie je a nemôže byť, ani s ohľadom na podané dovolanie, predmetom tohto trestného konania."
+- *NS SR* ECLI ECLI:SK:NSSR:2018:5114010975.1, 2018-04-26
+  > „N., tak je potrebné s ohľadom na jeho odôvodnenie zaoberať sa v prvom rade tou skutočnosťou, či skutok tak ako bol ustálený vo výroku o vine prvostupňového rozsudku a následne bezo zmeny akceptovaný odvolacím súdom napĺňa skutočne všetky znaky skutkovej podstaty trestného činu neodvedenia dane a poistného podľa § 277 ods. 1, ods. 2 písm. b) Trestného zákona a trestného činu nezaplatenia dane a poistného podľa § 278 ods. 1 Trestného zákona, a teda či bol zo strany oboch, vo veci konajúcich súdov správne právne posúdený."
+- *NS SR* sp. zn. 3Tdo/85/2017, 2018-04-26
+  > „N., tak je potrebné s ohľadom na jeho odôvodnenie zaoberať sa v prvom rade tou skutočnosťou, či skutok tak ako bol ustálený vo výroku o vine prvostupňového rozsudku a následne bezo zmeny akceptovaný odvolacím súdom napĺňa skutočne všetky znaky skutkovej podstaty trestného činu neodvedenia dane a poistného podľa § 277 ods. 1, ods. 2 písm. b) Trestného zákona a trestného činu nezaplatenia dane a poistného podľa § 278 ods. 1 Trestného zákona, a teda či bol zo strany oboch, vo veci konajúcich súdov správne právne posúdený."
+- *NS SR* ECLI ECLI:SK:NSSR:2018:4214010220.1, 2018-03-28
+  > „Do skutkového stavu ustáleného súdmi nižších stupňov dovolací súd v zmysle vyššie uvedeného nie je oprávnený, a teda ani nebude zasahovať; najvyšší súd sa v súvislosti s už skôr citovanými právnymi úvahami obmedzí len na konštatovanie, že okresný súd skutok uvedený v obžalobe po vykonaní potrebných dôkazov správne a súlade s hmotným právom posúdil v bode 1a/ ako pokračovací zločin neodvedenia dane a poistného podľa § 277 ods. 1, ods. 2 písm. b/ Trestného zákona, v bode 1b/ ako pokračovací prečin neodvedenia dane a poistného podľa § 277 ods. 1 Trestného zákona, v bode 2a/ ako pokračovací prečin nezaplatenia dane a poistného podľa § 278 ods. 1 Trestného zákona a v bode 2b/ ako pokračovací prečin nezaplatenia dane a poistného podľa § 278 ods. 1 Trestného zákona."
 
 ### § 278a — Marenie výkonu správy daní
 
@@ -860,6 +1134,17 @@ Kvalifikácie postupujú podľa osobitného motívu alebo závažnejšieho spôs
 
 Dopĺňa ochranu kontrolných technických opatrení na označenie tovaru (kontrolné známky, pásky) z § 275 o postih na strane obchodníka s tovarom — nakladanie s kontrolnými opatreniami v rozpore s právnym predpisom v úmysle spôsobiť škodu alebo získať prospech, ako aj dovoz, vývoz, prepravu, uvádzanie do obehu alebo prechovávanie tovaru bez povinného označenia kontrolnými známkami či páskami na daňové alebo iné zákonom ustanovené účely (odsek 1) — typicky ide o obchod s neoznačeným (napríklad tabakovým alebo alkoholovým) tovarom mimo kontrolného a fiškálneho režimu. Kvalifikácie postupujú podľa výšky spôsobenej škody, motívu a závažnejšieho spôsobu konania (odsek 2), resp. rozsahu škody a spáchania ako člen nebezpečného zoskupenia (odsek 3).
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2019:9518100008.4, 2019-11-12
+  > „Obžalovaný zaujal názor, že pri tomto skutku nie je možné na základe vykonaných dôkazov ustáliť skutkový dej ani právnu kvalifikáciu, skutky spočívajúce v držaní tovaru (napr. cigariet či liehu) neoznačeného kontrolnými známkami, kontrolnými páskami alebo inými technickými opatreniami na označenie tovaru na daňové účely boli vždy podľa ustálenej súdnej praxe kvalifikované len ako trestný čin porušenia predpisov o štátnych technických opatreniach na označenie tovaru podľa § 279 Trestného zákona."
+- *NS SR* ECLI ECLI:SK:NSSR:2021:7020200494.1, 2021-01-26
+  > „uznaný za vinného, je možné podľa slovenského Trestného zákona právne kvalifikovať ako trestný čin porušovania predpisov o štátnych technických opatreniach na označenie tovaru podľa § 279 ods. 1, ods. 2 písm. a) Trestného zákona s trestnou sadzbou 1-5 rokov."
+- *NS SR* ECLI ECLI:SK:NSSR:2018:6015200558.1, 2018-06-14
+  > „na prerušenie tohto konania do právoplatného skončenia súdneho konania sp. zn. 2T/154/2012 na Okresnom súde Piešťany, kde sa skúma, či zo strany žalobcu došlo (stíhanie za prečin porušenie predpisov o štátnych technických opatreniach na označenie tovaru podľa § 279 Trestného zákona) vôbec ku konaniu, ktorým by porušoval všeobecne záväzné predpisy pri nakladaní s kontrolnými známkami na označenie tovaru na daňové účely."
+- *NS SR* sp. zn. 6Sžf/31/2016, 2018-06-14
+  > „na prerušenie tohto konania do právoplatného skončenia súdneho konania sp. zn. 2T/154/2012 na Okresnom súde Piešťany, kde sa skúma, či zo strany žalobcu došlo (stíhanie za prečin porušenie predpisov o štátnych technických opatreniach na označenie tovaru podľa § 279 Trestného zákona) vôbec ku konaniu, ktorým by porušoval všeobecne záväzné predpisy pri nakladaní s kontrolnými známkami na označenie tovaru na daňové účely."
+
 ### § 280 — Spoločné ustanovenie
 
 > **§ 280**
@@ -873,6 +1158,13 @@ Spoločné (interpretačné) ustanovenie tretieho dielu rozširuje rozsah trestn
 ---
 
 ## Štvrtý diel — Trestné činy proti priemyselným právam a proti autorskému právu
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* sp. zn. 2Tdo/78/2018, 2019-03-27
+  > „Vzhľadom na uvedené generálny prokurátor navrhol, aby Najvyšší súd Slovenskej republiky ako súd dovolací podľa § 386 ods. 1 Trestného poriadku vyslovil, že právoplatným uznesením Krajského súdu v Nitre zo 14. marca 2018, sp. zn. 2To/2/2018, bol z dôvodu uvedeného v ustanovení § 371 ods. 1 písm. i) Trestného poriadku porušený zákon v ustanovení § 10 ods. 2 Trestného zákona, § 360 ods. 1, ods. 2 písm. b) Trestného zákona s poukazom na § 139 ods. 1 písm. c) Trestného zákona, ako aj v ustanovení § 320 ods. 1 písm. a) Trestného poriadku, § 280 ods. 2 Trestného poriadku v prospech obvinenej K."
+- *NS SR* ECLI ECLI:SK:NSSR:2021:4616010287.1, 2021-05-18
+  > „Na základe uvedeného generálny prokurátor Slovenskej republiky navrhol: 1/ podľa § 386 ods. 1 Trestného poriadku, aby Najvyšší súd Slovenskej republiky vyslovil, že uznesením Krajského súdu v Nitre, sp. zn. 2To/88/2019 z 30. októbra 2019, bol porušený zákon v ustanoveniach § 10 ods. 2, § 364 ods. 1 písm. a), § 156 ods. 1, ods. 2 písm. a) Trestného zákona, s poukazom na § 139 ods. 1 písm. e), § 127 ods. 3 Trestného zákona, ako aj v ustanoveniach § 320 ods. 1 písm. a), § 280 ods. 2 Trestného poriadku v prospech obvineného V."
 
 ### § 281 — Porušovanie práv k ochrannej známke, označeniu pôvodu výrobku a obchodnému menu
 
@@ -957,3 +1249,15 @@ Obdobná skutková podstata ako § 281 chráni širší okruh priemyselných pr�
 Uzatvára piatu hlavu ochranou autorského práva a s ním súvisiacich práv — neoprávnený zásah do zákonom chránených práv k dielu, umeleckému výkonu, zvukovému alebo zvukovo-obrazovému záznamu, rozhlasovému či televíznemu vysielaniu alebo databáze (odsek 1).
 
 Odsek 2 kvalifikuje čin okrem obvyklých okolností (väčšia škoda, závažnejší spôsob konania, osobitný motív) aj osobitným prostriedkom páchania — prostredníctvom počítačového systému (písm. d), čo reflektuje praktický význam online šírenia neoprávnených rozmnoženín pri porušovaní autorských práv. Ďalšie kvalifikácie (odseky 3 a 4) postupujú podľa výšky spôsobenej škody a spáchania ako člen nebezpečného zoskupenia.
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2019:6016897575.2, 2019-08-21
+  > „za zločin nedovolenej výroby a iného nakladania s omamnými a psychotropnými látkami a s jedmi podľa § 283 ods. 1, 2 písm. c/ Trestného zákona Českej republiky a iné, o sťažnosti odsúdeného proti uzneseniu Krajského súdu v Banskej Bystrici z 10. júla 2019, sp. zn. 3Ntc 10/2016, takto rozhodol: Podľa § 193 ods. 1 písm. c/ Tr. por. sťažnosť odsúdeného W."
+- *NS SR* sp. zn. 6Urtos/7/2019, 2019-08-21
+  > „za zločin nedovolenej výroby a iného nakladania s omamnými a psychotropnými látkami a s jedmi podľa § 283 ods. 1, 2 písm. c/ Trestného zákona Českej republiky a iné, o sťažnosti odsúdeného proti uzneseniu Krajského súdu v Banskej Bystrici z 10. júla 2019, sp. zn. 3Ntc 10/2016, takto r o z h o d o l : Podľa § 193 ods. 1 písm. c/ Tr. por. sťažnosť odsúdeného W."
+- *NS SR* ECLI ECLI:SK:NSSR:2017:9017200195.1, 2017-12-06
+  > „pre obzvlášť závažný zločin nedovolenej výroby a iného nakladania s omamnými a psychotropnými látkami a s jedmi podľa § 283 ods. 1, ods. 3 písm. c), ods. 4 písm. c) Trestného zákona Českej republiky, o odvolaní odsúdeného proti rozsudku Krajského súdu v Banskej Bystrici z 31. októbra 2017, sp. zn. 5Ntc/16/2017, takto rozhodol: Podľa § 518 ods. 4, veta druhá Tr. por. odvolanie odsúdeného H."
+- *NS SR* sp. zn. 2Urto/9/2017, 2017-12-06
+  > „pre obzvlášť závažný zločin nedovolenej výroby a iného nakladania s omamnými a psychotropnými látkami a s jedmi podľa § 283 ods. 1, ods. 3 písm. c), ods. 4 písm. c) Trestného zákona Českej republiky, o odvolaní odsúdeného proti rozsudku Krajského súdu v Banskej Bystrici z 31. októbra 2017, sp. zn. 5Ntc/16/2017, takto r o z h o d o l : Podľa § 518 ods. 4, veta druhá Tr. por. odvolanie odsúdeného H."
+

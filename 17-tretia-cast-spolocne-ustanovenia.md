@@ -44,6 +44,17 @@ Odseky 2 a 3 riešia časovo citlivú otázku **podmienečného prepustenia z v�
 
 Odsek 4 rieši **premlčanie** — ak k premlčaniu trestného stíhania alebo výkonu trestu došlo ešte pred účinnosťou tohto zákona podľa dovtedajších predpisov, nová (spravidla dlhšia alebo inak koncipovaná) úprava premlčania sa naň už nepoužije; premlčanie, ktoré už nastalo, teda zostáva nastúpené a nemôže byť dodatočne "obnovené" prísnejšou novou úpravou. Odseky 5 a 6 zabezpečujú kontinuitu pri zohľadňovaní **predchádzajúceho potrestania** za najzávažnejšie trestné činy (vymenované v § 43 ods. 1 starého zákona) pri aplikácii ustanovení tohto zákona o mimoriadnom zvýšení trestnej sadzby pri recidíve (§ 47 ods. 2) a pri úvahe súdu o uložení trestu odňatia slobody na doživotie (§ 34 ods. 8 písm. d) — odsúdenie podľa starého zákona sa tu započítava rovnako, ako keby išlo o odsúdenie podľa zákona nového.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2021:4218010307.1, 2021-06-30
+  > „Najvyšší súd ďalej nezistil pochybenie súdov nižšieho stupňa ani pri ukladaní trestu obvinenému v zmysle zásady „trikrát a dosť" (§ 47 ods. 2 Trestného zákona), nakoľko v danom prípade boli kumulatívne splnené podmienky na jeho uloženie, a to i s poukazom na prechodné ustanovenie uvedené v § 437 ods. 5 Trestného zákona."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:3012000003.1, 2020-02-11
+  > „Podľa § 437 ods. 3, veta prvá, Trestného zákona (zákona číslo 300/2005 Z. z. v znení neskorších predpisov účinného od 1. januára 2006 - ďalej len „Trestný zákon číslo 300/2005 Z. z."), pri posudzovaní splnenia podmienok na rozhodovanie o podmienečnom prepustení z výkonu trestu odňatia slobody alebo rozhodovaní o podmienečnom upustení od výkonu zvyšku trestu u trestov uložených pred účinnosťou tohto zákona sa postupuje podľa doterajších predpisov."
+- *NS SR* ECLI ECLI:SK:NSSR:2015:9014898891.1, 2015-07-21
+  > „Podľa § 437 ods. 4 Trestného zákona č. 300/2005 Z. z. ak došlo k premlčaniu trestného stíhania alebo k premlčaniu výkonu trestu pred účinnosťou tohto zákona podľa doterajších predpisov, ustanovenia o premlčaní trestného stíhania a premlčaní výkonu trestu sa podľa tohto zákona nepoužijú."
+- *NS SR* sp. zn. 4 Tdo 46/2014, 2015-07-21
+  > „Podľa § 437 ods. 4 Trestného zákona č. 300/2005 Z. z. ak došlo k premlčaniu trestného stíhania alebo k premlčaniu výkonu trestu pred účinnosťou tohto zákona podľa doterajších predpisov, ustanovenia o premlčaní trestného stíhania a premlčaní výkonu trestu sa podľa tohto zákona nepoužijú."
+
 ### § 438 — Prechodné ustanovenia (výkladové prevody pojmov)
 
 > **§ 438**
@@ -55,6 +66,11 @@ Odsek 4 rieši **premlčanie** — ak k premlčaniu trestného stíhania alebo v
 **Výklad:**
 
 Toto ustanovenie prekladá terminológiu medzi starou a novou úpravou v dvoch smeroch. Odsek 1 rieši výkon trestu odňatia slobody — nová úprava rozlišuje ústavy podľa **stupňa stráženia** (minimálny, stredný, maximálny), zatiaľ čo dovtedajšia prax poznala **nápravnovýchovné skupiny** (prvú, druhú, tretiu); ustanovenie zabezpečuje, že odkazy na nové kategórie v tomto zákone sa vzťahujú aj na zaradenie vykonané podľa starej terminológie. Odsek 2 rieši opačný smer — pojem "obzvlášť závažný trestný čin", ktorý používali predpisy vyhlásené pred účinnosťou tohto zákona (teda v čase, keď tento pojem mal iný, širší význam než dnešný "zločin"), sa má pri výklade takých starších predpisov chápať ako odkaz na kategóriu **zločinu** podľa tohto zákona (§ 11 ods. 1). Ide teda o obojsmerný výkladový mostík medzi terminológiou z roku 1961 (resp. staršou) a terminológiou zavedenou týmto kódexom.
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2017:3115010162.1, 2017-02-28
+  > „Domáhal sa, aby dovolací súd vyslovil rozsudkom, že podľa § 386 ods. 1 Trestného poriadku bol uznesením Krajského súdu v Trenčíne, sp. zn. 23To 29/2016 z 23. mája 2016 a v konaní, ktoré mu predchádzalo, z dôvodu uvedeného v ustanovení § 371 ods. 1 písm. c/, i/ Trestného poriadku porušený zákon v ustanoveniach § 146, § 168 ods. 1, § 176 ods. 2, § 287 ods. 1, § 319 Trestného poriadku, § 157 ods. 1, ods. 2 písm. a/, § 138 písm. h/ Trestného zákona a § 438 ods. 1 Občianskeho zákonníka v neprospech obvineného."
 
 ### § 438a — Prechodné ustanovenia k úpravám účinným od 20. decembra 2008
 
@@ -76,6 +92,17 @@ Prvé z rady prechodných ustanovení, ktoré zákon postupne dopĺňal pri jedn
 
 Ustanovenie reflektuje zavedenie eura na Slovensku k 1. januáru 2009. Ak sa aj po tomto dátume trestnosť činu a výška trestu posudzujú podľa znenia zákona účinného pred zavedením eura (teda v korunovom vyjadrení peňažného trestu), samotné uloženie trestu už prebehne v eurách — súd sumu prepočíta pevným konverzným kurzom a zaokrúhli podľa všeobecných pravidiel prechodu na euro. Ide o čisto technické, menové prechodné ustanovenie, ktoré nemení hmotnoprávnu podstatu trestu, len jeho menové vyjadrenie.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2019:4015898712.1, 2019-07-30
+  > „29. augusta č. 8, IČO: 30 807 484, krajská pobočka Nitra, so sídlom Nitra, Slančíkovej 3, škodu vo výške 8.604,- Sk, čo po prepočítaní podľa § 438b Trestného zákona účinného od 01. januára 2006 (v znení zákona č. 498/2008 Z. z.) predstavuje čiastku 285,60 eura (dvestoosemdesiatpäť eur a šesťdesiat centov)."
+- *NS SR* sp. zn. 2Tdo/36/2019, 2019-07-30
+  > „29. augusta č. 8, IČO: 30 807 484, krajská pobočka Nitra, so sídlom Nitra, Slančíkovej 3, škodu vo výške 8.604,- Sk, čo po prepočítaní podľa § 438b Trestného zákona účinného od 01. januára 2006 (v znení zákona č. 498/2008 Z. z.) predstavuje čiastku 285,60 eura (dvestoosemdesiatpäť eur a šesťdesiat centov)."
+- *NS SR* ECLI ECLI:SK:NSSR:2017:4110010188.1, 2017-09-26
+  > „bol za to podľa § 53 ods. 2 písm. b) a § 54 ods. 1 Tr. zák. uložený peňažný trest vo výmere 5 000,- Sk (päťtisíc korún slovenských), čo po prepočítaní podľa § 438b Trestného zákona účinného od 1. januára 2006 (v znení zákona č. 498/2008 Z. z.) predstavuje čiastku 165,97 eur."
+- *NS SR* sp. zn. 4Tdo/77/2015, 2017-09-26
+  > „bol za to podľa § 53 ods. 2 písm. b) a § 54 ods. 1 Tr. zák. uložený peňažný trest vo výmere 5 000,- Sk (päťtisíc korún slovenských), čo po prepočítaní podľa § 438b Trestného zákona účinného od 1. januára 2006 (v znení zákona č. 498/2008 Z. z.) predstavuje čiastku 165,97 eur.Podľa § 54 ods. 2 Tr. zák. súd zároveň vyslovil, že vymožená suma peňažného trestu pripadá štátu a podľa § 54 ods. 3 Tr. zák. ustanovil pre prípad, že by výkon tohto trestu mohol byť úmyselne zmarený, náhradný trest odňatia slobody vo výmere 3 (tri) mesiace.Na podklade odvolaní prokurátorky Okresnej prokuratúry W."
+
 ### § 438c — Prechodné ustanovenie k úpravám účinným od 1. septembra 2010
 
 > **§ 438c**
@@ -95,6 +122,17 @@ Novela účinná od 1. septembra 2010 zaviedla ochranné opatrenia **zhabania pe
 **Výklad:**
 
 Ide o obdobnú konštrukciu ako pri § 437 ods. 5 a 6 — novela sprísňujúca trest zákazu činnosti pri opakovanom páchaní taxatívne vymenovaných trestných činov (§ 61 ods. 3 a 5) sa uplatní, aj keď k prvému odsúdeniu došlo ešte pred jej účinnosťou, pokiaľ páchateľ spácha ďalší z takých činov po 1. novembri 2011. Druhá veta zveruje súdu **moderačné (korekčné) oprávnenie** — súd nemusí staršie odsúdenie zohľadniť, ak by prísnejšia sadzba bola vzhľadom na mimoriadne okolnosti predchádzajúcich prípadov voči páchateľovi neprimerane tvrdá; ide o poistku proti mechanickému a neprimeranému uplatneniu retroaktívne pôsobiacej prísnejšej sadzby.
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2018:4416893558.1, 2018-03-07
+  > „Podľa § 61 ods. 1, ods. 2, ods. 5 písm. a) Trestného zákona s poukazom na ustanovenia § 438d Trestného zákona bol obvinenému uložený trest zákazu činnosti viesť motorové vozidlá na dobu 10 (desať) rokov."
+- *NS SR* ECLI ECLI:SK:NSSR:2015:5914010491.1, 2015-12-09
+  > „Podľa § 61 ods. 1, ods. 2, ods. 5 písm. a/ Trestného zákona a § 438d Trestného zákona mu súd uložil trest zákazu činnosti viesť motorové vozidlá na doživotie."
+- *NS SR* sp. zn. 3Tdo/60/2015, 2015-12-09
+  > „Podľa § 61 ods. 1, ods. 2, ods. 5 písm. a/ Trestného zákona a § 438d Trestného zákona mu súd uloţil trest zákazu činnosti viesť motorové vozidlá na doţivotie."
+- *NS SR* ECLI ECLI:SK:NSSR:2018:2517010005.1, 2018-10-16
+  > „Obvinený v podanom dovolaní poukázal aj na ustanovenie § 438d Trestného zákona, z ktorého je podľa jeho názoru taktiež možné vyvodiť, že zákonodarca mal v § 61 ods. 5 Trestného zákona na mysli len trestné činy podľa § 289 Trestného zákona."
 
 ### § 438e — Prechodné ustanovenie k úpravám účinným od 1. januára 2013
 

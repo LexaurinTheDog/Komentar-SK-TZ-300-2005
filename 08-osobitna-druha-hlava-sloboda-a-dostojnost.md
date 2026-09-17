@@ -52,6 +52,17 @@ Odsek 2 upravuje osobitnú (miernejšiu na dokazovanie) skutkovú podstatu pri d
 
 Odseky 3 až 5 stupňujú trestnosť podľa získaného prospechu (väčší, značný, veľkého rozsahu), spôsobeného následku (ohrozenie ťažkou ujmou, spôsobenie ťažkej ujmy či smrti, smrť viacerých osôb), postavenia páchateľa (verejný činiteľ, člen nebezpečného zoskupenia) a ďalších priťažujúcich okolností (chránená osoba, osobitný motív, závažnejší spôsob konania, spoločné konanie). Najprísnejšia kvalifikovaná skutková podstata (odsek 5) umožňuje uložiť trest odňatia slobody na doživotie.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2018:9507100043.1, 2018-04-11
+  > „ako aj za skutky pod bodmi 6/, 7/ a 8/ rozsudku Špecializovaného trestného súdu v Pezinku z 9. augusta 2016, sp. zn. PK-1T/14/2007-19126 Podľa § 179 ods. 2 s použitím § 35 ods. 2 Trestného zákona účinného do 31. decembra 2005 na úhrnný trest odňatia slobody vo výmere 11 (j e d e n á s ť) rokov."
+- *NS SR* ECLI ECLI:SK:NSSR:2016:1014201277.1, 2016-05-25
+  > „Uviedol, že v prejednávanej veci vyšetrovateľ uznesením č. p.: UHCP-24/NJ-Z-2013 zo dňa 03.09.2013 právoplatne rozhodol o tom, že konanie nenaplnilo znaky skutkovej podstaty žiadneho trestného činu a teda ani trestného činu obchodovania s ľuďmi podľa § 179 trestného zákona."
+- *NS SR* sp. zn. 10Sža/4/2016, 2016-05-25
+  > „Uviedol, ţe v prejednávanej veci vyšetrovateľ uznesením č. p.: UHCP-24/NJ-Z-2013 zo dňa 03.09.2013 právoplatne rozhodol o tom, ţe konanie nenaplnilo znaky skutkovej podstaty ţiadneho trestného činu a teda ani trestného činu obchodovania s ľuďmi podľa § 179 trestného zákona."
+- *NS SR* ECLI ECLI:SK:NSSR:2015:7015200150.1, 2015-03-30
+  > „Dôvod zaistenia doposiaľ nepominul, nakoľko účastník konania bol právoplatne odsúdený rozsudkom Okresného súdu Trebišov č. 3T/57/2012 zo dňa 11.12.2012, ktorý nadobudol právoplatnosť dňa 31.01.2013 zo zločinu obchodovania s ľuďmi podľa § 179 ods. 1, ods. 2 Trestného zákona, za čo mu bol uložený trest odňatia slobody v trvaní 4 (štyroch) rokov a podľa § 48 ods. 2 písm. a) Trestného zákona bol zaradený pre výkon trestu odňatia slobody do ústavu na výkon trestu s minimálnym stupňom stráženia."
+
 ### § 180 — Zverenie dieťaťa do moci iného
 
 > **§ 180**
@@ -104,6 +115,11 @@ V zdrojovom texte nasleduje toto ustanovenie bezprostredne po § 180 bez samosta
 
 Kvalifikované skutkové podstaty v odsekoch 2 až 4 sledujú rovnakú logiku stupňovania ako pri § 179 a § 180 — podľa výšky získaného prospechu (väčší, značný, veľkého rozsahu), závažnosti spôsobu konania a najmä podľa spôsobeného následku (ťažká ujma na zdraví, smrť, smrť viacerých osôb) či postavenia páchateľa ako člena nebezpečného zoskupenia, pričom najprísnejšia forma opäť umožňuje trest odňatia slobody na doživotie.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* sp. zn. 2 Sža 21/2007, 2008-03-26
+  > „Poukázal na skutočnosť, že navrhovateľ bol rozsudkom Krajského súdu v Bratislave zo dňa 25. mája 1998 odsúdený pre pokus trestného činu nedovolenej výroby a držania omamných a psychotropných látok a prekurzorov podľa § 8 ods. 1, § 181 ods. 1, ods. 3 písm. c) Trestného zákona a trestný čin falšovania, pozmeňovania verejnej listiny, úradnej pečate a úradnej uzávery podľa § 176 ods. 1 Trestného zákona; bol mu uložený úhrnný trest odňatia slobody vo výmere 8 rokov so zaradením do I."
+
 ### § 182 — Pozbavenie osobnej slobody
 
 > **§ 182**
@@ -137,6 +153,11 @@ Kvalifikované skutkové podstaty v odsekoch 2 až 4 sledujú rovnakú logiku st
 Základná skutková podstata postihuje úplné, neoprávnené odňatie osobnej slobody inému — na rozdiel od miernejšieho "obmedzovania" podľa § 183 ide o stav, keď obeť stratí možnosť voľného pohybu celkom (napr. uväznenie, spútanie, uzamknutie). Táto typová závažnosť sa premieta aj do výrazne prísnejšej základnej trestnej sadzby (štyri až desať rokov) oproti § 183 (šesť mesiacov až tri roky).
 
 Kvalifikované skutkové podstaty postupne zohľadňujú osobitný motív, postavenie obete ako chránenej osoby, závažnejší spôsob konania, spôsobenú ťažkú ujmu na zdraví či smrť, získaný prospech a členstvo v nebezpečnom zoskupení, pričom najťažšie následky (smrť viacerých osôb, prospech veľkého rozsahu) umožňujú uloženie doživotného trestu.
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2019:8713010598.1, 2019-04-03
+  > „uznaný za vinného v bode 1 rozsudku - zo zločinu vydierania podľa 189 ods. 1 Trestného zákona - v bode 2 rozsudku - zo zločinu pozbavenia osobnej slobody podľa § 182 ods. 1, ods. 2 písm. c) Trestného zákona s poukazom na § 138 písm. d) Trestného zákona - zo zločinu znásilnenia podľa § 199 ods. 1 Trestného zákona, s použitím § 47 ods. 2 Trestného zákona a § 437 ods. 5 Trestného zákona - zo zločinu sexuálneho násilia podľa § 200 ods. 1 Trestného zákona - z prečinu kupliarstva podľa § 367 ods. 1, ods. 2 Trestného zákona s poukazom na § 138 písm. d) Trestného zákona."
 
 ### § 183 — Obmedzovanie osobnej slobody
 
@@ -176,6 +197,17 @@ Kým § 182 postihuje úplné pozbavenie osobnej slobody, § 183 dopadá na mier
 
 Kvalifikované okolnosti sledujú obdobnú štruktúru ako pri iných deliktoch proti osobnej slobode — závažnejší spôsob konania, osobitný motív, postavenie páchateľa ako verejného činiteľa, chránená osoba na strane obete, spôsobená škoda (väčšia, značná, veľkého rozsahu) a spôsobený následok na zdraví či živote, pričom spôsobenie smrti viacerých osôb alebo členstvo v nebezpečnom zoskupení zakladá najprísnejšiu sadzbu.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2019:5917010200.1, 2019-05-15
+  > „M., pre zločin obmedzovania osobnej slobody podľa § 183 ods. 1, ods. 2 písm. d) Trestného zákona, s poukazom na § 139 ods. 1 písm. c) Trestného zákona a iné o dovolaní obvineného F."
+- *NS SR* sp. zn. 6 Tdo 40/2011, 2012-02-02
+  > „obžalovaného od poškodenej odtlačil; 3 6 Tdo 40/2011 - prečinu obmedzovania osobnej slobody podľa § 183 ods. 1 Trestného zákona na tom skutkovom základe, že : 4/ v presne nezistenom čase v podvečerných až večerných hodinách v období na jar roku 2006 v N."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:1214010393.1, 2020-07-27
+  > „uznaný za vinného zo spáchania v bode 2/ zločinu lúpeže podľa § 188 ods. 1 Trestného zákona a v bode 3/ prečinu obmedzovania osobnej slobody formou spolupáchateľstva podľa § 20 Trestného zákona k § 183 ods. 1 Trestného zákona na skutkovom základe, že 2/ po tom, čo dňa 11. apríla 2013 v čase okolo 16.00 - 17.00 hod., bol poškodený J."
+- *NS SR* ECLI ECLI:SK:NSSR:2021:6411010718.1, 2021-03-23
+  > „Minister spravodlivosti preto navrhol, aby Najvyšší súd Slovenskej republiky (ďalej len „najvyšší súd“) podľa § 386 ods. 1 Trestného poriadku vyslovil, že rozsudkom Krajského súdu v Banskej Bystrici z 22. januára 2019, sp. zn. 5To/119/2017, a konaním, ktoré mu predchádzalo, bol porušený zákon v ustanoveniach § 2 ods. 7, § 2 ods. 10, § 2 ods. 12 Trestného poriadku, § 189 ods. 1, 2 písm. a) Trestného zákona s poukazom na § 138 písm. a), písm. j) Trestného zákona a § 183 ods. 1, 2 písm. a) Trestného zákona v neprospech obvineného T."
+
 ### § 184 — Obmedzovanie slobody pobytu
 
 > **§ 184**
@@ -203,6 +235,11 @@ Kvalifikované okolnosti sledujú obdobnú štruktúru ako pri iných deliktoch 
 Skutková podstata chráni slobodu voľby miesta pobytu ako samostatný aspekt osobnej slobody — postihuje dve zrkadlové konania, nútenie k pobytu na určitom mieste a bránenie v pobyte na určitom mieste, spáchané ľsťou, násilím alebo hrozbou násilia či inej ujmy.
 
 Odsek 3 samostatne postihuje (sadzbou zhodnou s kvalifikovanou skutkovou podstatou odseku 2) osobitný prípad týkajúci sa územia Slovenskej republiky ako celku — neoprávnené nútenie iného opustiť územie SR alebo neoprávnené bránenie v pobyte na jej území, čo chráni slobodu pobytu vo vzťahu k štátnemu územiu ako takému, nielen k jednotlivému miestu.
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* sp. zn. 5 Tdo 5/2009, 2009-03-19
+  > „Páchateľ, ktorý bez povolenia sebe alebo inému zadováži, alebo drží strelnú zbraň, by sa podľa Trestného zákona účinného v znení, zákona č. 227/2005 Z. z. dopustil trestného činu podľa § 184b ods. 1 Tr. zák. Pre obvineného bol najpriaznivejší Trestný zákon v čase spáchania skutku, teda v znení zákona, č. 457/2003 Z. z., podľa ktorého sa obvinený dopustil trestného činu nedovoleného ozbrojovania podľa § 185 ods. 1 Tr. zák. Proti vyššie uvedenému rozsudku krajského súdu podal obvinený I."
 
 ### § 185 — Branie rukojemníka
 
@@ -240,6 +277,17 @@ Podstatou tejto skutkovej podstaty je inštrumentalizácia obete — páchateľ 
 
 Kvalifikované okolnosti opäť odstupňúvajú trestnosť podľa spôsobu konania, postavenia obete, motívu, spôsobenej škody a najmä podľa spôsobeného následku na zdraví a živote, pričom spôsobenie smrti viacerých osôb alebo pôsobenie v rámci nebezpečného zoskupenia zakladá možnosť doživotného trestu.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2019:9015897685.1, 2019-01-08
+  > „v bode II/ trestného činu nedovoleného ozbrojovania podľa § 185 ods. 1 Trestného zákona na tom skutkovom základe, že I/ obvinení Z. M., M."
+- *NS SR* sp. zn. 4Tdo/13/2015, 2019-01-08
+  > „v bode II/ trestného činu nedovoleného ozbrojovania podľa § 185 ods. 1 Trestného zákona na tom skutkovom základe, že I/ obvinení Z. M., M."
+- *NS SR* ECLI ECLI:SK:NSSR:2017:7015897194.1, 2017-06-06
+  > „1, 2 písm. h/ Trestného zákona a nedovoleného ozbrojovania podľa § 185 ods. 1 Trestného zákona, ktorého sa dopustil tak, že obžalovaný N."
+- *NS SR* sp. zn. 3Urto/2/2016, 2017-06-06
+  > „1, 2 písm. h/ Trestného zákona a nedovoleného ozbrojovania podľa § 185 ods. 1 Trestného zákona, ktorého sa dopustil tak, ţe obţalovaný K."
+
 ### § 186 — Vydieračský únos
 
 > **§ 186**
@@ -276,6 +324,17 @@ Vydieračský únos kombinuje dve alternatívne konania — zmocnenie sa obete p
 
 Trestné sadzby sú v základnej skutkovej podstate výrazne prísnejšie než pri braní rukojemníka (sedem až dvanásť rokov oproti štyrom až desiatim), čo odráža typovo vyššiu závažnosť majetkovo motivovaného vydierania spojeného so zmocnením sa osoby. Kvalifikované skutkové podstaty stupňujú trest podľa výšky získaného prospechu, spôsobu konania, postavenia obete, motívu a spôsobeného následku, pričom najťažšie prípady (prospech veľkého rozsahu, smrť viacerých osôb, členstvo v nebezpečnom zoskupení) umožňujú doživotný trest.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2021:3519010279.1, 2021-01-27
+  > „pre zločin vydieračského únosu podľa § 186 ods. 1 Trestného zákona a iné, o dovolaní obvineného M."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:1214010393.1, 2020-07-27
+  > „V danej veci bola podaná obžaloba pre obzvlášť závažný zločin vydieračského únosu spáchaného formou spolupáchateľstva podľa § 20 k § 186 ods. 1, ods. 2 písm. b) Trestného zákona, pričom skutok bol spáchaný únosom poškodeného J."
+- *NS SR* sp. zn. 3Ndt/13/2018, 2018-05-10
+  > „O., pre obzvlášť závažný zločin vydieračského únosu spolupáchateľstvom podľa § 20, § 186 ods. 1, ods. 2 písm. b) Trestného zákona a iné, vedenej na Krajskom súde v Nitre pod sp. zn. 4 Nto/7/2018 na neverejnom zasadnutí konanom 10. mája 2018 v Bratislave, o návrhu obžalovaného F."
+- *NS SR* ECLI ECLI:SK:NSSR:2017:9512100043.1, 2017-10-25
+  > „uložený podľa § 186 ods.3, s použitím § 38 ods.2 Trestného zákona trest odňatia slobody vo výmere 13 ( trinásť ) rokov."
+
 ### § 187 — Zavlečenie do cudziny
 
 > **§ 187**
@@ -311,6 +370,17 @@ Trestné sadzby sú v základnej skutkovej podstate výrazne prísnejšie než p
 Základná skutková podstata je formulovaná stručne — postihuje samotné zavlečenie iného do cudziny, teda vynútené premiestnenie obete mimo územia Slovenskej republiky, bez toho, aby zákon v základnej skutkovej podstate vyžadoval ďalší účel (na rozdiel napr. od obchodovania s ľuďmi podľa § 179, kde je účel vykorisťovania definičným znakom). Chráneným záujmom je tu sloboda pohybu a zotrvania v domovskom prostredí ako takom.
 
 Kvalifikované skutkové podstaty stupňujú trest obdobne ako pri predchádzajúcich deliktoch — podľa spôsobenej škody, postavenia obete, motívu, spôsobu konania a najmä podľa spôsobeného následku na zdraví a živote, pričom škoda veľkého rozsahu, smrť viacerých osôb alebo členstvo v nebezpečnom zoskupení zakladajú najprísnejšiu sadzbu s možnosťou doživotného trestu.
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2018:1414010132.1, 2018-01-17
+  > „V danom prípade išlo v konečnom dôsledku o procesný postup s totožným výsledkom, a to uznania obvineného za vinného z trestného činu nedovolenej výroby a držby omamnej látky, psychotropnej látky, jedu a prekurzora a obchodovania s nimi podľa § 187 ods. 1 písm. c), písm. d) Trestného zákona účinného do 1. januára 2006 za tie isté skutky."
+- *NS SR* sp. zn. 3Tdo/16/2017, 2018-01-17
+  > „V danom prípade išlo v konečnom dôsledku o procesný postup s totožným výsledkom, a to uznania obvineného za vinného z trestného činu nedovolenej výroby a držby omamnej látky, psychotropnej látky, jedu a prekurzora a obchodovania s nimi podľa § 187 ods. 1 písm. c), písm. d) Trestného zákona účinného do 1. januára 2006 za tie isté skutky."
+- *NS SR* sp. zn. 3Tost/45/2016, 2017-01-11
+  > „S., pre trestný čin nedovolenej výroby a držania omamných a psychotropných látok, jedov a prekurzorov podľa § 187 ods. 1 Trestného zákona účinného do 31. decembra 2005 prerokoval sťažnosť odsúdeného I."
+- *NS SR* ECLI ECLI:SK:NSSR:2016:9016898474.1, 2016-08-18
+  > „skupiny psychotropných látok, a už bol za trestný čin nedovolenej výroby a držby omamnej látky, psychotropnej látky, jedu a prekurzora a obchodovania s nimi podľa § 187 ods. 1 písm. d/ Trestného zákona účinného do 1. januára 2006 odsúdený rozsudkom Okresného súdu Bratislava II."
 
 ### § 188 — Lúpež
 
@@ -350,6 +420,17 @@ Lúpež je zaradená do hlavy o trestných činoch proti slobode, hoci smeruje a
 
 Kvalifikované skutkové podstaty zohľadňujú ohrozenie života alebo zdravia viacerých osôb, spôsobenú škodu (väčšiu, značnú, veľkého rozsahu), závažnejší spôsob konania, postavenie obete, motív a najmä spôsobenie ťažkej ujmy na zdraví alebo smrti, pričom spôsobenie smrti viacerých osôb alebo pôsobenie ako člen nebezpečného zoskupenia zakladá možnosť doživotného trestu.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2018:2116010166.1, 2018-10-24
+  > „Čo sa týka uplatneného dôvodu dovolania podľa § 371 ods. 1 písm. i/ Tr. por., tak ani v tomto smere Najvyšší súd Slovenskej republiky nezistil žiadnu opodstatnenosť námietok obvineného, nakoľko skutkový stav tak, ako bol zo strany súdu prvého stupňa zistený je pre dovolací súd záväzný a pokiaľ ide potom o jeho právne posúdenie, takto to je i podľa jeho názoru správne, keďže posudzovaný skutok napĺňa všetky znaky skutkovej podstaty zločinu lúpeže spolupáchateľstvom podľa § 20, § 188 odsek 2 Trestného zákona."
+- *NS SR* sp. zn. 6Tdo/61/2017, 2018-10-24
+  > „Čo sa týka uplatneného dôvodu dovolania podľa § 371 ods. 1 písm. i/ Tr. por., tak ani v tomto smere Najvyšší súd Slovenskej republiky nezistil žiadnu opodstatnenosť námietok obvineného, nakoľko skutkový stav tak, ako bol zo strany súdu prvého stupňa zistený je pre dovolací súd záväzný a pokiaľ ide potom o jeho právne posúdenie, takto to je i podľa jeho názoru správne, keďže posudzovaný skutok napĺňa všetky znaky skutkovej podstaty zločinu lúpeže spolupáchateľstvom podľa § 20, § 188 odsek 2 Trestného zákona."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:8315010289.1, 2020-08-25
+  > „Preto je potrebné skonštatovať, že najvyšší súd už raz právoplatne rozhodol, že aj skutok uvedený pod bodom 1) rozsudku súdu prvého stupňa je správne právne kvalifikovaný ako zločin lúpeže podľa § 188 ods. 1, ods. 2 písm. d) Trestného zákona spáchaný na chránenej osobe, a to osobe vyššieho veku [§ 139 ods. 1 písm. e) Trestného zákona], preto nie je možné, aby v tomto neskoršom konaní, na podklade neskôr podaného dovolania, z už vyššie uvedených dôvodov, dospel vo vzťahu k tejto námietke k odlišným záverom."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:6713010092.1, 2020-01-14
+  > „Najvyšší súd konštatuje, že v posudzovanej veci okresný a krajský súd správne zistili skutkový stav a konanie obvinených aj správne právne kvalifikovali ako zločin lúpeže podľa § 188 ods. 1 Trestného zákona formou spolupáchateľstva podľa § 20 Trestného zákona."
+
 ### § 189 — Vydieranie
 
 > **§ 189**
@@ -387,6 +468,17 @@ Kvalifikované skutkové podstaty zohľadňujú ohrozenie života alebo zdravia 
 Vydieranie je všeobecnou skutkovou podstatou nútenia iného, aby niečo konal, opomenul alebo strpel, prostredníctvom násilia, hrozby násilia alebo hrozby inej ťažkej ujmy — na rozdiel od lúpeže (§ 188) nie je viazané na úmysel zmocniť sa cudzej veci, vynucované konanie môže mať akýkoľvek obsah (majetkový aj nemajetkový).
 
 Kvalifikované skutkové podstaty odstupňúvajú trestnosť podľa spôsobu konania, postavenia obete, motívu, spoločného konania viacerých osôb a spôsobenej škody či následku na zdraví a živote; najprísnejšia sadzba (s možnosťou doživotného trestu) dopadá na prípady spôsobenia ťažkej ujmy na zdraví viacerým osobám alebo smrti viacerých osôb, škody veľkého rozsahu alebo spáchania činu členom nebezpečného zoskupenia.
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2021:4620010086.1, 2021-04-28
+  > „Najvyšší súd však dodáva, že konaním obvineného, popísaným v skutkovej vete, boli naplnené všetky zákonom vyžadované znaky skutkovej podstaty zločinu vydierania podľa § 189 ods. 1, ods. 2 písm. b) Trestného zákona s použitím § 139 ods. 1 písm. c), písm. e) Trestného zákona."
+- *NS SR* ECLI ECLI:SK:NSSR:2018:4111010676.1, 2018-10-17
+  > „Najvyšší súd sa stotožňuje s odôvodnením uvedeným v rozhodnutí prvostupňového súdu ohľadom právnej kvalifikácie konania obvineného, ktorý po subjektívnej a objektívnej stránke naplnil skutkovú podstatu zločinu vydierania podľa § 189 ods. 1, odsek 2 písm. b/ Trestného zákona."
+- *NS SR* ECLI ECLI:SK:NSSR:2017:4616010207.1, 2017-03-29
+  > „Z vyššie uvedeného vyplýva, že skutková veta tak , ako bola ustálená, obsahuje všetky zákonné znaky trestných činov - zločinu vydierania podľa § 189 ods. 1, ods. 2 písm. a/ Trestného zákona a pokračovacieho prečinu porušovania domovej slobody podľa § 194 ods. 1, ods. 2 písm. a/, písm. b/ Trestného zákona, z ktorých bol obvinený Q."
+- *NS SR* sp. zn. 3Tdo/13/2017, 2017-03-29
+  > „N a j v y š š í s ú d 3Tdo/13/2017 Slovenskej republiky U Z N E S E N I E Najvyšší súd Slovenskej republiky v senáte zloženom z predsedníčky JUDr. Aleny Šiškovej a sudcov JUDr. Jany Serbovej a JUDr. Martina Bargela na neverejnom zasadnutí konanom v Bratislave 29. marca 2017 v trestnej veci obvineného S. K., pre zločin vydierania podľa § 189 ods. 1, ods. 2 písm. a/ Trestného zákona a iné, o dovolaní obvineného S. K., ktoré podal prostredníctvom obhajkyne JUDr. K."
 
 ### § 190 — Hrubý nátlak
 
@@ -429,6 +521,17 @@ Kvalifikované skutkové podstaty odstupňúvajú trestnosť podľa spôsobu kon
 Hrubý nátlak zahŕňa dve odlišné skutkové podstaty spojené rovnakou trestnou sadzbou. Odsek 1 postihuje typický prejav tzv. "vnucovania ochrany" — násilné alebo hrozbou vynucované poskytnutie plnenia za vlastné či cudzie služby, ktoré páchateľ obeti proti jej vôli vnucuje, pričom trestnosť nastáva aj vtedy, keď sú takéto služby len predstierané (fingované). Odsek 2 samostatne postihuje diskriminačne motivovaný nátlak na skupinu osôb pre ich národnosť, rasu, farbu pleti, etnický pôvod, vek, zdravotný stav alebo pohlavie, alebo v úmysle získať neoprávnené či neprimerané výhody — a to buď násilným nútením konať v rozpore so základnými ľudskými právami (písm. a), alebo týraním, mučením či iným neľudským a krutým zaobchádzaním (písm. b).
 
 Kvalifikované skutkové podstaty v odsekoch 3 až 5 sa vzťahujú na obe základné podstaty rovnako a stupňujú trest podľa spôsobenej škody, postavenia obete, motívu, spôsobu konania a najmä podľa spôsobeného následku na zdraví a živote, pričom škoda veľkého rozsahu, smrť viacerých osôb alebo pôsobenie ako člen nebezpečného zoskupenia zakladajú možnosť doživotného trestu.
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2021:1618010022.2, 2021-01-27
+  > „Takisto je potrebné poukázať na skutočnosť, že konanie obvineného rozhodne nemožno považovať za akési ojedinelé ľudské zlyhanie, resp. nerozvážnosť vo vzťahu k ,,nedomysleným" dôsledkom jeho konania, nakoľko sa skutku dopustil v skúšobnej dobe podmienečného odsúdenia za iný trestný čin (zločin hrubého nátlaku podľa § 190 ods. 1 Trestného zákona)."
+- *NS SR* ECLI ECLI:SK:NSSR:2015:4412010455.1, 2015-12-02
+  > „a spol., pre zločin hrubého nátlaku podľa § 190 ods. 1, ods. 3 písm. d/ Trestného zákona spolupáchateľstvom podľa § 20 Trestného zákona, vedenej na Okresnom súde Nové Zámky pod sp. zn. 3T 144/2012, o dovolaní, ktoré podal obvinený R. L."
+- *NS SR* sp. zn. 3 Tdo 14/2015, 2015-12-02
+  > „a spol., pre zločin hrubého nátlaku podľa § 190 ods. 1, ods. 3 písm. d/ Trestného zákona spolupáchateľstvom podľa § 20 Trestného zákona, vedenej na Okresnom súde Nové Zámky pod sp. zn. 3T 144/2012, o dovolaní, ktoré podal obvinený B."
+- *NS SR* sp. zn. 3 Tdo 26/2014, 2014-04-30
+  > „pre zločin hrubého nátlaku podľa § 190 ods. 1, ods. 3 písm. a/ Trestného zákona spolupáchateľstvom podľa § 20 Trestného zákona na neverejnom zasadnutí 30. apríla 2014 v Bratislave o dovolaní obvineného L."
 
 ### § 191 — Hrubý nátlak na plnenie záväzku
 
@@ -506,6 +609,13 @@ Nátlak podľa § 192 sa odlišuje od vydierania a hrubého nátlaku tým, že p
 
 Osobitne významné je písm. e) odseku 2, ktoré samostatne kvalifikuje nátlak spočívajúci v odopieraní zákonom zaručených pracovnoprávnych nárokov zamestnancovi — práva na zaistenie bezpečnosti a ochrany zdravia pri práci, na dovolenku na zotavenie alebo na osobitné pracovné podmienky žien a mladistvých zamestnancov. Ostatné kvalifikované znaky (spôsob konania, chránená osoba, motív, majetkový prospech v odseku 2, spôsobená škoda a následok na zdraví a živote v odsekoch 3 a 4) zodpovedajú štruktúre ostatných deliktov proti slobode, pričom odsek 4 dopĺňa aj osobitnú okolnosť spáchania činu za krízovej situácie.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* sp. zn. 3Tost/8/2017, 2017-03-13
+  > „N a j v y š š í s ú d 3Tost/8/2017 Slovenskej republiky U Z N E S E N I E Najvyšší súd Slovenskej republiky v senáte zloţenom z predsedníčky JUDr. Jany Serbovej a sudcov JUDr. Aleny Šiškovej a JUDr. Martina Bargela na neverejnom zasadnutí konanom 13. marca 2017 v Bratislave, v trestnej veci obvineného R. P., pre obzvlášť závaţný zločin nátlaku podľa § 192 ods.1, ods. 3 písm. b/, ods. 4 písm. c/ Trestného zákona a iné trestné činy, o sťaţnosti obvineného R. P."
+- *NS SR* sp. zn. 3Tost/13/2017, 2017-04-12
+  > „K trestnému činu nátlaku podľa § 192 ods. 1, ods. 2 písm. d/ Trestného zákona s poukazom na § 138 písm. i/ Trestného zákona v súbehu so zločinom zneuţívania právomoci verejného činiteľa podľa § 326 ods. 1 písm. a/, ods. 2 písm. a/ Trestného zákona s poukazom na § 138 písm. g/ Trestného zákona uviedol, ţe ţiaden nátlak na poškodeného nevyvíjal, a rovnako nezneuţil ţiadnu jeho tieseň."
+
 ### § 193 — Obmedzovanie slobody vyznania
 
 > **§ 193**
@@ -536,6 +646,13 @@ Ustanovenie chráni slobodu náboženského vyznania v jej pozitívnej aj negat�
 
 Kvalifikovaná skutková podstata v odseku 2 zohľadňuje závažnejší spôsob konania, postavenie obete ako chránenej osoby, osobitný motív a — špecificky pre túto skutkovú podstatu — verejné spáchanie činu, ktoré má vzhľadom na povahu chráneného záujmu (verejný prejav či verejné potlačenie náboženského presvedčenia) osobitnú spoločenskú škodlivosť.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2015:8314000300.1, 2015-07-08
+  > „1Pv 454/14/7702-26, zo 4. decembra 2014 tieto náležitosti týkajúce sa trestného činu „nebezpečného vyhrážania podľa § 360 ods. 1, ods. 2 písm. b/ Trestného zákona“ neuviedla a obžalobu podala za iný skutok „zločin týrania blízkej osoby a zverenej osoby podľa § 208 ods. 1 písm. a/, ods. 2 písm. d/ Trestného zákona“, a preto Krajský súd v Prešove mal rozhodnúť postupom podľa § 193 ods. 1 písm. c/ Trestného poriadku a sťažnosť prokurátora zamietnuť ako nedôvodnú."
+- *NS SR* sp. zn. 3 Tdo 39/2015, 2015-07-08
+  > „1Pv 454/14/7702-26, zo 4. decembra 2014 tieto náležitosti týkajúce sa trestného činu „nebezpečného vyhrážania podľa § 360 ods. 1, ods. 2 písm. b/ Trestného zákona“ neuviedla a obžalobu podala za iný skutok „zločin týrania blízkej osoby a zverenej osoby podľa § 208 ods. 1 písm. a/, ods. 2 písm. d/ Trestného zákona“, a preto Krajský súd v Prešove mal rozhodnúť postupom podľa § 193 ods. 1 písm. c/ Trestného poriadku a sťažnosť prokurátora zamietnuť ako nedôvodnú."
+
 ### § 194 — Porušovanie domovej slobody
 
 > **§ 194**
@@ -563,6 +680,17 @@ Kvalifikovaná skutková podstata v odseku 2 zohľadňuje závažnejší spôsob
 Domová sloboda je samostatným aspektom osobnej slobody a súkromia — chráni obydlie ako priestor, do ktorého má výlučné právo vstupu a zotrvania jeho užívateľ. Základná skutková podstata postihuje alternatívne dve konania: neoprávnené vniknutie do obydlia iného alebo neoprávnené zotrvanie v ňom (napríklad ak vstup bol pôvodne oprávnený, ale oprávnenie následne zaniklo a páchateľ napriek tomu obydlie neopustí).
 
 Kvalifikované okolnosti zohľadňujú závažnejší spôsob konania, prekonanie prekážky určenej na zabránenie vniknutiu (napr. prekonanie zámku či plota), spáchanie činu najmenej dvoma osobami, osobitný motív a v najprísnejšej podobe spáchanie voči chránenej osobe alebo ako člen nebezpečného zoskupenia.
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2020:2114012497.1, 2020-04-22
+  > „Preto okresný súd nepostupoval správne, keď konanie obvineného ustálené v takzvanej skutkovej vete rozsudku súdu prvého stupňa právne posúdil aj podľa § 194 ods. 3 písm. a) Trestného zákona."
+- *NS SR* ECLI ECLI:SK:NSSR:2017:4615010278.1, 2017-09-27
+  > „V tejto súvislosti najvyšší súd uvádza, že popísanému skutkovému stavu plne zodpovedá právny záver vyjadrený v posúdení skutku ako prečinu porušovania domovej slobody podľa § 194 ods. 1, ods. 2 písm. b/ Trestného zákona a prečinu nedovoleného ozbrojovania a obchodovania so zbraňami podľa § 294 ods. 1 Trestného zákona."
+- *NS SR* sp. zn. 3Tdo/17/2017, 2017-09-27
+  > „V tejto súvislosti najvyšší súd uvádza, že popísanému skutkovému stavu plne zodpovedá právny záver vyjadrený v posúdení skutku ako prečinu porušovania domovej slobody podľa § 194 ods. 1, ods. 2 písm. b/ Trestného zákona a prečinu nedovoleného ozbrojovania a obchodovania so zbraňami podľa § 294 ods. 1 Trestného zákona."
+- *NS SR* ECLI ECLI:SK:NSSR:2017:4616010207.1, 2017-03-29
+  > „Z vyššie uvedeného vyplýva, že skutková veta tak , ako bola ustálená, obsahuje všetky zákonné znaky trestných činov - zločinu vydierania podľa § 189 ods. 1, ods. 2 písm. a/ Trestného zákona a pokračovacieho prečinu porušovania domovej slobody podľa § 194 ods. 1, ods. 2 písm. a/, písm. b/ Trestného zákona, z ktorých bol obvinený Q."
 
 ### § 194a — Ochrana súkromia v obydlí
 
@@ -592,6 +720,11 @@ Ustanovenie dopĺňa ochranu domovej slobody podľa § 194 o osobitnú skutkovú
 
 Kvalifikované okolnosti zodpovedajú štruktúre § 194 (závažnejší spôsob konania, prekonanie prekážky brániacej vniknutiu do obydlia, spáchanie najmenej dvoma osobami, osobitný motív, chránená osoba, členstvo v nebezpečnom zoskupení), avšak s výrazne nižšími trestnými sadzbami zodpovedajúcimi typovo miernejšiemu zásahu bez fyzického vniknutia.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2019:1116010758.1, 2019-05-22
+  > „A., pre prečin ochrany súkromia v obydlí podľa § 194a ods. 1 Trestného zákona, o dovolaní obvineného O."
+
 ### § 195 — Porušovanie slobody združovania a zhromažďovania
 
 > **§ 195**
@@ -603,6 +736,13 @@ Kvalifikované okolnosti zodpovedajú štruktúre § 194 (závažnejší spôsob
 **Výklad:**
 
 Odsek 1 chráni ústavné právo združovať sa a zhromažďovať sa pred násilným alebo hrozbou vynucovaným obmedzovaním jeho výkonu zo strany kohokoľvek. Odsek 2 je samostatnou skutkovou podstatou s odlišným objektom ochrany — postihuje toho, kto sa v súvislosti s ohlasovaným zhromaždením násilím alebo hrozbou bezprostredného násilia protiví poriadkovým opatreniam zvolávateľa alebo určených usporiadateľov, teda narúša riadny (pokojný a organizovaný) priebeh zhromaždenia zvnútra, nie zásahom proti právu zhromaždiť sa ako takému.
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* sp. zn. 2 Tost 21/2012, 2012-07-11
+  > „X., po ktorom bolo vyhlásené pátranie za účelom extradície na základe medzinárodného zatýkacieho rozkazu vydaného na menovaného Súdnym dvorom v Buiucani, Magistrát Kišinev, Moldavská republika pod číslom 14-215/07 zo dňa 31. júla 2007 pre skutok kvalifikovaný ako trestný čin sprenevery veľkého rozsahu podľa § 195 (2) moldavského Trestného zákona."
+- *NS SR* sp. zn. 3 Tost 1/2010, 2010-01-27
+  > „pre trestný čin spojený s výrobou a distribúciou ilegálneho pornografického materiálu a iné podľa § 195/A, 329/A, 202 Trestného zákona Maďarskej republiky, o sťažnosti vyžiadanej osoby proti uzneseniu Krajského súdu v Trnave zo dňa 23. decembra 2009, sp. zn. 3Ntc 4/2009, takto r o z h o d o l : Podľa § 193 ods. 1 písm. c/ Tr. por. sťažnosť vyžiadanej osoby V."
 
 ### § 196 — Porušovanie tajomstva prepravovaných správ
 
@@ -625,6 +765,13 @@ Odsek 1 chráni ústavné právo združovať sa a zhromažďovať sa pred násil
 Základná skutková podstata (odsek 1) chráni listové tajomstvo ako všeobecne dostupný trestnoprávny záujem — postihuje úmyselné porušenie tajomstva vyzvedaním alebo otvorením uzavretej zásielky prepravovanej poštovým podnikom alebo iným obvyklým spôsobom (napr. súkromnou kuriérskou službou), a to bez ohľadu na osobu páchateľa.
 
 Odsek 2 upravuje kvalifikovaný subjekt — zamestnanca poskytovateľa poštovej služby, ktorého osobitné postavenie (prístup k zásielkam z titulu zamestnania) odôvodňuje prísnejšiu sadzbu, a to nielen pri spáchaní činu podľa odseku 1, ale aj pri úmyselnom umožnení spáchania takého činu inému, alebo pri pozmenení či potlačení prepravovanej písomnosti. Odsek 3 stupňuje trest za obe základné skutkové podstaty podľa spôsobenej značnej škody, osobitného motívu alebo závažnejšieho spôsobu konania.
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2019:6016897575.2, 2019-08-21
+  > „2T 148/201-187, právoplatným dňa 27. októbra 2015, v spojení s uznesením Krajského súdu v Prahe z 11. augusta 2016, sp. zn. 11To 337/2016, za prečin zanedbania povinnej výživy podľa § 196 ods. 1 českého Trestného zákona."
+- *NS SR* sp. zn. 6Urtos/7/2019, 2019-08-21
+  > „2T 148/201-187, právoplatným dňa 27. októbra 2015, v spojení s uznesením Krajského súdu v Prahe z 11. augusta 2016, sp. zn. 11To 337/2016, za prečin zanedbania povinnej výživy podľa § 196 ods. 1 českého Trestného zákona."
 
 ### § 197 — Zneužitie a prezradenie listového tajomstva
 
@@ -696,6 +843,17 @@ Znásilnenie postihuje donútenie ženy k súloži násilím alebo hrozbou bezpr
 
 Kvalifikované skutkové podstaty zohľadňujú závažnejší spôsob konania, postavenie obete ako chránenej osoby, osobitný motív, spáchanie na žene vo výkone väzby alebo trestu odňatia slobody (teda v situácii osobitnej zraniteľnosti a závislosti od personálu zariadenia) a spoločné konanie najmenej dvoch osôb. Najprísnejšie kvalifikované formy postihujú spôsobenie ťažkej ujmy na zdraví, bezprostredné ohrozenie života dieťaťa, spôsobenie smrti alebo spáchanie činu za krízovej situácie.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2019:8213010339.1, 2019-12-03
+  > „Najvyšší súd v prvom rade považuje za potrebné zdôrazniť, že odvolací súd skutok 1), na rozdiel od právnej kvalifikácie vyslovenej v prvostupňovom rozsudku zmenil tak, že čin posúdený ako znásilnenie podľa § 199 ods. 1 Trestného zákona, nebol spáchaný na chránenej osobe v zmysle § 139 ods. 1 písm. f) Trestného zákona."
+- *NS SR* ECLI ECLI:SK:NSSR:2016:2215010520.2, 2016-10-12
+  > „Dovolací súd konštatuje, že správne zistený skutok obvineného, podľa Trestného zákona účinného v čase jeho spáchania, vykazuje znaky zločinu znásilnenia podľa § 199 odsek 1, odsek 2 písmeno a/ Tr. zák. s poukazom na § 138 písm. a/ Tr. zák. v jednočinnom súbehu s prečinom porušovania domovej slobody podľa § 194 ods. 1, ods. 2 písm. b/ Tr. zák., ako to zistil súd prvého stupňa v napadnutom rozsudku."
+- *NS SR* sp. zn. 6 Tdo 53/2016, 2016-10-12
+  > „Dovolací súd konštatuje, ţe správne zistený skutok obvineného, podľa Trestného zákona účinného v čase jeho spáchania, vykazuje znaky zločinu znásilnenia podľa § 199 odsek 1, odsek 2 písmeno a/ Tr. zák. s poukazom na § 138 písm. a/ Tr. zák. v jednočinnom súbehu s prečinom porušovania domovej slobody podľa § 194 ods. 1, ods. 2 písm. b/ Tr. zák., ako to zistil súd prvého stupňa v napadnutom rozsudku."
+- *NS SR* ECLI ECLI:SK:NSSR:2021:8619010029.1, 2021-03-24
+  > „A., pre zločin znásilnenia podľa § 199 ods. 1, ods. 2 písm. b) Trestného zákona a iné, o dovolaní obvineného podanom proti uzneseniu Krajského súdu v Prešove, sp. zn. 5To/2/2020, z 19. februára 2020 takto rozhodol: I."
+
 ### § 200 — Sexuálne násilie
 
 > **§ 200**
@@ -732,6 +890,17 @@ Sexuálne násilie je konštrukčne takmer identické so znásilnením podľa §
 
 Kvalifikované skutkové podstaty a ich odstupňovanie zodpovedajú § 199 (závažnejší spôsob konania, chránená osoba, osobitný motív, obeť vo výkone väzby alebo trestu odňatia slobody, spoločné konanie, ťažká ujma na zdraví, ohrozenie života dieťaťa, smrť, krízová situácia).
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2020:8717010305.1, 2020-09-02
+  > „Oboznámením sa s obsahom predloženého spisu dovolací súd zistil nasledovné skutočnosti: V poradí druhým (ostatným) rozhodnutím bol odvolacím súdom zrušený prvostupňový odsudzujúci rozsudok vo výroku o vine v bode 2/, vo výroku o treste a vo výroku o ochrannom opatrení, v rámci ktorého bol obvinený uznaný vinným zo zločinu sexuálneho násilia podľa § 200 ods. 1, ods. 2 písm. b) Trestného zákona s poukazom na § 139 ods. 1 Trestného zákon."
+- *NS SR* ECLI ECLI:SK:NSSR:2015:8714010120.1, 2015-12-02
+  > „Navrhujem preto, aby Najvyšší súd Slovenskej republiky ako dovolací súd: - po 1. podľa § 386 ods. 1 Tr. por. vyslovil rozsudkom, rozsudkom Okresného súdu Poprad, sp. zn. 5T 32/2014, na hlavnom pojednávaní dňa 26. mája 2014 bol porušený zákon a v konaní, ktorému predchádzalo, v ustanovení § 200 ods. 1, ods. 2 písm. a/, písm. b/ Trestného zákona s poukazom na § 138 písm. b/, písm. g/ Trestného zákona a s poukazom na § 139 ods. 1 písm. c/, písm. d/ Trestného zákona, a to v neprospech odsúdeného T."
+- *NS SR* sp. zn. 3Tdo/65/2015, 2015-12-02
+  > „Navrhujem preto, aby Najvyšší súd Slovenskej republiky ako dovolací súd: - po 1. podľa § 386 ods. 1 Tr. por. vyslovil rozsudkom, rozsudkom Okresného súdu Poprad, sp. zn. 5T 32/2014, na hlavnom pojednávaní dňa 26. mája 2014 bol porušený zákon a v konaní, ktorému predchádzalo, v ustanovení § 200 ods. 1, ods. 2 písm. a/, písm. b/ Trestného zákona s poukazom na § 138 písm. b/, písm. g/ Trestného zákona a s poukazom na § 139 ods. 1 písm. c/, písm. d/ Trestného zákona, a to v neprospech odsúdeného Š."
+- *NS SR* ECLI ECLI:SK:NSSR:2018:1516010173.1, 2018-10-16
+  > „Pre úplnosť možno dodať, že skutok tak, ako bol ustálený konajúcimi súdmi v skutkovej vete rozsudku prvostupňového súdu, bol správne právne kvalifikovaný ako zločin sexuálneho násilia podľa § 200 ods. 1, ods. 2 písm. b) s poukazom na § 139 ods. 1 písm. a) Trestného zákona a z tohto dôvodu ani dovolací dôvod podľa § 371 ods. 1 písm. i) Trestného poriadku v predmetnom konaní naplnený nebol."
+
 ### § 201 — Sexuálne zneužívanie
 
 > **§ 201**
@@ -766,6 +935,17 @@ Sexuálne zneužívanie chráni sexuálnu nedotknuteľnosť detí mladších ako
 
 Kvalifikované skutkové podstaty zohľadňujú závažnejší spôsob konania, postavenie obete ako chránenej osoby, osobitný motív, spoločné konanie najmenej dvoch osôb a v najprísnejších podobách spôsobenie ťažkej ujmy na zdraví, bezprostredné ohrozenie života dieťaťa, spôsobenie smrti alebo spáchanie za krízovej situácie.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* sp. zn. 6Tdo/11/2018, 2018-12-05
+  > „K dovolateľom označenému dovolaciemu dôvodu najvyšší súd opätovne uvádza, že nie je prípustné preskúmavať správnosť a úplnosť zisteného skutku, skutkový stav teda môže dovolací súd hodnotiť len z toho hľadiska, či skutok alebo iné okolnosti skutkovej povahy boli správne právne posúdené v súlade s príslušnými ustanoveniami hmotného práva.V prejednávanej veci sa jedná o zločin sexuálneho zneužívania podľa § 201 ods. 1, 2 písm. b/ Trestného zákona, ktorý zodpovedá skutkovej vete zisteného skutku v rozsudku okresného súdu."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:1714010187.1, 2020-09-22
+  > „S. O., pre zločin sexuálneho zneužívania podľa § 201 ods. 1 Trestného zákona, na neverejnom zasadnutí konanom 22. septembra 2020 v Bratislave o dovolaní obvineného proti uzneseniu Krajského súdu v Bratislave z 21. augusta 2019, sp. zn. 4Tos/97/2019, takto rozhodol: Podľa § 382 písm. b) Trestného poriadku dovolanie obvineného ml."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:4316010387.1, 2020-08-26
+  > „pre zločin sexuálneho zneužívania podľa § 201 ods. 1, ods. 2 písm. a), písm. b) Trestného zákona s poukazom na § 138 písm. b) Trestného zákona a iné, o dovolaní obvineného C."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:7019200510.1, 2020-05-26
+  > „pre trestný čin znásilnenia podľa § 241 ods. 1 Trestného zákona Českej republiky a trestný čin ohrozenia pod vplyvom návykovej látky podľa § 201 ods. 1 Trestného zákona Českej republiky na neverejnom zasadnutí konanom 26. mája 2020 v Bratislave o odvolaní odsúdeného W."
+
 ### § 201a — Sexuálny návrh dieťaťu prostredníctvom elektronickej komunikačnej služby
 
 > **§ 201a**
@@ -775,6 +955,13 @@ Kvalifikované skutkové podstaty zohľadňujú závažnejší spôsob konania, 
 **Výklad:**
 
 Ustanovenie postihuje tzv. grooming — navrhnutie osobného stretnutia dieťaťu mladšiemu ako pätnásť rokov prostredníctvom elektronickej komunikačnej služby (napr. chatu, sociálnej siete, aplikácie na zasielanie správ) v úmysle spáchať na ňom sexuálne zneužívanie alebo vyrobiť detskú pornografiu. Ide o predsunuté (prípravné) štádium ochrany detí pred sexuálnym zneužitím — trestnosť nastáva už samotným návrhom stretnutia so zodpovedajúcim úmyslom, bez toho, aby muselo dôjsť k stretnutiu alebo k samotnému zneužitiu. Zákon výslovne vyžaduje, aby páchateľ sám nebol dieťaťom, čím vylučuje z pôsobnosti tohto ustanovenia komunikáciu medzi rovesníkmi.
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2017:1413000255.1, 2017-03-23
+  > „Podľa § 201a Trestného zákona účinného od 1. januára 1992 sa trestného činu opilstva dopustí ten, kto sa požitím alebo aplikáciou návykovej látky alebo inak privedie, hoci aj z nedbanlivosti, do stavu nepríčetnosti, v ktorom sa dopustí konania, ktoré má inak znaky trestného činu."
+- *NS SR* sp. zn. 5 Tdo 10/2017, 2017-03-23
+  > „Podľa § 201a Trestného zákona účinného od 1. januára 1992 sa trestného činu opilstva dopustí ten, kto sa požitím alebo aplikáciou návykovej látky alebo inak privedie, hoci aj z nedbanlivosti, do stavu nepríčetnosti, v ktorom sa dopustí konania, ktoré má inak znaky trestného činu."
 
 ### § 201b — Zneužitie dieťaťa na sexuálne účely
 
@@ -816,6 +1003,17 @@ Táto skutková podstata sa uplatní bez ohľadu na to, či dieťa dovŕšilo al
 
 Kvalifikované skutkové podstaty zohľadňujú použitie nátlaku, spoločné konanie najmenej dvoch osôb a v najprísnejšej podobe bezprostredné ohrozenie života dieťaťa.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2015:8714010120.1, 2015-12-02
+  > „Mohlo by sa jednať v horšom prípade len o skutok podľa § 202 ods. 1 písm. a/, písm. c/ Trestného zákona s trestnou sadzbou jeden až päť rokov, možno by to bolo správne zo zákona, ale určite nie spravodlivé k mojej výpovedi a výpovedi svedkov."
+- *NS SR* sp. zn. 3Tdo/65/2015, 2015-12-02
+  > „Mohlo by sa jednať v horšom prípade len o skutok podľa § 202 ods. 1 písm. a/, písm. c/ Trestného zákona s trestnou sadzbou jeden až päť rokov, možno by to bolo správne zo zákona, ale určite nie spravodlivé k mojej výpovedi a výpovedi svedkov."
+- *NS SR* sp. zn. 4 Tdo 19/2014, 2014-04-08
+  > „H.), prípadne aj trestného činu výtržníctva podľa § 202 ods. 1 Trestného zákona, pretože použitie násilia alebo hrozby násilia je pri trestnom čine lúpeže prostriedkom k zmocneniu sa cudzej veci."
+- *NS SR* sp. zn. 2 Tost 2/2012, 2012-02-07
+  > „uznaný za vinného z 35-násobného trestného činu zakázaných pornografických záberov podľa 195/A ods. 1, ods. 3 Trestného zákona Maďarskej republiky, 22-násobného trestného činu porušovania autorského práva podľa § 39/A ods. 1 Trestného zákona Maďarskej republiky a trestného činu zneuctenia podľa § 202 ods. 2 Tr. zák. Maďarskej republiky na tom skutkovom základe ako je uvedené v už citovanom uznesení krajského súdu."
+
 ### § 203 — Súlož medzi príbuznými
 
 > **§ 203**
@@ -827,3 +1025,15 @@ Kvalifikované skutkové podstaty zohľadňujú použitie nátlaku, spoločné k
 **Výklad:**
 
 Skutková podstata postihuje incest — súlož medzi príbuznými v priamom rade (rodičia a deti, starí rodičia a vnuci) alebo medzi súrodencami — bez ohľadu na vzájomný súhlas zúčastnených osôb. Zaradenie do hlavy o trestných činoch proti ľudskej dôstojnosti (nie napríklad medzi trestné činy proti rodine) odráža, že chráneným záujmom je predovšetkým integrita rodinných vzťahov a všeobecne uznávaný morálny a spoločenský zákaz pohlavného styku medzi blízkymi príbuznými, nie ochrana konkrétnej obete pred nedobrovoľným stykom (tá je zabezpečená inými skutkovými podstatami tejto hlavy, najmä § 199 až § 201). Kvalifikovaná skutková podstata v odseku 2 zvyšuje trest, ak je čin spáchaný na chránenej osobe.
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2015:4413010100.2, 2015-01-22
+  > „bol rozsudkom Okresného súdu v Nových Zámkoch z 31. októbra 2013, sp. zn. 3T 41/2013, uznaný vinným zo spáchania dvojnásobného zločinu znásilnenia podľa § 199 odsek 1, odsek 2 písmeno b/ Trestného zákona, prečinu súlože medzi príbuznými podľa § 203 odsek 1 Trestného zákona a prečinu krádeže podľa § 212 odsek 2 písmeno e/ Trestného zákona, ktorých sa dopustil na skutkovom základe, uvedenom v skutkovej vete výrokovej časti citovaného rozsudku."
+- *NS SR* sp. zn. 6 Tdo 2/2015, 2015-01-22
+  > „bol rozsudkom Okresného súdu v Nových Zámkoch z 31. októbra 2013, sp. zn. 3T 41/2013, uznaný vinným zo spáchania dvojnásobného zločinu znásilnenia podľa § 199 odsek 1, odsek 2 písmeno b/ Trestného zákona, prečinu súlože medzi príbuznými podľa § 203 odsek 1 Trestného zákona a prečinu krádeže podľa § 212 odsek 2 písmeno e/ Trestného zákona, ktorých sa dopustil na skutkovom základe, uvedenom v skutkovej vete výrokovej časti citovaného rozsudku."
+- *NS SR* ECLI ECLI:SK:NSSR:2019:9019200022.1, 2019-09-10
+  > „Z. uznal za vinného v bode 1, 2 rozsudku z pokračujúceho zločinu znásilnenia podľa § 199 ods. 1, ods. 2 písm. b) Trestného zákona s poukazom na § 139 ods. 1 písm. c) Trestného zákona, sčasti v bode 2) dokonaného a sčasti v bode 1) v štádiu pokusu podľa § 14 ods. 1 Trestného zákona a v bode 2) v jednočinnom súbehu s prečinom súlože medzi príbuznými podľa § 203 ods. 1 Trestného zákona na tom skutkovom základe, že 1) v presne nezistený deň v období od 25. augusta 2014 do 28. augusta 2014, vo večerných hodinách, v rodinnom dome na H."
+- *NS SR* sp. zn. 2Tdo/31/2019, 2019-09-10
+  > „Z. uznal za vinného v bode 1, 2 rozsudku z pokračujúceho zločinu znásilnenia podľa § 199 ods. 1, ods. 2 písm. b) Trestného zákona s poukazom na § 139 ods. 1 písm. c) Trestného zákona, sčasti v bode 2) dokonaného a sčasti v bode 1) v štádiu pokusu podľa § 14 ods. 1 Trestného zákona a v bode 2) v jednočinnom súbehu s prečinom súlože medzi príbuznými podľa § 203 ods. 1 Trestného zákona na tom skutkovom základe, že 1) v presne nezistený deň v období od 25. augusta 2014 do 28. augusta 2014, vo večerných hodinách, v rodinnom dome na H."
+

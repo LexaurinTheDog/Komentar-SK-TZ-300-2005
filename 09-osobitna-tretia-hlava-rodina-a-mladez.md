@@ -36,6 +36,17 @@ Základná skutková podstata postihuje páchateľa, ktorý má povinnosť stara
 
 Kvalifikovaná skutková podstata v odseku 2 sprísňuje trest, ak páchateľ spácha čin závažnejším spôsobom konania alebo ak sa obeťou stane dieťa mladšie ako tri roky — teda dieťa, ktoré je vzhľadom na svoj vek osobitne zraniteľné a odkázané na starostlivosť iných.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* sp. zn. 4Tost/20/2018, 2018-06-19
+  > „Z. európsky zatýkací rozkaz, sp. zn. 5 T 210/2013, za účelom jeho dodania do výkonu trestu odňatia slobody v trvaní osem mesiacov, ktorý mu bol uložený právoplatným rozsudkom Mestského súdu v Brne z 30. septembra 2013, sp. zn. 5 T 210/2013, pre trestný čin krádeže podľa § 205 ods. 1 písm. a/ a trestný čin sprenevery podľa § 206 ods. 1 Trestného zákona Českej republiky, na skutkovom základe v ňom uvedenom."
+- *NS SR* ECLI ECLI:SK:NSSR:2015:9015898956.1, 2015-04-09
+  > „O., občanovi Slovenskej republiky za prečin krádeže podľa § 205 ods. 1 písm. a/, b/, ods. 2 Trestného zákona Českej republiky v trvaní 1 (jedného) roka nepodmienečne so zaradením na jeho výkon do väznice s dozorom, pričom súčasne rozhodol, že tento rozsudok sa vykoná a podľa § 48 ods. 2 písm. a/ Tr. zák. odsúdeného I."
+- *NS SR* sp. zn. 5 Tost 11/2017, 2017-04-04
+  > „na účel výkonu trestu odňatia slobody v Českej republike, ktorý mu bol uložený rozsudkom z 13. marca 2015, sp. zn. 4 T 20/2015 vo výmere 13 mesiacov za trestný čin krádeže a nedovoleného nadobudnutia, falšovania a pozmeňovania platobného prostriedku podľa § 205 ods. 1 písm. a/ a § 234 ods. 1 českého Trestného zákona spáchaného v spolupáchateľstve podľa § 23 českého Trestného zákona."
+- *NS SR* ECLI ECLI:SK:NSSR:2015:9015898825.1, 2015-09-08
+  > „XX (okres W.), t.č. vo výkone trestu odňatia slobody v Českej republike uznaný vinným z prečinu podvodu podľa § 209 ods. l, 2, 3 českého Trestného zákona, prečinu krádeže podľa § 205 ods. l, 2, 3 českého Trestného zákona, prečinu neoprávneného zaobstarania, falšovania a pozmenenia platobného prostriedku podľa § 234 ods.1 českého Trestného zákona, prečinu marenia výkonu úradného rozhodnutia a vykázania podľa § 337 ods.1 písm. b) českého Trestného zákona, ktorých sa dopustil na tom skutkovom základe, že: 1. v období od 10.0l.2014 do 19.02.2014 v Brne, na ul."
+
 ### § 206 — Opustenie dieťaťa
 
 > **§ 206**
@@ -60,6 +71,17 @@ Základná skutková podstata je prísnejšou obdobou § 205 — postihuje pách
 
 Odsek 2 zvyšuje trestnú sadzbu pri spáchaní závažnejším spôsobom konania alebo na dieťati mladšom ako šesť rokov. Odsek 3 predstavuje najprísnejšiu kvalifikovanú skutkovú podstatu — postihuje prípady, keď páchateľ svojím konaním skutočne spôsobí ťažkú ujmu na zdraví alebo smrť dieťaťa (teda dôjde k reálnemu poruchovému následku, nielen k ohrozeniu), alebo keď sa čin spácha za krízovej situácie, čo reflektuje osobitnú zraniteľnosť opustených detí v mimoriadnych spoločenských pomeroch.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2018:1015201838.1, 2018-11-05
+  > „6.9 Z administratívneho spisu vyplýva súhlas s prepustením žalobkyne zo služobného pomeru Základnej organizácie OZP č. 8/71 OR Pezinok a Senec, ktorý bol daný dňa 24.03.2015. 6.10 Dňa 10.03.2015 obdržalo Okresné riaditeľstvo PZ v Senci a Krajské riaditeľstvo PZ v Bratislave uznesenie o vznesení obvinenia - hlásenie, z ktorého vyplýva, že voči žalobkyni bolo vznesené obvinenie podľa § 206 ods. 1 Trestného poriadku za prečin podvodu podľa § 221 ods. 1 Trestného zákona."
+- *NS SR* sp. zn. 4Tost/20/2018, 2018-06-19
+  > „Z. európsky zatýkací rozkaz, sp. zn. 5 T 210/2013, za účelom jeho dodania do výkonu trestu odňatia slobody v trvaní osem mesiacov, ktorý mu bol uložený právoplatným rozsudkom Mestského súdu v Brne z 30. septembra 2013, sp. zn. 5 T 210/2013, pre trestný čin krádeže podľa § 205 ods. 1 písm. a/ a trestný čin sprenevery podľa § 206 ods. 1 Trestného zákona Českej republiky, na skutkovom základe v ňom uvedenom."
+- *NS SR* ECLI ECLI:SK:NSSR:2015:2511010892.1, 2015-09-09
+  > „pre obzvlášť závažný zločin nedovolenej výroby omamných a psychotropných látok, jedov alebo prekurzorov, ich držanie a obchodovanie s nimi podľa § 172 ods. 1 písm. b/, písm. c/, písm. d/, ods. 2 písm. e/ Trestného zákona obsahuje všetky náležitosti vyžadované ustanovením § 206 ods. 3 Trestného poriadku."
+- *NS SR* sp. zn. 6 Tost 18/2015, 2015-06-16
+  > „bol vydaný európsky zatýkací rozkaz z 15. apríla 2015, Obvodným súdom pre Prahu 8, sp. zn. 2T 5/2014, pre trestný čin sprenevery podľa § 206 ods. 1, ods. 3 Trestného zákona Českej republiky, za účelom jeho dodania na výkon trestu odňatia slobody vo výmere 1 rok."
+
 ### § 207 — Zanedbanie povinnej výživy
 
 > **§ 207**
@@ -81,6 +103,17 @@ Odsek 2 zvyšuje trestnú sadzbu pri spáchaní závažnejším spôsobom konani
 Ustanovenie chráni plnenie zákonnej vyživovacej alebo zaopatrovacej povinnosti voči inej osobe (typicky výživné rodiča voči dieťaťu, ale aj iné zákonom uložené povinnosti vyživovať alebo zaopatrovať). Zákon rozlišuje dve formy zavinenia s odlišnou trestnou sadzbou: odsek 1 postihuje neplnenie povinnosti aj z nedbanlivosti (páchateľ si napr. neuvedomuje rozsah svojej povinnosti alebo dôsledky svojej nečinnosti), zatiaľ čo odsek 2 postihuje prísnejšie úmyselné vyhýbanie sa plneniu tejto povinnosti. Obe formy vyžadujú, aby k neplneniu došlo počas najmenej dvoch mesiacov v období dvoch rokov — ide teda o trestný čin s trvajúcim, opakovaným charakterom, nie o jednorazové zlyhanie.
 
 Kvalifikovaná skutková podstata v odseku 3 sprísňuje trest, ak páchateľ svojím konaním vydá oprávnenú osobu do nebezpečenstva núdze (teda skutočne ju pripraví o prostriedky nevyhnutné na uspokojenie základných životných potrieb), ak čin spácha závažnejším spôsobom konania, alebo ak ide o recidívu — páchateľ bol v predchádzajúcich dvadsiatich štyroch mesiacoch za taký čin odsúdený, alebo bol prepustený z výkonu trestu odňatia slobody uloženého za taký čin.
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2021:2316010502.1, 2021-02-17
+  > „Obvinený navrhol, aby Najvyšší súd Slovenskej republiky rozhodol tak, že: ,,Uznesením Krajského súdu v Trnave, sp. zn. 5To/70/2017, z 21. septembra 2017 a konaní, ktoré mu predchádzalo, bol z dôvodu podľa § 371 ods. 1 písm. i) Trestného poriadku porušený zákon v ust. § 207 ods. 1, ods. 3 písm. c) Trestného zákona v neprospech obvineného" a rovnako tak, že: ,,Napadnuté Uznesenie Krajského súdu v Trnave, sp. zn. 5To/70/2017, z 21. septembra 2017 a jemu predchádzajúce konanie vrátane rozsudku Okresného súdu Galanta, sp. zn. 1T/113/2016, z 19. apríla 2017 sa zrušujú"."
+- *NS SR* ECLI ECLI:SK:NSSR:2017:1408010403.1, 2017-11-29
+  > „Súd: Najvyšší súd SR Spisová značka: 3Tdo/14/2017 Identifikačné číslo spisu: 1408010403 Dátum vydania rozhodnutia: 29.11.2017 Meno a priezvisko: JUDr. Jana Kostolanská Funkcia: sudca ECLI: ECLI:SK:NSSR:2017:1408010403.1 Uznesenie Najvyšší súd Slovenskej republiky v senáte zloženom z predsedníčky JUDr. Jany Serbovej a sudcov JUDr. Gabriely Šimonovej a JUDr. Martina Bargela na neverejnom zasadnutí konanom 29. novembra 2017 v Bratislave v trestnej veci obvineného R. Q., pre prečin zanedbania povinnej výživy podľa § 207 ods. 1, ods. 3 písm. b/ Trestného zákona, o dovolaní obvineného R. Q."
+- *NS SR* ECLI ECLI:SK:NSSR:2017:3812010707.1, 2017-07-26
+  > „Najvyšší súd Slovenskej republiky poukazuje na rozhodnutie č. 6 Zbierky stanovísk Najvyššieho súdu a rozhodnutí súdov Slovenskej republiky č. 1/2013, podľa ktorého trestný čin zanedbania povinnej výživy podľa § 207 ods. 1, ods. 2 Trestného zákona je dokonaný už naplnením jeho zákonných znakov, t."
+- *NS SR* sp. zn. 3Tdo/1/2017, 2017-07-26
+  > „Najvyšší súd Slovenskej republiky poukazuje na rozhodnutie č. 6 Zbierky stanovísk Najvyššieho súdu a rozhodnutí súdov Slovenskej republiky č. 1/2013, podľa ktorého trestný čin zanedbania povinnej výživy podľa § 207 ods. 1, ods. 2 Trestného zákona je dokonaný už naplnením jeho zákonných znakov, t."
 
 ### § 208 — Týranie blízkej osoby a zverenej osoby
 
@@ -122,6 +155,17 @@ Odsek 2 rozširuje trestnosť na obdobné konanie, ktoré samo osebe nemusí dos
 
 Kvalifikované skutkové podstaty v odsekoch 3 a 4 postupne sprísňujú trest podľa závažnosti následku a okolností spáchania: spôsobenie ťažkej ujmy na zdraví alebo smrti, spáchanie z osobitného motívu, recidíva v predchádzajúcich dvadsiatich štyroch mesiacoch alebo závažnejší spôsob konania (odsek 3), a napokon najprísnejšia forma — spôsobenie ťažkej ujmy na zdraví alebo smrti viacerým osobám (odsek 4), za ktorú zákon pripúšťa aj trest odňatia slobody na doživotie.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2021:7715010417.1, 2021-04-28
+  > „Z uvedeného je zrejmé, že vymedzenie času skutku v skutkovej vete výrokovej časti rozsudku súdu prvého stupňa zodpovedá kvalifikačnému znaku „po dlhší čas,“ a preto musel dovolací súd konštatovať, že konanie dovolateľa bolo s poukazom na § 138 písm. b) Trestného zákona správne právne posúdené podľa § 208 ods. 1 písm. a), ods. 2 písm. d) Trestného zákona."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:4217010221.1, 2020-01-22
+  > „Pre dovolací súd je podstatnou výlučne tá skutočnosť, že vo veci tvoriacej predmet dovolacieho prieskumu použitú právnu kvalifikáciu odôvodňujú všetky skutkové okolnosti, ktoré sú v popise skutku zahrnuté a ktoré vyjadrujú naplnenie príslušných znakov skutkovej podstaty označeného trestného činu, a ktoré majú zároveň tomu zodpovedajúci odraz v právnej vete, čomu zodpovedá právny záver vyjadrený v posúdení skutku ako zločinu týrania blízkej a zverenej osoby podľa § 208 ods. 1 písm. b), ods. 3 písm. d) Trestného zákona s poukazom na § 138 písm. b) Trestného zákona."
+- *NS SR* ECLI ECLI:SK:NSSR:2018:8711010304.1, 2018-03-28
+  > „Navyše dovolací súd po preskúmaní obsahu spisu dospel k záveru, že rozhodnutie súdu prvého stupňa, ako aj krajského súdu bolo vydané v súlade so zákonom a na podklade riadne zisteného skutkového i právneho stavu po zohľadnení všetkých okolností významných pre rozhodnutie a riadnu kvalifikáciu konania obvineného pod príslušnú skutkovú podstatu trestného činu podľa § 208 ods. 1 písm. a/ Trestného zákona."
+- *NS SR* sp. zn. 3Tdo/67/2017, 2018-03-28
+  > „Navyše dovolací súd po preskúmaní obsahu spisu dospel k záveru, že rozhodnutie súdu prvého stupňa, ako aj krajského súdu bolo vydané v súlade so zákonom a na podklade riadne zisteného skutkového i právneho stavu po zohľadnení všetkých okolností významných pre rozhodnutie a riadnu kvalifikáciu konania obvineného pod príslušnú skutkovú podstatu trestného činu podľa § 208 ods. 1 písm. a/ Trestného zákona."
+
 ### § 209 — Únos
 
 > **§ 209**
@@ -156,6 +200,17 @@ Základná skutková podstata chráni právo osoby oprávnenej podľa zákona al
 
 Kvalifikované skutkové podstaty postupne sprísňujú trestnú sadzbu podľa spôsobu spáchania a sledovaného cieľa. Odsek 2 postihuje spáchanie závažnejším spôsobom konania, z osobitného motívu, alebo ak páchateľ svojím konaním ohrozí mravný vývoj unesenej osoby. Odsek 3 sa zameriava na prípady s cudzozemským alebo majetkovým rozmerom — úmysel zavliecť unesenú osobu do cudziny, úmysel získať pre seba alebo iného značný prospech, alebo spôsobenie ťažkej ujmy na zdraví, smrti či iného obzvlášť závažného následku. Najprísnejšia sadzba v odseku 4 postihuje spáchanie činu v rámci nebezpečného zoskupenia alebo v úmysle získať prospech veľkého rozsahu — teda organizovanú alebo mimoriadne ziskovo motivovanú formu únosu.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2018:8409200430.1, 2018-10-25
+  > „Podobne v rozhodnutí sp. zn. Zm I 664/26 z 26. januára 1927 Najvyšší súd ČSR ustálil, že k zločinu nactiutŕhania v zmysle § 209 trestného zákona je žiadúce, aby páchateľ niekoho u vrchnosti vinil zo zločinu, ktorý vôbec nebol spáchaný alebo bol síce spáchaný, avšak nie osobou páchateľom menovanou, pričom v subjektívnom smere je nutnou vedomosť o nepravdivosti onoho obvinenia a nestačí len nepriamy úmysel."
+- *NS SR* ECLI ECLI:SK:NSSR:2017:4110010817.1, 2017-08-01
+  > „Súd nakoniec neakceptoval návrh prokurátora kvalifikovať konanie obvinených aj ako trestný čin poškodzovania cudzích práv podľa § 209 Trestného zákona."
+- *NS SR* sp. zn. 2TdoV/3/2017, 2017-08-01
+  > „Súd nakoniec neakceptoval návrh prokurátora kvalifikovať konanie obvinených aj ako trestný čin poškodzovania cudzích práv podľa § 209 Trestného zákona.Podľa názoru prokurátora prvostupňový súd nevhodne posúdil zistené skutkové okolnosti v časti, keď sa zaoberal výlučne konaním spočívajúcim v zabezpečovaní rozsudkov Okresného súdu Levice, keď konštatoval, že splnomocnenia a čestné vyhlásenia sú nepravdivé a falošné a nie je možné, aby bol súd uvedený do omylu v rozpore s takýmto zistením."
+- *NS SR* sp. zn. 2 Tost 31/2015, 2015-09-08
+  > „v J., pre prečin podvodu podľa § 209 ods. 1 Trestného zákona Českej republiky, o sťažnosti vyžiadanej osoby proti uzneseniu Krajského súdu v Trenčíne z 19. augusta 2015, sp. zn. 2 Ntc 3/2015, takto r o z h o d o l : Podľa § 193 ods. 1, písm. c) Tr. por. sťažnosť vyžiadanej osoby P."
+
 ### § 210 — Únos
 
 > **§ 210**
@@ -173,6 +228,11 @@ Kvalifikované skutkové podstaty postupne sprísňujú trestnú sadzbu podľa s
 Ide o privilegovanú skutkovú podstatu k § 209, ktorá postihuje rovnaké konanie — odňatie dieťaťa alebo osoby postihnutej duševnou poruchou či duševne nedostatočne vyvinutej z opatery oprávnenej osoby — ak sa ho dopustí špeciálny subjekt: rodič alebo príbuzný unesenej osoby v priamom rade. Nižšia trestná sadzba oproti § 209 (odňatie slobody na šesť mesiacov až tri roky namiesto troch až ôsmich rokov) zohľadňuje skutočnosť, že páchateľom je osoba, ktorá má k unesenej osobe blízky rodinný, spravidla aj citový vzťah, a jej pohnútkou tak často býva samotný záujem o dieťa alebo osobu blízku, hoci konanie napriek tomu zasahuje do zákonom alebo úradne zverenej opatery inej oprávnenej osoby.
 
 Kvalifikovaná skutková podstata v odseku 2 sprísňuje trest pri spáchaní závažnejším spôsobom konania alebo z osobitného motívu, obdobne ako pri základnej skutkovej podstate podľa § 209.
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* sp. zn. 1 Tost 22/2009, 2009-11-02
+  > „L.) sa mal dopustil trestného činu závažnej sprenevery zneužitím právomoci podľa § 210 odsek 3 Trestného zákona Bieloruskej republiky tým, že majúc úmysel zmocniť sa finančných prostriedkov občanov formou zneužitia služobných kompetencií vo funkcii osoby riaditeľa spoločnosti „M."
 
 ### § 211 — Ohrozovanie mravnej výchovy mládeže
 
@@ -207,3 +267,15 @@ Ustanovenie chráni riadny mravný vývoj osôb mladších ako osemnásť rokov 
 Odsek 2 osobitne postihuje zamestnávanie dieťaťa mladšieho ako pätnásť rokov v rozpore so všeobecne záväzným právnym predpisom, ak s tým súčasne súvisí bránenie povinnej školskej dochádzke — ide teda o špecifickú formu ohrozenia mravnej výchovy spojenú s nezákonnou detskou prácou.
 
 Kvalifikovaná skutková podstata v odseku 3 sprísňuje trestnú sadzbu, ak páchateľ spácha ktorýkoľvek z činov podľa odseku 1 alebo 2 závažnejším spôsobom konania alebo z osobitného motívu.
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2021:4218010645.1, 2021-05-11
+  > „Navyše obvinený sa dopustil trestného činu vydierania podľa § 189 Trestného zákona, ktorý sa nenachádza v ustanovení § 211 Trestného poriadku, a teda na trestné stíhanie obvineného pre uvedený trestný čin sa nevyžaduje súhlas poškodeného."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:6118010824.1, 2020-12-09
+  > „S poukazom na uvedené neobstojí ani argumentácia generálneho prokurátora vo vzťahu k nesprávnej právnej kvalifikácii zisteného skutku, nakoľko aj pre trestný čin sprenevery podľa § 213 Trestného zákona je podľa § 211 ods. 1 Trestného poriadku možno trestné stíhanie začať a v už začatom trestnom stíhaní pokračovať len so súhlasom poškodeného."
+- *NS SR* ECLI ECLI:SK:NSSR:2019:8116011840.1, 2019-07-24
+  > „za vinných zo spáchania prečinu ohrozovania mravnej výchovy mládeže podľa § 211 ods. 1 písm. b) zák. č. 300/2005 Z. z. Trestného zákona (ďalej len „Trestný zákon"), ktorého sa dopustili na tom skutkovom základe, že - v školskom roku 2015/2016 v obci Y."
+- *NS SR* sp. zn. 2 Tost 26/2013, 2013-08-20
+  > „pre trestný čin lúpeže podľa § 211 Trestného zákona Rumunska na neverejnom zasadnutí 20. augusta 2013 v Bratislave o sťažnosti vyžiadanej osoby proti uzneseniu Krajského súdu v Trenčíne z 2. augusta 2013, sp. zn. 2 Ntc 7/2013, takto rozhodol: Podľa § 193 ods. 1 písm. c/ Tr. por. sťažnosť vyžiadanej osoby E."
+

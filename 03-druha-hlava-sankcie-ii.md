@@ -34,6 +34,17 @@
 
 Trest domáceho väzenia je alternatívou k nepodmienečnému trestu odňatia slobody pri menej závažnej kriminalite — podmienkami sú horná hranica trestnej sadzby neprevyšujúca desať rokov, postačivosť tohto trestu vzhľadom na povahu činu a osobu páchateľa, písomný sľub odsúdeného zdržiavať sa v obydlí a súčinnosť pri kontrole, a napokon reálna technická uskutočniteľnosť kontroly (odsek 1). Výmera je jeden rok až päť rokov, s korekciou nadol na dolnú hranicu sadzby trestu odňatia slobody, ak je ustanovená (odsek 2). Obsahom trestu je povinnosť zdržiavať sa v obydlí (vrátane priľahlých vonkajších priestorov), viesť riadny život a podrobiť sa technickej kontrole (odsek 3), pričom súd môže popri tom uložiť aj ďalšie obmedzenia a povinnosti podľa § 51 ods. 3 a 4 (odsek 4). Odsek 5 pripúšťa výnimočné opustenie obydlia len so súhlasom probačného a mediačného úradníka a z naliehavého dôvodu, pričom tento čas sa napriek opusteniu obydlia do výkonu trestu započítava. Odsek 6 upravuje sankciu za neplnenie trestu — premenu na nepodmienečný trest odňatia slobody v pomere deň za deň.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2021:9519100278.1, 2021-03-24
+  > „Podľa § 53 ods. 1 Trestného zákona účinného v čase spáchania súd obvinenému uložil peňažný trest vo výške 400.000,- Sk, v prepočte 13.277,57 €."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:9505100014.1, 2020-09-07
+  > „Súčasne mu podľa § 53 ods. 1 Trestného zákona uložil peňažný trest vo výške 5.000,- Eur (päťtisíc eur) a pre prípad, že by výkon trestu mohol byť úmyselne zmarený, náhradný trest odňatia slobody vo výmere 1 (jeden) rok (§ 54 ods. 3 Trestného zákona)."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:9505100014.3, 2020-06-29
+  > „Podľa § 53 ods. 1 Trestného zákona súd prvého stupňa obžalovaným X.."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:5113011474.1, 2020-04-21
+  > „Podľa § 53 ods. 1 Trestného zákona uložil súd prvého stupňa obvinenému Ing."
+
 ### § 54 a § 55 — Trest povinnej práce
 
 > **§ 54**
@@ -63,6 +74,17 @@ Trest domáceho väzenia je alternatívou k nepodmienečnému trestu odňatia sl
 **Výklad:**
 
 Trest povinnej práce je vyhradený pre prečiny s hornou hranicou trestnej sadzby odňatia slobody do päť rokov, vo výmere 40 až 300 hodín (§ 54). Odsek 1 § 55 stanovuje ročnú lehotu na výkon trestu a možnosť pripojiť ďalšie obmedzenia a povinnosti (typicky náhradu škody); písmená a) až d) vymenúvajú okolnosti, ktoré sa do plynutia tejto lehoty nezapočítavajú (práceneschopnosť bez pridelenej práce, vojenská služba, pobyt v cudzine, väzba či výkon iného trestu odňatia slobody). Odsek 2 vylučuje uloženie trestu dlhodobo práceneschopným a invalidným osobám a odsek 3 zdôrazňuje osobný a bezodplatný charakter výkonu vo voľnom čase. Odsek 4 upravuje premenu na nepodmienečný trest odňatia slobody pri zavinenom neplnení (v pomere dve nevykonané hodiny za jeden deň odňatia slobody), zatiaľ čo odsek 5 umožňuje súdu od výkonu trestu upustiť pri objektívnych prekážkach, ktoré odsúdený nezavinil (trvalá práceneschopnosť, invalidita, iné závažné dôvody).
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2021:9519100278.1, 2021-03-24
+  > „Podľa § 54 ods. 3 Trestného zákona účinného v čase spáchania skutku pre prípad, že by výkon tohto trestu mohol byť úmyselne zmarený, ustanovil súd náhradný trest odňatia slobody vo výmere 8 mesiacov."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:9505100014.1, 2020-09-07
+  > „Súčasne mu podľa § 53 ods. 1 Trestného zákona uložil peňažný trest vo výške 5.000,- Eur (päťtisíc eur) a pre prípad, že by výkon trestu mohol byť úmyselne zmarený, náhradný trest odňatia slobody vo výmere 1 (jeden) rok (§ 54 ods. 3 Trestného zákona)."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:9505100014.3, 2020-06-29
+  > „uložil aj peňažný trest vo výmere po 300 000 Sk (9 958,18 eur), a pre prípad jeho úmyselného zmarenia obom podľa § 54 ods. 3 Trestného zákona zhodne ustanovil náhradné tresty odňatia slobody v trvaní 1 rok."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:5113011474.1, 2020-04-21
+  > „aj peňažný trest vo výške 4 000,- eur (štyritisíc eur) a podľa § 54 ods. 3 Trestného zákona, pre prípad, že by výkon peňažného trestu mohol byť úmyselne zmarený, mu ustanovil náhradný trest odňatia slobody vo výmere 2 (dva) mesiace."
 
 ### § 56 a § 57 — Peňažný trest
 
@@ -96,6 +118,17 @@ Peňažný trest má dva samostatné dôvody uloženia: odsek 1 ho viaže na úm
 
 § 57 dopĺňa ukladanie peňažného trestu o hmotné poistky: súd musí prihliadnuť na pomery páchateľa a trest neuloží, ak je zrejmé, že ho odsúdený nezaplatí (odsek 1) — vylučuje sa tak iluzórne ukladanie nevymožiteľných trestov. Zaplatená suma pripadá štátu (odsek 2). Kľúčovým poistným mechanizmom je náhradný trest odňatia slobody až na päť rokov pre prípad úmyselného marenia výkonu peňažného trestu (odsek 3), ktorý však nesmie spolu s uloženým trestom odňatia slobody presiahnuť zákonom dovolenú hranicu sadzby; ak by táto hranica bola prekročená, alebo ak sa peňažný trest ukladá popri doživotí, náhradný trest sa neustanoví vôbec (odsek 4).
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2020:9519100165.1, 2020-05-27
+  > „So záverom Špecializovaného trestného súdu vo vzťahu k uloženému peňažnému trestu vo výške 500,- EUR podľa § 56 ods. 1, ods. 2 Trestného zákona, spolu s náhradným trestom odňatia slobody v trvaní 3 mesiace pre prípad, že by výkon peňažného trestu mohol byť úmyselne zmarený podľa § 57 ods. 3 Trestného zákona, sa najvyšší súd stotožnil ako s logicky správnym a majúcim základ v relevantných zákonných ustanoveniach."
+- *NS SR* ECLI ECLI:SK:NSSR:2021:8316010767.1, 2021-05-18
+  > „Podľa § 56 ods. 1 Trestného zákona obvinenému uložil aj peňažný trest vo výmere 400 eur."
+- *NS SR* ECLI ECLI:SK:NSSR:2021:9514100101.1, 2021-04-15
+  > „Podľa § 56 ods. 1 Trestného zákona na peňažný trest vo výmere 2.000,- € (dvetisíc eur) a pre prípad úmyselného zmarenia jeho výkonu podľa § 57 ods. 2 Trestného zákona k náhradnému trestu odňatia slobody vo výmere 8 (osem) mesiacov."
+- *NS SR* ECLI ECLI:SK:NSSR:2021:1019200375.1, 2021-04-15
+  > „Podľa § 13 ods. 2 zák. č. 183/2011 Z. z. o uznávaní a výkone rozhodnutí o peňažnej sankcii v Európskej únii a o zmene a doplnení niektorých zákonov s poukazom na § 57 ods. 3 Trestného zákona sa povinnému Z. D., nar."
+
 ### § 58 a § 59 — Trest prepadnutia majetku
 
 > **§ 58**
@@ -125,6 +158,17 @@ Peňažný trest má dva samostatné dôvody uloženia: odsek 1 ho viaže na úm
 **Výklad:**
 
 Trest prepadnutia majetku je najprísnejším majetkovým trestom — postihuje celý majetok odsúdeného, nie jednotlivú vec. Uloží sa len pri odsúdení na doživotie, alebo pri nepodmienečnom treste odňatia slobody za zločin spojený so ziskom či škodou veľkého rozsahu (odsek 1 § 58), a to iba ak je vzhľadom na povahu činu, pomery páchateľa a dopad na jeho rodinu primeraný — dobrovoľná náhrada škody alebo vydanie celého prospechu je výslovným dôvodom na jeho neuloženie (odsek 2). § 59 upravuje technický rozsah trestu vo vzťahu ku konkurznému konaniu (odsek 1: výťažok zo speňaženia, vylúčený majetok, nespeňažený majetok), povinné vylúčenie neprimerane prísne postihnutej časti majetku (odsek 2) s premietnutím do výroku rozsudku (odsek 3), prechod vlastníctva na štát s výnimkou plynúcou z medzinárodnej zmluvy (odsek 4) a osobitne rieši dôsledky pre bezpodielové spoluvlastníctvo manželov — jeho zánik, vylúčenie majetku druhého manžela z konkurznej podstaty po vyporiadaní a možnosť odporovateľnosti skorších vyporiadaní (odsek 5), čím sa chránia majetkové záujmy manžela, ktorý sa na trestnej činnosti nepodieľal.
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2020:9519100047.2, 2020-01-22
+  > „Najvyšší súd si však neosvojil úvahy Špecializovaného trestného súdu, najmä k nemožnosti uloženia trestu prepadnutia majetku podľa § 58 ods. 2 Trestného zákona, pretože - „nie je možné predpokladať, že by vlastnili majetok v značnom rozsahu"."
+- *NS SR* ECLI ECLI:SK:NSSR:2021:7218010254.1, 2021-01-13
+  > „Navrhujem, aby Najvyšší súd Slovenskej republiky: 1.) podľa § 386 ods. 1 Trestného poriadku vyslovil, že uznesením Krajského súdu v Košiciach, sp. zn. 7To/105/2018 zo 14.02.2019 právoplatným toho istého dňa, bol porušený zákon v ustanovení § 319 Trestného poriadku a v ustanovení § 58 ods. 2 Trestného zákona v prospech obvineného O."
+- *NS SR* ECLI ECLI:SK:NSSR:2021:8813010424.1, 2021-04-07
+  > „Podľa § 58 ods. 1 Trestného zákona účinného do 31. decembra 2005 mu výkon trestu odňatia slobody podmienečne odložil."
+- *NS SR* ECLI ECLI:SK:NSSR:2021:9519100068.6, 2021-01-12
+  > „Práve fakultatívnosť trestu prepadnutia majetku podľa § 58 ods. 1 Trestného zákona, podľa názoru poškodeného, umožňuje súdu zvážiť uloženie tohto trestu, a to vzhľadom k rôznym okolnostiam činu, napríklad k jeho rozsahu, spôsobu jeho spáchania, či motivácii páchateľov."
 
 ### § 60 — Trest prepadnutia veci
 
@@ -158,6 +202,17 @@ Trest prepadnutia majetku je najprísnejším majetkovým trestom — postihuje 
 
 Na rozdiel od prepadnutia majetku (§ 58, § 59), ktoré postihuje majetok ako celok, prepadnutie veci sa viaže na konkrétnu vec — nástroj trestného činu, vec určenú na jeho spáchanie alebo výnos z trestnej činnosti (odsek 1); súd ho uloží obligatórne, ak sú podmienky splnené. Odsek 2 rieši prípad, keď vec už nie je dosiahnuteľná alebo je zmiešaná s legálne nadobudnutým majetkom — vtedy súd uloží prepadnutie hodnotového ekvivalentu, pričom odsek 3 definuje pojem nedosiahnuteľnej veci (zničenej, poškodenej, stratenej, ukrytej, prevedenej s cieľom vyhnúť sa postihu a pod.). Trest možno uložiť len na vec patriacu páchateľovi (odsek 4, zásada, že trest nesmie postihovať tretie osoby) a vlastníctvo prechádza na štát s výhradou medzinárodnej zmluvy (odsek 5). Odsek 6 vylučuje uloženie trestu v troch prípadoch — ak by prepadnutím bola znemožnená náhrada škody poškodenému, ak je hodnota veci v zjavnom nepomere k závažnosti prečinu (zásada proporcionality), alebo ak súd od potrestania upustil.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2017:9515100022.1, 2017-05-17
+  > „Okrem vyššie uvedeného najvyšší súd na rozdiel od špecializovaného trestného súdu vo výrokoch jednotlivých trestov neaplikoval konštatačné zákonné ustanovenia: - „Podľa § 51 ods. 5 Trestného zákona obžalovaná je povinná strpieť nad sebou kontrolu vykonávanú probačným a mediačným úradníkom okresného súdu v mieste bydliska obžalovanej“, - „Podľa § 57 ods. 2 Trestného zákona zaplatená suma peňažného trestu pripadá štátu“, - „Podľa § 60 ods. 6 Trestného zákona vlastníkom prepadnutej veci sa stáva štát“."
+- *NS SR* sp. zn. 6To/7/2016, 2017-05-17
+  > „Okrem vyššie uvedeného najvyšší súd na rozdiel od špecializovaného trestného súdu vo výrokoch jednotlivých trestov neaplikoval konštatačné zákonné ustanovenia: - „Podľa § 51 ods. 5 Trestného zákona obžalovaná je povinná strpieť nad sebou kontrolu vykonávanú probačným a mediačným úradníkom okresného súdu v mieste bydliska obžalovanej“, - „Podľa § 57 ods. 2 Trestného zákona zaplatená suma peňažného trestu pripadá štátu“, - „Podľa § 60 ods. 6 Trestného zákona vlastníkom prepadnutej veci sa stáva štát“."
+- *NS SR* ECLI ECLI:SK:NSSR:2021:6717010321.1, 2021-06-30
+  > „Podľa § 60 ods. 1 písm. a) Trestného zákona súd obvinenému uložil aj trest prepadnutia veci, a to 1 ks notebook Lenovo model 80 GO, Lenovo G50-30. Na podklade odvolania obvineného a prokurátora rozhodol Krajský súd v Banskej Bystrici rozsudkom, sp. zn. 4To/154/2017, z 3. apríla 2018 tak, že podľa § 321 ods. 1 písm. d), písm. e) Trestného poriadku zrušil napadnutý rozsudok vo výroku o súhrnnom treste pri zmene čiastkového skutku uvedeného pod bodom 2/ tak, že: časť obuvi zn. SCHÜTZE-SCHUHE, v množstve najmenej 565 párov, na podklade vystavenej faktúry č. XXXXXXX, medzi dodávateľom W."
+- *NS SR* ECLI ECLI:SK:NSSR:2021:4118011622.1, 2021-06-23
+  > „Podľa § 60 ods. 1 písm. a) Trestného zákona uložil súd prvého stupňa obvinenému trest prepadnutia veci a to mobilného telefónu zn. BlackBerry IMEI XXXXXXXXXXXXXXX čiernej farby, SIM karta F."
+
 ### § 61 — Trest zákazu činnosti
 
 > **§ 61**
@@ -188,6 +243,17 @@ Na rozdiel od prepadnutia majetku (§ 58, § 59), ktoré postihuje majetok ako c
 
 Trest zákazu činnosti postihuje výkon zamestnania, povolania, funkcie alebo činnosti viazanej na osobitné povolenie či reguláciu, ktorá súvisela so spáchaným trestným činom (odsek 1). Základná výmera je jeden rok až desať rokov (odsek 2), s možnosťou uloženia ako samostatného trestu. Osobitne prísne je ustanovenie odseku 3 (recidíva pri ohrození pod vplyvom návykovej látky alebo usmrtení ako vodič) a odseku 6 (daňové trestné činy) — v oboch prípadoch sa trest ukladá v hornej polovici sadzby. Odseky 4 a 5 zavádzajú možnosť, resp. povinnosť uloženia trestu na doživotie: fakultatívne pri najzávažnejších trestných činoch spáchaných na dieťati (obchodovanie s ľuďmi, znásilnenie, sexuálne násilie, sexuálne zneužívanie, detská pornografia), obligatórne pri opakovanej (dvakrát už odsúdenej) recidíve vodičov pod vplyvom návykovej látky. Odsek 7 vylučuje vplyv zahladenia odsúdenia na tieto prísnejšie sadzby (recidíva sa zohľadní aj po zahladení). Odsek 8 upravuje započítanie doby výkonu trestu (nezapočítava sa doba výkonu odňatia slobody a väzby, započítava sa doba predbežného odňatia oprávnenia). Odsek 9 rieši započítanie už vykonaného trestu do nového a odsek 10 stanovuje osobitný obchodnoprávny účinok trestu pri zákaze výkonu štatutárnych a obdobných funkcií — rozsudok tu pôsobí priamo ako rozhodnutie o vylúčení podľa predpisov obchodného práva.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2020:5116011395.1, 2020-05-07
+  > „Najvyšší súd na margo tejto dovolacej námietky zdôrazňuje, že zákonná úprava ukladania trestu zákazu činnosti vedenia motorového vozidla podľa § 61 ods. 5 písm. b) Trestného zákona upravuje povinnosť súdu v prípade odsudzovania páchateľa za trestný čin usmrtenia podľa § 149 ods. 4, ktorého sa dopustil ako vodič dopravného prostriedku obligatórne uložiť trest zákazu činnosti na doživotie."
+- *NS SR* ECLI ECLI:SK:NSSR:2017:9515100022.1, 2017-05-17
+  > „V neposlednom rade najvyšší súd rozhodol zhodne ako súd prvého stupňa vo výroku podľa § 61 ods. 1, ods. 2 Trestného zákona, ktorým bol obžalovanej uložený trest zákazu činnosti spočívajúci v zákaze výkonu funkcie spojenej s rozhodovacou činnosťou vo verejnej správe na dobu 4 roky, pretože aj na uloženie takéhoto druhu trestu a v takej výmere boli splnené všetky zákonom predpokladané podmienky."
+- *NS SR* sp. zn. 6To/7/2016, 2017-05-17
+  > „V neposlednom rade najvyšší súd rozhodol zhodne ako súd prvého stupňa vo výroku podľa § 61 ods. 1, ods. 2 Trestného zákona, ktorým bol obžalovanej uložený trest zákazu činnosti spočívajúci v zákaze výkonu funkcie spojenej s rozhodovacou činnosťou vo verejnej správe na dobu 4 roky, pretože aj na uloženie takéhoto druhu trestu a v takej výmere boli splnené všetky zákonom predpokladané podmienky."
+- *NS SR* ECLI ECLI:SK:NSSR:2017:1413000255.1, 2017-03-23
+  > „Dovolací súd sa preto zaoberal len dôvodnosťou aplikácie mimoriadnych okolností podľa § 438d Tr. zák. Po preštudovaní spisu dospel dovolací súd k názoru, že krajský súd nepochybil pri ukladaní výšky trestu zákazu činnosti, keď prihliadol na okolnosti predchádzajúcich odsúdení a neaplikoval § 61 ods. 5 Tr. zák. Aj keď Trestný zákon účinný od 1. januára 2006 nešpecifikuje mimoriadne okolnosti prípadov, za takéto možno považovať osobu obvineného a spôsob spáchania trestného činu."
+
 ### § 62 — Trest zákazu pobytu
 
 > **§ 62**
@@ -207,6 +273,17 @@ Trest zákazu činnosti postihuje výkon zamestnania, povolania, funkcie alebo �
 **Výklad:**
 
 Trest zákazu pobytu zakazuje zdržiavanie sa na určenom mieste alebo v obvode (s výnimkou povoleného prechodného pobytu v nevyhnutnej osobnej veci) na jeden rok až päť rokov, pri úmyselnom trestnom čine a s odôvodnením ochrany verejného poriadku, rodiny, zdravia, mravnosti alebo majetku vzhľadom na doterajší spôsob života páchateľa; nikdy sa nemôže vzťahovať na miesto trvalého pobytu páchateľa (odseky 1 – 2). Súd môže popri tomto treste uložiť ďalšie obmedzenia a povinnosti podľa § 51 ods. 3 a 4, avšak iba ak trest zákazu pobytu neukladá popri nepodmienečnom odňatí slobody (odsek 3) — táto podmienka logicky plynie z toho, že pri súbehu s nepodmienečným trestom odňatia slobody by kontrola obmedzení v čase väzby/výkonu trestu bola bezpredmetná. Odsek 4 upravuje možnosť technickej kontroly, odsek 5 vylučuje zo započítania dobu výkonu odňatia slobody a odsek 6 rieši kolíziu s trestom povinnej práce, ak by sa práca mala vykonávať práve v zakázanej lokalite.
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2020:3012000003.1, 2020-02-11
+  > „Odôvodnenie Napadnutým uznesením Krajský súd v Trenčíne (ďalej aj „krajský súd" alebo „súd prvého stupňa") rozhodol tak, že podľa § 61 ods. 1 a § 62 ods. 1 Trestného zákona účinného do 31. decembra 2005 sa odsúdený O."
+- *NS SR* ECLI ECLI:SK:NSSR:2016:5415010060.1, 2016-12-21
+  > „Podľa § 62 ods. 1, ods. 2 Trestného zákona za použitia § 38 ods. 2 Trestného zákona súd uložil obvinenej aj trest zákazu pobytu na území Mesta Dolný Kubín na dobu 1 (jeden) rok."
+- *NS SR* sp. zn. 3Tdo/73/2016, 2016-12-21
+  > „Podľa § 62 ods. 1, ods. 2 Trestného zákona za pouţitia § 38 ods. 2 Trestného zákona súd uloţil obvinenej aj trest zákazu pobytu na území Mesta Dolný Kubín na dobu 1 (jeden) rok."
+- *NS SR* sp. zn. 1 Tost 4/2015, 2015-02-18
+  > „3 Ntc 1/2012-249 zamietol podľa § 61 ods. 1, ods. 2, § 62 ods. 1 Tr. zák. účinného do 31. decembra 2005 (ďalej len Trestného zákona) žiadosť odsúdenej J."
 
 ### § 62a — Trest zákazu účasti na verejných podujatiach
 
@@ -242,6 +319,11 @@ Tento trest cieli predovšetkým na páchateľov násilia a výtržností spojen
 
 Ide o trest so silne symbolickou funkciou — odníma odsúdenému vyznamenania a čestné tituly udelené podľa osobitných predpisov (odsek 1). Základnou podmienkou je odsúdenie za obzvlášť závažný zločin na trest odňatia slobody prevyšujúci päť rokov (odsek 2), pričom odsek 3 pripúšťa uloženie tohto trestu aj popri kratšom treste odňatia slobody alebo popri inom druhu trestu, ak si to vyžaduje ochrana vážnosti samotného titulu či vyznamenania — teda záujem spoločnosti, aby si nositelia takýchto ocenení zachovali morálnu bezúhonnosť.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2020:3012000003.1, 2020-02-11
+  > „(ďalej aj „odsúdený") podmienečne prepúšťa z výkonu trestu odňatia slobody vo výmere štyroch rokov uloženého mu rozsudkom Krajského súdu v Trenčíne zo 17. júla 2012, sp. zn. 3Ntc/1/2012 v spojení a rozsudkom Krajského súdu v Trenčíne zo 7. augusta 2013, sp. zn. 3Ntc/1/2012 a v spojení s uznesením Najvyššieho súdu Slovenskej republiky z 5. novembra 2013, sp. zn. 2Urto/6/2013. Podľa § 63 ods. 1 Trestného zákona účinného do 31. decembra 2005 súd prvého stupňa napadnutým uznesením určil odsúdenému skúšobnú dobu na 6 (šesť) rokov."
+
 ### § 64 — Trest straty vojenskej a inej hodnosti
 
 > **§ 64**
@@ -255,6 +337,17 @@ Ide o trest so silne symbolickou funkciou — odníma odsúdenému vyznamenania 
 **Výklad:**
 
 Trest postihuje príslušníkov ozbrojených síl alebo iných zborov v služobnom pomere znížením hodnosti na hodnosť vojaka, resp. jej úplným odňatím pri príslušníkoch v služobnom pomere (odsek 1). Na rozdiel od predchádzajúceho trestu je pri splnení podmienok obligatórny — súd ho uloží, ak ide o nositeľa hodnosti odsúdeného za úmyselný trestný čin na nepodmienečný trest odňatia slobody najmenej na dva roky (odsek 2); fakultatívne ho možno uložiť aj popri kratšom alebo inom treste, ak si to vyžaduje záujem na disciplíne a poriadku v ozbrojených silách či službe (odsek 3).
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2016:7110011299.1, 2016-08-18
+  > „podľa § 64 ods. 1 Tr. zák. účinného do 31. decembra 2005 (ďalej len „Trestný zákon“) vykoná zvyšok trestu odňatia slobody uloženého rozsudkom Okresného súdu Vranov nad Topľou z 28. januára 2004, sp. zn. 1 T 40/2003 v spojení s rozhodnutím Krajského súdu v Prešove z 11. januára 2005, sp. zn. 4 To 35/2004, z ktorého bol 8. septembra 2011 podmienečne prepustený."
+- *NS SR* sp. zn. 5 Tdo 64/2016, 2016-08-18
+  > „podľa § 64 ods. 1 Tr. zák. účinného do 31. decembra 2005 (ďalej len „Trestný zákon“) vykoná zvyšok trestu odňatia slobody uloženého rozsudkom Okresného súdu Vranov nad Topľou z 28. januára 2004, sp. zn. 1 T 40/2003 v spojení s rozhodnutím Krajského súdu v Prešove z 11. januára 2005, sp. zn. 4 To 35/2004, z ktorého bol 8. septembra 2011 podmienečne prepustený."
+- *NS SR* ECLI ECLI:SK:NSSR:2015:9015898839.1, 2015-09-24
+  > „Odôvodnenie Krajský súd v Banskej Bystrici uznesením z 28. júla 2015, sp. zn. 5Ntc 14/2013, podľa § 61 ods. 1 Trestného zákona, s poukazom na § 64 ods. 4 Tr. zák. účinného do 1. januára 2006 zamietol žiadosť odsúdeného E."
+- *NS SR* sp. zn. 6 Urtost 1/2015, 2015-09-24
+  > „O d ô v o d n e n i e Krajský súd v Banskej Bystrici uznesením z 28. júla 2015, sp. zn. 5Ntc 14/2013, podľa § 61 ods. 1 Trestného zákona, s poukazom na § 64 ods. 4 Tr. zák. účinného do 1. januára 2006 zamietol žiadosť odsúdeného F."
 
 ### § 65 — Trest vyhostenia
 
@@ -287,6 +380,17 @@ Trest vyhostenia je uplatniteľný len voči cudzincom bez azylu alebo doplnkove
 ---
 
 ## Štvrtý diel — Premena zvyšku trestu odňatia slobody na trest domáceho väzenia, podmienečné prepustenie a podmienečné upustenie od výkonu zvyšku niektorých trestov
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2020:7115010035.1, 2020-09-08
+  > „Podľa § 65 ods. 1, ods. 4 Trestného zákona obvinenému Z. Z. uložil trest vyhostenia v trvaní dvoch rokov."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:2217010289.1, 2020-07-15
+  > „Podľa § 65 ods.1, ods. 4 Trestného zákona súd prvého stupňa uložil obvinenému aj trest vyhostenia z územia Slovenskej republiky na 5 rokov."
+- *NS SR* ECLI ECLI:SK:NSSR:2018:6110011036.2, 2018-08-01
+  > „Zároveň bol menovanému uložený aj trest vyhostenia na 10 rokov a to postupom podľa § 65 ods. 1, ods. 3 Trestného zákona."
+- *NS SR* ECLI ECLI:SK:NSSR:2018:6110011036.1, 2018-08-01
+  > „Zároveň bol obvinenému uložený trest vyhostenia na 10 rokov postupom podľa § 65 ods. 1, ods. 3 Trestného zákona."
 
 ### § 65a — Premena zvyšku trestu odňatia slobody na trest domáceho väzenia
 
@@ -332,6 +436,17 @@ Toto ustanovenie umožňuje dodatočnú (počas výkonu trestu prebiehajúcu) pr
 
 Základnou hmotnoprávnou podmienkou podmienečného prepustenia je preukázané polepšenie vo výkone trestu a dôvodný predpoklad budúceho riadneho života (odsek 1, úvodná veta), pričom konkrétna dĺžka vykonanej časti trestu sa odstupňúva podľa závažnosti a osoby páchateľa: polovica trestu pri prečine (písm. a), dve tretiny pri zločine (písm. b), a osobitne polovica trestu pri zločine u páchateľa, ktorý predtým nebol vo výkone trestu odňatia slobody, avšak s povinne nariadenou technickou kontrolou (písm. c) — táto posledná kategória tak kombinuje miernejšiu časovú podmienku s prísnejším dohľadom. Odsek 2 dopĺňa hmotnoprávne kritériá o povahu trestného činu a typ nápravno-výchovného ústavu. Odsek 3 rieši súbeh viacerých trestov odňatia slobody, kde sa vyžaduje výkon súčtu pomerných častí (vrátane osobitných kategórií podľa § 67 a celého zvyšku trestu podľa § 68 ods. 2 pri neosvedčení sa). Odsek 4 stanovuje minimálnu dobu trvania technickej kontroly pri podmienečnom prepustení podľa písm. c) na dve tretiny trestu.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2021:7119011074.1, 2021-03-16
+  > „Minister spravodlivosti Slovenskej republiky navrhol, aby Najvyšší súd Slovenskej republiky podľa § 386 ods. 1 Trestného poriadku vyslovil, že uznesením Okresného súdu Košice I, z 1. augusta 2019, sp. zn. 7PP/45/2019, bol porušený zákon v ustanoveniach § 66 ods. 1 písm. a), ods. 2 Trestného zákona, v prospech obvineného E."
+- *NS SR* ECLI ECLI:SK:NSSR:2021:3020200017.1, 2021-02-09
+  > „V podstate na základe vyššie uvedených dôvodov prokurátorka navrhla, aby Najvyšší súd Slovenskej republiky napadnuté uznesenie podľa § 194 ods. 1 písm. a) Trestného poriadku zrušil a zároveň podľa § 66 ods. 1, ods. 2 Trestného zákona návrh odsúdeného na jeho podmienečné prepustenie zamietol."
+- *NS SR* ECLI ECLI:SK:NSSR:2019:4019200282.1, 2019-11-12
+  > „Navrhol, aby najvyšší súd podľa § 194 ods. 1 písm. a) Trestného poriadku napadnuté uznesenie krajského súdu zrušil a vo veci sám rozhodol tak, že podľa § 18 ods. 1 zák. č. 549/2011 Z. z. o uznávaní a výkone rozhodnutí, ktorými sa ukladá trestná sankcia spojená s odňatím slobody v Európskej únii a o zmene a doplnení zák. č. 221/2006 Z. z. o výkone väzby v znení neskorších predpisov s použitím § 66 ods. 1 písm. b) Trestného zákona zamietol žiadosť odsúdeného E."
+- *NS SR* ECLI ECLI:SK:NSSR:2019:2019010039.1, 2019-08-28
+  > „Napriek vyššie uvedenému Najvyšší súd Slovenskej republiky konštatuje, že rozhodujúcim kritériom z hľadiska posúdenia dotknutého trestného činu ako prečinu, zločinu alebo obzvlášť závažného zločinu vo vzťahu k podmienke výkonu určitej časti trestu pri podmienečnom prepustení podľa § 66 Trestného zákona je právna kvalifikácia podľa cudzieho rozhodnutia, ktoré bolo uznané príslušným súdom Slovenskej republiky, a to z hľadiska kritérií uvedených v § 10 a § 11 Trestného zákona (rozhodnutie č. 13 uverejnené v Zbierke stanovísk Najvyššieho súdu a rozhodnutí súdov Slovenskej republiky č. 2/2016)."
+
 ### § 67 — Podmienečné prepustenie pri obzvlášť závažných zločinoch a doživotí
 
 > **§ 67**
@@ -343,6 +458,17 @@ Základnou hmotnoprávnou podmienkou podmienečného prepustenia je preukázané
 **Výklad:**
 
 Pre najzávažnejšiu kriminalitu zákon podstatne sprísňuje podmienky podmienečného prepustenia oproti všeobecnej úprave § 66. Osoba odsúdená za obzvlášť závažný zločin alebo na trest odňatia slobody podľa § 47 ods. 2 (okrem doživotia) môže byť prepustená až po výkone troch štvrtín trestu (odsek 1). Osoba odsúdená na doživotie môže byť prepustená najskôr po 25 rokoch výkonu trestu, a to len pri kladnej prognóze, že jej prepustením nehrozí opakovanie spáchaného alebo obdobného činu, posudzovanej s ohľadom na okolnosti činu a povahu jej osobnosti (odsek 2) — ide o jedinú cestu k skutočnému ukončeniu doživotného trestu, keďže Trestný zákon nepozná automatické prepustenie po uplynutí určitej doby.
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* sp. zn. 5Tost/21/2017, 2017-06-28
+  > „Súčasne bol prokuratúrou vyjadrený právny názor, že konanie by napĺňalo skutkovú podstatu trestného činu vraždy podľa § 219 ods. 1, ods. 2 písm. b/ Trestného zákona, pričom trestné stíhanie by sa podľa § 67 ods. 1 písm. a/ Trestného zákona premlčalo uplynutím premlčacej doby, ktorá je 20 rokov."
+- *NS SR* ECLI ECLI:SK:NSSR:2021:3016000021.3, 2021-06-22
+  > „Podľa § 67 ods. 1 Trestného zákona odsúdeného U."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:7113010503.2, 2020-04-07
+  > „sa vzťahovala 10 ročná lehota na premlčanie trestného stíhania podľa § 67 ods. 1 písm. b) Trestného zákona a tá v predmetnom prípade uplynula už pred vznesením obvinenia obvinenému."
+- *NS SR* ECLI ECLI:SK:NSSR:2019:4019200282.1, 2019-11-12
+  > „Nejde totiž o zákonnú prekážku podľa § 67 ods. 3 Trestného zákona."
 
 ### § 68 — Skúšobná doba, probačný dohľad a osvedčenie sa pri podmienečnom prepustení
 
@@ -361,6 +487,17 @@ Pre najzávažnejšiu kriminalitu zákon podstatne sprísňuje podmienky podmien
 **Výklad:**
 
 Skúšobná doba pri podmienečnom prepustení je jeden rok až sedem rokov, resp. desať rokov pri prepustení z trestu na dvadsaťpäť rokov alebo doživotia — v tomto najprísnejšom prípade sa súčasne obligatórne nariaďuje aj probačný dohľad až na päť rokov (namiesto fakultatívnych troch rokov pri bežnom prepustení); skúšobná doba neplynie počas výkonu iného nepodmienečného trestu odňatia slobody či väzby (odsek 1). Odsek 2 upravuje rozhodnutie o osvedčení sa (pri riadnom vedení života a plnení povinností) alebo naopak o nariadení výkonu zvyšku trestu, s pravidlom plynulej nadväznosti výkonov trestov. Osvedčenie sa má fikciu spätného výkonu trestu ku dňu prepustenia (odsek 3), a rovnaká fikcia platí aj vtedy, ak súd bez zavinenia odsúdeného nerozhodol o výkone zvyšku trestu do roka od uplynutia skúšobnej doby (predĺžené na dva roky pri prebiehajúcom trestnom stíhaní pre nový úmyselný trestný čin spáchaný v skúšobnej dobe) — odsek 4 tak chráni odsúdeného pred neistotou spôsobenou nečinnosťou súdu. Odsek 5 vylučuje opätovné podmienečné prepustenie z výkonu toho istého trestu — ak sa odsúdený neosvedčil, druhú šancu už nedostane.
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2019:4019200282.1, 2019-11-12
+  > „Najvyšší súd v súvislosti s obmedzeniami uloženými prvostupňovým súdom v spojení s podmienečným prepustením z výkonu trestu odňatia slobody podľa § 66 ods. 1 písm. b), ods. 2, § 68 ods. 1 Trestného zákona upriamuje pozornosť na to, že medzinárodné dokumenty považujú restoratívne prístupy čoraz častejšie za legitímne, ak nie lepšie prostriedky dosahovania spravodlivosti."
+- *NS SR* ECLI ECLI:SK:NSSR:2018:9018200101.1, 2018-10-24
+  > „Najvyšší súd Slovenskej republiky pri plnení prieskumnej povinnosti považuje postup krajského súdu pri rozhodovaní o osvedčení, resp. neosvedčení sa v skúšobnej dobe podmienečného prepustenia z výkonu trestu odňatia slobody za procesne správny a v súlade so zákonom, keď určil podľa § 416 Trestného poriadku pre rozhodnutie termín verejného zasadnutia a zadovážil všetky rozhodné skutočnosti pre svoje rozhodnutie podľa § 68 ods. 2 Trestného zákona; krajský súd však pochybil, keď vykonal verejné zasadnutie v neprítomnosti odsúdeného, hoci na to neboli splnené zákonné podmienky."
+- *NS SR* ECLI ECLI:SK:NSSR:2014:9014899066.1, 2014-10-08
+  > „S poukazom na vyššie uvedené obvinený navrhol, aby dovolací súd zrušil rozhodnutie Krajského súdu v Bratislave z 13. januára 2014, sp. zn. 2Tos 151/2013, aj rozhodnutie Okresného súdu Bratislava I z 28. novembra 2013, sp. zn. 2T 113/1994, a sám rozhodol tak, že podľa § 68 ods. 1 písm. c/ Trestného zákona je trest odňatia slobody uložený H."
+- *NS SR* sp. zn. 3 Tdo 40/2014, 2014-10-08
+  > „S poukazom na vyššie uvedené obvinený navrhol, aby dovolací súd zrušil rozhodnutie Krajského súdu v Bratislave z 13. januára 2014, sp. zn. 2Tos 151/2013, aj rozhodnutie 3 Tdo 40/2014 4 Okresného súdu Bratislava I z 28. novembra 2013, sp. zn. 2T 113/1994, a sám rozhodol tak, že podľa § 68 ods. 1 písm. c/ Trestného zákona je trest odňatia slobody uložený V."
 
 ### § 68a a § 68b — Podmienečné upustenie od výkonu zvyšku trestu domáceho väzenia
 
@@ -383,6 +520,11 @@ Skúšobná doba pri podmienečnom prepustení je jeden rok až sedem rokov, res
 **Výklad:**
 
 Po výkone polovice trestu domáceho väzenia môže súd upustiť od výkonu jeho zvyšku, ak spôsob života odsúdeného preukázal, že ďalší výkon trestu už nie je potrebný (§ 68a ods. 1). Skúšobná doba je až tri roky, minimálne však v dĺžke zvyšku trestu (odsek 2), a súd môže uložiť ďalšie obmedzenia a povinnosti, pričom mimo prípadov náhrady škody, dlhu alebo výživného spravidla nariadi probačný dohľad (odsek 3). § 68b zrkadlí konštrukciu § 68 pre tento konkrétny inštitút: pri osvedčení sa nastáva fikcia vykonania trestu dňom právoplatnosti rozhodnutia o upustení (odsek 2), pri neosvedčení sa zvyšok premení na nepodmienečný trest odňatia slobody v pomere deň za deň s určením spôsobu jeho výkonu (odsek 1), a rovnaká fikcia vykonania trestu platí aj pri nečinnosti súdu presahujúcej zákonom stanovené lehoty (jeden rok, resp. dva roky pri novom trestnom stíhaní — odsek 3).
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2021:1119010919.1, 2021-02-18
+  > „1Nt/26/2019-112, podľa § 68a ods. 1 Trestného zákona („Tr. zák.") zamietol návrh obvineného Q."
 
 ### § 69 a § 70 — Podmienečné upustenie od výkonu zvyšku trestu zákazu činnosti
 
@@ -414,6 +556,17 @@ Po výkone polovice trestu domáceho väzenia môže súd upustiť od výkonu je
 
 Konštrukcia je analogická § 68a/68b, prispôsobená trestu zákazu činnosti: po výkone polovice trestu možno upustiť od zvyšku pri preukázanom polepšení (§ 69 odsek 1), so skúšobnou dobou až na päť rokov (odsek 2) a možnosťou uložiť ďalšie obmedzenia, spravidla vrátane povinnosti nahradiť škodu (odsek 3). Odseky 4 a 5 zavádzajú dôležité výnimky z možnosti upustenia — pri zákaze činnosti viesť motorové vozidlo je upustenie vylúčené pri recidíve trestných činov spáchaných pod vplyvom návykovej látky v predchádzajúcich desiatich rokoch (odsek 4), a rovnako je vylúčené pri najprísnejších kategóriách zákazu činnosti uložených podľa § 61 ods. 3 až 5 (recidivujúci vodiči pod vplyvom návykovej látky, daňové trestné činy, trestné činy na dieťati) — u tejto skupiny páchateľov zákon nepripúšťa skoršie ukončenie trestu (odsek 5). § 70 potom upravuje samotné rozhodnutie o osvedčení sa alebo výkone zvyšku (odsek 1) a rovnaké fikcie vykonania trestu ako pri iných inštitútoch podmienečného upustenia — fikciu pri osvedčení sa (odsek 2) aj pri nečinnosti súdu presahujúcej ročnú lehotu (odsek 3).
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2017:9017200069.1, 2017-12-13
+  > „Pre účely konania podľa § 69 Trestného zákona nemá sankcia zákazu činnosti vedenia motorových vozidiel povahu trestu, tak ako samotný trest zákazu činnosti vedenia motorových vozidiel."
+- *NS SR* ECLI ECLI:SK:NSSR:2017:1516000362.1, 2017-12-13
+  > „Pre účely konania podľa § 69 Trestného zákona nemá sankcia zákazu činnosti vedenia motorových vozidiel povahu trestu, tak ako samotný trest zákazu činnosti vedenia motorových vozidiel."
+- *NS SR* sp. zn. 3Tdo/22/2017, 2017-12-13
+  > „S ohľadom na to odkaz prokurátora na trestnú povahu sankcie zákazu činnosti stráca argumentačnú silu, pokiaľ ide o konanie podľa § 69 Trestného zákona.V konaní podľa § 69 Trestného zákona sa podmienečne upúšťa od výkonu zvyšku trestu zákazu činnosti a teda účinky tohto trestu sa na určitý čas a za splnenia určitých podmienok odkladajú."
+- *NS SR* sp. zn. 3Tdo/24/2017, 2017-12-13
+  > „S ohľadom na to odkaz prokurátora na trestnú povahu sankcie zákazu činnosti stráca argumentačnú silu pokiaľ ide o konanie podľa § 69 Trestného zákona.V konaní podľa § 69 Trestného zákona sa podmienečne upúšťa od výkonu zvyšku trestu zákazu činnosti a teda účinky tohto trestu sa na určitý čas a za splnenia určitých podmienok odkladajú."
+
 ### § 71 a § 72 — Podmienečné upustenie od výkonu zvyšku trestu zákazu pobytu
 
 > **§ 71**
@@ -435,6 +588,13 @@ Konštrukcia je analogická § 68a/68b, prispôsobená trestu zákazu činnosti:
 **Výklad:**
 
 Rovnaká trojkroková štruktúra (podmienky upustenia, skúšobná doba a doplnkové povinnosti, dôsledky osvedčenia/neosvedčenia sa) sa uplatňuje aj pri treste zákazu pobytu, bez osobitných výnimiek analogických § 69 ods. 4 a 5 — po výkone polovice trestu možno upustiť od zvyšku (§ 71 odsek 1) so skúšobnou dobou až na päť rokov (odsek 2) a možnými doplnkovými povinnosťami vrátane náhrady škody (odsek 3). § 72 rieši dôsledky osvedčenia sa alebo neosvedčenia sa rovnako ako v predchádzajúcich prípadoch (odseky 1 – 3).
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* sp. zn. 3Tost/43/2017, 2017-12-06
+  > „R. je trestne stíhaný za zločin založenia, zosnovania a podporovania zločineckej skupiny podľa § 296 Trestného zákona, v prípade ktorého pri existencii väzobných dôvodov v zmysle § 71 ods. 1 Trestného poriadku, môže celková doba väzby trvať maximálne 36 mesiacov, z toho na prípravné konanie pripadá 19 mesiacov."
+- *NS SR* sp. zn. 2 Tost 42/2012, 2012-12-18
+  > „Okrem existencie dôvodného podozrenia zo spáchania pokračovacieho trestného činu podvodu so spôsobením škody veľkého rozsahu, v danom prípade škody v zmysle § 14 písm. k/ Tr. por. presahujúcej dvadsaťpäťtisícnásobok malej škody podľa Trestného zákona existuje u obvineného aj konkrétny väzobný dôvod, a to podľa § 71 ods. 1 písm. a/ Tr. por. založený na obave z úteku alebo skrývania sa v úmysle vyhnúť sa trestnému stíhaniu."
 
 ### § 72a a § 72b — Podmienečné upustenie od výkonu zvyšku trestu zákazu účasti na verejných podujatiach
 
@@ -488,6 +648,17 @@ Posledný z paralelných inštitútov podmienečného upustenia od výkonu zvyš
 
 Ochranné liečenie je paradigmatickým ochranným opatrením — nemá represívnu, ale liečebnú a ochrannú funkciu, a preto ho možno uložiť aj osobe, ktorá nie je trestne zodpovedná (nadväzuje na § 7a ods. 2). Obligatórne sa uloží v prípadoch odkazovaných z ustanovení o upustení od potrestania (§ 39 a § 40) alebo nepríčetnému páchateľovi činu inak trestného, ak je jeho pobyt na slobode nebezpečný (odsek 1). Fakultatívne ho možno uložiť páchateľovi v stave zmenšenej príčetnosti, páchateľovi, ktorý čin spáchal v súvislosti s duševnou poruchou, alebo páchateľovi závislému od návykovej látky či hazardných hier (odsek 2), pričom pri poslednej kategórii (závislosti) zákon vyžaduje reálny predpoklad dosiahnutia účelu liečenia — inak sa neuloží (odsek 3). Odsek 4 potvrdzuje kumulovateľnosť ochranného liečenia s trestom, upustením od potrestania alebo podmienečným upustením od potrestania. Odseky 5 a 6 riešia osobitné situácie vznikajúce už počas výkonu trestu odňatia slobody (vznik nie prechodnej duševnej poruchy nebezpečnej pre pobyt na slobode) a pri prepustení z detencie (obligatórne uloženie liečenia pretrvávajúcej duševnej poruche).
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2021:5819010361.1, 2021-06-22
+  > „Podľa § 73 ods. 2 písm. d) Trestného zákona okresný súd obvinenému uložil aj ochranné protialkoholické liečenie ústavnou formou."
+- *NS SR* ECLI ECLI:SK:NSSR:2021:4218010645.1, 2021-05-11
+  > „Podľa § 73 ods. 2 písm. d) Trestného zákona súd uložil obvinenému ochranné protitoxikomanické liečenie ambulantnou formou."
+- *NS SR* ECLI ECLI:SK:NSSR:2021:4620010086.1, 2021-04-28
+  > „Podľa § 73 ods. 2 písm. d), ods. 4 Trestného zákona a § 74 ods. 1 Trestného zákona mu bolo uložené ochranné protialkoholické liečenie ústavnou formou."
+- *NS SR* ECLI ECLI:SK:NSSR:2021:2215010367.1, 2021-04-27
+  > „Podľa § 76 ods. 1 Trestného zákona súd prvého stupňa zároveň uložil obvinenému ochranný dohľad na dobu 1 roka a podľa § 73 ods. 2 písm. d) Trestného zákona aj ochranné protitoxikomanické liečenie ambulantnou formou."
+
 ### § 74 — Formy a priebeh ochranného liečenia
 
 > **§ 74**
@@ -508,6 +679,17 @@ Ochranné liečenie je paradigmatickým ochranným opatrením — nemá represí
 
 Ochranné liečenie sa ukladá v ambulantnej alebo ústavnej forme podľa toho, či možno účel liečenia dosiahnuť pri zachovaní slobody pohybu páchateľa, alebo je nevyhnutná izolácia — pravidlom je ambulantná forma, ústavná je vyhradená pre prípady nebezpečnosti pobytu na slobode alebo kde ambulantná forma nesľubuje úspech; osobitne pri liečení závislostí súbežne s nepodmienečným trestom odňatia slobody zákon vyžaduje priamo ústavnú formu (odsek 1). Formu možno počas výkonu meniť obidvoma smermi podľa vývoja liečby, s dôrazom na možnosť zmiernenia z ústavnej na ambulantnú formu (odsek 2). Pri súbehu s nepodmienečným trestom odňatia slobody sa liečenie vykonáva priamo v ústave na výkon trestu, s možnosťou pokračovania po prepustení, ak trest na dosiahnutie účelu liečenia nepostačoval (odsek 3). Vo všeobecnosti trvá liečenie, kým to vyžaduje jeho účel, bez pevne stanovenej hornej hranice (odsek 4) — výnimkou je liečenie závislostí podľa § 73 ods. 2 písm. c), kde zákon stanovuje konkrétne časové limity (ambulantná forma najviac dvanásť mesiacov, ústavná forma najviac tri mesiace s následným ambulantným doliečovaním do dvanástich mesiacov — odsek 5), čo odráža osobitnú povahu liečby závislostí. Odsek 6 umožňuje od výkonu liečenia úplne upustiť, ak dôvody jeho uloženia zanikli ešte pred jeho začatím.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2021:4620010086.1, 2021-04-28
+  > „Podľa § 73 ods. 2 písm. d), ods. 4 Trestného zákona a § 74 ods. 1 Trestného zákona mu bolo uložené ochranné protialkoholické liečenie ústavnou formou."
+- *NS SR* ECLI ECLI:SK:NSSR:2021:7220010522.2, 2021-04-22
+  > „Odôvodnenie Okresný súd Košice II (ďalej len „okresný súd“ alebo „prvostupňový súd“) uznesením z 11. júna 2020, sp. zn. 6Nt/16/2020 podľa § 73 ods. 1 Trestného zákona (ďalej len „Tr. zák.“) a § 74 ods. 2 Tr. zák. na základe návrhu prokurátora Okresnej prokuratúry Košice II (podanie z 29. apríla 2020, doručené prvostupňovému súdu 30. apríla 2020, č. l."
+- *NS SR* ECLI ECLI:SK:NSSR:2021:1119010210.1, 2021-03-30
+  > „Zároveň súd prvého stupňa podľa § 73 ods. 2 písm. d) Trestného zákona v spojení s ustanovením § 74 ods. 1 Trestného zákona uložil obvinenému ochranné protitoxikomanické liečenie ústavnou formou."
+- *NS SR* ECLI ECLI:SK:NSSR:2021:4119010116.1, 2021-01-14
+  > „Podľa § 73 odsek 2 písmeno c), písmeno d) Trestného zákona a § 74 odsek 1, odsek 2 Trestného zákona mu uložil ochranné protitoxikomanické liečenie ústavnou formou."
+
 ### § 75 — Ochranná výchova
 
 > **§ 75**
@@ -517,6 +699,17 @@ Ochranné liečenie sa ukladá v ambulantnej alebo ústavnej forme podľa toho, 
 **Výklad:**
 
 Toto ustanovenie je čisto odkazovacou normou — samotné podmienky ukladania a výkonu ochrannej výchovy (ktorá je ochranným opatrením ukladaným mladistvým páchateľom) nie sú v tejto hlave upravené, ale sú vyhradené osobitnej časti zákona venovanej trestnej zodpovednosti mladistvých. Zaradenie tohto stručného odkazu medzi ostatné ochranné opatrenia zachováva systematickú úplnosť výpočtu ochranných opatrení v tomto diele (ochranné liečenie, ochranná výchova, ochranný dohľad, detencia, zhabanie veci a zhabanie časti majetku), hoci vecná úprava ochrannej výchovy nasleduje až v neskoršej hlave zákona.
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* sp. zn. 4Tost/7/2018, 2018-02-28
+  > „bol usmrtený, a teda že došlo k spáchaniu trestného činu vraždy podľa § 75 StGB v štáte pôvodu a podľa § 219 Trestného zákona Slovenskej republiky."
+- *NS SR* sp. zn. 2Tost/5/2018, 2018-02-19
+  > „pre zločin vraždy podľa § 75 rakúskeho Trestného zákona 19. februára 2018 v Bratislave o sťažnosti prokurátorky Krajskej prokuratúry v Trnave proti uzneseniu Krajského súdu v Trnave z 12. januára 2018, sp. zn. 5Ntc/26/2017, takto r o z h o d o l : Podľa § 188 ods. 4 Tr. por. berie na vedomie späťvzatie sťažnosti prokurátorky Krajskej prokuratúry v Trnave."
+- *NS SR* sp. zn. 4 Tost 34/2011, 2011-10-19
+  > „viacerými bodnými ranami do hornej časti tela 4 4 Tost 34/2011 úmyselne usmrtili R. A., právne kvalifikovaný ako trestný čin vraždy podľa § 75 Trestného zákona Rakúskej republiky."
+- *NS SR* sp. zn. 2Tost/46/2017, 2017-12-28
+  > „pre zločin vraždy podľa § 75 rakúskeho Trestného zákona vo forme určenia na spáchanie (návodu) na trestný čin podľa § 12, druhý prípad rakúskeho Trestného zákona, na neverejnom zasadnutí konanom 28. decembra 2017 v Bratislave, o sťažnosti vyžiadanej osoby proti uzneseniu Krajského súdu v Trnave z 8. decembra 2017, sp. zn. 5Ntc/26/2017, takto r o z h o d o l : Podľa § 193 ods. 1 písm. c) Tr. por. sťažnosť vyžiadanej osoby T."
 
 ### § 76 — Ochranný dohľad — všeobecné podmienky
 
@@ -531,6 +724,17 @@ Toto ustanovenie je čisto odkazovacou normou — samotné podmienky ukladania a
 **Výklad:**
 
 Ochranný dohľad podľa § 76 je preventívnym opatrením cieleným na recidivistov a páchateľov zločinov s nepriaznivou prognózou budúceho riadneho života — uloží sa buď pri kvalifikovanej recidíve úmyselného trestného činu (najmenej dve predchádzajúce odsúdenia za takýto čin a opätovné uloženie nepodmienečného trestu), alebo pri páchateľovi zločinu, kde vzhľadom na jeho osobu, prostredie a povahu trestnej činnosti nemožno očakávať riadny život po výkone trestu (odsek 1). Odsek 2 pripúšťa uloženie dohľadu aj bez splnenia týchto podmienok, na návrh prokurátora alebo riaditeľa nápravno-výchovného ústavu, ak k negatívnej prognóze vedie správanie počas výkonu trestu. Odsek 3 vylučuje uloženie dohľadu mladistvým (pre nich platí osobitná úprava) a osobám odsúdeným na doživotie (kde je ochranný dohľad po prepustení nahradený inými inštitútmi, napr. skúšobnou dobou pri podmienečnom prepustení podľa § 68 ods. 1).
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2021:1518010363.1, 2021-06-01
+  > „Podľa § 76 ods. 1, § 78 ods. 1 Trestného zákona, bol obvinenému uložený ochranný dohľad v trvaní 1 (jedného) roka."
+- *NS SR* ECLI ECLI:SK:NSSR:2021:9520100067.1, 2021-05-14
+  > „Zároveň bol obžalovanému podľa § 76 ods. 1 Trestného zákona v spojení s § 78 ods. 1 Trestného zákona uložený ochranný dohľad v trvaní 1 (jeden) rok."
+- *NS SR* ECLI ECLI:SK:NSSR:2021:8719010425.1, 2021-05-11
+  > „Zároveň mu podľa § 76 ods. 1 Trestného zákona s použitím § 78 ods. 1 Trestného zákona uložil ochranný dohľad na dva roky."
+- *NS SR* ECLI ECLI:SK:NSSR:2021:6118010357.1, 2021-04-30
+  > „Podľa § 76 ods. 1, § 78 ods. 1 Trestného zákona bol obvinenému uložený ochranný dohľad v trvaní 2 (dva) roky."
 
 ### § 76a — Ochranný dohľad ukladaný v súvislosti s ochranným liečením
 
@@ -576,6 +780,17 @@ Na rozdiel od § 76 (dohľad ako reakcia na recidívu alebo nepriaznivú prognó
 
 Obsah ochranného dohľadu sa odlišuje podľa toho, či bol uložený podľa § 76 (dohľad nad recidivistom po výkone trestu) alebo podľa § 76a (dohľad viazaný na ambulantné liečenie). V prvom prípade sa dohľad zameriava na kontrolu zdrojov obživy, pravidelné hlásenie sa a oznamovanie vzdialenia sa z bydliska (odsek 1). V druhom prípade sa kladie dôraz na kontrolu dodržiavania liečebného režimu popri hlásení sa a oznamovaní vzdialení (odsek 2). Odsek 3 upravuje mechanizmus reakcie na nedodržiavanie liečebného režimu alebo povinností dohľadu — zdravotnícke zariadenie informuje probačného a mediačného úradníka, ktorý podá návrh na zmenu ambulantnej formy liečenia na ústavnú alebo na uloženie ďalších obmedzení; pri bezprostrednom nebezpečenstve môže návrh na zmenu formy vrátane predbežného príkazu na umiestnenie podať priamo zdravotnícke zariadenie. Odseky 4 a 5 dopĺňajú možnosť uložiť ďalšie obmedzenia a povinnosti podľa § 51 ods. 3 a 4 spolu s prípadnou technickou kontrolou ich dodržiavania.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2015:9515100124.3, 2015-12-02
+  > „V ďalšom najvyšší súd postupom podľa § 77 ods. 1 písm. b/ Trestného zákona a § 455 Trestného poriadku doplnil chýbajúcu časť výroku o ochrannom dohľade."
+- *NS SR* sp. zn. 3To/11/2015, 2015-12-02
+  > „V ďalšom najvyšší súd postupom podľa § 77 ods. 1 písm. b/ Trestného zákona a § 455 Trestného poriadku doplnil chýbajúcu časť výroku o ochrannom dohľade."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:5118010633.2, 2020-12-09
+  > „Podľa § 78 ods. 1 Trestného zákona č. 300/2005 Z. z. krajský súd uložil obvinenému ochranný dohľad vo výmere 3 roky a podľa § 77 ods. 1 písm. b) Trestného zákona č. 300/2005 Z. z. mu uložil aj povinnosť osobne sa hlásiť jedenkrát za tri mesiace u probačného a mediačného úradníka okresného súdu v mieste svojho pobytu po prepustení z výkonu trestu odňatia slobody."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:2117000424.2, 2020-11-24
+  > „Podľa § 77 ods. 1 Trestného zákona je obvinený povinný po prepustení z výkonu trestu odňatia slobody: a) oznamovať potrebné údaje o spôsobe a zdrojoch svojej obživy a tie aj preukazovať, b) osobne sa hlásiť jedenkrát za dva kalendárne mesiace u probačného a mediačného úradníka Okresného súdu Trnava, a c) vopred oznamovať vzdialenie sa z miesta bydliska uvedeného v rozhodnutí súdu."
+
 ### § 78 — Doba trvania ochranného dohľadu
 
 > **§ 78**
@@ -590,6 +805,17 @@ Obsah ochranného dohľadu sa odlišuje podľa toho, či bol uložený podľa §
 
 Základná výmera ochranného dohľadu podľa § 76 je jeden až tri roky (odsek 1), s poistkou pri opätovnom ukladaní pred vykonaním predchádzajúceho dohľadu — súčet nového dohľadu a nevykonaného zvyšku predchádzajúceho nesmie presiahnuť päť rokov (odsek 2). Odsek 3 vyníma z tohto časového rámca ochranný dohľad ukladaný podľa § 76a (viazaný na ambulantné liečenie) — ten trvá, kým to vyžaduje jeho účel, teda bez pevnej hornej hranice, analogicky k ochrannému liečeniu samotnému, čo logicky zodpovedá jeho akcesorickej väzbe na priebeh liečby.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2021:1518010363.1, 2021-06-01
+  > „Podľa § 76 ods. 1, § 78 ods. 1 Trestného zákona, bol obvinenému uložený ochranný dohľad v trvaní 1 (jedného) roka."
+- *NS SR* ECLI ECLI:SK:NSSR:2021:9520100067.1, 2021-05-14
+  > „Zároveň bol obžalovanému podľa § 76 ods. 1 Trestného zákona v spojení s § 78 ods. 1 Trestného zákona uložený ochranný dohľad v trvaní 1 (jeden) rok."
+- *NS SR* ECLI ECLI:SK:NSSR:2021:8719010425.1, 2021-05-11
+  > „Zároveň mu podľa § 76 ods. 1 Trestného zákona s použitím § 78 ods. 1 Trestného zákona uložil ochranný dohľad na dva roky."
+- *NS SR* ECLI ECLI:SK:NSSR:2021:6118010357.1, 2021-04-30
+  > „Podľa § 76 ods. 1, § 78 ods. 1 Trestného zákona bol obvinenému uložený ochranný dohľad v trvaní 2 (dva) roky."
+
 ### § 79 — Zánik ochranného dohľadu (podľa § 76)
 
 > **§ 79**
@@ -603,6 +829,17 @@ Základná výmera ochranného dohľadu podľa § 76 je jeden až tri roky (odse
 **Výklad:**
 
 Ustanovenie upravuje dva samostatné dôvody zániku ochranného dohľadu uloženého podľa § 76: uplynutím doby, na ktorú bol uložený (písm. a), alebo skorším zánikom pri súbehu s podmienečným prepustením — ak súd vysloví osvedčenie sa podmienečne prepusteného, ochranný dohľad zaniká už právoplatnosťou tohto rozhodnutia, bez ohľadu na to, či pôvodne určená doba dohľadu ešte neuplynula (písm. b).
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2021:1518010363.1, 2021-06-01
+  > „Podľa § 76 ods. 1, § 78 ods. 1 Trestného zákona, bol obvinenému uložený ochranný dohľad v trvaní 1 (jedného) roka."
+- *NS SR* ECLI ECLI:SK:NSSR:2021:9520100067.1, 2021-05-14
+  > „Zároveň bol obžalovanému podľa § 76 ods. 1 Trestného zákona v spojení s § 78 ods. 1 Trestného zákona uložený ochranný dohľad v trvaní 1 (jeden) rok."
+- *NS SR* ECLI ECLI:SK:NSSR:2021:8719010425.1, 2021-05-11
+  > „Zároveň mu podľa § 76 ods. 1 Trestného zákona s použitím § 78 ods. 1 Trestného zákona uložil ochranný dohľad na dva roky."
+- *NS SR* ECLI ECLI:SK:NSSR:2021:6118010357.1, 2021-04-30
+  > „Podľa § 76 ods. 1, § 78 ods. 1 Trestného zákona bol obvinenému uložený ochranný dohľad v trvaní 2 (dva) roky."
 
 ### § 80 — Upustenie od výkonu zvyšku ochranného dohľadu
 
@@ -677,6 +914,17 @@ Detencia je najprísnejším ochranným opatrením, spočívajúcim v umiestnen�
 **Výklad:**
 
 Zhabanie veci je ochranné opatrenie, ktoré dopĺňa trest prepadnutia veci (§ 60) tam, kde tento trest nemožno uložiť — typicky preto, že vec nepatrí páchateľovi alebo páchateľa nemožno (z rôznych dôvodov) odsúdiť. Odsek 1 vymenúva sedem samostatných dôvodov uloženia: vec patrí osobe, ktorú nemožno stíhať alebo odsúdiť (písm. a); vec patrí páchateľovi, u ktorého trestné stíhanie neviedlo k odsúdeniu (upustenie od potrestania, zastavenie, podmienečné zastavenie, schválenie zmieru — písm. b); vec nepatrí páchateľovi, ale je výnosom z trestnej činnosti (písm. c) alebo bola určená či použitá na spáchanie činu (písm. d); ide o neoznačený tovar porušujúci daňové predpisy (písm. e); vec by mohla byť zdrojom financovania terorizmu (písm. f); alebo si to vyžaduje bezpečnosť ľudí, majetku či iný verejný záujem (písm. g) — táto posledná kategória funguje ako všeobecný bezpečnostný korektív. Vlastníctvo prechádza na štát s výhradou medzinárodnej zmluvy (odsek 2). Odsek 3 vylučuje uloženie zhabania, ak by tým bola znemožnená náhrada škody poškodenému, alebo je hodnota veci v zjavnom nepomere k závažnosti prečinu — zrkadlí tak výnimky z prepadnutia veci podľa § 60 ods. 6. Odsek 4 rieši nedosiahnuteľnosť alebo zmiešanie veci rovnako ako § 60 ods. 2 — zhabaním hodnotového ekvivalentu.
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2018:9515100213.1, 2018-12-17
+  > „Je zrejmé, že uvedené formálne pochybenie konajúcich súdov, spočívajúce v uložení zhabania veci podľa § 83 ods. 1 písm. b) Trestného zákona namiesto podľa písm. g) citovaného ustanovenia, nemalo samo osebe vplyv na zákonnosť aplikácie inštitútu ochranného opatrenia vo forme zhabania predmetnej veci, a preto z neho dovolací súd nevyvodil vo vzťahu k napadnutým rozhodnutiam súdu prvého a druhého stupňa dôsledok vo forme ich zrušenia."
+- *NS SR* ECLI ECLI:SK:NSSR:2021:9519100182.1, 2021-05-19
+  > „Súd nevykonal dokazovanie o návrhu prokurátora na zhabanie veci podľa § 83 ods. 1 písm. g) Trestného zákona, preto rozhodnutie o ochrannom opatrení podľa § 289 ods. 2, ods. 3 Trestného poriadku vyhradil verejnému zasadnutiu."
+- *NS SR* ECLI ECLI:SK:NSSR:2021:9520100090.1, 2021-04-27
+  > „Podľa § 83 ods. 1 písm. g) Trestného zákona obžalovanému uložil ochranné opatrenie, zhabanie veci, ktoré sa vzťahuje na zaistený skladací nôž s čiernym obalom."
+- *NS SR* ECLI ECLI:SK:NSSR:2021:9519100278.1, 2021-03-24
+  > „Súd prvého stupňa zároveň podľa § 83 odsek 1 písmeno g) s poukazom na § 2 ods. 3 Trestného zákona č. 300/2005 Z. z. uložil ochranné opatrenie - zhabanie veci a to: - peňažnej sumy vo výške 20.018.455,98 Sk (664.491,-€) s príslušenstvom, uložených na účte S. D."
 
 ### § 83a — Zhabanie časti majetku
 

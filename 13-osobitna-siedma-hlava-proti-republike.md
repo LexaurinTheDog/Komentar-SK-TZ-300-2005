@@ -80,6 +80,17 @@ Odsek 2 vymenúva päť kvalifikačných okolností, ktoré posúvajú trestnú 
 
 § 314 postihuje samostatnú skutkovú podstatu braní rukojemníka s hrozbou usmrtenia alebo spôsobenia ujmy, ktorej cieľom je vynútiť splnenie podmienok poškodzujúcich ústavné zriadenie Slovenskej republiky — na rozdiel od všeobecného zavlečenia rukojemníka je tu určujúcim znakom práve politický cieľ namierený proti ústavnému zriadeniu. Odseky 2 a 3 zavádzajú kvalifikačné okolnosti obdobné iným trestným činom tejto hlavy — spôsobenie ťažkej ujmy na zdraví či smrti, spáchanie na chránenej osobe, závažnejší spôsob konania, spôsobenie smrti viacerých osôb, členstvo v nebezpečnom zoskupení a spáchanie za krízovej situácie.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* sp. zn. 6 Tost 10/2011, 2011-03-31
+  > „S., a to za účelom jeho vydania na trestné stíhanie pre trestný čin podvodu a zneužitia dokumentov podľa § 313/C, (1)B (3)A AND 277.(1) Maďarského Trestného zákona, za ktoré mu hrozí trest odňatia slobody s hornou hranicou 3 roky (podvod) a 2 roky (zneužitie dokumentov)."
+- *NS SR* sp. zn. 4 Tost 24/2014, 2014-07-01
+  > „bol uznaný vinným za spáchanie desiatich skutkov právne posúdených ako pomoc k prečinu krádeže podľa § 316 ods. 1, ods. 2 bod c), e), e) Trestného zákona Maďarskej republiky, pokus prečinu krádeže podľa § 316 ods. 1, ods. 2 bod c), i) Trestného zákona Maďarskej republiky a pokus trestného činu zneužitia bezhotovostných platobných prostriedkov podľa § 313/C ods. 1, 4 bod b) Trestného zákona Maďarskej republiky."
+- *NS SR* sp. zn. 2 Tost 16/2008, 2008-10-09
+  > „X., bytom L., S. R. pre trestný čin označený ako nelegálne používanie platobných prostriedkov vo forme spolupáchateľstva podľa § 313/C/5/B, § 313/C/4/B, § 313/C/4/B maďarského trestného zákona."
+- *NS SR* sp. zn. 5 Tost 1/2009, 2009-01-29
+  > „z roku 1978 o Trestnom zákonníku (ďalej len Trestný zákonník), odsek 5 písmeno a/, 2-násobný trestný čin krádeže podľa § 316 ods. 1, odsek 4 písmeno a/, 3-násobný prečin poškodzovania v menšej hodnote podľa § 324 odsek 1, odsek 2 písmeno a/, 21-násobný prečin zneužitia verejnej listiny podľa § 277 odsek 1 a 10-násobný prečin zneužitia platobného prostriedku nahradzujúceho hotovosť podľa § 313/C odsek 7 písmeno a/ Trestného zákona Maďarskej republiky, ktorých skutkov sa mal dopustiť v období od 26. septembra 2007 do 28. februára 2008 v Budapešti."
+
 ### § 315 a § 316 — Záškodníctvo
 
 > **§ 315**
@@ -126,6 +137,17 @@ Odsek 2 vymenúva päť kvalifikačných okolností, ktoré posúvajú trestnú 
 
 § 316 postihuje záškodnícke poškodenie veci — zničenie, poškodenie alebo znefunkčnenie cudzej alebo vlastnej veci, spáchané v rovnakom úmysle poškodiť ústavné zriadenie alebo obranyschopnosť Slovenskej republiky, aký vyžaduje § 315 ods. 1. Ide teda o alternatívnu formu záškodníckeho konania, ktorá namiesto vydania osôb či majetku do nebezpečenstva postihuje priamu materiálnu deštrukciu veci; odsek 2 zvyšuje trestnú sadzbu, ak je čin spáchaný za krízovej situácie.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* sp. zn. 3 Tost 26/2012, 2012-07-18
+  > „v C., bytom K., občana Slovenskej republiky, do predbežnej väzby na základe európskeho zatýkacieho rozkazu vydaného Mestským súdom Szekesfehérvar, Maďarská republika dňa 16. apríla 2012 pod číslom konania 5 BNY 157/2012, za účelom trestného stíhania pre trestné činy krádeže podľa § 316 ods. 1, ods. 6 a § 274 ods. 1 maďarského Trestného zákona s tým, že väzba mu začala plynúť dňa 28. júna 2012 od 06.16 hod."
+- *NS SR* sp. zn. 2 Tost 37/2011, 2011-11-22
+  > „pre trestný čin krádeže podľa § 316, článok 1, 2 písm. c/, písm. d/, 4 písm. b/1 Trestného zákona Maďarskej republiky na neverejnom zasadnutí 22. novembra 2011 v Bratislave o sťažnosti vyžiadanej osoby proti uzneseniu Krajského súdu v Košiciach zo 4. novembra 2011, sp. zn. Ntc 18/2011, takto r o z h o d o l : Podľa § 193 ods. 1 písm. c/ Tr. por. sťažnosť vyžiadanej osoby R. T."
+- *NS SR* sp. zn. 6 Tost 12/2011, 2011-05-18
+  > „X., trvale bytom A., občana Slovenskej republiky, za účelom vydania na trestné stíhanie pre 1 násobný trestný čin krádeže spáchaný na značnú hodnotu s násilím proti veci, v rozpore s § 316 ods. 1, ktorý sa kvalifikuje podľa § 6 písm. b/ maďarského Trestného zákona, ktorého sa mal dopustiť na tom skutkovom základe, že H."
+- *NS SR* sp. zn. 2 Tost 3/2009, 2009-02-17
+  > „V.: sa o d o v z d á na výkon zvyšku trestu odňatia slobody do Maďarskej republiky v trvaní 2 roky, 11 mesiacov a 10 dní, ktorý jej bol uložený rozsudkom Okresného súdu v Bude dňa 20. decembra 2005 pod sp. zn. 8 B.XI..98/2005/60 v spojení s rozhodnutím Mestského súdu v Budapešti zo dňa 2. marca 2007 pod sp. zn. 22.Bf.6424/2006/20, ktorými bola uznaná 2 Tost 3/2009 2 vinnou zo spáchania trestných činov podvodu podľa § 318 Maďarského trestného zákona a trestných činov krádeže podľa § 316 Maďarského trestného zákona, ktorých sa dopustila na tom skutkovom základe, že Ž."
+
 ### § 317 — Sabotáž
 
 > **§ 317**
@@ -168,6 +190,13 @@ Odseky 2 a 3 stupňujú trestnú sadzbu podľa obdobných kvalifikačných znako
 
 ## Druhý diel — Trestné činy proti bezpečnosti republiky
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2015:6108011485.1, 2015-11-11
+  > „Dovolateľ navrhol, aby najvyšší súd podľa § 386 ods. 1 Trestného poriadku vyslovil, že rozsudkom Krajského súdu v Banskej Bystrici z 27. marca 2014, sp. zn. 2To 114/2013, bol porušený zákon v ustanovení § 4 ods. 1 písm. a/ Trestného zákona, § 250 ods. 1, ods. 5 Trestného zákona, § 2 ods. 10, ods. 12 Trestného poriadku, § 317 ods. 1 Trestného poriadku, § 319 Trestného poriadku, § 327 ods. 1 Trestného poriadku v prospech obvineného Ing."
+- *NS SR* sp. zn. 3 Tdo 10/2015, 2015-11-11
+  > „Dovolateľ navrhol, aby najvyšší súd podľa § 386 ods. 1 Trestného poriadku vyslovil, že rozsudkom Krajského súdu v Banskej Bystrici z 27. marca 2014, sp. zn. 2To 114/2013, bol porušený zákon v ustanovení § 4 ods. 1 písm. a/ Trestného zákona, § 250 ods. 1, ods. 5 Trestného zákona, § 2 ods. 10, ods. 12 Trestného poriadku, § 317 ods. 1 Trestného poriadku, § 319 Trestného poriadku, § 327 ods. 1 Trestného poriadku v prospech obvineného Ing."
+
 ### § 318 — Vyzvedačstvo
 
 > **§ 318**
@@ -189,6 +218,17 @@ Odseky 2 a 3 stupňujú trestnú sadzbu podľa obdobných kvalifikačných znako
 Druhý diel chráni bezpečnosť republiky, konkrétne integritu utajovaných skutočností najvyššieho stupňa (Prísne tajné alebo Tajné). Základná skutková podstata vyzvedačstva zahŕňa tri alternatívne formy konania: vyzvedanie utajovanej skutočnosti s cieľom vyzradiť ju cudzej moci alebo cudziemu činiteľovi, zbieranie údajov obsahujúcich takú skutočnosť s rovnakým cieľom, alebo priamo úmyselné vyzradenie takej skutočnosti cudzej moci. Chránenými záujmami sú tak vlastné utajované skutočnosti Slovenskej republiky, ako aj utajované skutočnosti iného štátu, medzinárodnej organizácie, nadnárodnej organizácie alebo združenia štátov, na ochranu ktorých záujmov sa Slovenská republika zaviazala (napr. v rámci členstva v medzinárodných bezpečnostných štruktúrach).
 
 Odsek 2 zvyšuje trest, ak páchateľ konal ako člen organizácie zameranej priamo na vyzvedanie utajovaných skutočností, alebo ak mu bola povinnosť uchovávať utajovanú skutočnosť osobitne uložená (typicky z titulu funkcie alebo bezpečnostnej previerky) — táto okolnosť zvýrazňuje zneužitie osobitnej dôvery. Odsek 3 ešte výraznejšie sprísňuje postih, ak bol čin spáchaný za krízovej situácie, kedy je ohrozenie utajovaných informácií mimoriadne nebezpečné.
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* sp. zn. 2 Tost 16/2017, 2017-05-25
+  > „bol vydaný Európsky zatýkací rozkaz Ústredným obvodovým súdom Buda, Maďarsko zo dňa 19. októbra 2016 pod sp. zn. 15.Bny.3826/2016/2, pre zločin podvodu podľa § 318 ods. 1, ods. 5 písm. a) maďarského Trestného zákona, ktorého sa mal menovaný dopustiť na tom skutkovom základe, že: F."
+- *NS SR* sp. zn. 2Tost/16/2017, 2017-05-25
+  > „bol vydaný Európsky zatýkací rozkaz Ústredným obvodovým súdom Buda, Maďarsko zo dňa 19. októbra 2016 pod sp. zn. 15.Bny.3826/2016/2, pre zločin podvodu podľa § 318 ods. 1, ods. 5 písm. a) maďarského Trestného zákona, ktorého sa mal menovaný dopustiť na tom skutkovom základe, že:B."
+- *NS SR* sp. zn. 2 Tost 7/2017, 2017-02-27
+  > „pre trestný čin podvodu podľa § 318 maďarského Trestného zákona a iné na neverejnom zasadnutí konanom 27. februára 2017 v Bratislave o sťažnosti vyžiadanej osoby A."
+- *NS SR* sp. zn. 2 Tost 3/2009, 2009-02-17
+  > „V.: sa o d o v z d á na výkon zvyšku trestu odňatia slobody do Maďarskej republiky v trvaní 2 roky, 11 mesiacov a 10 dní, ktorý jej bol uložený rozsudkom Okresného súdu v Bude dňa 20. decembra 2005 pod sp. zn. 8 B.XI..98/2005/60 v spojení s rozhodnutím Mestského súdu v Budapešti zo dňa 2. marca 2007 pod sp. zn. 22.Bf.6424/2006/20, ktorými bola uznaná 2 Tost 3/2009 2 vinnou zo spáchania trestných činov podvodu podľa § 318 Maďarského trestného zákona a trestných činov krádeže podľa § 316 Maďarského trestného zákona, ktorých sa dopustila na tom skutkovom základe, že Ž."
 
 ### § 319 a § 320 — Ohrozenie utajovanej skutočnosti
 
@@ -215,3 +255,15 @@ Odsek 2 zvyšuje trest, ak páchateľ konal ako člen organizácie zameranej pri
 § 319 je miernejšou formou skutkovej podstaty príbuznej vyzvedačstvu — chránený je rovnaký druh utajovaných skutočností (stupeň Prísne tajné alebo Tajné), rozdiel spočíva v tom, komu má byť skutočnosť vyzradená. Základný odsek 1 postihuje vyzvedanie, zbieranie údajov alebo úmyselné vyzradenie utajovanej skutočnosti nepovolanej osobe (teda bez cieľa v prospech cudzej moci), s podstatne miernejšou trestnou sadzbou než pri vyzvedačstve podľa § 318. Odsek 2 postihuje prísnejšie prípad, keď je cieľom vyzradenie utajovanej skutočnosti do cudziny (bez toho, aby išlo priamo o vyzvedačstvo v prospech cudzej moci alebo cudzieho činiteľa podľa § 318) — teda medzistupeň medzi neškodným domácim vyzradením a vyzvedačstvom. Odsek 3 pridáva kvalifikačné okolnosti — osobitne uloženú povinnosť mlčanlivosti a krízovú situáciu.
 
 § 320 je jediným nedbanlivostným trestným činom v tejto hlave — postihuje spôsobenie vyzradenia rovnako utajovanej skutočnosti (stupeň Prísne tajné alebo Tajné) nepovolanej osobe z nedbanlivosti, alebo spôsobenie straty listiny či veci, ktorá takú utajovanú skutočnosť obsahuje. Zatiaľ čo § 318 a § 319 vyžadujú úmyselné zavinenie (vyzvedanie, zbieranie, vyzradenie s konkrétnym cieľom), § 320 postihuje aj nedbanlivostné zlyhanie pri ochrane najvyššie utajovaných skutočností, s výrazne miernejšou trestnou sadzbou (odňatie slobody až na tri roky) zodpovedajúcou nižšej forme zavinenia.
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2021:8316010767.1, 2021-05-18
+  > „S. navrhol, aby Najvyšší súd Slovenskej republiky ako dovolací súd podľa § 368 ods. 1 Trestného poriadku vyslovil, že uznesením Krajského súdu Prešov, sp. zn. 9To/4/2019 z 15. augusta 2019 bol porušený zákon v ustanovení § 319 Trestného poriadku a v konaní, ktoré mu predchádzalo, a to v § 213 ods. 3 Trestného zákona (zrejme malo byť uvedené ustanovenie § 221 ods. 1 Trestného zákona ), a to v neprospech obvineného O."
+- *NS SR* ECLI ECLI:SK:NSSR:2021:7218010254.1, 2021-01-13
+  > „Navrhujem, aby Najvyšší súd Slovenskej republiky: 1.) podľa § 386 ods. 1 Trestného poriadku vyslovil, že uznesením Krajského súdu v Košiciach, sp. zn. 7To/105/2018 zo 14.02.2019 právoplatným toho istého dňa, bol porušený zákon v ustanovení § 319 Trestného poriadku a v ustanovení § 58 ods. 2 Trestného zákona v prospech obvineného O."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:6112010674.1, 2020-08-18
+  > „V podstate z týchto dôvodov obvinený navrhol, aby Najvyšší súd Slovenskej republiky (ďalej len „najvyšší súd“) rozsudkom rozhodol, že napadnutým uznesením krajského súdu bol porušený zákon z dôvodov podľa § 371 ods. 1 písm. c), i) Trestného zákona (zrejme mal na mysli Trestný poriadok, pozn.) v ustanovení § 319 Trestného poriadku a v konaní ktoré mu predchádzalo v ustanoveniach § 212 ods. 1, ods. 4 písm. a) Trestného zákona v neprospech obvineného."
+- *NS SR* ECLI ECLI:SK:NSSR:2017:6112010541.1, 2017-01-18
+  > „Generálny prokurátor navrhol : 1/ podľa § 386 ods. 1 Trestného poriadku, aby Najvyšší súd Slovenskej republiky vyslovil rozsudkom, že právoplatným uznesením Krajského súdu v Nitre, sp. zn. 2To/5/2015 z 27. mája 2015 ako aj v konaní, ktoré tomuto rozhodnutiu predchádzalo, bol porušený zákon v ustanoveniach § 319 Trestného poriadku a § 238 Trestného zákona v prospech odsúdenej JUDr. M."
+

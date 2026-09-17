@@ -46,6 +46,17 @@ Základná skutková podstata všeobecného ohrozenia chráni súčasne život a
 
 Odsek 2 obsahuje kvalifikované znaky viazané na závažnejší spôsob konania, spáchanie na chránenej osobe, osobitný motív alebo úmysel zmariť či sťažiť uplatnenie základných práv a slobôd inej osoby — posledný znak smeruje typicky proti činom motivovaným snahou zabrániť niekomu vo výkone jeho ústavných práv. Odseky 3 a 4 postupne sprísňujú trestnú sadzbu podľa spôsobeného následku (ťažká ujma na zdraví alebo smrť, násobené pri viacerých poškodených) a podľa okolnosti spáchania ako člen nebezpečného zoskupenia alebo za krízovej situácie — najprísnejšia sadzba (dvadsať až dvadsaťpäť rokov alebo doživotie) je vyhradená pre najzávažnejšie následky alebo spáchanie za krízovej situácie.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2020:5018010035.1, 2020-05-19
+  > „č. vo výkone trestu odňatia slobody v Ústave na výkon testu odňatia slobody Dubnica nad Váhom, štátny občan Slovenskej republiky, uznaný za vinného pre prečin prechovávania omamnej a psychotropnej látky a jedu podľa § 284 ods. 1, ods. 3 českého Trestného zákona na skutkovom základe uvedenom v citovanom rozsudku a bol odsúdený na trest odňatia slobody v trvaní 1 (jeden) rok a 3 (tri) mesiace, z ktorého má vykonať ešte 336 (tristotridsaťšesť) dní na území Slovenskej republiky."
+- *NS SR* ECLI ECLI:SK:NSSR:2017:7611010972.1, 2017-03-14
+  > „pre obzvlášť závažný zločin všeobecného ohrozenia podľa § 284 ods. 1 písm. a/, ods. 2 písm. c/ Trestného zákona a iné, o dovolaní obvinených T."
+- *NS SR* sp. zn. 6 Tdo 49/2016, 2017-03-14
+  > „pre obzvlášť závažný zločin všeobecného ohrozenia podľa § 284 ods. 1 písm. a/, ods. 2 písm. c/ Trestného zákona a iné, o dovolaní obvinených D."
+- *NS SR* ECLI ECLI:SK:NSSR:2018:8114010459.1, 2018-10-29
+  > „S poukazom na uvedené skutočnosti v podanom dovolaní obvinený navrhol, aby dovolací súd rozhodol, že rozsudkom Krajského súdu v Prešove z 29. septembra 2015, sp. zn. 5To/16/2015 a konaním, ktoré mu predchádzalo, bol porušený zákon v ustanoveniach § 322 ods. 3 Trestného poriadku, § 284 ods. 2 Trestného poriadku a § 172 ods. 1 písm. a), písm. c), písm. d) Trestného zákona a ods. 2 písm. c) Trestného zákona, § 138 písm. b), písm. j) Trestného zákona v neprospech obvineného C."
+
 ### § 285 — Všeobecné ohrozenie z nedbanlivosti
 
 > **§ 285**
@@ -65,6 +76,17 @@ Odsek 2 obsahuje kvalifikované znaky viazané na závažnejší spôsob konania
 **Výklad:**
 
 Nedbanlivostná forma všeobecného ohrozenia dopĺňa úmyselnú skutkovú podstatu § 284 pre prípady, keď páchateľ nebezpečnú situáciu nespôsobil úmyselne, ale z nedbanlivosti — teda z nedostatočnej opatrnosti pri činnosti, ktorá takéto nebezpečenstvo môže vyvolať. Základná sadzba je citeľne miernejšia než pri úmyselnej forme (do jedného roka), čo odráža nižšiu mieru zavinenia. Odseky 2 až 4 potom stupňujú trest podľa závažnosti spôsobu konania a podľa spôsobeného následku — spôsobenie značnej škody alebo ťažkej ujmy na zdraví či smrti (odsek 3), resp. ťažkej ujmy na zdraví viacerých osôb alebo smrti viacerých osôb (odsek 4), pričom platí zásada zmiešaného zavinenia (úmysel či nedbanlivosť pri spôsobení nebezpečenstva, nedbanlivosť postačuje aj vo vzťahu k ťažšiemu následku).
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2019:2115010617.1, 2019-09-25
+  > „Z vyššie uvedeného vyplýva, že skutková veta tak, ako bola ustálená, obsahuje všetky zákonné znaky trestného činu - prečinu všeobecného ohrozenia podľa § 285 ods. 1, ods. 2, ods. 4 Trestného zákona s poukazom na § 138 písm. h) Trestného zákona z ktorého bol obvinený uznaný za vinného a jeho konanie bolo správne právne posúdené v súlade s príslušnými ustanoveniami hmotného práva."
+- *NS SR* ECLI ECLI:SK:NSSR:2021:4614010015.1, 2021-04-20
+  > „Vzhľadom na uvedené skutočnosti minister spravodlivosti navrhol, aby Najvyšší súd Slovenskej republiky podľa § 386 ods. 1 Trestného poriadku vyslovil, že uznesením Krajského súdu v Nitre z 30. januára 2018, sp. zn. 4To/5/2018, a konaním, ktoré mu predchádzalo, bol porušený zákon v ustanoveniach § 319 Trestného poriadku, § 285 písm. a) Trestného poriadku a § 277 ods. 1, ods. 4 Trestného zákona v prospech obvineného W."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:4115010093.2, 2020-04-16
+  > „Vzhľadom na absenciu konania obvineného spočívajúcu v zadržaní a neodvedení určenému príjemcovi splatnej dane, ako aj úmyslu zadovážiť sebe alebo inému neoprávnený prospech, nesprávne dospel k záveru o nenaplnení skutkovej podstaty trestného činu neodvedenia dane podľa § 277 ods. 1, ods. 4 Trestného zákona a obvineného spod obžaloby prokurátorky podľa § 285 písm. b) Trestného poriadku oslobodil."
+- *NS SR* ECLI ECLI:SK:NSSR:2019:2115011785.1, 2019-06-12
+  > „stupňa zistí, že takto upravený skutok nenapĺňa žiadne zákonné znaky iného trestného činu uvedeného v osobitnej časti Trestného zákona, bude musieť zvážiť postup podľa § 285 Tr. por. V skutkovej vete nie je uvedené množstvo účinnej látky (THC), z toho dôvodu je možné vychádzať iba zo zistenia, že zaistená zelená zmes, v menšom množstve usušená a vo väčšom množstve dosušená pochádza z rastliny rodu Cannabis."
 
 ### § 286 — Poškodzovanie a ohrozovanie prevádzky všeobecne prospešného zariadenia
 
@@ -100,6 +122,17 @@ Nedbanlivostná forma všeobecného ohrozenia dopĺňa úmyselnú skutkovú pods
 
 Skutková podstata chráni plynulú prevádzku vymenovaných verejnoprospešných zariadení — telekomunikačných, poštových, dopravných, protipožiarnych a protipovodňových, energetických, vodárenských a kanalizačných, podmorských káblov a potrubí, obranných zariadení, lesohospodárskych stavieb a zariadení a napokon aj akéhokoľvek podobného všeobecne prospešného zariadenia (písm. h ako zvyšková klauzula). Skutková podstata je dokonaná už samotným ohrozením prevádzky, prípadne odstránením alebo znefunkčnením zákazovej či príkazovej dopravnej značky (písm. a), nevyžaduje sa teda vznik poruchy prevádzky ako takej — tá je kvalifikačným znakom podľa odseku 2 spolu so spáchaním za krízovej situácie.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2014:4012200696.1, 2014-06-10
+  > „Zdôraznila, že pokiaľ spôsobila poškodenie odpadkového koša, tak toto nie je všeobecne prospešné zariadenie, nakoľko všeobecne prospešné zariadenia sú striktne vymenované v § 286 Trestného zákona a sú východiskom aj pri posudzovaní priestupkov a ani judikatúra nerozširuje okruh všeobecne prospešných zariadení o „odpadkový kôš" ale hovorí len o zložitejšom technickom zariadení, čo „odpadkový kôš" určite nie je."
+- *NS SR* sp. zn. 4 Tost 11/2012, 2012-04-03
+  > „bol Úradom verejnej prokuratúry v Poľsku 23. septembra 2011, sp. zn. III KOP 155/11, vydaný európsky zatýkací rozkaz za účelom jeho vydania na výkon trestu odňatia slobody, ktorý mu bol uložený rozsudkom Krajského súdu WROCLAW-SRODMIESCIE zo dňa 21. septembra 2004, sp. zn. V K1494/04, 3 4 Tost 11/2012 pre trestný čin podvodu, použitia falošného dokladu a falšovania podľa § 297 ods. 1, § 286 ods. 1, § 270 ods. 1 a § 11 ods. 2 Poľského Trestného zákona vo výmere dvanásť mesiacov."
+- *NS SR* sp. zn. 3 Tdo 16/2009, 2009-04-22
+  > „uznaný za vinného zo spáchania zločinu poškodzovania a ohrozenia prevádzky všeobecne prospešného zariadenia spolupáchateľstvom podľa § 20, § 286 ods. 1 písm. a/, ods. 2 písm. a/ Trestného zákona (ďalej len Tr. zák.), v jednočinnom súbehu s pokračovacím prečinom krádeže spolupáchateľstvom podľa § 20, § 212 ods. 1 Tr. zák., ktorých sa mal dopustiť na tom skutkovom základe, že: - dňa 16. novembra 2007 o 16,30 hod."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:6112010674.2, 2020-08-18
+  > „podľa § 285 písm. c) Trestného poriadku oslobodil spod bodu 3) obžaloby prokurátorky Generálnej prokuratúry Slovenskej republiky z 21. júna 2012, sp. zn. XIV Gv 16/11, pre skutok kvalifikovaný ako zločin krádeže podľa § 212 ods. 2 písm. a), ods. 4 písm. a) Trestného zákona, s poukazom na § 138 písm. i) Trestného zákona, prečin poškodzovania a ohrozovania prevádzky všeobecne prospešného zariadenia podľa § 286 ods. 1 písm. a) Trestného zákona a prečin poškodzovania cudzej veci podľa § 245 ods. 1 Trestného zákona, pretože nebolo dokázané, že skutok spáchal obvinený."
+
 ### § 287 — Poškodenie geodetického bodu
 
 > **§ 287**
@@ -110,6 +143,17 @@ Skutková podstata chráni plynulú prevádzku vymenovaných verejnoprospešnýc
 
 Samostatná skutková podstata chráni body geodetickej, nivelačnej a gravimetrickej siete, ktoré tvoria základ geodetických, kartografických a katastrálnych meraní na území štátu. Zničenie alebo znefunkčnenie takto zreteľne označenej značky je trestné bez ohľadu na vznik akéhokoľvek všeobecného nebezpečenstva — ide o ochranu funkčnosti štátneho meračského systému ako takého, nie o postih hromadne nebezpečného konania.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2021:9520100090.1, 2021-04-27
+  > „Podľa § 287 ods. 1 Trestného zákona bola obžalovanému uložená povinnosť nahradiť škodu poškodeným C."
+- *NS SR* ECLI ECLI:SK:NSSR:2019:7614010530.1, 2019-04-16
+  > „Podľa § 287 ods. 1 Trestného zákona súd obvineného zaviazal zaplatiť poškodenej E."
+- *NS SR* sp. zn. 2Tdo/24/2019, 2019-04-16
+  > „Podľa § 287 ods. 1 Trestného zákona súd obvineného zaviazal zaplatiť poškodenej E."
+- *NS SR* ECLI ECLI:SK:NSSR:2018:5916010129.1, 2018-12-05
+  > „Podľa § 287 ods. 1 Trestného zákona (správne malo byt' uvedené Trestného poriadku) súd obvinenému uložil povinnosť nahradiť škodu poškodenému G."
+
 ### § 288 — Ohrozenie prevádzky všeobecne prospešného zariadenia z nedbanlivosti
 
 > **§ 288**
@@ -119,6 +163,17 @@ Samostatná skutková podstata chráni body geodetickej, nivelačnej a gravimetr
 **Výklad:**
 
 Nedbanlivostná forma skutkovej podstaty podľa § 286 s dvoma odlišnosťami — jednak podstatne miernejšou trestnou sadzbou (do šiestich mesiacov), jednak vecným vylúčením konania spočívajúceho v odstránení či znefunkčnení zvislej dopravnej značky zákazovej alebo príkazovej, ktoré z nedbanlivosti trestné nie je (takéto konanie je typicky úmyselné, prípadne postihnuteľné v priestupkovom konaní).
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* sp. zn. 3Ndt/34/2017, 2017-12-06
+  > „pre prečin krádeže podľa § 212 ods. 1, ods. 3 písm. b/ Trestného zákona a prečin poškodzovania a ohrozovania prevádzky všeobecne prospešného zariadenia podľa § 288 Trestného zákona, ktorých sa mal dopustiť na skutkovom základe, žedňa 01. marca 2017 v čase od 11:20 hod."
+- *NS SR* ECLI ECLI:SK:NSSR:2016:1011201354.1, 2016-02-29
+  > „Z pripojeného administratívneho spisu vyplýva, že vo veci prečinu poškodzovania a ohrozovania prevádzky všeobecne prospešného zariadenia podľa § 288 Trestného zákona, začalo na základe uznesenia č. ČVS:ORP-789/BO-KS-2010 zo dňa 28.06.2010 trestné stíhanie."
+- *NS SR* sp. zn. 5Sžo/67/2014, 2016-02-29
+  > „Z pripojeného administratívneho spisu vyplýva, že vo veci prečinu poškodzovania a ohrozovania prevádzky všeobecne prospešného zariadenia podľa § 288 Trestného zákona, začalo na základe uznesenia č. ČVS:ORP-789/BO-KS-2010 zo dňa 28.06.2010 trestné stíhanie."
+- *NS SR* sp. zn. 5 Tdo 51/2012, 2012-09-06
+  > „Podľa § 288 ods. 1 Tr. por. (mylne sa v rozsudku uvádza Trestného zákona) bola poškodená A."
 
 ### § 289 — Ohrozenie pod vplyvom návykovej látky
 
@@ -145,6 +200,17 @@ Nedbanlivostná forma skutkovej podstaty podľa § 286 s dvoma odlišnosťami �
 Základná skutková podstata postihuje výkon zamestnania alebo inej činnosti (s potenciálom ohroziť život, zdravie alebo spôsobiť značnú škodu na majetku) v stave vylučujúcom spôsobilosť privodenom návykovou látkou — trestá sa už samotný výkon takej činnosti v nespôsobilom stave, bez ohľadu na to, či skutočne došlo k ohrozeniu. Odsek 2 stavia na roveň odmietnutie podrobiť sa zisteniu prítomnosti návykovej látky (dychová skúška, orientačný test, odber krvi alebo iného biologického materiálu), pokiaľ takéto vyšetrenie nie je spojené s nebezpečenstvom pre zdravie páchateľa — ide o procesné uľahčenie dokazovania, ktoré zabraňuje vyhýbaniu sa zisteniu ovplyvnenia.
 
 Odsek 3 zavádza tri samostatné kvalifikačné okolnosti, ktoré zvyšujú trestnú sadzbu na dva roky: recidívu (písm. a a b — predchádzajúce odsúdenie alebo postih za obdobný čin v priebehu predchádzajúcich dvadsiatich štyroch mesiacov) a spôsobenie ublíženia na zdraví alebo väčšej škody na cudzom majetku, čo aj z nedbanlivosti (písm. c). Odsek 4 potom postihuje najprísnejšie prípady výkonu obzvlášť nebezpečných činností pod vplyvom návykovej látky, s výslovným príkladom vedenia prostriedku hromadnej prepravy, teda situácií, kde ohrozenie veľkého počtu osôb je bezprostredne pravdepodobné.
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2021:2318011260.1, 2021-02-23
+  > „Z vyššie uvedeného vyplýva, že skutková veta tak, ako bola ustálená, obsahuje všetky zákonné znaky trestných činov - prečinu ohrozenia pod vplyvom návykovej látky podľa § 289 ods. 1, ods. 3 písm. a) Trestného zákona v jednočinnom súbehu s prečinom marenia výkonu úradného rozhodnutia podľa § 348 ods. 1 písm. d) Trestného zákona, z ktorých bol obvinený J."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:6117010519.1, 2020-01-28
+  > „Vychádzajúc z uvedenej judikatúry Európskeho súdu pre ľudské práva a Najvyššieho súdu Slovenskej republiky, sa dovolací súd ani v prejednávanej veci nemohol stotožniť s presvedčením obvineného o protiústavnosti aplikovaného § 289 ods. 2 Trestného zákona."
+- *NS SR* sp. zn. 2Tdo/55/2019, 2019-09-10
+  > „Z tohto dôvodu obvinený navrhol, aby Najvyšší súd Slovenskej republiky ako súd dovolací podľa § 368 ods. 1 Trestného poriadku rozsudkom vyslovil, že trestným rozkazom Okresného súdu Košice I z 27. decembra 2013, sp. zn. 0T/208/2013, bol porušený zákon v ustanovení § 289 ods. 1 Trestného zákona v neprospech obvineného R. R.."
+- *NS SR* ECLI ECLI:SK:NSSR:2019:6217010102.1, 2019-06-18
+  > „V súvislosti s touto námietkou najvyšší súd poukazuje na skutočnosť, že dovolateľ bol prvostupňovým súdom uznaný za vinného z prečinu ohrozenia pod vplyvom návykovej látky podľa § 289 ods. 1 Trestného zákona na podklade usvedčujúcej výpovede priameho svedka incidentu L."
 
 ### § 290 — Porušovanie povinnosti pri hrozivej tiesni
 
@@ -264,6 +330,13 @@ Doplnková skutková podstata k § 291 postihuje šírenie nepravdivých inform�
 
 Samostatná skutková podstata postihuje zmocnenie sa vzdušného dopravného prostriedku alebo jeho neoprávnené použitie (ak bol páchateľovi zverený, napríklad ako členovi posádky), a to konkrétne na účel jeho zavlečenia do cudziny — ide teda o kvalifikovaný účelový znak, ktorý ju odlišuje od všeobecnejšieho ohrozenia bezpečnosti podľa § 291. Základná sadzba je prísna už sama osebe (sedem až pätnásť rokov), a ak páchateľ týmto konaním spôsobí smrť, trest sa zvyšuje až na pätnásť až dvadsaťpäť rokov alebo doživotie.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2016:7512010698.1, 2016-07-13
+  > „Navrhol preto, aby Najvyšší súd Slovenskej republiky vyslovil, že uznesením Okresného súdu Košice - okolie, sp. zn. 3T/166/2012, zo dňa 19. novembra 2014 a konaním, ktoré mu predchádzalo, bol porušený zákon v ustanovení § 293 ods. 6 Trestného poriadku a § 50 ods. 4 Trestného zákona, v neprospech obvineného Y."
+- *NS SR* sp. zn. 6 Tdo 95/2015, 2016-07-13
+  > „Navrhol preto, aby Najvyšší súd Slovenskej republiky vyslovil, že uznesením Okresného súdu Košice - okolie, sp. zn. 3T/166/2012, zo dňa 19. novembra 2014 a konaním, ktoré mu predchádzalo, bol porušený zákon v ustanovení § 293 ods. 6 Trestného poriadku a § 50 ods. 4 Trestného zákona, v neprospech obvineného R. H."
+
 ### § 294 — Nedovolené ozbrojovanie a obchodovanie so zbraňami (strelivo a strelné zbrane)
 
 > **§ 294**
@@ -295,6 +368,17 @@ Samostatná skutková podstata postihuje zmocnenie sa vzdušného dopravného pr
 Odsek 1 postihuje neoprávnenú manipuláciu so strelivom (výroba, dovoz, vývoz, preprava, zadováženie, držba alebo sprostredkovanie týchto činností bez povolenia). Odsek 2 obdobne, ale prísnejšie, postihuje tie isté formy konania vo vzťahu k strelným zbraniam, ich súčastiam alebo komponentom — buď bez povolenia, alebo bez povinného identifikačného označenia zbrane podľa záväznej medzinárodnej zmluvy. Odsek 3 stavia na roveň falšovanie, nedovolené zahladenie, odstránenie alebo inú zmenu takého identifikačného a sledovacieho označenia — teda konanie smerujúce k znemožneniu vystopovania pôvodu zbrane.
 
 Odsek 4 obsahuje pozoruhodnú legislatívno-technickú zvláštnosť: normatívna veta ("Odňatím slobody na štyri roky až desať rokov sa páchateľ potrestá, ak spácha čin uvedený v odseku 1, 2 alebo 3.") je vo zdroji ukončená bodkou už pred výpočtom písmen a) až c) (závažnejší spôsob konania, osobitný motív, väčší rozsah), čo je odchýlka od bežnej redakčnej praxe v ostatných ustanoveniach tejto hlavy, kde veta pred výpočtom pokračuje spojkou; táto anomália sa v citovanom texte ponecháva bez domýšľania. Vecne ide o kvalifikované okolnosti zvyšujúce trest na štyri až desať rokov. Odsek 5 potom postihuje najzávažnejšie formy — spáchanie ako člen nebezpečného zoskupenia, vo veľkom rozsahu alebo za krízovej situácie — sadzbou osem až pätnásť rokov.
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2017:4615010278.1, 2017-09-27
+  > „V tejto súvislosti najvyšší súd uvádza, že popísanému skutkovému stavu plne zodpovedá právny záver vyjadrený v posúdení skutku ako prečinu porušovania domovej slobody podľa § 194 ods. 1, ods. 2 písm. b/ Trestného zákona a prečinu nedovoleného ozbrojovania a obchodovania so zbraňami podľa § 294 ods. 1 Trestného zákona."
+- *NS SR* sp. zn. 3Tdo/17/2017, 2017-09-27
+  > „V tejto súvislosti najvyšší súd uvádza, že popísanému skutkovému stavu plne zodpovedá právny záver vyjadrený v posúdení skutku ako prečinu porušovania domovej slobody podľa § 194 ods. 1, ods. 2 písm. b/ Trestného zákona a prečinu nedovoleného ozbrojovania a obchodovania so zbraňami podľa § 294 ods. 1 Trestného zákona."
+- *NS SR* ECLI ECLI:SK:NSSR:2016:1112010005.1, 2016-10-26
+  > „Najvyšší súd k týmto výhradám obvineného z obsahu predloženého spisového materiálu zistil, že proti obvinenému sa viedlo trestné stíhanie pre pokus obzvlášť závažného zločinu vraždy podľa § 14 ods. 1 k § 145 ods. 1 Trestného zákona a zločinu nedovoleného ozbrojovania a obchodovania so zbraňami podľa § 294 ods. 1, ods. 2 Trestného zákona."
+- *NS SR* sp. zn. 3 Tdo/70/2016, 2016-10-26
+  > „Najvyšší súd k týmto výhradám obvineného z obsahu predloženého spisového materiálu zistil, že proti obvinenému sa viedlo trestné stíhanie pre pokus obzvlášť závažného zločinu vraždy podľa § 14 ods. 1 k § 145 ods. 1 Trestného zákona a zločinu nedovoleného ozbrojovania a obchodovania so zbraňami podľa § 294 ods. 1, ods. 2 Trestného zákona."
 
 ### § 295 — Nedovolené ozbrojovanie hromadne účinnými zbraňami
 
@@ -340,6 +424,17 @@ Odsek 4 obsahuje pozoruhodnú legislatívno-technickú zvláštnosť: normatívn
 
 § 295 je prísnejším náprotivkom § 294 pre kategóriu hromadne účinných zbraní — teda zbraní so schopnosťou spôsobiť hromadné škody (súhrnne aj hromadenie strelných zbraní, hromadne účinných zbraní, streliva alebo výbušnín podľa odseku 1 písm. b). Odsek 2 osobitne postihuje protipechotné míny (vo všetkých fázach od vývoja cez výrobu až po použitie) a projektovanie stavby alebo prevádzkovanie zariadenia na výrobu chemických alebo biologických zbraní — teda konanie smerujúce k vybudovaniu kapacity na výrobu zbraní hromadného ničenia. Odsek 1 už sám osebe stanovuje výrazne prísnejšiu základnú sadzbu (tri až osem rokov) než pri strelných zbraniach podľa § 294, čo odzrkadľuje vyšší stupeň spoločenskej nebezpečnosti tejto kategórie zbraní. Odseky 3 až 5 potom postupne stupňujú trest podľa rozsahu konania (väčší, značný, veľký rozsah), osobitného motívu, závažnejšieho spôsobu konania, členstva v nebezpečnom zoskupení alebo spáchania za krízovej situácie, až po najprísnejšiu sadzbu pätnásť až dvadsať rokov.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* sp. zn. 6Ndt/10/2018, 2018-05-17
+  > „pre pokračovací zločin nedovoleného ozbrojovania a obchodovania so zbraňami podľa § 295 ods. 1 písm. b/, ods. 3 písm. c/ Trestného zákona, vedenej na Okresnom súde Brezno pod sp. zn. 3T/60/2016, prebieha na Najvyššom súde Slovenskej republiky pod sp. zn. 2 Tdo 23/2018, konanie o dovolaní obvineného proti rozsudku Okresného súdu Brezno z 30. mája 2016, č.k."
+- *NS SR* ECLI ECLI:SK:NSSR:2016:9515100076.2, 2016-03-02
+  > „Z a t o sa o d s u dz u j e : Podľa § 295 ods. 5 Trestného zákona č. 300/2005 Z. z., § 41 ods. 1, ods. 2 Trestného zákona č. 300/2005 Z. z., na úhrnný trest odňatia slobody vo výmere 24 (dvadsaťštyri) rokov."
+- *NS SR* sp. zn. 3 To 14/2015, 2016-03-02
+  > „Z a t o sa o d s u dz u j e : Podľa § 295 ods. 5 Trestného zákona č. 300/2005 Z. z., § 41 ods. 1, ods. 2 Trestného zákona č. 300/2005 Z. z., na úhrnný trest odňatia slobody vo výmere 24 (dvadsaťštyri) rokov."
+- *NS SR* ECLI ECLI:SK:NSSR:2014:9513100066.5, 2014-07-22
+  > „bol podľa § 285 písm. a/ Tr. por. oslobodený spod obžaloby prokurátora Úradu špeciálnej prokuratúry Generálnej prokuratúry Slovenskej republiky zo 7. mája 2013, sp. zn. VII/I Gv 221/11-885 (spolu s iným obžalovaným) pre skutok v bode 12 obžalobou právne posúdený ako obzvlášť závažný zločin nedovoleného ozbrojovania a obchodovania so zbraňami podľa § 295 odsek 1 písmeno a/, odsek 4 písmeno a/ Trestného zákona, ktorý mali spáchať tým, že obv."
+
 ### § 296 — Založenie, zosnovanie a podporovanie zločineckej skupiny
 
 > **§ 296**
@@ -350,6 +445,17 @@ Odsek 4 obsahuje pozoruhodnú legislatívno-technickú zvláštnosť: normatívn
 
 Skutková podstata samostatne postihuje organizovanú kriminalitu ako takú — nezávisle od toho, aký konkrétny trestný čin zločinecká skupina pácha, je trestné už samotné jej založenie, zosnovanie, členstvo v nej, činnosť pre ňu alebo jej podporovanie. Ide o štyri alternatívne formy účasti na zločineckej skupine, ktoré zákon stavia na roveň jednotnou trestnou sadzbou (päť až desať rokov) — dôvodom je zvýšené nebezpečenstvo trvalo organizovanej štruktúry páchania trestnej činnosti oproti individuálnemu alebo príležitostnému páchateľovi.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2018:9513100016.1, 2018-12-18
+  > „R., a to za spáchanie zločinu zosnovania a podporovania zločineckej skupiny podľa § 296 Trestného zákona a za spáchanie zločinu neodvedenia dane a poistného podľa § 277 ods. 1 ods. 4 Trestného zákona) vykonáva Najvyšší súd Slovenskej republiky pod sp. zn. 2TdoV/13/2015, konanie o dovolaní podanom obvineným L."
+- *NS SR* ECLI ECLI:SK:NSSR:2017:9515100093.1, 2017-05-31
+  > „Najvyšší súd v tejto súvislosti konštatoval, že pohltenie právnej kvalifikácie trestného činu podielnictva trestným činom podľa § 296 Trestného zákona, resp. prednosť naposledy uvedenej kvalifikácie (pri vylúčení jednočinného súbehu trestných činov) má v tomto prípade rovnaký skutkový a právny základ ako u člena zločineckej skupiny, ako aj u osoby činnej pre túto skupinu."
+- *NS SR* sp. zn. 3To/8/2016, 2017-05-31
+  > „Najvyšší súd v tejto súvislosti konštatoval, že pohltenie právnej kvalifikácie trestného činu podielnictva trestným činom podľa § 296 Trestného zákona, resp. prednosť naposledy uvedenej kvalifikácie (pri vylúčení jednočinného súbehu trestných činov) má v tomto prípade rovnaký skutkový a právny základ ako u člena zločineckej skupiny, ako aj u osoby činnej pre túto skupinu."
+- *NS SR* sp. zn. 3Tost/13/2017, 2017-04-12
+  > „Najvyšší súd SR uvádza, ţe v trestnej veci tohto obvineného je nepochybné iba to, ţe mu bolo vznesené obvinenie v zmysle § 206 ods. 1 Trestného poriadku v bode 1/ pre zločin zaloţenia, zosnovania a podporovania zločineckej skupiny podľa § 296 Trestného zákona."
+
 ### § 297 — Založenie, zosnovanie a podporovanie teroristickej skupiny
 
 > **§ 297**
@@ -359,6 +465,15 @@ Skutková podstata samostatne postihuje organizovanú kriminalitu ako takú — 
 **Výklad:**
 
 Konštrukčne zrkadlí § 296, avšak vo vzťahu k teroristickej skupine a s výrazne prísnejšou trestnou sadzbou (desať až pätnásť rokov oproti piatim až desiatim rokom pri zločineckej skupine) — zákon tak zdôrazňuje mimoriadnu spoločenskú nebezpečnosť terorizmu ako motivačného a organizačného kontextu trestnej činnosti oproti bežnej organizovanej kriminalite.
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2021:4021200018.1, 2021-05-12
+  > „z prečinu osočovania podľa § 297 ods. 1 prvý prípad Trestného zákona Rakúskej republiky, v bode III."
+- *NS SR* sp. zn. 2 Tost 17/2011, 2011-06-21
+  > „za účelom jeho vydania na trestné stíhanie do Maďarskej republiky pre skutok kvalifikovaný ako trestný čin úverového podvodu podľa § 297/A maďarského Trestného zákona, ktorý mal spáchať tak, že ako majitelia a spoločníci spoločnosti M."
+- *NS SR* sp. zn. 4 Tost 11/2012, 2012-04-03
+  > „bol Úradom verejnej prokuratúry v Poľsku 23. septembra 2011, sp. zn. III KOP 155/11, vydaný európsky zatýkací rozkaz za účelom jeho vydania na výkon trestu odňatia slobody, ktorý mu bol uložený rozsudkom Krajského súdu WROCLAW-SRODMIESCIE zo dňa 21. septembra 2004, sp. zn. V K1494/04, 3 4 Tost 11/2012 pre trestný čin podvodu, použitia falošného dokladu a falšovania podľa § 297 ods. 1, § 286 ods. 1, § 270 ods. 1 a § 11 ods. 2 Poľského Trestného zákona vo výmere dvanásť mesiacov."
 
 ### § 298 — Nedovolená výroba a držanie jadrových materiálov, rádioaktívnych látok, vysoko rizikových chemických látok, jedov a vysoko rizikových biologických agensov a toxínov
 
@@ -408,6 +523,17 @@ Rozsiahla skutková podstata postihuje prakticky celý životný cyklus zaobchá
 
 Kým § 298 postihuje zaobchádzanie priamo s nebezpečnými látkami, § 299 postihuje predčasnejšie štádium — výrobu, zadováženie alebo prechovávanie predmetu určeného na ich nedovolenú výrobu. Ide teda o postih prípravnej fázy nezávisle od toho, či k samotnej výrobe nebezpečnej látky skutočne došlo. Odseky 2 až 4 odstupňovane sprísňujú trest výlučne podľa výšky prospechu, ktorý páchateľ týmto konaním pre seba alebo iného získal (väčší prospech, značný prospech, prospech veľkého rozsahu) — na rozdiel od § 298 tu chýbajú kvalifikačné znaky viazané na spôsobenie ujmy na zdraví alebo na spáchanie za krízovej situácie.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2018:9515100213.1, 2018-12-17
+  > „VII/2 Gv 88/15/1000-42 rozhodol podľa § 299 ods. 1 Trestného poriadku, § 83 ods. 1 písm. b) Trestného zákona o zhabaní veci - peňažnej čiastky 3 500 eur, patriacej D."
+- *NS SR* ECLI ECLI:SK:NSSR:2018:5311010487.1, 2018-11-21
+  > „č. XXXX/X podľa § 299 ods. 1 Trestného poriadku s použitím § 73 ods. 1 Trestného zákona uložil ambulantné ochranné psychiatrické liečenie na skutkovom základe podrobne opísanom v odôvodnení uznesenia súdu prvého stupňa v spojení s tam uvedenými právnymi úvahami."
+- *NS SR* sp. zn. 6 Tost 24/2014, 2014-07-10
+  > „Špecializovaný trestný súd, pracovisko Banská Bystrica, uznesením z 29. mája 2014, sp. zn. BB-3T 6/2013, rozhodol podľa § 299 ods. 1 Trestného poriadku z dôvodov podľa § 83 ods. 1 písm. e/ Trestného zákona o zhabaní vyššie uvedených vecí a súčasne I."
+- *NS SR* ECLI ECLI:SK:NSSR:2015:5114010879.1, 2015-05-06
+  > „Odôvodnenie Okresný súd Žilina uznesením z 3. septembra 2014, sp. zn. 1Nt 13/2014, podľa § 299 ods. 1 Trestného poriadku a § 73 ods. 1 Trestného zákona, § 74 ods. 1 Trestného zákona uložil T."
+
 ### § 299a — Neoprávnené uskutočňovanie stavby
 
 > **§ 299a**
@@ -454,6 +580,11 @@ Základná skutková podstata druhého dielu chráni životné prostredie a prí
 
 Odsek 4 kvalifikuje základnú skutkovú podstatu podľa odseku 1 pri závažnejšom spôsobe konania alebo pri spáchaní v chránenom území (vrátane ochranného pásma prírodných liečivých zdrojov a zdrojov minerálnych stolových vôd) — v takom prípade sa trestá rovnako prísne ako podľa odseku 2. Odseky 5 a 6 potom postupne zvyšujú trest podľa výšky spôsobenej škody na životnom prostredí (značná škoda, škoda veľkého rozsahu) alebo podľa spôsobenia ťažkej ujmy na zdraví či smrti, pričom tieto kvalifikované okolnosti sa vzťahujú spoločne na obidve základné formy (odsek 1 aj odsek 2).
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* sp. zn. 5 Tdo 54/2012, 2012-11-22
+  > „Obvinený mylne uviedol, ţe v obţalobe bol skutok kvalifikovaný podľa § 300 ods. 1, ods. 2 Trestného zákona, hoci v skutočnosti išlo o kvalifikáciu podľa § 301 ods. 1, 2 Tr. zák., ako to bolo na začiatku uvedené."
+
 ### § 301 — Ohrozenie a poškodenie životného prostredia z nedbanlivosti
 
 > **§ 301**
@@ -475,6 +606,11 @@ Odsek 4 kvalifikuje základnú skutkovú podstatu podľa odseku 1 pri závažnej
 **Výklad:**
 
 Nedbanlivostná forma § 300 sleduje rovnakú vnútornú štruktúru — ohrozenie životného prostredia (odsek 1, tu s vyšším prahom "väčšej škody" namiesto "malej škody" pri úmyselnej forme) a ohrozenie ťažkou ujmou na zdraví alebo smrťou iného (odsek 2), doplnené o kvalifikáciu spáchania v chránenom území (odsek 3) a o stupňované následky (odseky 4 a 5: značná škoda, ťažká ujma na zdraví alebo smrť, škoda veľkého rozsahu). Základné sadzby sú vo všetkých stupňoch miernejšie než pri úmyselnej forme podľa § 300, čo zodpovedá nižšej miere zavinenia.
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* sp. zn. 5 Tdo 54/2012, 2012-11-22
+  > „Obvinený mylne uviedol, ţe v obţalobe bol skutok kvalifikovaný podľa § 300 ods. 1, ods. 2 Trestného zákona, hoci v skutočnosti išlo o kvalifikáciu podľa § 301 ods. 1, 2 Tr. zák., ako to bolo na začiatku uvedené."
 
 ### § 302 — Neoprávnené nakladanie s odpadmi
 
@@ -499,6 +635,17 @@ Nedbanlivostná forma § 300 sleduje rovnakú vnútornú štruktúru — ohrozen
 **Výklad:**
 
 Samostatná skutková podstata postihuje neoprávnené nakladanie s odpadmi v rozpore so všeobecne záväznými predpismi, pričom postačuje zavinenie z nedbanlivosti a základná forma vyžaduje aspoň malý rozsah nakladania. Konštrukcia kvalifikačných znakov kombinuje dve hľadiská — rozsah nakladania s odpadmi (malý, značný, veľký rozsah v odsekoch 1, 3 a 4) a konkrétny následok (ohrozenie životného prostredia väčšou škodou alebo ohrozenie iného ťažkou ujmou na zdraví alebo smrťou v odseku 2, prípadne priame spôsobenie ťažkej ujmy na zdraví alebo smrti v odseku 4).
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2017:5914010409.1, 2017-06-06
+  > „S ohľadom na vyššie uvedené dovolací súd uzatvára, že skutkové okolnosti, obsiahnuté v opise skutku rozsudku súdu prvého stupňa, poskytujú spoľahlivý podklad pre naplnenie všetkých zákonných znakov skutkovej podstaty zločinu neoprávneného nakladania s odpadmi podľa § 302 ods. 1, ods. 4 Trestného zákona, z ktorého bol obvinený I."
+- *NS SR* sp. zn. 3Tdo/18/2017, 2017-06-06
+  > „S ohľadom na vyššie uvedené dovolací súd uzatvára, ţe skutkové okolnosti, obsiahnuté v opise skutku rozsudku súdu prvého stupňa, poskytujú spoľahlivý podklad pre naplnenie všetkých zákonných znakov skutkovej podstaty zločinu neoprávneného nakladania s odpadmi podľa § 302 ods. 1, ods. 4 Trestného zákona, z ktorého bol obvinený J."
+- *NS SR* sp. zn. 3Tdo/18/2017, 2017-06-06
+  > „Preto aj táto námietka dovolateľa je irelevantná, ako už správne ustálili súdy nižšieho stupňa.S ohľadom na vyššie uvedené dovolací súd uzatvára, že skutkové okolnosti, obsiahnuté v opise skutku rozsudku súdu prvého stupňa, poskytujú spoľahlivý podklad pre naplnenie všetkých zákonných znakov skutkovej podstaty zločinu neoprávneného nakladania s odpadmi podľa § 302 ods. 1, ods. 4 Trestného zákona, z ktorého bol obvinený I."
+- *NS SR* ECLI ECLI:SK:NSSR:2018:3016200043.1, 2018-04-27
+  > „3. Z obsahu vyšetrovacieho spisu Obvodného oddelenia PZ Trenčín ČVS: ORP-1000/TN-TN-2014 vyplýva, že uznesením ČVS: ORP-1000/TN-TN-2014 zo dňa 18.09.2014 bolo začaté trestné stíhanie pre prečin neoprávneného nakladania s odpadmi podľa § 302 ods. 1 Trestného zákona na skutkovom základe, že neznámy páchateľ v presne nezistenom čase do dňa 20.06.2014 v k."
 
 ### § 302a — Neoprávnené vypúšťanie znečisťujúcich látok
 
@@ -647,6 +794,17 @@ Samostatná skutková podstata chráni ozónovú vrstvu pred neoprávnenou výro
 Odsek 1 chráni chránené rastliny a živočíchy, ich biotopy a obydlia, ako aj prírodné biotopy a chránené druhy vo všeobecnosti pred štyrmi typmi zásahov (písm. a až d), pričom trestnosť je viazaná na porušenie predpisov na ochranu prírody a krajiny alebo predpisov regulujúcich obchod s exemplármi, a to v rozsahu presahujúcom desaťnásobok malého rozsahu; postačuje zavinenie z nedbanlivosti. Odsek 2 samostatne postihuje neoprávnenú jazdu motorovými vozidlami (vrátane trojkoliek, štvorkoliek, motocyklov a skútrov) na lesnom alebo poľnohospodárskom pozemku v rozpore s predpismi na ochranu prírody a krajiny alebo lesného hospodárstva — ide o ochranu pred priamym mechanickým poškodzovaním prírodného prostredia. Odsek 3 potom postihuje obchodné a držobné konania vo vzťahu k chráneným druhom a exemplárom — získanie, obstaranie, držbu, pestovanie, chov, spracovanie, dovoz, vývoz, obchodovanie alebo iné scudzenie, ako aj falšovanie alebo pozmenenie ich nezameniteľného označenia.
 
 Kvalifikačné znaky v odsekoch 4 a 5 sú spoločné pre všetky tri základné formy (odseky 1, 2 aj 3) a postupne zohľadňujú závažnejší spôsob konania, osobitný motív, rozsah konania (väčší, značný), úmysel získať väčší alebo značný prospech, recidívu a členstvo v nebezpečnom zoskupení.
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2020:1612010223.1, 2020-02-05
+  > „uznaný za vinného zo spáchania zločinu porušovania ochrany rastlín a živočíchov podľa § 305 ods. 1 písm. c), ods. 5 písm. b) Trestného zákona, ktorého sa dopustil na skutkovom základe, že: - od presne neustáleného mesiaca roku 2010 do 17. februára 2011 na pozemku v lokalite B."
+- *NS SR* ECLI ECLI:SK:NSSR:2019:3014200580.1, 2019-04-17
+  > „Lokalita Vrchy je znehodnotená a neprístupná, dochádza tam k páchaniu trestnej činnosti podľa § 305 ods. 2 Trestného zákona, a nemožnosti nájomných vzťahov podľa § 12a zák. č. 504/2003 Z. z. V dôsledku vyňatia lokality Vrchy došlo k nesprávnemu VZFUÚ, čim nie sú naplnené podmienky pre náhradné užívanie poľnohospodárskych pozemkov v zmysle zákonnej úpravy."
+- *NS SR* ECLI ECLI:SK:NSSR:2018:5715010189.1, 2018-10-17
+  > „G., pre zločin porušovania ochrany rastlín a živočíchov podľa § 305 ods. 1 písm. c), ods. 5 písm. b) Trestného zákona účinného do 31.08.2015, o dovolaní obvineného Ing."
+- *NS SR* ECLI ECLI:SK:NSSR:2016:1014201384.1, 2016-07-27
+  > „Trestné stíhanie bolo zastavené z dôvodu, že nedošlo k naplneniu všetkých znakov skutkovej podstaty trestného činu porušovania ochrany rastlín a živočíchov podľa § 305 ods. 1 písm. c), ods. 5 písm. b) Trestného zákona, lebo stromy neboli vyrúbané v rozpore so všeobecne záväznými právnymi predpismi na ochranu prírody a krajiny."
 
 ### § 305a — Týranie zvierat
 
@@ -875,3 +1033,15 @@ Skutková podstata chráni ľudí a životné prostredie pred rizikami spojeným
 **Výklad:**
 
 Záverečná skutková podstata hlavy postihuje pytliactvo — neoprávnený zásah do výkonu práva poľovníctva alebo rybárskeho práva, a to lovom bez povolenia, lovom v čase ochrany zveri alebo rýb, alebo lovom zakázaným spôsobom, ako aj následné konania s neoprávnene ulovenou alebo nájdenou zverou či rybami (ukrytie, prechovávanie, prevedenie na seba alebo iného). Odsek 2 sprísňuje trest pri hromadne účinnom alebo zavrhnutiahodnom spôsobe páchania, pri spáchaní v malom rozsahu (ktorý tu paradoxne figuruje ako kvalifikačný, nie privilegujúci znak vzhľadom na konštrukciu základnej podstaty) a pri spáchaní osobou s osobitne uloženou povinnosťou chrániť životné prostredie — teda typicky osobou, od ktorej sa v tomto smere očakáva opak. Odseky 3 až 5 potom stupňujú trest podľa recidívy, závažnejšieho spôsobu konania a najmä podľa rozsahu spáchaného pytliactva (väčší, značný, veľký rozsah), pričom najprísnejšia sadzba dosahuje štyri až desať rokov.
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2021:7212010782.1, 2021-03-31
+  > „S poukazom na uvedené obvinený navrhol, aby Najvyšší súd Slovenskej republiky rozhodol na podklade ním podaného dovolania tak, že: - rozsudkom Okresného súdu Košice II, sp. zn. 4T/72/2012, z 27. januára 2016 bol porušený zákon v konaní, ktoré mu predchádzalo, v ustanoveniach § 42 Trestného zákona a § 310 Trestného poriadku, - podľa § 388 ods. 1 Trestného poriadku Okresnému súdu Košice II prikáže, aby vec v potrebnom rozsahu znovu prerokoval a rozhodol."
+- *NS SR* ECLI ECLI:SK:NSSR:2019:5015201046.3, 2019-01-22
+  > „7. Správny súd mal za preukázané, že v danom prípade bolo začaté trestné stíhanie žalobcu pre trestný čin uvedený v § 19 ods. 1 zákona č. 190/2003 Z. z. pre prečin pytliactva podľa § 310 ods. 1, ods. 2 písm. a) Trestného zákona."
+- *NS SR* ECLI ECLI:SK:NSSR:2018:5014200066.3, 2018-07-31
+  > „Žalovaný poukázal tiež na to, že žalobca bol v roku 2011 rozsudkom Okresného súdu Martin z 03.05.2011 sp. zn. 1T/102/2010 v spojení s uznesením Krajského súdu Žilina z 20.09.2011 sp. zn. lTo/78/2011 právoplatne odsúdený za prečin pytliactva podľa § 310 ods. 1, ods. 2 písm. b/ a c/ Trestného zákona, pričom mu bol uložený aj trest zákazu výkonu práva poľovníctva."
+- *NS SR* ECLI ECLI:SK:NSSR:2015:1012200333.1, 2015-02-03
+  > „6To 61/2014-328 zo dňa 10.09.2014, ktorým bol žalobca v trestnej veci vedenej proti nemu pre skutok právne kvalifikovaný ako spolupáchateľstvo prečinu pytliactva podľa § 20, § 310 ods. 1, ods. 2 písm. c/ Trestného zákona spod obžaloby oslobodený, pretože nebolo preukázané, že skutok spáchal."
+

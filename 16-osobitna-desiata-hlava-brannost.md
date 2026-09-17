@@ -72,6 +72,11 @@ Odsek 3 opäť zavádza kvalifikovanú skutkovú podstatu pre spáchanie ktoréh
 
 Civilná služba je náhradnou formou plnenia brannej povinnosti pre osoby, ktoré z dôvodu svedomia alebo náboženského vyznania odmietajú vykonávať vojenskú službu. Skutková podstata postihuje osobu, ktorá bola k výkonu civilnej služby povolaná povolávacím rozkazom, ale v úmysle sa tejto povinnosti vyhnúť ju v stanovenej 24-hodinovej lehote po uplynutí určeného termínu nenastúpi. Vyžaduje sa úmyselné zavinenie — konkrétne úmysel civilnej službe sa vyhnúť, nie len jej nenastúpenie ako také.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2016:7214010997.1, 2016-03-16
+  > „Prokurátor navrhol, aby dovolací súd v zmysle § 382 písm. c/ Trestného zákona odmietol podané dovolanie, keďže je zrejmé, že nie sú dané dôvody dovolania v zmysle § 371 ods. 1 písm. i/ Trestného poriadku."
+
 ### § 383
 
 > **§ 383**
@@ -95,6 +100,17 @@ Toto ustanovenie je privilegovanou formou skutkovej podstaty upravenej v § 382 
 Na rozdiel od § 382 a § 383, ktoré postihujú nenastúpenie civilnej služby, toto ustanovenie postihuje vyhýbanie sa jej výkonu, teda konanie osoby, ktorá už bola do civilnej služby zaradená. Odsek 1 demonštratívnym výpočtom (poškodenie na zdraví, predstieranie choroby, falšovanie listiny, zneužitie návykovej látky, "iný úskok") vymedzuje typické formy simulácie alebo manipulácie smerujúce k vyhnutiu sa výkonu služby alebo povinností z nej vyplývajúcich, pričom zároveň postihuje aj priame odopretie civilnú službu konať. Spoločným znakom je požadovaný úmysel vyhnúť sa výkonu služby alebo povinností z nej vyplývajúcich.
 
 Odsek 2 postihuje samostatne menej závažné, ale prakticky významné konanie spočívajúce v odmietaní alebo sústavnom neplnení pokynov daných pri výkone civilnej služby — ide o narušenie subordinácie a disciplíny v rámci výkonu tejto náhradnej povinnosti, za ktoré hrozí miernejší trest do dvoch rokov odňatia slobody.
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2015:6614213657.1, 2015-01-28
+  > „Zo žalobného návrhu vyplýva, že predmetom žalobného návrhu je uplatnenie náhrady škody spôsobenej nezákonným rozhodnutím orgánu verejnej moci (orgánov činných v trestnom konaní) - uznesením o začatí trestného stíhania a vznesením obvinenie ČVS: ORP - 156/DI-LC-2009 zo dňa 23.10.2009 vydaným Okresným riaditeľstvom policajného zboru, Okresný dopravný inšpektorát Lučenec za prečin marenia výkonu úradného rozhodnutia podľa § 384 ods. 1 písm. d/ Trestného zákona a podaním obžaloby Okresnou prokuratúrou v Lučenci sp. zn. 3 Pv 812/09 zo dňa 10.11.2010. Postup podľa § 12 ods. 2 O.s.p."
+- *NS SR* sp. zn. 1Sža/48/2011, 2011-09-13
+  > „Rozhodnutím 0T/25/2011 z 20.6.2011 bol navrhovateľ uznaný vinným z prečinu marenia úradného rozhodnutia podľa § 384 ods. 1 písm. c) Trestného zákona, pretože napriek tomu, že mu bol uložený zákaz vstupu na územie Slovenskej republiky a zároveň bol administratívne vyhostený z územia Slovenskej republiky, nerešpektoval toto rozhodnutie a opätovne nelegálne vstúpil na územie Slovenskej republiky, pričom bol na zastávke SAD v obci Podhoroď kontrolovaný hliadkou OHK PZ Podhoroď."
+- *NS SR* sp. zn. 1Sža/47/2011, 2011-09-13
+  > „Rozhodnutím 0T/27/2011 z 20.6.2011 bol navrhovateľ uznaný vinným z prečinu marenia úradného rozhodnutia podľa § 384 ods. 1 písm. c) Trestného zákona pretože napriek tomu, 8 1Sža/47/2011 že mu bol uložený zákaz vstupu na územie SR a zároveň bol administratívne vyhostený z územia SR, nerešpektoval toto rozhodnutie a opätovne nelegálne vstúpil na územie SR, pričom bol na zastávke SAD v obci Podhoroď kontrolovaný hliadkou OHK PZ Podhoroď."
+- *NS SR* sp. zn. 1Sža/37/2011, 2011-08-23
+  > „Rozsudkom Okresného súdu Michalovce sp. zn. 0T/10/2011 zo dňa 18.4.2011 a poukázaním na uznesenie rovnakého súdu 0T/10/2011 z 19.4.2011 bol navrhovateľ uznaný vinným z prečinu marenia úradného rozhodnutia podľa § 384 ods. 1 písm. c) Trestného zákona pretože napriek tomu, že mu bol uložený zákaz vstupu na územie SR, nerešpektoval toto rozhodnutie a opätovne prekročil štátnu hranicu medzi Ukrajinou a SR."
 
 ### § 385
 
@@ -128,6 +144,17 @@ Skutková podstata je zrkadlovým obrazom § 382, avšak vo vzťahu k službe v 
 
 Odsek 2 opäť zakotvuje kvalifikovanú skutkovú podstatu pre spáchanie činu za krízovej situácie s výrazne prísnejšou sadzbou od piatich do desiatich rokov odňatia slobody.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2021:2216010309.1, 2021-02-23
+  > „Obvinený navrhol, aby Najvyšší súd Slovenskej republiky vyslovil porušenie vyššie popísaných ustanovení Trestného zákona a Trestného poriadku a aby ako dovolací súd podľa § 386 Trestného poriadku rozsudok Krajského súdu v Trnave (správne má byť uznesenie), sp. zn. 5 To/2/2019 z 18. júla 2019 a rozsudok Okresného súdu Dunajská Streda, sp. zn. 4T/75/2016 z 20. júna 2018 v celom rozsahu zrušil a po zrušení podľa § 388 ods. 1 Trestného poriadku prikázal Okresnému súdu Dunajská Streda, aby vec v potrebnom rozsahu znova prerokoval a rozhodol."
+- *NS SR* ECLI ECLI:SK:NSSR:2021:4118010018.1, 2021-05-13
+  > „S poukazom na vyššie uvedené navrhol, aby najvyšší súd podľa § 368 ods. 1 Tr. por. vyslovil porušenie Trestného zákona a Trestného poriadku v príslušných ustanoveniach a podľa § 386 ods. 2 Tr. por. zrušil napadnutý rozsudok krajského súdu, ako aj rozsudok okresného súdu v celom rozsahu a prikázal prvostupňovému súdu, aby vec znova prerokoval a rozhodol v inom zložení."
+- *NS SR* ECLI ECLI:SK:NSSR:2018:3116011697.1, 2018-01-11
+  > „V závere svojho dovolania sa obvinený domáhal, aby dovolací súd podľa § 386 ods. 1 Tr. por. vyslovil rozsudkom porušenia Trestného zákona a Trestného poriadku v príslušných ustanoveniach, o ktoré sa dovolacie dôvody opierajú a zrušil napadnuté rozhodnutie odvolacieho súdu, ako aj súdu prvého stupňa vo výroku o vine, vo výroku o treste, vo výroku prepadnutia vecí a vo výroku o náhrade škody a prikázal súdu prvého stupňa aby vec znova prerokoval a rozhodol v inom zložení senátu."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:7116011368.1, 2020-08-25
+  > „Podľa § 386 ods. 2 Trestného zákona zrušil napadnuté uznesenie Krajského súdu Košice zo dňa 19. júna 2019, sp. zn. 4To/52/2019, a rozsudok Okresného súdu Košice I."
+
 ### § 387
 
 > **§ 387**
@@ -149,6 +176,11 @@ Podobne ako § 383 vo vzťahu k § 382, aj toto ustanovenie predstavuje privileg
 **Výklad:**
 
 Ustanovenie rieši osobitnú situáciu osoby, ktorá sa v čase vyhlásenia mobilizácie ozbrojených síl nachádza v cudzine — takáto osoba je povinná sa bez odkladu vrátiť a nastúpiť vojenskú službu. Zákon tu postihuje aj nedbanlivostné porušenie tejto povinnosti (teda aj prípad, keď sa osoba z nedbanlivosti nedozvedela o mobilizácii včas alebo neurobila potrebné kroky na včasný návrat), čo je vzhľadom na mimoriadnu závažnosť mobilizačnej situácie sprevádzané pomerne prísnou trestnou sadzbou jeden rok až päť rokov.
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2021:7212010782.1, 2021-03-31
+  > „S poukazom na uvedené obvinený navrhol, aby Najvyšší súd Slovenskej republiky rozhodol na podklade ním podaného dovolania tak, že: - rozsudkom Okresného súdu Košice II, sp. zn. 4T/72/2012, z 27. januára 2016 bol porušený zákon v konaní, ktoré mu predchádzalo, v ustanoveniach § 42 Trestného zákona a § 310 Trestného poriadku, - podľa § 388 ods. 1 Trestného poriadku Okresnému súdu Košice II prikáže, aby vec v potrebnom rozsahu znovu prerokoval a rozhodol."
 
 ### § 389 — Porušovanie osobných a vecných povinností
 
@@ -208,6 +240,11 @@ Odsek 2 zakotvuje kvalifikovanú skutkovú podstatu s podstatne prísnejšou sad
 
 ## Prvý diel — Trestné činy proti vojenskej podriadenosti a vojenskej cti
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2016:1306010237.1, 2016-12-13
+  > „Nakoľko obvinený naplnil všetky zákonné znaky skutkovej podstaty trestného činu poškodzovania veriteľa podľa § 256 ods. 1 písm. a/, ods. 3 Trestného zákona, dovolaciemu súdu navrhla dovolanie obvineného podľa § 392 ods. 1 Tr. por. zamietnuť."
+
 ### § 393 — Neuposlúchnutie rozkazu
 
 > **§ 393**
@@ -238,6 +275,11 @@ Základná skutková podstata chráni vojenskú podriadenosť (subordináciu) ak
 
 Postavenie príslušníka ozbrojených síl vyslaných mimo územia Slovenskej republiky (odsek 2 písm. d) je samostatnou priťažujúcou okolnosťou naprieč viacerými skutkovými podstatami tejto hlavy — zohľadňuje zvýšenú náročnosť a rizikovosť zahraničných misií, kde disciplína a subordinácia majú ešte väčší význam pre bezpečnosť jednotky.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* sp. zn. 3 Ndt 16/2008, 2008-12-03
+  > „, trestne stíhanému pre prečin neuposlúchnutia rozkazu podľa § 393 ods. 1 Trestného zákona, vedenej na Vyššom vojenskom súde v Trenčíne pod sp. zn. 5 To 30/2008, rozhodol na neverejnom zasadnutí konanom dňa 3. decembra 2008 v Bratislave o návrhu obžalovaného Mgr. G."
+
 ### § 394 — Neuposlúchnutie rozkazu
 
 > **§ 394**
@@ -257,6 +299,17 @@ Postavenie príslušníka ozbrojených síl vyslaných mimo územia Slovenskej r
 **Výklad:**
 
 Na rozdiel od § 393 ide o nedbanlivostnú formu neuposlúchnutia rozkazu — páchateľ rozkaz nevykoná nie úmyselne, ale z nedbanlivosti, pričom na trestnosť sa navyše vyžaduje, aby tým mohol zmariť alebo podstatne sťažiť splnenie dôležitej služobnej úlohy (objektívna podmienka závažnosti dôsledkov). Táto konštrukcia obmedzuje trestnosť nedbanlivostného zlyhania len na prípady s reálnym potenciálom škody na plnení služby, nie na akékoľvek bagateľné opomenutie. Trestné sadzby sú oproti úmyselnej forme miernejšie, čo zodpovedá všeobecnej zásade prísnejšieho postihu úmyselného zavinenia (§ 17).
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* sp. zn. 3Tost/18/2017, 2017-06-28
+  > „na povolenie obnovy konania vo veci vedenej na Špecializovanom trestnom súde, pracovisko Banská Bystrica pod sp. zn. BB-3T/4/2013, pretože nezistil podmienky obnovy konania podľa § 394 Trestného zákona."
+- *NS SR* sp. zn. 3Tost/18/2017, 2017-06-28
+  > „na povolenie obnovy konania vo veci vedenej na Špecializovanom trestnom súde, pracovisko Banská Bystrica pod sp. zn. BB-3T/4/2013, pretože nezistil podmienky obnovy konania podľa § 394 Trestného zákona."
+- *NS SR* sp. zn. 4 Tost 13/2015, 2015-06-24
+  > „bez skúmania splnenia predpokladov podľa § 394 ods. 1 Trestného zákona č. 300/2005 Z. z. Dospel pritom k záveru, že ani tento dôvod obnovy konania nie je daný."
+- *NS SR* sp. zn. 3 Tost 19/2015, 2015-07-15
+  > „a spol., trestne stíhaných pre zločin založenia, zosnovania a podporovania zločineckej skupiny podľa § 296 Trestného zákona a iné rozhodol tak, že podľa § 394 ods. 1 Trestného poriadku per analogiam, z dôvodu uvedeného v § 41b ods. 1 zák. č. 38/1993 Z.z. v znení neskorších predpisov o organizácii Ústavného súdu Slovenskej republiky o konaní pred ním a o postavení jeho sudcov v znení neskorších predpisov u odsúdených M."
 
 ### § 395 — Sprotivenie alebo donútenie porušiť vojenskú povinnosť
 
@@ -330,6 +383,11 @@ Základná skutková podstata urážky medzi vojakmi chráni vojenskú česť ak
 
 Ustanovenie postihuje kvalifikovanú formu urážky medzi vojakmi spáchanú násilím alebo hrozbou bezprostredného násilia, pričom rozlišuje smer urážky podľa hodnostného alebo služobného vzťahu — urážku nadriadeného alebo hodnosťou vyššieho (písm. a) a urážku podriadeného alebo hodnosťou nižšieho (písm. b), oboje pod jednou trestnou sadzbou. Priťažujúce okolnosti v odseku 2 zohľadňujú najmä ublíženie na zdraví, spáchanie počas výkonu služby, útok proti vojenskej stráži alebo vojenskej polícii (ktoré požívajú osobitnú ochranu pri výkone dôležitých bezpečnostných funkcií), pôsobenie v zahraničnej misii a spáchanie so zbraňou alebo viacerými osobami. Najprísnejšie sa trestá spôsobenie smrti alebo spáchanie činu za krízovej situácie.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* sp. zn. 3 Sžo/15/2011, 2011-05-03
+  > „S. Žalobca uviedol, že trvá na tom, že napadnuté rozhodnutie bolo predčasné a nezákonné, nakoľko v tom čase nebolo ukončené jeho trestné stíhanie, nebola dokázaná jeho vina a v konečnom dôsledku bol síce právoplatne uznaný vinným z prečinu urážky medzi vojakmi podľa § 397 ods. 1, 2 písm. b/ Trestného zákona a za to odsúdený na peňažný trest vo výške 300,- €, ktoré aj zaplatil s tým, že sa na neho hľadí akoby nebol súdne trestaný."
+
 ### § 398 — Urážka medzi vojakmi
 
 > **§ 398**
@@ -389,6 +447,13 @@ Ustanovenie dopĺňa § 397 o skutkovú podstatu násilnej urážky medzi vojakm
 **Výklad:**
 
 Toto ustanovenie je najprísnejšou skutkovou podstatou z okruhu deliktov proti vojenskej podriadenosti v tomto diele — na rozdiel od § 397 nejde len o urážku, ale o použitie násilia, hrozby bezprostredného násilia alebo hrozby inej ťažkej ujmy priamo namierené proti výkonu vojenských povinností nadriadeného, či už s úmyslom ovplyvniť ich výkon do budúcna (písm. a), alebo ako odplatu za ich už uskutočnený výkon (písm. b). Vysoké trestné sadzby (základná sadzba jeden až päť rokov, kvalifikovaná až desať až dvadsať rokov pri spôsobení smrti alebo za krízovej situácie) odrážajú mimoriadny význam, ktorý zákon prikladá ochrane velenia pred fyzickým útokom motivovaným výkonom služobnej právomoci.
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* sp. zn. 3 Tost 39/2014, 2015-03-25
+  > „a spol., trestne stíhaných pre zločin zaloţenia, zosnovania a podporovania zločineckej skupiny podľa § 296 Trestného zákona a iné rozhodol tak, ţe podľa § 399 ods. 2 Trestného poriadku zamietol návrh na povolenie obnovy konania podaný odsúdenými, ktoré bolo vedené na Špecializovanom trestnom súde v Pezinku pod sp. zn. PK-2T 16/2008, proti obvinenému M."
+- *NS SR* sp. zn. 3 Tost 24/2013, 2013-10-23
+  > „a spol., trestne stíhaných pre zločin založenia, zosnovania a podporovania zločineckej skupiny podľa § 296 Trestného zákona a iné rozhodol tak, že podľa § 399 ods. 2 Trestného poriadku návrh na povolenie obnovy konania zamietol, lebo nezistil podmienky obnovy konania podľa § 394 Trestného poriadku."
 
 ### § 400 — Porušovanie práv a chránených záujmov vojakov
 
@@ -546,6 +611,11 @@ Strážna služba plní bezpečnostnú a ochrannú funkciu (stráženie objektov
 
 Dozorná služba (napr. dozor nad poriadkom v útvare, nad vojakmi v podriadenom obvode) sa svojou povahou líši od strážnej služby tým, že smeruje skôr k udržiavaniu vnútorného poriadku a disciplíny než k fyzickej ochrane objektu. Odsek 1 vyžaduje, na rozdiel od § 407, aby porušenie predpisov bolo "závažným spôsobom" — ide teda o miernejší nárok na intenzitu porušenia povinnosti v porovnaní s prísnejšou strážnou službou vzhľadom na jej odlišnú povahu. Odsek 2 je prepojením s § 400 — postihuje sa toho, kto ako dozorný orgán nedostatočným plnením svojich povinností umožní, aby jeden vojak vyžadoval osobné úsluhy, obmedzoval na právach alebo svojvoľne sťažoval výkon služby druhému vojakovi v obvode jeho dozoru; ide teda o zodpovednosť za nedostatočný dohľad nad šikanóznym správaním medzi vojakmi, nie o priame páchanie takého správania. Odseky 3 a 4 stupňujú trest pri spôsobení obzvlášť závažného následku, pri pôsobení v zahraničnej misii a za krízovej situácie.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2021:8117010115.1, 2021-01-13
+  > „N., pre prečin porušovania povinnosti dozornej služby podľa § 408 ods. 1 Trestného zákona, na neverejnom zasadnutí konanom 13. januára 2021 v Bratislave, o dovolaní generálneho prokurátora Slovenskej republiky proti uzneseniu Krajského súdu v Trenčíne, sp. zn. 23Tov/1/2019, z 26. marca 2019, takto rozhodol: Podľa § 382 písm. c) Trestného poriadku dovolanie generálneho prokurátora Slovenskej republiky o d m i e t a."
+
 ### § 409 — Porušovanie povinností pri obrane vzdušného priestoru
 
 > **§ 409**
@@ -594,6 +664,13 @@ Ustanovenie chráni morálny stav a disciplínu vojenskej jednotky ako predpokla
 
 Ustanovenie chráni materiálne a finančné zabezpečenie ozbrojených síl pred zanedbaním alebo zneužitím zo strany vlastných príslušníkov. Odsek 1 postihuje neplnenie alebo porušenie služobných povinností, čo aj z nedbanlivosti, ktorým sa na škodu súčasti ozbrojených síl alebo ozbrojeného zboru podstatne zníži použiteľnosť výzbroje, výstroja, iných vecí alebo finančných prostriedkov — teda spravidla nedbanlivostné zanedbanie starostlivosti o zverený majetok. Odsek 2 naproti tomu postihuje úmyselné neoprávnené použitie vecného prostriedku alebo finančných prostriedkov malej hodnoty na iný než určený účel (typicky drobné zneužitie majetku útvaru) a samostatne aj zneužitie podriadených na mimoslužobné úkony (nútenie podriadených vykonávať súkromné práce nadriadeného). Odsek 3 zvyšuje trest pri zadovážení značného prospechu alebo pri úmyselnom spôsobení zníženia bojaschopnosti, značnej škody či iného obzvlášť závažného následku; odsek 4 najprísnejšie postihuje úmyselné spáchanie za krízovej situácie.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2013:1011201665.1, 2013-02-05
+  > „Uznesením prokurátora Vojenskej obvodovej prokuratúry č. OPv 36/10 zo dňa 18.06.2010, bolo podľa § 215 ods. 1 písm. b/ Trestného poriadku zastavené trestné stíhanie žalobcu stíhaného za prečin porušovania služobných povinností podľa § 411 ods. 2 Trestného zákona, pretože skutok, pre ktorý bol trestne stíhaný, a ktorý bol taktiež dôvodom na prepustenie žalobcu zo služobného pomeru, nie je trestným činom."
+- *NS SR* sp. zn. 5Sžo/44/2010, 2011-01-31
+  > „Na základe uznesenia vyšetrovateľa Oddelenia vyšetrovania Úradu boja proti organizovanej kriminalite Prezídia policajného zboru MV SR, odbor Bratislava č. ČVS: PPZ-59/BOK-B-2007 zo dňa 26. septembra 2007 bolo začaté trestné stíhanie vo veci spáchania zločinov sprenevery a porušovania sluţobných povinností v spolupáchateľstve podľa § 20, § 213 ods. 1, ods. 2 písm. d/, ods. 3 a § 411 ods. 2, ods. 3 písm. a/, b/ Trestného zákona."
+
 ### § 412 — Zbabelosť pred nepriateľom
 
 > **§ 412**
@@ -616,6 +693,11 @@ Skutková podstata postihuje dobrovoľné vzdanie sa do zajatia za bojovej situ�
 
 Ustanovenie obsahuje dve samostatné skutkové podstaty viazané na bojovú situáciu. Odsek 1 postihuje svojvoľné vzdialenie sa bez dovolenia počas bojovej situácie — obdobu dezercie (§ 405, § 406), no s podstatne prísnejšou sadzbou vzhľadom na kontext prebiehajúceho boja. Odsek 2 postihuje ešte závažnejšie konanie — vyhýbanie sa povinnosti splniť bojovú úlohu alebo priame odopretie použiť zbraň, teda zlyhanie priamo pri plnení bojovej úlohy, nie len opustenie miesta výkonu služby. Táto skutková podstata je preto trestaná najprísnejšie z celého ustanovenia (desať až pätnásť rokov).
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2014:9014899066.1, 2014-10-08
+  > „Odôvodnenie Okresný súd Bratislava I uznesením z 28. novembra 2013, sp. zn. 2T 113/1994, podľa § 406 ods. 2 Tr. por. s použitím § 413 ods. 2 Tr. por. (per analogiam), § 90 ods. 2 písm. c/, ods. 3 Trestného zákona zamietol žiadosť obvineného Ing."
+
 ### § 414 — Opustenie bojových prostriedkov
 
 > **§ 414**
@@ -627,6 +709,13 @@ Ustanovenie obsahuje dve samostatné skutkové podstaty viazané na bojovú situ
 **Výklad:**
 
 Skutková podstata chráni materiálne bojové vybavenie jednotky pred jeho stratou spôsobenou vlastným konaním vojaka za bojovej situácie — či už odhodením, opustením, alebo úmyselným znefunkčnením zbrane alebo iného vojnového materiálu. Takéto konanie oslabuje bojaschopnosť jednotky a môže znamenať aj riziko, že materiál padne do rúk nepriateľa. Spôsobenie obzvlášť závažného následku (napr. skutočné získanie materiálu nepriateľom alebo zmarenie bojovej úlohy jednotky) zakladá kvalifikovanú skutkovú podstatu s výrazne prísnejšou sadzbou.
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2020:2019010040.1, 2020-01-22
+  > „Uznesením Okresného súdu Trnava, sp. zn. 3T/36/2011, zo dňa 28. februára 2013 bol podľa § 45 ods. 2 Trestného zákona s použitím § 414 ods. 1 Tr. por. odsúdenému započítaný do súhrnného trestu odňatia slobody vykonaný trest odňatia slobody od 13. mája 2005 do 12. mája 2006 v zrušenej veci Okresného súdu Bratislava IV, sp. zn. 1T/ 147/2005. Krajskému súdu v Trnave bol dňa 15. mája 2019 doručený návrh odsúdeného na podmienečné prepustenie z výkonu trestu odňatia slobody."
+- *NS SR* sp. zn. 3 Tost 43/2012, 2012-12-11
+  > „započítal podľa § 45 ods. 1, ods. 2, ods. 4 Trestného zákona a § 414 ods. 1 Tr. por. do trestu odňatia slobody uloženého rozsudkom tohto súdu, sp. zn. BB-3 T 1/10, zo dňa 11. októbra 2011 v spojení s rozhodnutím Najvyššieho súdu Slovenskej republiky, sp. zn. 3 To 2/2012, zo dňa 3. októbra 2012 väzbu od 11. novembra 1994 do 30. apríla 1998 a od 18. januára 2007 do 27. júla 2007; v bode II."
 
 ### § 415 — Vydanie bojových prostriedkov nepriateľovi
 
@@ -645,6 +734,17 @@ Ustanovenie je špeciálnou skutkovou podstatou určenou výlučne veliteľovi, 
 ## Prvý diel — Trestné činy proti mieru a ľudskosti, trestné činy terorizmu a extrémizmu
 
 *Poznámka: číslovanie v zdrojovom texte pokračuje od § 417 — § 416 sa v dostupnom zdrojovom texte nenachádza.*
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2021:3020200017.1, 2021-02-09
+  > „Podľa § 415 ods. 1 Trestného poriadku v spojení s § 66 ods. 1 písm. a) Trestného zákona návrh odsúdeného C."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:3017200336.1, 2020-11-18
+  > „Z tohto dôvodu navrhla, aby Najvyšší súd Slovenskej republiky: Podľa § 194 ods. 1 písm. a) Trestného poriadku zrušil uznesenie Krajského súdu v Trenčíne z 2. apríla 2020, sp. zn. 3Ntc/2/2017, a vo veci rozhodol tak, že podľa § 18 ods. 1 zák. č. 549/2011 Z. z. a podľa § 415 ods. 1 Trestného poriadku s poukazom na § 66 ods. 1, ods. 2 Trestného zákona návrhu riaditeľa Ústavu na výkon trestu odňatia slobody v Dubnici nad Váhom na podmienečné prepustenie odsúdeného S. B., nar."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:2020010044.2, 2020-11-11
+  > „Odôvodnenie Krajský súd v Trnave rozhodol uznesením, sp. zn. 6Ntc/18/2020, z 13. októbra 2020 tak, že postupom podľa § 415 ods. 1 Trestného poriadku v spojení s § 66 ods. 1 písm. a), písm. b) Trestného zákona zamietol žiadosť odsúdeného H."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:2020010030.1, 2020-10-07
+  > „Odôvodnenie Uznesením Krajského súdu v Trnave, sp. zn. 6Ntc/12/2020 zo 7. júla 2020 bola postupom podľa § 415 ods. 1 Trestného poriadku v spojení s § 66 ods. 1 písm. b) Trestného zákona zamietnutá žiadosť odsúdeného L."
 
 ### § 417 — Ohrozenie mieru
 
@@ -665,6 +765,13 @@ Ustanovenie je špeciálnou skutkovou podstatou určenou výlučne veliteľovi, 
 Ohrozenie mieru je základnou skutkovou podstatou otvárajúcou Dvanástu hlavu osobitnej časti a chráni mier ako fundamentálnu hodnotu medzinárodného spoločenstva pred jeho narušením zvnútra štátu. Objektívna stránka spočíva v troch alternatívnych formách konania — podnecovaní k vojne, propagácii vojny alebo inej podpore vojnovej propagandy —, ktoré musia byť vedené špecifickým úmyslom narušiť mier; ide teda o trestný čin s prekračujúcim úmyslom (dolus coloratus), kde samotné konanie (napr. verejný prejav) nemusí byť samo osebe násilné, ale smeruje k vyvolaniu vojnového konfliktu alebo k jeho legitimizácii vo verejnom diskurze.
 
 Kvalifikovaná skutková podstata v odseku 2 sprísňuje trest až na doživotie pri troch okolnostiach: spáchaní činu v spojení s cudzou mocou alebo cudzím činiteľom (čo približuje čin k vlastizrade a úkladom proti štátu z Jedenástej hlavy), spáchaní ako člen nebezpečného zoskupenia, alebo spáchaní za krízovej situácie. Krízová situácia je legálny pojem, ktorý sa v tejto hlave opakovane vracia ako priťažujúca okolnosť pri celom rade trestných činov proti mieru, terorizmu a extrémizmu — odráža zvýšenú spoločenskú nebezpečnosť takého konania v období vojny, výnimočného stavu alebo núdzového stavu.
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2019:3014000006.1, 2019-04-17
+  > „Odôvodnenie Krajský súd v Trenčíne uznesením, sp. zn. 2Ntc/5/2014, z 19. februára 2019 rozhodol tak, že podľa § 18 ods. 1 zák. č. 549/2011 Z. z. o uznávaní a výkone rozhodnutí, ktorými sa ukladá trestná sankcia spojená s odňatím slobody v Európskej únii a o zmene a doplnení zák. č. 221/2006 Z. z. o výkone väzby v znení neskorších predpisov (ďalej aj zák. č. 549/2011 Z. z.), § 416 Trestného poriadku, § 417 ods. 1 Trestného poriadku, § 68 ods. 2 Trestného zákona, sa odsúdený A."
+- *NS SR* ECLI ECLI:SK:NSSR:2018:9018200101.1, 2018-10-24
+  > „Odôvodnenie Krajský súd v Bratislave napadnutým uznesením z 5. septembra 2018, sp. zn. 1Ntc/13/2012 rozhodol tak, že podľa § 18 ods. 1 zák. č. 549/2011 Z. z., § 416, § 417 ods. 1 Trestného poriadku, § 68 ods. 2 Trestného zákona sa odsúdený I."
 
 ### § 417a — Porušenie reštriktívneho opatrenia
 
@@ -846,6 +953,13 @@ Objektívna stránka je vymedzená štyrmi alternatívnymi formami konania — u
 
 Základná trestná sadzba (pätnásť až dvadsať rokov) patrí k najprísnejším v celom Trestnom zákone, čo zodpovedá mimoriadnej závažnosti tohto trestného činu v hierarchii medzinárodných zločinov. Odsek 2 sprísňuje trest až na doživotie, ak je čin spáchaný počas vojny alebo ozbrojeného konfliktu, keďže práve v týchto podmienkach dochádza historicky k najrozsiahlejším genocídnym činom. Odsek 3 viaže trest odňatia slobody na doživotie povinne na prípad, keď páchateľ spôsobí smrť viacerých osôb.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2017:5414010095.1, 2017-10-18
+  > „Na základe sťažnosti podanej proti tomuto uzneseniu prokurátorom, Krajský súd v Žiline uznesením z 12. júla 2017 sp. zn. 2Tos 55/2017 podľa § 194 ods. 1 písm. a/ Trestného poriadku zrušil uznesenie okresného súdu a sám vo veci rozhodol tak, že podľa § 419 ods. 1 Trestného poriadku, s použitím § 418 ods. 1 Trestného poriadku, § 52 ods. 1 Trestného zákona vyslovil, že obvinený P."
+- *NS SR* sp. zn. 3Tdo/61/2017, 2017-10-18
+  > „Na základe sťažnosti podanej proti tomuto uzneseniu prokurátorom, Krajský súd v Žiline uznesením z 12. júla 2017 sp. zn. 2Tos 55/2017 podľa § 194 ods. 1 písm. a/ Trestného poriadku zrušil uznesenie okresného súdu a sám vo veci rozhodol tak, že podľa § 419 ods. 1 Trestného poriadku, s použitím § 418 ods. 1 Trestného poriadku, § 52 ods. 1 Trestného zákona vyslovil, že obvinený P."
+
 ### § 419 — Teroristický útok
 
 > **§ 419**
@@ -885,6 +999,17 @@ Teroristický útok je centrálnou skutkovou podstatou celého bloku trestných 
 Objektívna stránka pokrýva mimoriadne široké spektrum konaní od priameho útoku na život, zdravie alebo osobnú slobodu (písm. a), cez ničenie kritickej infraštruktúry vrátane informačných systémov, energetických a vodárenských zariadení (písm. b a c), únosy dopravných prostriedkov a útoky na dopravnú bezpečnosť (písm. d), až po nakladanie so zbraňami hromadného ničenia a nebezpečnými látkami (písm. e) a vyvolávanie všeobecného nebezpečenstva požiarom, povodňou alebo inak (písm. f). Pri väčšine foriem konania zákon výslovne postihuje aj samotnú hrozbu spáchaním takého útoku, čím posúva trestnosť do štádia predchádzajúceho skutočnému uskutočneniu útoku.
 
 Trestná sadzba dvadsať až dvadsaťpäť rokov alebo doživotie radí základnú skutkovú podstatu medzi najprísnejšie trestné činy vôbec, čo zodpovedá mimoriadnej celospoločenskej nebezpečnosti terorizmu. Odsek 2 viaže trest doživotia povinne na okolnosti ako spôsobenie ťažkej ujmy na zdraví alebo smrti viacerých osôb, spáchanie na chránenej osobe, útok voči ozbrojeným silám alebo zborom, spáchanie ako člen nebezpečného zoskupenia alebo za krízovej situácie.
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2020:7115010035.1, 2020-09-08
+  > „Najvyšší súd z trestného spisu zistil, že Okresný súd Košice I napadnutým uznesením z 9. februára 2018, sp. zn. 5T/2/2015, podľa § 50 ods. 4 Trestného zákona s použitím § 419 ods. 3 Trestného poriadku rozhodol o osvedčení sa obvineného Z. Z. v skúšobnej dobe podmienečného odsúdenia uloženého mu rozsudkom Okresného súdu Košice I z 20. januára 2015, sp. zn. 5T/2/2015. V zmysle § 419 ods. 3 Trestného poriadku rozhodnutie o tom, že sa odsúdený osvedčil môže predseda senátu urobiť so súhlasom prokurátora."
+- *NS SR* ECLI ECLI:SK:NSSR:2021:3214010130.1, 2021-05-05
+  > „Následne uznesením Okresný súd Bánovce nad Bebravou, sp. zn. 3T/54/2014 z 21. mája 2020 rozhodol postupom podľa § 419 ods. 1 Trestného poriadku a § 52 ods. 1 Trestného zákona, že obvinený Y.E."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:4017200258.1, 2020-01-22
+  > „Podľa § 419 ods. 1 Trestného poriadku s poukazom na § 68 ods. 2 Trestného zákona, odsúdený Y."
+- *NS SR* ECLI ECLI:SK:NSSR:2019:5415010088.1, 2019-10-15
+  > „Odôvodnenie Okresný súd Dolný Kubín uznesením zo dňa 22. januára 2019, sp. zn. 9T/23/2015, podľa § 419 ods. 1 Trestného poriadku, z dôvodov uvedených v § 52 ods. 1 Trestného zákona rozhodol o tom, že obvinený M."
 
 ### § 419a — Účasť na bojovej činnosti organizovanej ozbrojenej skupiny na území iného štátu
 
@@ -1002,6 +1127,17 @@ Skutková podstata chráni ľudskú dôstojnosť pred mučením a iným neľudsk
 
 Kvalifikačné znaky v odseku 2 zohľadňujú okolnosti ako spolupáchateľstvo najmenej dvoch páchateľov, závažnejší spôsob konania, postavenie obete ako chránenej osoby, osobitný motív, alebo spáchanie na osobe, ktorej bola zákonne obmedzená osobná sloboda — táto posledná okolnosť je významná najmä vzhľadom na osoby vo výkone väzby alebo trestu, ktoré sú voči prípadnému zneužitiu moci obzvlášť zraniteľné. Odseky 3 a 4 postupne sprísňujú trest pri spôsobení ťažkej ujmy na zdraví alebo smrti, pri zámere zmariť uplatnenie základných práv a slobôd obete, pri spáchaní v nebezpečnom zoskupení a napokon pri spôsobení ťažkej ujmy alebo smrti viacerým osobám alebo pri spáchaní za krízovej situácie.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* sp. zn. 5 T 18/2002, 2010-09-30
+  > „uznaní za vinných zo zločinu mučenia a iného neľudského alebo krutého zaobchádzania podľa § 420 ods. 1, ods. 2 písm. a/, písm. b/, písm. e/, ods. 3 písm. a/ Trestného zákona č. 300/2005 Z. z (ďalej len Tr. zák.) s poukazom na ustanovenie § 138 ods. 1 písm. a/, písm. b/, písm. j/ Tr. zák., na tom skutkovom základe, že dňa 5. júla 2001 okolo 16.30 h po tom, čo K."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:1714010187.1, 2020-09-22
+  > „XXXX, podľa § 50 ods. 4 Trestného zákona, postupom podľa § 419 ods. 1 v spojení s § 420 Trestného poriadku, sa v skúšobnej dobe podmienečného odsúdenia rozsudkom Okresného súdu Pezinok zo dňa 26. mája 2014, sp. zn. 2T/61/2014, právoplatným dňa 29. mája 2014, ktorým mu bol uložený trest odňatia slobody v trvaní 18 osemnásť mesiacov s podmienečným odkladom jeho výkonu na skúšobnú dobu v trvaní 3 tri roky sa neosvedčil a trest odňatia slobody v trvaní 18 osemnásť mesiacov vykoná."
+- *NS SR* ECLI ECLI:SK:NSSR:2015:5308010443.1, 2015-10-28
+  > „Odôvodnenie Okresný súd Čadca uznesením zo 17. marca 2014, sp. zn. 2T 135/2008, podľa § 50 ods. 4 Trestného zákona s prihliadnutím k § 420 Trestného poriadku, § 419 ods. 1 Trestného poriadku nariadil výkon nepodmienečného trestu odňatia slobody vo výmere 18 mesiacov, uložený obvinenému D."
+- *NS SR* sp. zn. 3 Tdo 61/2015, 2015-10-28
+  > „O d ô v o d n e n i e Okresný súd Čadca uznesením zo 17. marca 2014, sp. zn. 2T 135/2008, podľa § 50 ods. 4 Trestného zákona s prihliadnutím k § 420 Trestného poriadku, § 419 ods. 1 Trestného poriadku nariadil výkon nepodmienečného trestu odňatia slobody vo výmere 18 mesiacov, uloţený obvinenému B."
+
 ### § 420a — Nedobrovoľné zmiznutie
 
 > **§ 420a**
@@ -1072,6 +1208,17 @@ Zatiaľ čo § 421 postihuje založenie, podporu a propagáciu extrémistickej s
 
 Odsek 2 rieši prípad, keď páchateľ na obídenie prípadného zákazu konkrétnych symbolov používa ich pozmenené verzie, ktoré však vyvolávajú zdanie pravých symbolov — táto konštrukcia bráni účelovému vyhýbaniu sa trestnej zodpovednosti drobnými formálnymi úpravami zakázaných zástav, odznakov, rovnošiat či hesiel, ktoré si v očiach verejnosti zachovávajú svoj pôvodný symbolický význam.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2020:9519100045.1, 2020-06-17
+  > „K právnej kvalifikácii konania si Najvyšší súd Slovenskej republiky rovnako osvojil právne závery Špecializovaného trestného súdu ku kvalifikácii konania menovaného ako prečinu prejavu sympatie k hnutiu smerujúcemu k potlačeniu základných práv a slobôd podľa § 422 ods. 1 Trestného zákona."
+- *NS SR* ECLI ECLI:SK:NSSR:2019:9017200083.1, 2019-04-29
+  > „žalovanej a to za prečin prejavu sympatie k hnutiu smerujúcemu k potlačeniu základných práv a slobôd podľa § 422 ods. 1 Trestného zákona."
+- *NS SR* sp. zn. 4Volpp/1/2017, 2019-04-29
+  > „žalovanej a to za prečin prejavu sympatie k hnutiu smerujúcemu k potlačeniu základných práv a slobôd podľa § 422 ods. 1 Trestného zákona."
+- *NS SR* sp. zn. 5Tost/18/2018, 2018-05-22
+  > „pre prečin prejav sympatie k hnutiu smerujúcemu k potlačeniu základných práv a slobôd podľa § 422 ods. 1 Trestného zákona, o sťažnosti obvineného proti uzneseniu sudcu pre prípravné konanie Špecializovaného trestného súdu, pracovisko Banská Bystrica z 2. mája 2018, sp. zn. 2Tp/15/2018, takto r o z h o d o l : I."
+
 ### § 422a — Výroba extrémistického materiálu
 
 > **§ 422a**
@@ -1089,6 +1236,11 @@ Odsek 2 rieši prípad, keď páchateľ na obídenie prípadného zákazu konkr�
 Skutková podstata otvára samostatný blok trestných činov postihujúcich nakladanie s extrémistickým materiálom (§ 422a až § 422c), ktorý dopĺňa postih samotného extrémistického hnutia (§ 421) a prejavov sympatie k nemu (§ 422) o postih materiálneho substrátu extrémistickej propagandy. Trestné je vyrábanie extrémistického materiálu, ako aj samotná účasť na takejto výrobe, čo zahŕňa aj čiastkové príspevky viacerých osôb k vzniku takéhoto materiálu bez toho, aby ktorákoľvek z nich musela byť jeho výlučným tvorcom.
 
 Kvalifikovaná skutková podstata v odseku 2 sprísňuje trest pri závažnejšom spôsobe konania alebo ak páchateľ koná ako člen extrémistickej skupiny — táto posledná okolnosť je typickým priťažujúcim znakom, ktorý sa v celom bloku trestných činov extrémizmu opakovane vracia, keďže organizovaná výroba extrémistického materiálu v rámci štruktúrovanej skupiny predstavuje typicky vyššiu mieru spoločenskej nebezpečnosti než ojedinelé konanie jednotlivca.
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2019:9017200083.1, 2019-04-29
+  > „85. Žalobca spolu so žalobou doručil Najvyššiemu súdu SR aj uznesenie zo dňa 27. apríla 2017, ČVS: PPZ-31/NKA-PT-BA-2017, ktorým bolo vznesené obvinenie osobe O.i za prečin výroby extrémistických materiálov podľa § 422a ods. 1 Trestného zákona v jednočinnom súbehu s prečinom hanobenia národa, rasy a presvedčenia podľa § 423 ods. 1 písm. b/, ods. 2 písm. b/ Trestného zákona."
 
 ### § 422b — Rozširovanie extrémistického materiálu
 
@@ -1110,6 +1262,11 @@ Zatiaľ čo § 422a postihuje samotnú výrobu extrémistického materiálu, § 
 
 Kvalifikované skutkové podstaty v odseku 2 zodpovedajú zvýšenej spoločenskej nebezpečnosti pri závažnejšom spôsobe konania, pri verejnom šírení (na rozdiel od šírenia v uzavretom okruhu osôb) a pri páchaní v rámci extrémistickej skupiny.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2020:9520100123.1, 2020-11-24
+  > „S. pre pokračovací zločin rozširovania extrémistického materiálu podľa § 422b ods. 1, ods. 2 písm. a), písm. b) Trestného zákona a iné na verejnom zasadnutí konanom 24. novembra 2020 v Bratislave o odvolaní prokurátora Úradu špeciálnej prokuratúry Generálnej prokuratúry Slovenskej republiky a obžalovaného A."
+
 ### § 422c — Prechovávanie extrémistického materiálu
 
 > **§ 422c**
@@ -1121,6 +1278,17 @@ Kvalifikované skutkové podstaty v odseku 2 zodpovedajú zvýšenej spoločensk
 Najmiernejšia skutková podstata z trojice § 422a až § 422c postihuje samotné prechovávanie extrémistického materiálu bez toho, aby páchateľ musel takýto materiál vyrábať alebo ho šíriť ďalej. Ide o obdobnú konštrukciu, akú Trestný zákon používa aj pri iných spoločensky škodlivých materiáloch (napríklad pri detskej pornografii) — samotná držba takéhoto materiálu je vnímaná ako spoločensky škodlivá, keďže vytvára potenciálny zdroj jeho ďalšieho šírenia a súčasne odráža osobný postoj páchateľa k extrémistickej ideológii, ktorú materiál stelesňuje.
 
 Trestná sadzba (odňatie slobody až na dva roky) zodpovedá najnižšej miere typovej závažnosti v rámci celého bloku trestných činov spojených s extrémistickým materiálom — ide totiž o pasívne uchovávanie, nie o aktívnu tvorbu alebo šírenie, ktoré Trestný zákon postihuje citeľne prísnejšie (§ 422a a § 422b).
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2021:9519100182.1, 2021-05-19
+  > „pre prečin prechovávania extrémistických materiálov podľa § 422c Trestného zákona prejednal odvolanie obžalovaného Y."
+- *NS SR* ECLI ECLI:SK:NSSR:2019:1113010607.1, 2019-04-23
+  > „oslobodil spod obžaloby pre prečin prechovávania extrémistických materiálov podľa § 422c Trestného zákona na tom skutkovom základe, že obvinený X."
+- *NS SR* sp. zn. 2Tdo/9/2019, 2019-04-23
+  > „oslobodil spod obžaloby pre prečin prechovávania extrémistických materiálov podľa § 422c Trestného zákona na tom skutkovom základe, že obvinený X."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:9520100123.1, 2020-11-24
+  > „S., že je vinný zo spáchania skutku uvedeného v obžalobe, tohto uznal vinným v bode 1) zo zločinu rozširovania extrémistického materiálu podľa § 422b odsek 1, odsek 2 písmeno a), písmeno b) Trestného zákona s poukazom na § 138 písmeno b) Trestného zákona a v bode 2) a v bode 3) z prečinu prechovávania extrémistického materiálu podľa § 422c Trestného zákona, na tom skutkovom základe, že v bode 1) minimálne v období od 07.03.2016 do 19.04.2019 zverejnil a sprístupnil minimálne z miesta svojho trvalého bydliska v meste B., ulica F."
 
 ### § 422d — Popieranie a schvaľovanie holokaustu, zločinov politických režimov a zločinov proti ľudskosti
 
@@ -1162,6 +1330,17 @@ Ustanovenie chráni česť a dôstojnosť národov, ras, etnických skupín a je
 
 Kvalifikovaná skutková podstata v odseku 2 sprísňuje trest, ak páchateľ koná ako člen extrémistickej skupiny, ako verejný činiteľ (čo je obzvlášť závažné vzhľadom na reprezentatívnu funkciu verejného činiteľa voči verejnosti), alebo z osobitného motívu — táto posledná okolnosť typicky zahŕňa nenávistný motív namierený proti niektorej z chránených skupín.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2019:6110011469.1, 2019-03-19
+  > „nenaplnilo znaky inej skutkovej podstaty trestného činu uvedenej v osobitnej časti Trestného zákona, napr. či takéto konanie nie je subsumovateľné pod ustanovenie § 423 ods. 1 písm. b/ Tr. zák. Preto navrhla, aby dovolací súd 1) podľa § 386 ods. 1 Tr. por. vyslovil, že uznesením Krajského súdu v Banskej Bystrici z 18. januára 2011, sp. zn. 5To 12/2011, bol porušený zákon v ustanovení § 215 ods. 1 písm. b/ Tr. por. v prospech obvineného Mgr. T."
+- *NS SR* ECLI ECLI:SK:NSSR:2019:9017200083.1, 2019-04-29
+  > „85. Žalobca spolu so žalobou doručil Najvyššiemu súdu SR aj uznesenie zo dňa 27. apríla 2017, ČVS: PPZ-31/NKA-PT-BA-2017, ktorým bolo vznesené obvinenie osobe O.i za prečin výroby extrémistických materiálov podľa § 422a ods. 1 Trestného zákona v jednočinnom súbehu s prečinom hanobenia národa, rasy a presvedčenia podľa § 423 ods. 1 písm. b/, ods. 2 písm. b/ Trestného zákona."
+- *NS SR* ECLI ECLI:SK:NSSR:2019:9517100238.1, 2019-09-03
+  > „Vzhľadom na uvedené skutočnosti prokurátor navrhol, aby Najvyšší súd Slovenskej republiky postupom podľa § 322 ods. 3 Trestného poriadku zmenil napadnutý rozsudok vo výroku o treste tak, že podľa § 423 ods. 2 Trestného zákona, s poukazom na § 36 písm. j), § 37 písm. h), § 38 ods. 2, § 41 ods. 1 Trestného zákona účinného do 31. decembra 2016 uložil obžalovanému Y."
+- *NS SR* sp. zn. 2To/10/2018, 2019-09-03
+  > „Vzhľadom na uvedené skutočnosti prokurátor navrhol, aby Najvyšší súd Slovenskej republiky postupom podľa § 322 ods. 3 Trestného poriadku zmenil napadnutý rozsudok vo výroku o treste tak, že podľa § 423 ods. 2 Trestného zákona, s poukazom na § 36 písm. j), § 37 písm. h), § 38 ods. 2, § 41 ods. 1 Trestného zákona účinného do 31. decembra 2016 uložil obžalovanému Y."
+
 ### § 424 — Podnecovanie k národnostnej, rasovej a etnickej nenávisti
 
 > **§ 424**
@@ -1185,6 +1364,11 @@ Kvalifikovaná skutková podstata v odseku 2 sprísňuje trest, ak páchateľ ko
 Zatiaľ čo § 423 postihuje hanobenie ako útok na česť a dôstojnosť chránenej skupiny alebo jednotlivca, § 424 postihuje aktívnejšiu formu konania — verejné podnecovanie k násiliu alebo nenávisti voči takejto skupine alebo jednotlivcovi, alebo k obmedzovaniu ich práv a slobôd. Okruh chránených znakov je oproti § 423 rozšírený o sexuálnu orientáciu, čo odráža širší okruh diskriminačných dôvodov relevantných pre podnecovanie k nenávisti v porovnaní s hanobením.
 
 Odsek 2 postihuje samostatne prípravnú fázu konania — spolčenie alebo zhromaždenie sa na účel spáchania podnecovania k nenávisti — ktorú zákon výnimočne stavia na roveň dokonanému činu, čo umožňuje zasiahnuť už proti organizovaniu takéhoto konania predtým, než dôjde k jeho verejnému uskutočneniu. Odsek 3 sprísňuje trest pri spáchaní z osobitného motívu, verejným činiteľom, členom extrémistickej skupiny, alebo za krízovej situácie, kedy je spoločnosť voči podnecovaniu k medzietnickej a medzinárodnostnej nenávisti obzvlášť zraniteľná.
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* sp. zn. 6 Tdo 46/2013, 2013-10-02
+  > „Za to bol odsúdený podľa § 424 ods. 3 Trestného zákona účinného s pouţitím § 37 písm. m/, § 38 ods. 4 Trestného zákona na trest odňatia slobody v trvaní štyroch rokov."
 
 ### § 424a — Apartheid a diskriminácia skupiny osôb
 
@@ -1211,6 +1395,17 @@ Odsek 2 postihuje samostatne prípravnú fázu konania — spolčenie alebo zhro
 Ustanovenie postihuje uplatňovanie apartheidu alebo inej rasovej, etnickej, národnostnej alebo náboženskej segregácie, ako aj akejkoľvek inej rozsiahlej alebo systematickej diskriminácie skupiny osôb. Na rozdiel od § 423 a § 424, ktoré postihujú individuálne prejavy hanobenia alebo podnecovania, § 424a je koncipovaný ako postih inštitucionalizovaného, štrukturálneho vylučovania a znevýhodňovania celej skupiny osôb — pojem apartheid je pritom prevzatý z medzinárodného práva, kde označuje systematický režim útlaku a nadvlády jednej rasovej skupiny nad druhou.
 
 Kvalifikované skutkové podstaty v odseku 2 sprísňujú trest až na osem až pätnásť rokov pri spáchaní členom extrémistickej skupiny, verejným činiteľom alebo z osobitného motívu, a najmä pri vystavení dotknutej skupiny osôb neľudskému alebo ponižujúcemu zaobchádzaniu, alebo pri vydaní tejto skupiny do nebezpečenstva ťažkej ujmy na zdraví alebo smrti — tieto posledné dve okolnosti posúvajú skutkovú podstatu smerom k hraniciam trestných činov proti ľudskosti podľa § 425, s ktorým apartheid systematicky súvisí aj ako jedna z jeho alternatívnych foriem (§ 425 písm. i).
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2019:9017200083.1, 2019-04-29
+  > „je za tieto výroky trestne stíhaný ako obvinená osoba (v čase podania žaloby na Najvyšší súd SR) za prečin podnecovania, hanobenia a vyhrážania osobám pre ich príslušnosť k niektorej rase, národu, národnosti, farbe pleti, etnickej skupine alebo pôvodu rodu podľa § 424a ods. 1 písm. a/ a b/ Trestného zákona."
+- *NS SR* sp. zn. 4Volpp/1/2017, 2019-04-29
+  > „je za tieto výroky trestne stíhaný ako obvinená osoba (v čase podania žaloby na Najvyšší súd SR) za prečin podnecovania, hanobenia a vyhrážania osobám pre ich príslušnosť k niektorej rase, národu, národnosti, farbe pleti, etnickej skupine alebo pôvodu rodu podľa § 424a ods. 1 písm. a/ a b/ Trestného zákona."
+- *NS SR* ECLI ECLI:SK:NSSR:2019:9517100238.1, 2019-09-03
+  > „Nič teda nebránilo Špecializovanému trestnému súdu uznať ho za vinného zo spáchania prečinu hanobenia národa, rasy a presvedčenia podľa § 423 ods. 1 písm. a), ods. 2 písm. c) Trestného zákona účinného do 31. decembra 2016 v jednočinnom súbehu s prečinom podnecovania, hanobenia a vyhrážania osobám pre ich príslušnosť k niektorej rase, národu, národnosti, farbe pleti, etnickej skupine alebo pôvodu rodu podľa § 424a ods. 1 písm. a) Trestného zákona účinného do 31. decembra 2016, teda tak, ako to právne posúdil v obžalobe prokurátor."
+- *NS SR* sp. zn. 2To/10/2018, 2019-09-03
+  > „Nič teda nebránilo Špecializovanému trestnému súdu uznať ho za vinného zo spáchania prečinu hanobenia národa, rasy a presvedčenia podľa § 423 ods. 1 písm. a), ods. 2 písm. c) Trestného zákona účinného do 31. decembra 2016 v jednočinnom súbehu s prečinom podnecovania, hanobenia a vyhrážania osobám pre ich príslušnosť k niektorej rase, národu, národnosti, farbe pleti, etnickej skupine alebo pôvodu rodu podľa § 424a ods. 1 písm. a) Trestného zákona účinného do 31. decembra 2016, teda tak, ako to právne posúdil v obžalobe prokurátor."
 
 ### § 425 — Neľudskosť
 
@@ -1249,6 +1444,11 @@ Výpočet čiastkových foriem konania siaha od vraždy, vyhladzovania ľudí a 
 Trestná sadzba dvanásť až dvadsaťpäť rokov alebo doživotie radí neľudskosť medzi najprísnejšie trestné činy celého Trestného zákona, čo zodpovedá jej postaveniu popri genocídiu (§ 418) a vojnových zločinoch v hierarchii najzávažnejších zločinov podľa medzinárodného práva. Viacero čiastkových foriem konania sa prekrýva so samostatnými skutkovými podstatami tejto hlavy — mučenie s § 420, nedobrovoľné zmiznutie s § 420a a apartheid s § 424a —, tieto sú však v rámci § 425 postihované ako súčasť širšieho, systematického útoku na civilné obyvateľstvo, čo zakladá vyššiu typovú závažnosť a prísnejšiu trestnú sadzbu než pri ich izolovanom spáchaní mimo takéhoto kontextu.
 
 ## Druhý diel — Trestné činy vojnové
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2020:4118010409.1, 2020-12-08
+  > „trest prepadnutia majetku podľa § 58 ods. 2 Trestného zákona, nerozhodol o jeho zaistení podľa § 425 ods. 1 Trestného poriadku, hoci to zákon explicitne ukladá."
 
 ### § 426 — Používanie zakázaného bojového prostriedku a nedovolené vedenie boja
 

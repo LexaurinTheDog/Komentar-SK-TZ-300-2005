@@ -59,6 +59,17 @@ Odsek 13 rieši procesnoprávne dôležitú otázku pokračovania v páchaní tr
 - *NSSSR* 31D/24/2021 — Rozhodnutie, 2022-09-07, ECLI ECLI:SK:NSSSR:2022:9621200129.2 (Zbierka rozhodnutí)
   > „Okamihom, kedy Ústavný súd Slovenskej republiky vyslovil, že v určitej veci dochádza k porušovaniu práva na prerokovanie veci bez zbytočných prieťahov a prikázal vo veci ďalej konať, je súd ako orgán verejnej moci povinný všetkými dostupnými prostriedkami vykonať tento príkaz Ústavného súdu Slovenskej republiky. Pre konkrétneho sudcu to znamená, že od tohto okamihu musí takúto vec považovať za prednostnú, rovnako ako iné prednostné veci uvedené v rozvrhu práce."
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2020:2114012497.1, 2020-04-22
+  > „Podľa ustálenej súdnej praxe trestný čin porušovania domovej slobody v ustanovení § 194 ods. 1, ods. 2 písm. b) Trestného zákona predpokladá taký spôsob prekonania prekážky, ktorej účelom je zabránenie vniknutiu do obydlia, ktorý nenapĺňa znaky vlámania podľa § 122 ods. 4 Trestného zákona."
+- *NS SR* ECLI ECLI:SK:NSSR:2021:6116010595.1, 2021-06-08
+  > „Minister navrhol, aby Najvyšší súd Slovenskej republiky: 1/ podľa § 386 ods. 1 Trestného poriadku vyslovil, že rozsudkom Okresného súdu Banská Bystrica, sp. zn. 2T/51/2016 zo dňa 23. augusta 2016, bol porušený zákon v ustanovení § 41 ods. 3 a § 122 ods. 10 Trestného zákona, v neprospech obvineného Q."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:1418010393.1, 2020-05-27
+  > „Podľa § 122 ods. 3 Trestného zákona trestný čin je spáchaný so zbraňou, ak páchateľ alebo s jeho vedomím niektorý zo spolupáchateľov použije zbraň na útok, na prekonanie alebo zamedzenie odporu alebo ju má na taký účel pri sebe, zbraňou sa rozumie, ak z jednotlivého ustanovenia nevyplýva niečo iné, každá vec, ktorou možno urobiť útok proti telu dôraznejším."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:7612010532.1, 2020-05-13
+  > „Obaja obvinení konali v priamom úmysle, motorové vozidlo i strelná zbraň sú jednoznačne spôsobilé urobiť útok proti telu dôraznejším podľa § 122 ods. 3 Trestného zákona."
+
 ### § 123 — Ujma na zdraví
 
 > **§ 123**
@@ -95,6 +106,17 @@ Ustanovenie vytvára trojstupňovú škálu závažnosti poškodenia zdravia, na
 
 Rozlíšenie medzi ujmou na zdraví, ublížením na zdraví a ťažkou ujmou na zdraví je kľúčové pre právnu kvalifikáciu takmer všetkých násilných trestných činov — určuje, či pôjde o základnú, alebo o kvalifikovanú (prísnejšie trestanú) skutkovú podstatu. Definícia ťažkej ujmy na zdraví sa okrem toho priamo preberá aj do § 142 ods. 1 tejto hlavy, ktorý ju používa ako súhrnný kvalifikačný pojem pre účely ďalších ustanovení zákona.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2020:6416010078.1, 2020-09-22
+  > „Podľa § 123 ods. 2 Trestného zákona ublížením na zdraví sa na účely tohto zákona rozumie také poškodenie zdravia iného, ktoré si objektívne vyžiadalo lekárske vyšetrenie, ošetrenie alebo liečenie, počas ktorého bol nie iba na krátky čas sťažený obvyklý spôsob života poškodeného, pričom podľa ustálenej súdnej sa nie iba krátkym časom rozumie doba spravidla 7 dní a viac (primerane rozhodnutie najvyššieho súdu publikované v Zbierke pod číslom R 16/1986)."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:2516010147.1, 2020-01-23
+  > „v rámci tohto dovolacieho dôvodu súdom vytkol, že jeho úmyslom nebolo spôsobiť poškodenej ťažkú ujmu na zdraví (§ 123 ods. 3 Trestného zákona), ale len ublížiť jej na zdraví, ktorá skutočnosť by eventuálne zakladala priaznivejšiu kvalifikáciu činu, a to podľa § 148 ods. 1 Trestného zákona."
+- *NS SR* ECLI ECLI:SK:NSSR:2017:5016200108.1, 2017-10-25
+  > „Podľa § 123 ods. 2 zákona č. 300/2005 Z.z. Trestný zákon (ďalej len Trestný zákon) sa ublížením na zdraví rozumie také poškodenie zdravia iného, ktoré si objektívne vyžiadalo lekárske vyšetrenie, ošetrenie alebo liečenie, počas ktorého bol nie iba na krátky čas sťažený obvyklý spôsob života poškodeného."
+- *NS SR* sp. zn. 10Sžo/77/2016, 2017-10-25
+  > „Podľa § 123 ods. 2 zákona č. 300/2005 Z.z. Trestný zákon (ďalej len Trestný zákon) sa ublížením na zdraví rozumie také poškodenie zdravia iného, ktoré si objektívne vyžiadalo lekárske vyšetrenie, ošetrenie alebo liečenie, počas ktorého bol nie iba na krátky čas sťažený obvyklý spôsob života poškodeného."
+
 ### § 124 — Škoda
 
 > **§ 124**
@@ -113,6 +135,17 @@ Rozlíšenie medzi ujmou na zdraví, ublížením na zdraví a ťažkou ujmou na
 
 Odsek 3 obsahuje osobitnú definíciu škody pre trestné činy proti životnému prostrediu — súhrn ekologickej ujmy a majetkovej škody vrátane nákladov na uvedenie životného prostredia do pôvodného stavu, a osobitné pravidlo pre neoprávnené nakladanie s odpadmi (§ 302), kde sa namiesto škody určuje tzv. rozsah činu podľa obvyklej ceny nakladania s odpadom a nákladov na jeho odstránenie. Odsek 4 rozširuje pojem škody aj na daňovú, colnú a poistnú oblasť (skrátená alebo neodvedená daň, clo, poistné, neoprávnene vrátená DPH alebo spotrebná daň) a na zneužitie verejných prostriedkov (nenávratný finančný príspevok, subvencia, dotácia zo štátneho rozpočtu, rozpočtu EÚ alebo rozpočtov nižších územných celkov) — táto časť definície je kľúčová pre skutkové podstaty daňových a dotačných trestných činov v hospodárskej hlave osobitnej časti.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2021:4114010930.1, 2021-01-13
+  > „V znení skutkovej vety je fixne daná výška škody a to suma vo výške 3.658,65 € (1.146,24 € + 1.432,79 € + 1.079,62 €), z ktorej dovolací súd musel vychádzať pri viazanosti skutkovým zistením urobeným súdmi nižšieho stupňa, čo zodpovedá podľa § 124 ods. 1 Trestného zákona škode väčšej, t."
+- *NS SR* ECLI ECLI:SK:NSSR:2021:9520100086.1, 2021-01-26
+  > „Škodou sa podľa § 124 ods. 1 Trestného zákona rozumie ujma na majetku alebo reálny úbytok na majetku alebo na právach poškodeného alebo jeho iná ujma, ktorá je v príčinnej súvislosti s trestným činom, bez ohľadu na to, či ide o škodu na veci alebo na právach."
+- *NS SR* ECLI ECLI:SK:NSSR:2018:3016200043.1, 2018-04-27
+  > „Pokiaľ ide o ďalší znak skutkovej podstaty do úvahy pripadajúceho trestného činu podľa § 302 Trestného zákona, a to v podobe aspoň malého rozsahu, pre jeho určenie je rozhodujúce výkladové pravidlo podľa § 124 ods. 3 Trestného zákona."
+- *NS SR* sp. zn. 10Asan/5/2017, 2018-04-27
+  > „Pokiaľ ide o ďalší znak skutkovej podstaty do úvahy pripadajúceho trestného činu podľa § 302 Trestného zákona, a to v podobe aspoň malého rozsahu, pre jeho určenie je rozhodujúce výkladové pravidlo podľa § 124 ods. 3 Trestného zákona."
+
 ### § 125 — Hranice škody (malá, väčšia, značná škoda a škoda veľkého rozsahu)
 
 > **§ 125**
@@ -127,6 +160,17 @@ Toto ustanovenie zavádza štvorstupňovú peňažnú stupnicu, ktorá určuje v
 
 Odsek 2 rieši prípad, keď základná skutková podstata vyžaduje spôsobenie škody, ale bez uvedenia konkrétnej výšky (napríklad len slovom „škoda" bez ďalšieho spresnenia) — v takom prípade platí vyvrátiteľná domnienka, že musí ísť aspoň o škodu malú (teda škodu prevyšujúcu 700 eur), inak trestnosť činu nenastáva (uplatní sa zásada subsidiarity trestnej represie a prípad sa rieši ako priestupok alebo iný delikt).
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* sp. zn. 3Tdo/30/2016, 2017-08-01
+  > „ÚS 83/2009), 18 3Tdo/30/2016 dovolací súd uvádza, že ak napadnutým právoplatným rozsudkom krajského súdu bol obvinený uznaný za vinného zo spáchania prečinu sprenevery podľa § 213 ods. 1, ods. 2 písm. a/, písm. c/ Trestného zákona č. 300/2005 Z. z., vychádzajúc z dikcie ustanovenia § 125 Trestného poriadku č. 141/1961 Zb., mala by tomu zodpovedať aj kvalitatívna stránka odôvodnenia rozsudku odvolacieho súdu v spojení s odôvodnením rozsudku okresného súdu, vychádzajúca z požiadavky presvedčivosti a preskúmateľnosti rozsudku (rozhodnutia súdov oboch stupňov tvoria jednotu)."
+- *NS SR* ECLI ECLI:SK:NSSR:2021:5614010187.1, 2021-03-23
+  > „Podľa § 125 ods. 1 Trestného zákona škodou malou sa rozumie škoda prevyšujúca sumu 266 eur."
+- *NS SR* ECLI ECLI:SK:NSSR:2021:6718010651.1, 2021-03-17
+  > „Argumentoval v podstate tak, že: „skutok, zo spáchania ktorého som bol uznaný za vinného, bolo treba právne kvalifikovať ako trestný čin krádeže podľa § 212 ods. 2 písm. a) Trestného zákona", keďže malou škodou sa v zmysle § 125 ods. 1 Trestného zákona považuje škoda prevyšujúca sumu vo výške 266,00 Eur, ale neprevyšujúca sumu vo výške 2.660,00 Eur vrátane, pričom v danom prípade bola poškodenému spôsobená škoda vo výške 1.467,00 Eur, t."
+- *NS SR* ECLI ECLI:SK:NSSR:2021:1618010708.1, 2021-02-16
+  > „Takéto posúdenie činu jeho podradením pod kvalifikovanú skutkovú podstatu je v pomere špeciality ku kvalifikácii podľa § 212 ods. 2 písm. a) Trestného zákona (účinného do 31. júla 2019), ktorá sa použije len vtedy, ak páchateľ krádežou vlámaním nespôsobí ani malú škodu (§ 125 ods. 1 Trestného zákona)."
+
 ### § 126 — Určenie výšky škody
 
 > **§ 126**
@@ -140,6 +184,17 @@ Odsek 2 rieši prípad, keď základná skutková podstata vyžaduje spôsobenie
 **Výklad:**
 
 Ustanovenie stanovuje metodiku určovania výšky škody v troch krokoch odstupňovaných podľa subsidiarity. Základným kritériom je obvyklá (trhová) cena veci v čase a mieste činu (odsek 1, prvá veta); ak ju nemožno zistiť, nastupuje náhradné kritérium účelne vynaložených nákladov na obstaranie rovnakej či obdobnej veci alebo na uvedenie veci do pôvodného stavu (druhá veta). Odsek 2 dopĺňa osobitné kritérium pre škody na životnom prostredí, chránených druhoch a pamiatkovo chránených alebo umelecky, historicky či vedecky hodnotných veciach — tu sa vychádza aj z hodnoty určenej osobitným právnym predpisom (napr. vyhláškou stanovujúcou hodnoty chránených druhov). Odsek 3 zavádza poslednú záchrannú inštanciu — ak výšku škody, prospechu, hodnoty veci, rozsahu činu alebo ujmy nemožno zistiť žiadnym z predchádzajúcich spôsobov, alebo sú o jej správnosti vážne pochybnosti, určí sa na podklade odborného vyjadrenia alebo znaleckého posudku. Práve znalecké dokazovanie výšky škody je v praxi trestného konania pri majetkovej a hospodárskej trestnej činnosti kľúčovým a často sporným dôkazným prostriedkom.
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2020:9516100114.1, 2020-11-18
+  > „Na podklade odvolania obvinenej Najvyšší súd Slovenskej republiky (ďalej aj „najvyšší súd“) rozsudkom z 13. decembra 2017, sp. zn. 3 To 1/2017 podľa § 321 ods. 1 písm. e), ods. 2 Tr. por. zrušil napadnutý rozsudok vo vzťahu k obvinenej vo výroku o treste odňatia slobody a spôsobe jeho výkonu a sám rozhodol tak, že obvinenej uložil podľa § 126 ods. 4 Trestného zákona trest odňatia slobody vo výmere 5 (päť) rokov a 6 (šesť) mesiacov so zaradením na výkon trestu do I."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:1315010677.1, 2020-02-25
+  > „Podľa § 126 ods. 1 Trestného zákona pri určení výšky škody sa vychádza z ceny, za ktorú sa vec, ktorá bola predmetom útoku, v čase a v mieste činu obvykle predáva."
+- *NS SR* ECLI ECLI:SK:NSSR:2017:1414010287.1, 2017-01-18
+  > „Podľa názoru obvineného pre ustálenie výšky škody bolo potrebné spravovať sa ustanovením § 126 Trestného zákona, ktoré ustanovuje, akým spôsobom sa určuje výška škody."
+- *NS SR* sp. zn. 1 Tošs 29/2008, 2008-11-20
+  > „pre trestný čin poškodzovania finančných záujmov Európskych spoločenstiev podľa § 126 ods. 1, ods. 3 písm. b/ Trestného zákona účinného do 31. decembra 2005 na tom skutkovom základe, že ako živnostník podnikajúci pod obchodným menom I."
 
 ### § 127 — Osoba (dieťa, blízka osoba a ďalšie osobné pojmy)
 
@@ -176,6 +231,17 @@ Ustanovenie definuje dvanásť osobných kategórií, ktoré zákon používa ak
 Odsek 4 definuje všeobecný pojem blízkej osoby (príbuzný v priamom pokolení, osvojiteľ, osvojenec, súrodenec, manžel, prípadne iná osoba v rodinnom či obdobnom pomere pri vzájomnom pociťovaní ujmy ako vlastnej) — tento pojem je relevantný naprieč celým zákonom, napríklad pri okolnostiach vylučujúcich trestnú zodpovednosť (odopretie výpovede) aj pri priťažujúcich okolnostiach. Odsek 5 rozširuje pojem blízkej osoby osobitne pre vymenované trestné činy (vydieranie, znásilnenie, sexuálne násilie, sexuálne zneužívanie, týranie blízkej a zverenej osoby, nebezpečné vyhrážanie, prenasledovanie a elektronické obťažovanie, financovanie terorizmu) aj na bývalého manžela, druha, bývalého druha, rodiča spoločného dieťaťa a osobu žijúcu alebo predtým žijúcu s páchateľom v spoločnej domácnosti — táto rozšírená definícia reflektuje realitu domáceho násilia, kde k násiliu často dochádza práve po rozchode alebo medzi osobami bez formálneho príbuzenského zväzku.
 
 Odseky 6 až 10 definujú kategórie osobitne zraniteľných alebo závislých osôb — chorú osobu (fyzická či duševná choroba v intenzite zodpovedajúcej ťažkej ujme na zdraví), bezbrannú osobu (objektívna nemožnosť účinnej obrany vzhľadom na vek, zdravotný stav či okolnosti), osobu zverenú do starostlivosti alebo dozoru (na základe rozhodnutia orgánu alebo zmluvy), odkázanú osobu (závislosť na páchateľovi z hľadiska výživy, výchovy či starostlivosti) a závislú osobu (závislosť od návykových látok alebo škodlivých činností). Odsek 11 definuje podriadenú osobu prostredníctvom vzťahu nadriadenosti a podriadenosti (pracovnej, služobnej alebo inej), ktorá zakladá povinnosť plniť pokyny páchateľa — relevantné najmä pri zneužití právomoci a sexuálnych deliktoch páchaných zneužitím závislosti. Odsek 12 stanovuje jednotnú kvantitatívnu hranicu pre pojem „viaceré osoby" — najmenej tri osoby; táto hranica sa objavuje opakovane aj v ďalších ustanoveniach tejto hlavy (napríklad pri definícii skupiny osôb v § 129 alebo smrti viacerých osôb v § 143).
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2019:1616010510.1, 2019-10-29
+  > „Vo vzťahu k právnej kvalifikácii v prejednávanej veci ustáleného skutku poukázal na rozhodnutie najvyššieho súdu publikované pod číslom 15 v Zbierke stanovísk najvyššieho súdu a rozhodnutí súdov Slovenskej republiky číslo 2/2015, ako aj na rozhodnutia najvyššieho súdu sp. zn. 2Tdo/26/2011 a 5Tdo/77/2012 a konštatoval, že obvinená nakladala s drogami vo vzťahu k dvanástim osobám, pričom viacerými osobami sa podľa § 127 ods. 12 Trestného zákona rozumejú najmenej tri osoby."
+- *NS SR* ECLI ECLI:SK:NSSR:2021:6716010381.1, 2021-05-12
+  > „Podľa § 127 ods. 12 Trestného zákona viacerými osobami sa na účely tohto zákona rozumejú najmenej tri osoby."
+- *NS SR* ECLI ECLI:SK:NSSR:2021:4021200018.1, 2021-05-12
+  > „z trestného činu ťažkej krádeže podľa § 127, § 128 ods. 1 č. 5 Trestného zákona Rakúskej republiky, v bode II."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:6118010824.1, 2020-12-09
+  > „Jednalo sa o poškodeného - právnickú osobu, zastúpenú štatutárnym orgánom, ktorý bol vo vzťahu k osobe páchateľa osobou blízkou podľa § 127 ods. 4 Trestného zákona (syn, manžel, dobrý blízky priateľ a rodinný známy)."
 
 ### § 128 — Verejný činiteľ, vojak a ďalšie osobné pojmy
 
@@ -225,6 +291,17 @@ Odsek 2 samostatne definuje zahraničného verejného činiteľa (funkcionári c
 
 Odseky 5 až 7 definujú procesné statusy relevantné pre recidívu a jej dôsledky — postihnutého za obdobný čin (sankcia za priestupok alebo iný delikt), odsúdeného (právoplatné odsúdenie, ktoré nebolo zahladené) a potrestaného (odsúdený, ktorý trest celkom alebo sčasti vykonal, opäť s výhradou zahladenia). Odsek 8 upravuje dôležitú konštrukciu tzv. konkrétneho (špeciálneho) subjektu trestného činu — ak zákon vyžaduje osobitnú vlastnosť, spôsobilosť alebo postavenie páchateľa, môže byť páchateľom alebo spolupáchateľom len osoba s touto vlastnosťou (účastníkom môže byť aj osoba bez nej), pričom postačuje, ak požadovanú vlastnosť má právnická osoba, v mene ktorej páchateľ koná (tzv. konanie za iného). Odsek 9 stanovuje, že páchateľom alebo spolupáchateľom vojenského trestného činu (jedenásta hlava osobitnej časti) môže byť výlučne vojak v zmysle odseku 3 — ide o typický príklad trestného činu s konkrétnym subjektom.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2021:8619010029.1, 2021-03-24
+  > „Vzhľadom na predchádzajúce odsúdenia a čiastočne vykonané nepodmienečné tresty odňatia slobody za zločiny lúpeže bolo správne pri kvalifikovaní konania obžalovaného použité aj ustanovenie § 47 ods. 2 Trestného zákona, Najvyšší súd dospel k nasledovnému záveru: Podľa § 128 ods. 7 Trestného poriadku: Potrestaným sa rozumie ten odsúdený, ktorý celkom alebo sčasti vykonal súdom uložený trest."
+- *NS SR* ECLI ECLI:SK:NSSR:2021:4021200018.1, 2021-05-12
+  > „z trestného činu ťažkej krádeže podľa § 127, § 128 ods. 1 č. 5 Trestného zákona Rakúskej republiky, v bode II."
+- *NS SR* ECLI ECLI:SK:NSSR:2021:4419010433.1, 2021-01-26
+  > „bol rozsudkom Okresného súdu Nové Zámky zo 4. mája 2011, sp. zn. 1T/34/2011 uložený podmienečný trest odňatia slobody, 13. novembra 2012 mu bol nariadený výkon tohto trestu, ktorý napokon vykonal v ústave na výkon trestu s maximálnym stupňom stráženia, pričom rozhodujúcim pre posúdenie naplnenia podmienok pre uloženie trestu podľa § 47 ods. 2 Trestného zákona nie je podľa názoru prokurátora, povaha odsúdenia, ale povaha potrestania, pričom podľa § 128 ods. 7 Trestného zákona, sa potrestaným rozumie ten odsúdený, ktorý celkom alebo sčasti vykonal súdom uložený trest."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:7217010646.1, 2020-03-31
+  > „Verejným činiteľom, ktorý jediný môže byť páchateľom trestného činu zneužívania právomoci verejného činiteľa podľa § 326 Trestného zákona, sa v zmysle zákonnej definície vymedzenej v § 128 ods. 1 Trestného zákona rozumie okrem iných aj osoba v služobnom pomere, ak sa podieľa na plnení úloh spoločnosti a štátu a používa pritom právomoc, ktorá jej bola v rámci zodpovednosti za plnenie týchto úloh zverená, pričom pre trestnú zodpovednosť verejného činiteľa sa podľa jednotlivých ustanovení Trestného zákona vyžaduje, aby trestný čin bol spáchaný v súvislosti s jeho právomocou a zodpovednosťou."
+
 ### § 129 — Skupina osôb a organizácia
 
 > **§ 129**
@@ -258,6 +335,17 @@ Ustanovenie odstupňovane definuje päť foriem kolektívneho páchania trestnej
 Zločinecká skupina (odsek 4) predstavuje kvalitatívne vyšší stupeň organizovanosti — vyžaduje sa štruktúrovanosť, existencia počas určitého časového obdobia a koordinovaná činnosť smerujúca k spáchaniu zločinu (zločinov), trestného činu legalizácie výnosu z trestnej činnosti (§ 233) alebo korupčného trestného činu, s cieľom získať finančnú alebo inú výhodu. Teroristická skupina (odsek 5) je definovaná miernejšie čo do formálnej štruktúry (nemusí mať formálne vymedzené úlohy členov, stálu členskú základňu ani rozvinutú štruktúru) — postačuje existencia počas určitého času a koordinovanosť činnosti smerujúcej k spáchaniu trestného činu terorizmu, čo reflektuje typicky voľnejšiu, sieťovú organizáciu teroristických buniek.
 
 Odseky 6 a 7 samostatne definujú dve formy trestnej súčinnosti so zločineckou alebo teroristickou skupinou, ktoré tvoria samostatné skutkové podstaty v osobitnej časti: činnosť pre takú skupinu (úmyselná účasť v skupine alebo iné úmyselné konanie smerujúce k zachovaniu jej existencie alebo k spáchaniu jej trestných činov) a podpora takej skupiny (úmyselné poskytnutie finančných či iných prostriedkov, služieb, súčinnosti alebo vytváranie iných podmienok na jej založenie, zachovanie alebo na spáchanie jej trestných činov). Rozlíšenie medzi činnosťou a podporou spočíva v tom, že činnosť predpokladá určitú mieru vlastnej účasti v skupine, zatiaľ čo podpora môže prichádzať aj zvonka (napr. financovanie osobou, ktorá sama nie je členom skupiny).
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2018:9514100138.10, 2018-12-10
+  > „Najvyšší súd dodáva, že vzhľadom k účelu založenia zločineckej skupiny, ktorým bolo získavanie (prostredníctvom trestnej činnosti) finančnej výhody, s čím Trestný zákon definične (§ 129 ods. 4 Tr. zák.) výslovne (aj keď nie výlučne) počíta, je touto legislatívnou konštrukciou v popísanej situácii predznamenaný vzťah špeciality kvalifikácie podľa § 296 Tr. zák. V rozhodnutí súdu prvého stupňa je teda náležite zistená podoba skutku zodpovedajúcemu bodu 1 obžaloby a táto je aj správne právne kvalifikovaná."
+- *NS SR* ECLI ECLI:SK:NSSR:2019:6114010390.1, 2019-05-15
+  > „Podľa § 129 ods. 2 Trestného zákona organizovanou skupinou sa na účely tohto zákona rozumie spolčenie najmenej troch osôb na účel spáchania trestného činu, s určitou deľbou určených úloh medzi jednotlivými členmi skupiny, ktorej činnosť sa v dôsledku toho vyznačuje plánovitosťou a koordinovanosťou, čo zvyšuje pravdepodobnosť úspešného spáchania trestného činu."
+- *NS SR* sp. zn. 3Tdo/8/2018, 2019-05-15
+  > „Podľa § 129 ods. 2 Trestného zákona organizovanou skupinou sa na účely tohto zákona rozumie spolčenie najmenej troch osôb na účel spáchania trestného činu, s určitou deľbou určených úloh medzi jednotlivými členmi skupiny, ktorej činnosť sa v dôsledku toho vyznačuje plánovitosťou a koordinovanosťou, čo zvyšuje pravdepodobnosť úspešného spáchania trestného činu."
+- *NS SR* ECLI ECLI:SK:NSSR:2018:9515100127.1, 2018-11-26
+  > „pre nesprávne právne posúdenie skutkových zistení porušením Trestného zákona podľa § 129 ods. 2 Tr. zák. Podané odvolanie odôvodnil prokurátor podaním zo 17. októbra 2017, doručeným Špecializovanému trestnému súdu 19. októbra 2017, v ktorom vo vzťahu k oslobodzujúcej časti rozsudku týkajúceho sa obžalovaného Ing."
 
 ### § 130 — Vec
 
@@ -319,6 +407,17 @@ Odsek 3 definuje zverenú vec (vec vo vlastníctve inej osoby, ktorú má pácha
 
 Odseky 7 a 8 definujú extrémistický materiál — písomné, grafické, obrazové, zvukové alebo obrazovo-zvukové vyhotovenie textov, symbolov, programov a ideológií hnutí potláčajúcich ľudské práva a slobody, materiálov podnecujúcich nenávisť a diskrimináciu z dôvodu rasy, národnosti či náboženstva, a materiálov ospravedlňujúcich genocídium a vojnové zločiny (s podmienkou existencie právoplatného odsúdenia zodpovedajúceho medzinárodného alebo slovenského súdu). Odsek 8 obsahuje dôležitú výnimku pre vzdelávacie, zberateľské a výskumné účely, ktorá chráni akademickú a historickú prácu s takýmto materiálom pred kriminalizáciou. Odsek 9 napokon definuje výnos z trestnej činnosti — nielen priamo získanú vec, ale aj odmenu za trestný čin, vec nadobudnutú (hoci len sčasti) za takú vec, vec, na ktorú bola taká vec premenená, a plody a úžitky z nej — táto široká reťazová definícia je základom pre postih legalizácie výnosu z trestnej činnosti (tzv. „prania špinavých peňazí").
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2021:8117010989.1, 2021-05-18
+  > „Podľa § 130 ods. 3 Trestného zákona zverenou vecou sa na účely tohto zákona rozumie vec vo vlastníctve inej osoby, ktorú má páchateľ na základe zmluvy v oprávnenom užívaní alebo z dôvodov plnenia určitých úloh podľa dispozície jej vlastníka v držbe so záväzkom použiť ju len na dohodnutý účel alebo za dohodnutých podmienok ju vlastníkovi vrátiť."
+- *NS SR* ECLI ECLI:SK:NSSR:2019:2315010074.1, 2019-06-26
+  > „V tejto súvislosti dovolací súd konštatuje, že zistenie samotnej koncentrácie THC v zaistenom materiáli má nanajvýš význam z hľadiska § 130 ods. 5 Trestného zákona, nakoľko ak zaistená droga nemá požadovanú kvalitu (množstvo účinnej látky) nepôjde o látku schopnú nepriaznivo ovplyvniť psychiku človeka a nepôjde tak o návykovú látku v zmysle tohto ustanovenia."
+- *NS SR* sp. zn. 4Tdo/26/2019, 2019-06-26
+  > „V tejto súvislosti dovolací súd konštatuje, že zistenie samotnej koncentrácie THC v zaistenom materiáli má nanajvýš význam z hľadiska § 130 ods. 5 Trestného zákona, nakoľko ak zaistená droga nemá požadovanú kvalitu (množstvo účinnej látky) nepôjde o látku schopnú nepriaznivo ovplyvniť psychiku človeka a nepôjde tak o návykovú látku v zmysle tohto ustanovenia."
+- *NS SR* ECLI ECLI:SK:NSSR:2019:4315010228.1, 2019-04-24
+  > „Podľa § 130 ods. 3 Trestného zákona zverenou vecou sa na účely tohto zákona rozumie vec vo vlastníctve inej osoby, ktorú má páchateľ na základe zmluvy v oprávnenom užívaní alebo z dôvodov plnenia určitých úloh podľa dispozície jej vlastníka v držbe so záväzkom použiť ju len na dohodnutý účel alebo za dohodnutých podmienok ju vlastníkovi vrátiť."
+
 ### § 131 — Vec všeobecného záujmu, úplatok a súvisiace pojmy
 
 > **§ 131**
@@ -342,6 +441,17 @@ Odsek 1 definuje vec všeobecného záujmu ako záujem presahujúci individuáln
 Odseky 3 a 4 sú kľúčové pre celú skupinu korupčných trestných činov. Úplatok (odsek 3) je definovaný veľmi široko ako akákoľvek vec alebo iné plnenie majetkovej či nemajetkovej povahy, na ktoré neexistuje právny nárok — nemusí teda ísť len o peniaze, ale napríklad aj o službu, protislužbu alebo výhodu nehmotnej povahy. Nenáležitá výhoda (odsek 4) je užší, novší pojem zavedený osobitne pre postih menej závažných foriem ovplyvňovania verejných činiteľov — vyžaduje sa buď majetkové plnenie spôsobilé ovplyvniť verejného činiteľa v hodnote nad 200 eur, alebo neoceniteľné zvýhodnenie jeho alebo jemu blízkej osoby; zákon zároveň vyníma z tohto pojmu plnenia obvyklé vzhľadom na postavenie alebo funkciu verejného činiteľa alebo zapísané vo zverejnenom Registri darov, čím chráni legitímne formy pohostinnosti a darov od kriminalizácie.
 
 Odsek 5 definuje verejnú listinu (písomnosť vydaná orgánom verejnej moci, ktorá zakladá, mení či ruší práva a povinnosti alebo osvedčuje ich vznik, zmenu či zánik, totožnosť, stav, vlastnosti alebo spôsobilosť osoby či veci) — kľúčový pojem pre trestné činy falšovania verejných listín. Odsek 6 definuje platobný prostriedok mimoriadne technologicky neutrálne (nehmotné aj hmotné chránené zariadenie, predmet, záznam alebo ich kombinácia vrátane platobnej karty), ktorý umožňuje prevod peňazí, elektronických peňazí alebo kryptoaktív — táto definícia výslovne zahŕňa aj kryptoaktíva, čo reflektuje potrebu postihu modernej platobnej a kybernetickej kriminality.
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2021:9519100161.3, 2021-03-03
+  > „Podľa § 131 ods. 1 Trestného zákona, vecou všeobecného záujmu sa na účely tohto zákona rozumie záujem presahujúci rámec individuálnych práv a záujmov jednotlivca, ktorý je dôležitý z hľadiska záujmov spoločnosti."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:9514100084.4, 2020-07-22
+  > „Dovolací súd preto vo výrokovej časti svojho rozhodnutia okrem iného konštatoval porušenie ustanovenia § 131 ods. 1 Tr. zák. (definujúceho vec všeobecného záujmu pre účely Trestného zákona) v prospech obvineného."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:9519100005.1, 2020-05-20
+  > „Podľa § 131 ods. 3 Trestného zákona sa úplatkom na účely tohto zákona rozumie vec, alebo iné plnenie majetkovej alebo nemajetkovej povahy, na ktoré nie je právny nárok."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:9519100043.1, 2020-01-22
+  > „H., čo podčiarkuje vyššie uvedenú argumentáciu prokurátora vo vzťahu k naplneniu pojmu podľa § 131 ods. 1 Trestného zákona, nakoľko práve poľnohospodárska pôda slúži napríklad k produkcii potravín, krmív a i."
 
 ### § 132 — Prostitúcia, pornografia a detské pornografické predstavenie
 
@@ -543,6 +653,13 @@ Ide o všeobecné pravidlo počítania lehôt určených na dni, ktoré sa uplat
 
 Ustanovenie definuje pojem svojvoľného vzdialenia relevantný pre vojenské trestné činy (jedenásta hlava osobitnej časti). Odsek 1 vymenúva štyri skutkové varianty svojvoľného vzdialenia — neoprávnené opustenie útvaru, neprihlásenie sa po návrate či uplynutí odôvodnenej neprítomnosti, nepripojenie sa k útvaru po odlúčení počas bojových akcií a neprihlásenie sa po návrate z nepriateľského zajatia. Odsek 2 zavádza kvalifikovanú formu — sústavné svojvoľné vzďaľovanie sa (najmenej tri krátkodobé, aj menej ako 48-hodinové vzdialenia v období nepresahujúcom tri mesiace medzi prvým a tretím z nich), ktorá sa posudzuje prísnejšie než jednotlivé izolované vzdialenie. Odsek 3 obmedzuje pôsobnosť celého ustanovenia len na osoby vykonávajúce povinnú vojenskú službu — nevzťahuje sa teda na profesionálnych vojakov v bežnom výkone služby, u ktorých sa prípadná neprítomnosť posudzuje podľa iných ustanovení.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2017:1014201930.1, 2017-04-19
+  > „Týmto svojím konaním bol žalobca dôvodne podozrivý zo spáchania prečinu ohrozenia pod vplyvom návykovej látky podľa § 289 ods. 2 Trestného zákona a z porušenia ustanovenia § 3 ods. 2 písm. b) s poukazom na § 137 ods. 2 písm. g) zákona č. 8/2009 o cestnej premávke a o zmene a doplnení niektorých zákonov (ďalej len „zákon č. 8/2009 Z.z.“)."
+- *NS SR* sp. zn. 10Sžo/25/2016, 2017-04-19
+  > „Týmto svojím konaním bol ţalobca dôvodne podozrivý zo spáchania prečinu ohrozenia pod vplyvom návykovej látky podľa § 289 ods. 2 Trestného zákona a z porušenia ustanovenia § 3 ods. 2 písm. b) s poukazom na § 137 ods. 2 písm. g) zákona č. 8/2009 o cestnej premávke a o zmene a doplnení niektorých zákonov (ďalej len „zákon č. 8/2009 Z.z.“)."
+
 ### § 137a — Finančné záujmy Európskej únie
 
 > **§ 137a**
@@ -625,6 +742,17 @@ Odsek 3 obsahuje mimoriadne podrobný, no demonštratívny (nie taxatívny, ako 
 
 Ustanovenie definuje súhrnný kvalifikačný pojem „závažnejší spôsob konania", ktorý sa ako znak kvalifikovaných skutkových podstát opakovane vyskytuje naprieč celou osobitnou časťou zákona. Desať vymenovaných okolností (písm. a až j) čerpá čiastočne z pojmov už definovaných v § 122 (zbraň, vlámanie, ľsť, násilie), čiastočne zavádza nové kvalifikačné kritériá — páchanie po dlhší čas, surový alebo trýznivý spôsob, hrozba bezprostredného násilia alebo inej ťažkej ujmy, využitie tiesne, neskúsenosti, odkázanosti alebo podriadenosti obete, porušenie dôležitej pracovnej či zákonnej povinnosti, páchanie organizovanou skupinou (definovanou v § 129 ods. 2) a páchanie na viacerých osobách (najmenej troch podľa § 127 ods. 12). Písmeno a) obsahuje dôležitú výnimku — pri najzávažnejších trestných činoch proti životu a zdraviu (úkladná vražda, vražda, zabitie, usmrtenie a vybrané formy ublíženia na zdraví) sa spáchanie so zbraňou nepovažuje za závažnejší spôsob konania v zmysle tohto ustanovenia, pretože použitie zbrane je pri týchto deliktoch už zohľadnené inak (napríklad priamo v základnej alebo inej kvalifikovanej skutkovej podstate). Súhrnný pojem „závažnejší spôsob konania" tak zjednodušuje legislatívnu techniku osobitnej časti — namiesto opakovaného vymenúvania desiatich okolností pri každej jednotlivej skutkovej podstate stačí jediný odkaz na tento pojem.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2020:4113011413.1, 2020-01-22
+  > „Pokiaľ ide o súdmi nižšieho stupňa použitú právnu kvalifikáciu na nimi ustálený skutkový stav (tento je pre dovolací súd záväzný), tak tu nemožno vytknúť žiadny nedostatok, ktorého sa konajúce súdy mali dopustiť podľa názoru dovolateľa s odôvodnením, že nebol naplnený kvalifikačný pojem závažnejšieho spôsobu konania - páchanie trestného činu organizovanou skupinou podľa § 138 písm. i) Trestného zákona."
+- *NS SR* ECLI ECLI:SK:NSSR:2021:6716010381.1, 2021-05-12
+  > „Pokiaľ ide o osobitný kvalifikačný pojem podľa § 138 písm. j) Trestného zákona, týmto sa bude najvyšší súd zaoberať pod dovolacím dôvodom podľa § 371 ods. 1 písm. i) Trestného poriadku v časti správnej kvalifikácie trestných činov kladených obvinenému za vinu."
+- *NS SR* ECLI ECLI:SK:NSSR:2021:7715010417.1, 2021-04-28
+  > „Z uvedeného je zrejmé, že vymedzenie času skutku v skutkovej vete výrokovej časti rozsudku súdu prvého stupňa zodpovedá kvalifikačnému znaku „po dlhší čas,“ a preto musel dovolací súd konštatovať, že konanie dovolateľa bolo s poukazom na § 138 písm. b) Trestného zákona správne právne posúdené podľa § 208 ods. 1 písm. a), ods. 2 písm. d) Trestného zákona."
+- *NS SR* ECLI ECLI:SK:NSSR:2021:1218010214.1, 2021-03-23
+  > „uznaný za vinného z obzvlášť závažného zločinu nedovolenej výroby omamných a psychotropných látok, jedov alebo prekurzorov, ich držania a obchodovania s nimi podľa § 172 ods. 1 písm. c), ods. 2 písm. c) Trestného zákona, s poukazom na § 138 písm. j) Trestného zákona, na tom skutkovom základe, že si od presne nezisteného času roku 2013 až do dňa 7. marca 2016 v rôznych časových intervaloch od doposiaľ neustálenej osoby neoprávnene zadovažoval omamné látky, heroín, pričom zadovážený heroín v mieste jeho trvalého bydliska na Ž."
+
 ### § 139 — Chránená osoba
 
 > **§ 139**
@@ -659,6 +787,17 @@ Podobne ako § 138 zavádza súhrnný pojem pre kvalifikačné okolnosti na stra
 
 Odsek 2 obsahuje dôležitý materiálny korektív — postavenie chránenej osoby sa ako kvalifikačná okolnosť uplatní len vtedy, ak trestný čin skutočne súvisel s postavením, stavom alebo vekom takej osoby (teda páchateľ o tomto postavení vedel a bolo relevantné pre spáchanie činu alebo jeho okolnosti), nie automaticky pri akomkoľvek útoku na osobu, ktorá formálne do niektorej z kategórií spadá.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2021:4620010086.1, 2021-04-28
+  > „Najvyšší súd však dodáva, že konaním obvineného, popísaným v skutkovej vete, boli naplnené všetky zákonom vyžadované znaky skutkovej podstaty zločinu vydierania podľa § 189 ods. 1, ods. 2 písm. b) Trestného zákona s použitím § 139 ods. 1 písm. c), písm. e) Trestného zákona."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:8717010305.1, 2020-09-02
+  > „Oboznámením sa s obsahom predloženého spisu dovolací súd zistil nasledovné skutočnosti: V poradí druhým (ostatným) rozhodnutím bol odvolacím súdom zrušený prvostupňový odsudzujúci rozsudok vo výroku o vine v bode 2/, vo výroku o treste a vo výroku o ochrannom opatrení, v rámci ktorého bol obvinený uznaný vinným zo zločinu sexuálneho násilia podľa § 200 ods. 1, ods. 2 písm. b) Trestného zákona s poukazom na § 139 ods. 1 Trestného zákon."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:8315010289.1, 2020-08-25
+  > „Preto je potrebné skonštatovať, že najvyšší súd už raz právoplatne rozhodol, že aj skutok uvedený pod bodom 1) rozsudku súdu prvého stupňa je správne právne kvalifikovaný ako zločin lúpeže podľa § 188 ods. 1, ods. 2 písm. d) Trestného zákona spáchaný na chránenej osobe, a to osobe vyššieho veku [§ 139 ods. 1 písm. e) Trestného zákona], preto nie je možné, aby v tomto neskoršom konaní, na podklade neskôr podaného dovolania, z už vyššie uvedených dôvodov, dospel vo vzťahu k tejto námietke k odlišným záverom."
+- *NS SR* ECLI ECLI:SK:NSSR:2019:8213010339.1, 2019-12-03
+  > „Najvyšší súd v prvom rade považuje za potrebné zdôrazniť, že odvolací súd skutok 1), na rozdiel od právnej kvalifikácie vyslovenej v prvostupňovom rozsudku zmenil tak, že čin posúdený ako znásilnenie podľa § 199 ods. 1 Trestného zákona, nebol spáchaný na chránenej osobe v zmysle § 139 ods. 1 písm. f) Trestného zákona."
+
 ### § 140 — Osobitný motív
 
 > **§ 140**
@@ -680,6 +819,17 @@ Odsek 2 obsahuje dôležitý materiálny korektív — postavenie chránenej oso
 **Výklad:**
 
 Ustanovenie zjednocuje šesť motívov spáchania trestného činu, ktoré sa v osobitnej časti opakovane objavujú ako kvalifikačné (priťažujúce) znaky. Popri klasických motívoch (objednávka, pomsta, zakrytie alebo uľahčenie iného trestného činu, sexuálny motív) obsahuje ustanovenie aj dva motívy so zvláštnym významom pre ďalšie ustanovenia tejto hlavy — úmysel spáchať trestný čin terorizmu (písm. d), ktorý sa priamo prepája s § 140b (trestné činy terorizmu), a nenávistný motív (písm. e), ktorý sa priamo prepája s § 140a (trestné činy extrémizmu). Nenávistný motív podľa písm. e) je vymedzený širokým okruhom chránených znakov (rasa, národ, národnosť, etnická skupina, pôvod, farba pleti, pohlavie, sexuálna orientácia, politické presvedčenie, náboženské vyznanie) a postačuje aj domnelá (nie nevyhnutne skutočná) príslušnosť obete k niektorému z týchto znakov — trestnosť teda nezávisí od toho, či sa páchateľ v skutočnosti mýlil.
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2021:1116896200.1, 2021-05-18
+  > „(ďalej tiež „obvinený" alebo „dovolateľ") uznaný za vinného z obzvlášť závažného zločinu vraždy podľa § 145 ods. 1, ods. 2 písm. d) Trestného zákona v spojení s § 140 písm. b) Trestného zákona, ktorého sa dopustil na tom skutkovom základe, že: - dňa 15.11.2014 v čase okolo 23:45 hod."
+- *NS SR* ECLI ECLI:SK:NSSR:2021:7918010542.1, 2021-03-03
+  > „(ďalej tiež „obvinený" alebo „dovolateľ") uznaný vinným zo zločinu ublíženia na zdraví podľa § 155 ods. 1, ods. 2 písm. c) Trestného zákona s poukazom na § 140 písm. b) Trestného zákona na tom skutkovom základe, že: - dňa 23.05.2018 v čase okolo 20.15 hod."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:9519100067.2, 2020-02-26
+  > „Pokiaľ konanie páchateľa (konajúceho na objednávku) dospeje aspoň do štádia pokusu na trestnom čine, konanie objednávateľa je postihnuteľné ako účastníctvo podľa § 21 ods. 1 písm. c) Trestného zákona, pričom na jeho trestnú zodpovednosť sa použijú ustanovenia o trestnej zodpovednosti páchateľa, samozrejme s výnimkou okolnosti podmieňujúcej použitie prísnejšej trestnej sadzby v podobe osobitného motívu podľa § 140 písm. a) Trestného zákona, ktorý ako už bolo naznačené možno aplikovať len v prípade tej osoby, ktorá koná na základe objednávky."
+- *NS SR* ECLI ECLI:SK:NSSR:2018:9017200206.1, 2018-06-05
+  > „Q., uznaný za vinného z pokusu obzvlášť závažného zločinu vraždy podľa § 21 ods. 1 českého Trestného zákona, § 140 ods. 1 českého Trestného zákona, za čo mu bol okrem iného uložený nepodmienečný trest odňatia slobody vo výmere 8 (osem) rokov, na výkon ktorého bol zaradený do väznice so zvýšenou ochranou, sa na území Slovenskej republiky vo vzťahu k osobe odsúdeného X."
 
 ### § 140a — Trestné činy extrémizmu
 
@@ -715,6 +865,17 @@ Analogicky k § 140a vymenúva toto ustanovenie taxatívny okruh trestných čin
 
 Ide o krátky, no dôležitý súhrnný pojem, ktorý zjednocuje dve najzávažnejšie formy organizovanej trestnej činnosti definované v § 129 ods. 4 a 5 — zločineckú skupinu a teroristickú skupinu — pod jediný spoločný pojem nebezpečného zoskupenia. Tento pojem sa používa v ďalších ustanoveniach zákona, ktoré viažu osobitné právne dôsledky (napríklad prísnejšie ukladanie trestov alebo osobitné procesné inštitúty) práve na páchateľov konajúcich v rámci ktoréhokoľvek z týchto dvoch typov zoskupení, bez potreby ich v každom jednotlivom ustanovení znovu oddelene vymenúvať.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2019:9518100008.4, 2019-11-12
+  > „z obzvlášť závažného zločinu úkladnej vraždy podľa § 144 ods. 1, ods. 3 písm. b) Trestného zákona s poukazom na § 141 písm. a) Trestného zákona, na tom skutkovom základe, že členovia zločineckej skupiny K."
+- *NS SR* ECLI ECLI:SK:NSSR:2019:9518100008.5, 2019-10-08
+  > „z obzvlášť závažného zločinu úkladnej vraždy podľa § 144 ods. 1, ods. 3 písm. b) Trestného zákona s poukazom na § 141 písm. a) Trestného zákona, na tom skutkovom základe, že C."
+- *NS SR* ECLI ECLI:SK:NSSR:2018:9516100121.2, 2018-09-05
+  > „z obzvlášť závažného zločinu krádeže podľa § 212 ods. 1, ods. 5 písm. a), písm. b) Trestného zákona s poukazom na § 141 písm. a) Trestného zákona obžalovaný C."
+- *NS SR* ECLI ECLI:SK:NSSR:2017:9515100093.1, 2017-05-31
+  > „E., a v bode 15) z obzvlášť závažného zločinu podielnictva podľa § 231 ods. 1 písm. a/, ods. 4 písm. b/ Trestného zákona s poukazom na § 141 písm. a/ Trestného zákona, na tom skutkovom základe, že obžalovaný P."
+
 ### § 142 — Ťažká ujma na zdraví alebo smrť
 
 > **§ 142**
@@ -727,6 +888,17 @@ Ide o krátky, no dôležitý súhrnný pojem, ktorý zjednocuje dve najzávažn
 
 Odsek 1 nadväzuje na definíciu ťažkej ujmy na zdraví z § 123 ods. 3 a explicitne ju preberá aj pre účely tohto ustanovenia — ide o legislatívno-technické prepojenie, ktoré zabezpečuje jednotný výklad tohto pojmu naprieč celým zákonom vrátane kvalifikovaných skutkových podstát, kde sa spôsobenie ťažkej ujmy na zdraví objavuje ako priťažujúca okolnosť. Odsek 2 definuje smrť ako biologickú smrť mozgu (cerebrálnu smrť) — táto definícia je v súlade so súčasným medicínskym chápaním okamihu smrti človeka a je rozhodujúca pre určenie, od ktorého momentu možno hovoriť o dokonanom trestnom čine usmrtenia (na rozdiel napríklad od zastavenia srdcovej činnosti, ktoré samo osebe nemusí znamenať cerebrálnu smrť).
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2021:4021200018.1, 2021-05-12
+  > „pre zločin lúpeže podľa § 142 ods. 1 Trestného zákona Rakúskej republiky, v bode IV."
+- *NS SR* ECLI ECLI:SK:NSSR:2018:6017897516.1, 2018-08-01
+  > „Pri právnej kvalifikácii podľa uznaného rozhodnutia (trestný čin lúpeže podľa § 142 ods. 1 rakúskeho Trestného zákona) ide o úmyselný trestný čin s hornou hranicou trestnej sadzby prevyšujúcou päť rokov (trestná sadzba 1 až 10 rokov)."
+- *NS SR* sp. zn. 2 Tost 23/2013, 2013-07-16
+  > „P., F., na ktorého prokuratúra vo Viedni (Rakúska republika) vydala dňa 28. mája 2013, pod č. 37 St 82/13s európsky zatýkací rozkaz za účelom jeho vydania do Rakúskej republiky na trestné stíhanie pre trestný čin ťaţkej lúpeţe podľa § 142 ods. 1, § 143 druhá veta Trestného zákona Rakúskej republiky."
+- *NS SR* sp. zn. 3 Tost 22/2012, 2012-06-20
+  > „apríla 2012 pod číslom konania 55 ST 264/09G, za účelom trestného stíhania pre trestný čin ozbrojenej lúpeže, formou spolupáchateľstva podľa § 142, § 143 rakúskeho Trestného zákona s tým, že väzba jej začala plynúť dňom 2. júna 2012 o 1.00 hod."
+
 ### § 143 — Smrť viacerých osôb
 
 > **§ 143**
@@ -736,3 +908,15 @@ Odsek 1 nadväzuje na definíciu ťažkej ujmy na zdraví z § 123 ods. 3 a expl
 **Výklad:**
 
 Záverečné ustanovenie hlavy stanovuje číselnú hranicu pre kvalifikačný pojem smrti viacerých osôb — najmenej tri osoby, čo je konzistentné s definíciou „viacerých osôb" v § 127 ods. 12. Tento pojem sa uplatňuje ako najprísnejšia kvalifikačná okolnosť pri trestných činoch proti životu (napríklad pri vražde alebo všeobecnom ohrození), kde spôsobenie smrti trom a viacerým osobám zakladá najvyššiu trestnú sadzbu v rámci danej skutkovej podstaty, typicky až doživotné odňatie slobody.
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* sp. zn. 2 Tost 23/2013, 2013-07-16
+  > „P., F., na ktorého prokuratúra vo Viedni (Rakúska republika) vydala dňa 28. mája 2013, pod č. 37 St 82/13s európsky zatýkací rozkaz za účelom jeho vydania do Rakúskej republiky na trestné stíhanie pre trestný čin ťaţkej lúpeţe podľa § 142 ods. 1, § 143 druhá veta Trestného zákona Rakúskej republiky."
+- *NS SR* sp. zn. 3 Tost 22/2012, 2012-06-20
+  > „apríla 2012 pod číslom konania 55 ST 264/09G, za účelom trestného stíhania pre trestný čin ozbrojenej lúpeže, formou spolupáchateľstva podľa § 142, § 143 rakúskeho Trestného zákona s tým, že väzba jej začala plynúť dňom 2. júna 2012 o 1.00 hod."
+- *NS SR* sp. zn. 1 Tost 2/2009, 2009-02-11
+  > „so zbraňou prepadol filiálku spoločnosti B., pričom sa zmocnil približne 157 800 eur, 1 Tost 2/2009 2 a pre ďalší trestný čin ozbrojenej lúpeže ozbrojenej lúpeže podľa § 142 ods. 1, § 143 Trestného zákona Rakúskej republiky, ktorého sa dopustil tak, že dňa 15. júla 2008 vo V."
+- *NS SR* ECLI ECLI:SK:NSSR:2018:6016897574.1, 2018-01-30
+  > „č. vo výkone trestu odňatia slobody v Rakúsku, uznaný vinným zo zločinu ťažkej lúpeže v štádiu pokusu podľa § 15, § 142 ods. 1, § 143 ods. 2, 1. prípad rakúskeho Trestného zákona, ktorého sa dopustil na tom skutkovom základe, že F."
+

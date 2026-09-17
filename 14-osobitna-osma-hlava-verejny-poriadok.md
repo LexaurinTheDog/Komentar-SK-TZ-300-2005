@@ -28,6 +28,17 @@ Skutková podstata chráni riadny, nerušený výkon právomoci **orgánu verejn
 
 Základná sadzba (odsek 1) je jeden rok až päť rokov. Kvalifikované skutkové podstaty postupne pridávajú prísnejšie okolnosti: závažnejší spôsob konania (odsek 2), spôsobenie ťažkej ujmy na zdraví alebo smrti (odsek 3) a napokon v odseku 4 najprísnejšia kvalifikácia — ťažká ujma na zdraví viacerých osôb alebo smrť viacerých osôb (písm. a), alebo spôsobenie škody veľkého rozsahu či iného obzvlášť závažného následku (písm. b), s trestnou sadzbou dvanásť až dvadsať rokov. Konštrukcia zodpovedá typickému stupňovaniu následku podľa miery jeho závažnosti, aké sa uplatňuje aj pri iných násilných trestných činoch tohto zákona.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2018:9517100215.1, 2018-09-05
+  > „Súd prvého stupňa sa s týmito skutočnosťami nevysporiadal a v dôsledku toho došlo k nesprávnej aplikácii ustanovení Trestného zákona." Na záver navrhol, aby Najvyšší súd Slovenskej republiky podľa § 321 ods. 1 písm. b) a písm. d) Trestného poriadku zrušil napadnutý rozsudok Špecializovaného trestného súdu Pezinok a podľa § 322 ods. 3 Trestného poriadku sám vo veci rozhodol."
+- *NS SR* ECLI ECLI:SK:NSSR:2019:6717010145.1, 2019-11-05
+  > „podľa § 321 ods. 1 písm. e), ods. 2 Trestného zákona zrušil rozsudok Okresného súdu Zvolen z 23. júna 2017, sp. zn. 3T 26/2017, vo výroku o treste."
+- *NS SR* ECLI ECLI:SK:NSSR:2019:9511100082.1, 2019-02-20
+  > „sa k podanému odvolaniu prokurátora písomne vyjadril podaním z 25. mája 2018, v ktorom uviedol, že po formálnej stránke odvolanie nespĺňa zákonom predpísané náležitosti, keď z obsahu odvolania nevyplýva, aké chyby výrokov, prípadne nejasnosť, či neúplnosť skutkových zistení, resp. aké porušenie ustanovenia Trestného zákona podľa § 321 ods. 1 písm. b), d) Tr. por. majú viesť k zrušeniu napadnutého rozsudku."
+- *NS SR* sp. zn. 6To/8/2018, 2019-02-20
+  > „sa k podanému odvolaniu prokurátora písomne vyjadril podaním z 25. mája 2018, v ktorom uviedol, že po formálnej stránke odvolanie nespĺňa zákonom predpísané náležitosti, keď z obsahu odvolania nevyplýva, aké chyby výrokov, prípadne nejasnosť, či neúplnosť skutkových zistení, resp. aké porušenie ustanovenia Trestného zákona podľa § 321 ods. 1 písm. b), d) Tr. por. majú viesť k zrušeniu napadnutého rozsudku."
+
 ### § 322 — Vyhrážka útokom na orgán verejnej moci
 
 > **§ 322**
@@ -47,6 +58,17 @@ Základná sadzba (odsek 1) je jeden rok až päť rokov. Kvalifikované skutkov
 Ide o vyhrážkovú (verbálnu, resp. výhražnú) variantu predchádzajúceho § 321 — namiesto skutočného použitia násilia postačuje **vyhrážka usmrtením, ublížením na zdraví alebo spôsobením malej škody**. Zákon rozlišuje dva alternatívne motívy: vyhrážku motivovanú úmyslom ovplyvniť budúci výkon právomoci orgánu verejnej moci (písm. a), alebo naopak vyhrážku ako odplatu za už uskutočnený výkon právomoci (písm. b, "pre výkon právomoci").
 
 Základná trestná sadzba je citeľne nižšia než pri § 321 (odňatie slobody len do dvoch rokov oproti jednému až piatim rokom), čo odráža nižšiu spoločenskú škodlivosť samotnej vyhrážky v porovnaní so skutočným násilným útokom. Kvalifikovaná skutková podstata (odsek 2) postihuje spáchanie činu závažnejším spôsobom konania zvýšenou sadzbou jeden až päť rokov, ktorá sa už vyrovnáva základnej sadzbe § 321.
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2019:8016200834.1, 2019-06-11
+  > „38. Ďalej kasačný súd konštatuje, že sa nemohol stotožniť ani so záverom krajského súdu, že bolo povinnosťou správnych orgánov prihliadnuť na zásadu zákazu reformatio in peius v zmysle § 322 Trestného zákona a zásadu beneficium cohaesionis podľa § 324 Trestného zákona."
+- *NS SR* sp. zn. 6Tdo/11/2017, 2017-08-23
+  > „Podľa § 321 ods.1 písm. d/ Tr. por., odvolací súd zruší napadnutý rozsudok, aj ak bolo napadnutým rozsudkom porušené ustanovenie Trestného zákona.Podľa § 322 ods. 3 Tr. por., odvolací súd rozhodne sám rozsudkom vo veci, ak možno nové rozhodnutie urobiť na podklade skutkového stavu, ktorý bol v napadnutom rozsudku správne zistený alebo doplnený dôkazmi vykonanými pred odvolacím súdom."
+- *NS SR* ECLI ECLI:SK:NSSR:2016:5812010329.1, 2016-10-26
+  > „S ohľadnom na uvedené dovolací súd zistil, že zákon v neprospech obvineného bol porušený a to v ustanovení § 42 ods. 1, ods. 2 Trestného zákona a § 322 ods. 3 Trestného poriadku."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:1217010299.1, 2020-08-25
+  > „Na základe § 322 ods. 3 Trestného poriadku obvinenému uložil podľa § 208 ods. 3 Trestného zákona, s použitím § 38 ods. 2 Trestného zákona trest odňatia slobody vo výmere 8 (osem) rokov."
 
 ### § 323 — Útok na verejného činiteľa
 
@@ -90,6 +112,17 @@ Kvalifikované skutkové podstaty sú výrazne rozvetvenejšie než pri § 321. 
 
 V porovnaní s § 321 tak zákon priznáva útoku na konkrétneho verejného činiteľa v jeho najzávažnejších formách vyššiu možnú trestnú sadzbu (až doživotie), čo možno vysvetliť tým, že takýto útok súčasne ohrozuje aj individuálne záujmy dotknutej osoby na živote a zdraví, nielen abstraktný záujem na riadnom výkone verejnej moci.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2019:3814010384.3, 2019-04-30
+  > „Vo vzťahu k právnej kvalifikácii skutku, táto napĺňa po subjektívnej aj objektívnej stránke skutkovú podstatu zločinu útoku na verejného činiteľa podľa § 323 ods. l písm. a), ods. 2 písm. a) Trestného zákona číslo 300/2005 Z. z. v znení zákona číslo 204/2013. Najvyšší súd sa stotožňuje s odôvodnením uvedeným v rozhodnutí prvostupňového súdu ohľadom právnej kvalifikácie konania obvinenej."
+- *NS SR* ECLI ECLI:SK:NSSR:2017:3714010234.1, 2017-05-17
+  > „V týchto súvislostiach dovolací súd uzatvára, že skutkové okolnosti, obsiahnuté v opise skutku rozsudku súdu prvého stupňa, poskytujú spoľahlivý podklad pre naplnenie všetkých zákonných znakov skutkovej podstaty prečinu útoku na verejného činiteľa podľa § 323 ods. 1 písm. a/ Trestného zákona, z ktorého bol obvinený Y."
+- *NS SR* sp. zn. 3Tdo/2/2017, 2017-05-17
+  > „V týchto súvislostiach dovolací súd uzatvára, že skutkové okolnosti, obsiahnuté v opise skutku rozsudku súdu prvého stupňa, poskytujú spoľahlivý podklad pre naplnenie všetkých zákonných znakov skutkovej podstaty prečinu útoku na verejného činiteľa podľa § 323 ods. 1 písm. a/ Trestného zákona, z ktorého bol obvinený L."
+- *NS SR* ECLI ECLI:SK:NSSR:2021:6413010192.1, 2021-04-20
+  > „pre prečin útoku na verejného činiteľa podľa § 323 ods. 1 písm. b), Trestného zákona, na neverejnom zasadnutí konanom 20. apríla 2021 v Bratislave, o dovolaní obvineného proti uzneseniu Krajského súdu v Banskej Bystrici z 18. októbra 2017, sp. zn. 3To/109/2017, takto rozhodol: Podľa § 382 písm. c) Trestného poriadku dovolanie obvineného Ing."
+
 ### § 324 — Vyhrážka útokom na verejného činiteľa
 
 > **§ 324**
@@ -109,6 +142,17 @@ V porovnaní s § 321 tak zákon priznáva útoku na konkrétneho verejného či
 Vyhrážková varianta § 323, konštruovaná analogicky k vzťahu § 322 voči § 321 — namiesto skutočného násilia postačuje vyhrážka usmrtením, ublížením na zdraví alebo spôsobením malej škody, opäť s dvoma alternatívnymi motívmi (v úmysle pôsobiť na výkon právomoci, alebo pre výkon právomoci ako odplata).
 
 Základná sadzba (do troch rokov) je vyššia než pri § 322 (do dvoch rokov), čo zodpovedá celkovo prísnejšiemu prístupu zákona k ochrane individuálneho verejného činiteľa oproti abstraktnému orgánu verejnej moci, ktorý je badateľný aj pri porovnaní § 321 a § 323. Kvalifikovaná skutková podstata (odsek 2) je zhodná s § 322 ods. 2 — pri závažnejšom spôsobe konania hrozí trest jeden až päť rokov.
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2019:2117012694.1, 2019-09-18
+  > „Na základe uvedeného navrhol, aby Najvyšší súd Slovenskej republiky ako dovolací súd na podklade dovolania podaného obvineným rozhodol tak, že - postupom podľa § 386 ods. 1 Trestného poriadku, zohľadniac existenciu dovolacieho dôvodu podľa § 371 ods. 1 písm. i) Trestného poriadku rozsudkom vysloví porušenie zákona v § 324 ods. 1 Trestného zákona a nasl."
+- *NS SR* sp. zn. 3Tdo/44/2019, 2019-09-18
+  > „Na základe uvedeného navrhol, aby Najvyšší súd Slovenskej republiky ako dovolací súd na podklade dovolania podaného obvineným rozhodol tak, že - postupom podľa § 386 ods. 1 Trestného poriadku, zohľadniac existenciu dovolacieho dôvodu podľa § 371 ods. 1 písm. i) Trestného poriadku rozsudkom vysloví porušenie zákona v § 324 ods. 1 Trestného zákona a nasl."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:7612010532.1, 2020-05-13
+  > „a spol., pre prečin útoku na verejného činiteľa podľa § 324 ods. 1 písm. a), ods. 2 Trestného zákona s poukazom na § 138 písm. a) Trestného zákona a iné, na verejnom zasadnutí konanom 13. mája 2020 v Bratislave, o dovolaní generálneho prokurátora Slovenskej republiky v neprospech obvineného P."
+- *NS SR* ECLI ECLI:SK:NSSR:2019:8016200834.1, 2019-06-11
+  > „38. Ďalej kasačný súd konštatuje, že sa nemohol stotožniť ani so záverom krajského súdu, že bolo povinnosťou správnych orgánov prihliadnuť na zásadu zákazu reformatio in peius v zmysle § 322 Trestného zákona a zásadu beneficium cohaesionis podľa § 324 Trestného zákona."
 
 ### § 325 — Rozšírenie ochrany na osobu, ktorá zasiahla na podporu verejného činiteľa
 
@@ -168,6 +212,17 @@ Ide o základnú skutkovú podstatu zneužitia úradnej moci, viazanú na **osob
 
 Kvalifikované skutkové podstaty stupňujú trest podľa okolností spáchania a následku. Odsek 2 (štyri až desať rokov) postihuje spáchanie závažnejším spôsobom konania, na chránenej osobe alebo z osobitného motívu. Odsek 3 (sedem až dvanásť rokov) viaže prísnejší trest na spôsobenie ťažkej ujmy na zdraví, smrti alebo značnej škody, ale osobitne aj na prípad, keď páchateľ zneužije svoju právomoc **preto, aby inému zmaril alebo sťažil uplatnenie jeho základných práv a slobôd** — táto alternatíva chráni ústavne zaručené práva jednotlivca pred zneužitím úradnej moci na ich potláčanie. Odsek 4 (desať až dvadsať rokov) predstavuje najprísnejšiu kvalifikáciu pri hromadnom následku (ťažká ujma alebo smrť viacerých osôb, škoda veľkého rozsahu) alebo pri spáchaní za krízovej situácie.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2020:5917010028.1, 2020-03-18
+  > „Pre dovolací súd je podstatnou výlučne tá skutočnosť, že vo veci tvoriacej predmet dovolacieho prieskumu použitú právnu kvalifikáciu odôvodňujú všetky skutkové okolnosti, ktoré sú v popise skutku zahrnuté a ktoré vyjadrujú naplnenie príslušných znakov skutkových podstát označených trestných činov a ktoré majú zároveň tomu zodpovedajúci odraz v právnej vete, čomu zodpovedá právny záver vyjadrený v posúdení skutku ako zločinu zneužívania právomoci verejného činiteľa podľa § 326 ods. 1 písm. b), ods. 2 písm. b) Trestného zákona s poukazom na § 138 písm. b) Trestného zákona."
+- *NS SR* ECLI ECLI:SK:NSSR:2015:9513100045.1, 2015-01-21
+  > „Výrok o vine rozsudku súdu prvého stupňa je zákonný a správny, obžalovaný konaním ustáleným v skutkovej vete rozsudku naplnil po subjektívnej i objektívnej stránke skutkovú podstatu žalovaného prečinu zneužívania právomoci verejného činiteľa podľa § 326 ods. 1 písm. a/, písm. c/ Trestného zákona, v jednočinnom súbehu so zločinom prijímania úplatku podľa § 329 ods. 1, ods. 2 Trestného zákona."
+- *NS SR* ECLI ECLI:SK:NSSR:2014:2510010497.1, 2014-02-05
+  > „K dôvodu podľa § 371 ods. 1 písm. i/ Trestného poriadku obvinený uviedol, že podľa jeho názoru skutok ustálený v trestnom konaní nie je správne právne kvalifikovaný, pretože nenapĺňa všetky zákonné znaky prečinu zneužívania právomoci verejného činiteľa podľa § 326 ods. 1 písm. a/ Trestného zákona."
+- *NS SR* sp. zn. 3 Tdo 4/2014, 2014-02-05
+  > „K dôvodu podľa § 371 ods. 1 písm. i/ Trestného poriadku obvinený uviedol, ţe podľa jeho názoru skutok ustálený v trestnom konaní nie je správne právne kvalifikovaný, pretoţe nenapĺňa všetky zákonné znaky prečinu zneuţívania právomoci verejného činiteľa podľa § 326 ods. 1 písm. a/ Trestného zákona."
+
 ### § 326a — Ohýbanie práva
 
 > **§ 326a**
@@ -186,6 +241,11 @@ Ide o osobitnú skutkovú podstatu chrániacu integritu **rozhodovacej (súdnej 
 
 Základná sadzba je jeden až päť rokov, kvalifikovaná skutková podstata (odsek 2, tri až osem rokov) sa uplatní pri spáchaní na chránenej osobe alebo z osobitného motívu. Na rozdiel od § 326 zákon pri tomto trestnom čine nerozlišuje ďalšie stupne podľa spôsobeného následku (ťažká ujma na zdraví, škoda a pod.) — skutková podstata je sústredená výlučne na samotné narušenie riadneho výkonu rozhodovacej právomoci.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* sp. zn. 6 Tost 26/2014, 2014-07-17
+  > „X., Slovakia, za účelom jeho vydania na trestné stíhanie pre trestný čin sprenevery podľa § 321, podvodu a podvodného konania podľa § 326, § 326a, konkurzného podvodu podľa § 340, § 341, § 343 holandského trestného zákona, za ktoré mu hrozí trest odňatia slobody až na 6 rokov a ktorých sa mal dopustiť na tom skutkovom základe, že dňa 28. júna 2011 spoločnosť O."
+
 ### § 327 — Marenie úlohy verejným činiteľom
 
 > **§ 327**
@@ -199,6 +259,17 @@ Základná sadzba je jeden až päť rokov, kvalifikovaná skutková podstata (o
 Ide o **nedbanlivostný** náprotivok úmyselného zneužitia právomoci podľa § 326. Postihuje sa verejný činiteľ, ktorý pri výkone svojej právomoci z nedbanlivosti zmarí alebo podstatne sťaží splnenie dôležitej úlohy — teda bez úmyselného zavinenia, ale s porušením povinnej opatrnosti, ktorá sa od neho pri výkone verejnej funkcie očakáva. Základná sadzba je citeľne nižšia než pri úmyselnom zneužití právomoci (odňatie slobody do dvoch rokov).
 
 Kvalifikovaná skutková podstata (odsek 2, jeden až päť rokov) sa viaže na spôsobenie značnej škody alebo iného obzvlášť závažného následku, čím sadzba dosahuje úroveň porovnateľnú so základnou sadzbou § 326.
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* sp. zn. 3 Tdo 40/2011, 2011-09-14
+  > „V posudzovanej veci bol skutkový stav zistený správne, ako to v rozsudku konštatuje aj krajský súd na strane 6, odsek druhý, avšak len v dôsledku hodnotenia dôkazov okresný súd vypustil zo skutku ustáleného v obžalobe časť, že si obvinený uvedené peniaze prisvojil a použil ich pre svoju potrebu, v dôsledku čoho na rozdiel od obžaloby konanie obvineného kvalifikoval len ako nedbanlivostný trestný čin podľa § 327 ods. 1, ods. 2 Trestného zákona."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:1215010465.3, 2020-03-31
+  > „Na základe uvedených skutočností obvinená navrhla, aby Najvyšší súd Slovenskej republiky rozsudkom rozhodol, že rozsudkom Krajského súdu v Bratislave zo 16. mája 2019, sp. zn. 2To/97/2018, a konaním, ktoré mu predchádzalo, z dôvodu podľa § 371 ods. 1 písm. c) Trestného poriadku bol porušený zákon v ustanoveniach § 327 ods. 2 Trestného poriadku a § 149 Trestného zákona v jej neprospech."
+- *NS SR* ECLI ECLI:SK:NSSR:2021:1515010608.1, 2021-04-13
+  > „Obvinený konal z nedbanlivosti a jeho konanie mohlo byť posudzované ako trestný čin marenia úlohy verejným činiteľom podľa § 327 Trestného zákona."
+- *NS SR* ECLI ECLI:SK:NSSR:2019:8714010538.1, 2019-02-27
+  > „pre prečin marenia úlohy verejným činiteľom podľa § 327 ods. 1, ods. 2 Trestného zákona, na neverejnom zasadnutí konanom 27. februára 2019 v Bratislave o dovolaní generálneho prokurátora Slovenskej republiky proti rozsudku Krajského súdu v Prešove z 20. júla 2017, sp. zn. 3To/1/2016, takto rozhodol: Podľa § 382 písm. c) Tr. por. dovolanie generálneho prokurátora Slovenskej republiky sa o d m i e t a ."
 
 ### § 327a — Nedbanlivostné porušenie povinnosti verejného činiteľa pri správe verejného majetku
 
@@ -240,6 +311,17 @@ Ide o základnú, najvšeobecnejšiu skutkovú podstatu **pasívneho úplatkárs
 
 Kvalifikované skutkové podstaty stupňujú sadzbu podľa spôsobu spáchania a rozsahu (miery) korupčného konania: závažnejší spôsob konania (odsek 2, dva až šesť rokov), značný rozsah (odsek 3, tri až osem rokov) a veľký rozsah (odsek 4, štyri až desať rokov).
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2020:9519100043.1, 2020-01-22
+  > „Na tomto mieste odkázal prokurátor na konkrétne rozhodnutia tak špecializovaného trestného súdu, ako aj Najvyššieho súdu Slovenskej republiky, pričom v konotáciach tam uvedených skutkových okolností boli konkrétne osoby odsúdené za trestný čin prijímania úplatku podľa § 328 Trestného zákona napriek tomu, že nešlo o páchateľa vykonávajúceho aktivitu vo verejnom sektore a už vôbec nie o verejného činiteľa."
+- *NS SR* ECLI ECLI:SK:NSSR:2018:9513100142.1, 2018-05-14
+  > „z pokračovacieho zločinu prijímania úplatku podľa § 328 ods. 1, ods. 2 Trestného zákona (ďalej len „Tr. zák.“) s poukazom na § 138 písm. b) Tr. zák., a to na tom skutkovom základe, že v období od 30. januára 2003 do 06. novembra 2007 ako štatutárny zástupca štátneho podniku A."
+- *NS SR* sp. zn. 1TdoV/6/2017, 2018-05-14
+  > „z pokračovacieho zločinu prijímania úplatku podľa § 328 ods. 1, ods. 2 Trestného zákona (ďalej len „Tr. zák.“) s poukazom na § 138 písm. b) Tr. zák., a to na tom skutkovom základe, že v období od 30. januára 2003 do 06. novembra 2007 ako štatutárny zástupca štátneho podniku A."
+- *NS SR* ECLI ECLI:SK:NSSR:2016:9513100195.2, 2016-11-15
+  > „Pri skúmaní vecnej a miestnej príslušnosti pôsobnosti Špecializovaného trestného súdu, s poukazom na ustanovenie § 14 písm. e/ Tr. por. (trestné činy prijímania úplatku podľa § 328 až 331 Trestného zákona) je zrejmé, že žalovaný trestný čin patrí do pôsobnosti Špecializovaného trestného súdu."
+
 ### § 329 — Prijímanie úplatku v súvislosti s obstarávaním veci všeobecného záujmu
 
 > **§ 329**
@@ -258,6 +340,17 @@ Táto skutková podstata sa od § 328 odlišuje predovšetkým väzbou úplatku 
 
 Zvláštnosťou je kvalifikovaná skutková podstata v odseku 2 (tri až osem rokov), ktorá zvyšuje trest, ak čin spácha **verejný činiteľ** — ide teda o statusovú, nie konaním či rozsahom podmienenú kvalifikáciu, ktorá pri § 328 chýba. Odseky 3 a 4 pokračujú v stupňovaní podľa rozsahu (značný a veľký rozsah), pričom odsek 4 sa výslovne vzťahuje aj na kvalifikovanú skutkovú podstatu podľa odseku 2.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2016:9513100142.1, 2016-01-19
+  > „majúci vplyv na pretrvávajúci nájomný vzťah so spoločnosťou METAL-ECO, ako aj tým podmienenú činnosť METAL-ECO na prenajatých pozemkoch, presne neustálené množstvo vína a iných alkoholických nápojov, ktoré spočiatku požadoval a neskôr preberal, čo bolo oboma stranami vnímané ako automatické t e d a v bode A - aa) až ak) - v súvislosti s obstarávaním veci všeobecného záujmu priamo pre seba žiadal a prijal úplatok, t ý m s p á c h a l v bode A - aa) až ak) - pokračovací zločin prijímania úplatku podľa § 329 ods. 1 Trestného zákona."
+- *NS SR* ECLI ECLI:SK:NSSR:2015:9514100130.1, 2015-12-02
+  > „podľa § 285 písm. a/ Trestného poriadku oslobodený spod obžaloby prokurátora z 12. septembra 2014, sp. zn. VII/2 Gv 102/14/1000-6, pre pokračovací zločin prijímania úplatku podľa § 329 ods. 1 Trestného zákona, ktorého sa mal dopustiť na tom skutkovom základe, že 1/ v presne nezistenej dobe v mesiaci január roku 2011, na presne neustálenom mieste na území Slovenskej republiky spolu s I."
+- *NS SR* sp. zn. 3 To 8/2015, 2015-12-02
+  > „podľa § 285 písm. a/ Trestného poriadku oslobodený spod obţaloby prokurátora z 12. septembra 2014, sp. zn. VII/2 Gv 102/14/1000-6, pre pokračovací zločin prijímania úplatku podľa § 329 ods. 1 Trestného zákona, ktorého sa mal dopustiť na tom skutkovom základe, ţe 1/ v presne nezistenej dobe v mesiaci január roku 2011, na presne neustálenom mieste na území Slovenskej republiky spolu s I."
+- *NS SR* ECLI ECLI:SK:NSSR:2015:9513100045.1, 2015-01-21
+  > „Výrok o vine rozsudku súdu prvého stupňa je zákonný a správny, obžalovaný konaním ustáleným v skutkovej vete rozsudku naplnil po subjektívnej i objektívnej stránke skutkovú podstatu žalovaného prečinu zneužívania právomoci verejného činiteľa podľa § 326 ods. 1 písm. a/, písm. c/ Trestného zákona, v jednočinnom súbehu so zločinom prijímania úplatku podľa § 329 ods. 1, ods. 2 Trestného zákona."
+
 ### § 330 — Prijímanie úplatku verejným činiteľom v súvislosti s finančnými záujmami Európskej únie
 
 > **§ 330**
@@ -275,6 +368,11 @@ Ide o najužšie vymedzenú, ale najprísnejšie trestanú skutkovú podstatu z 
 Kombinácia osobitného subjektu, špecifického úmyslu a väzby na finančné záujmy Únie sa odráža v najvyššej základnej sadzbe z celej trojice (tri až osem rokov, oproti jednému až piatim rokom pri § 329 a do štyroch rokov pri § 328). Kvalifikované skutkové podstaty ďalej stupňujú sadzbu podľa značného (odsek 2) a veľkého rozsahu (odsek 3).
 
 V súhrne tak § 328 až § 330 tvoria stupňovitú sústavu pasívnych úplatkárskych deliktov — od najvšeobecnejšej skutkovej podstaty viazanej na porušenie pracovnoprávnych a obdobných povinností (§ 328), cez skutkovú podstatu viazanú na obstarávanie veci všeobecného záujmu s fakultatívnou kvalifikáciou pre verejného činiteľa (§ 329), až po najužšiu a najprísnejšie trestanú skutkovú podstatu vyhradenú výlučne verejným a zahraničným verejným činiteľom v súvislosti s finančnými záujmami Európskej únie (§ 330).
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* sp. zn. 6 Tost 14/2011, 2011-06-01
+  > „M., a to za účelom jeho vydania na trestné stíhanie pre trestný čin: 2x závažný čin sprenevery, 5x falšovanie a pozmeňovanie dokumentov, 2x úverový podvod podľa § 318 ods. 6 písm. b/, § 330, § 276 Maďarského Trestného zákona, za ktoré mu hrozí trest odňatia slobody až na 8 rokov."
 
 ### Podplácanie
 
@@ -295,6 +393,17 @@ V súhrne tak § 328 až § 330 tvoria stupňovitú sústavu pasívnych úplatk�
 Ide o **aktívny** náprotivok § 328 — kým § 328 postihuje toho, kto úplatok prijíma, § 332 postihuje toho, kto ho sľubuje, ponúka alebo poskytuje. Korupčná výmena je vymedzená rovnako — úplatok (priamo dotknutej osobe, alebo z rovnakého dôvodu inej osobe) za to, že adresát poruší svoje povinnosti vyplývajúce zo zamestnania, povolania, postavenia alebo funkcie.
 
 Nápadným rysom je, že základná sadzba aktívneho podplácania (do jedného roka) je výrazne nižšia než pri pasívnom prijímaní úplatku podľa § 328 (do štyroch rokov) — zákon teda pri základnej skutkovej podstate prisudzuje vyššiu závažnosť tomu, kto sa nechá skorumpovať, než tomu, kto korupciu iniciuje. Kvalifikované skutkové podstaty (odseky 2 až 4) však sadzbu postupne stupňujú podľa závažnejšieho spôsobu konania, značného a veľkého rozsahu, až na dva až osem rokov pri najprísnejšej kvalifikácii.
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2021:9519100240.1, 2021-03-09
+  > „R.., pre prečin podplácania podľa § 332 ods. 1, ods. 2 Trestného zákona a iné, o odvolaní obžalovaného Z. R. proti rozsudku Špecializovaného trestného súdu, pracovisko Banská Bystrica zo 16. júla 2020, sp. zn. BB-4T/31/2019, v Bratislave 9. marca 2021, takto rozhodol: Podľa § 312 ods. 4 Trestného poriadku berie na vedomie vzatie odvolania späť obžalovaným Z. R., nar."
+- *NS SR* ECLI ECLI:SK:NSSR:2018:9517100125.1, 2018-04-12
+  > „pre prečin podplácania podľa § 332 ods. 1 Trestného zákona, na verejnom zasadnutí konanom 12. apríla 2018 v Bratislave o odvolaní prokurátorky Úradu špeciálnej prokuratúry Generálnej prokuratúry Slovenskej republiky proti rozsudku Špecializovaného trestného súdu, pracovisko Banská Bystrica z 23. novembra 2017, sp. zn. BB-4T/19/2017, takto rozhodol: Podľa § 319 Tr. por. odvolanie prokurátorky Úradu špeciálnej prokuratúry Generálnej prokuratúry Slovenskej republiky sa z a m i e t a."
+- *NS SR* sp. zn. 5To/1/2018, 2018-04-12
+  > „pre prečin podplácania podľa § 332 ods. 1 Trestného zákona, na verejnom zasadnutí konanom 12. apríla 2018 v Bratislave o odvolaní prokurátorky Úradu špeciálnej prokuratúry Generálnej prokuratúry Slovenskej republiky proti rozsudku Špecializovaného trestného súdu, pracovisko Banská Bystrica z 23. novembra 2017, sp. zn. BB-4T/19/2017, takto r o z h o d o l : Podľa § 319 Tr. por. odvolanie prokurátorky Úradu špeciálnej prokuratúry Generálnej prokuratúry Slovenskej republiky sa z a m i e t a."
+- *NS SR* ECLI ECLI:SK:NSSR:2016:9513100142.1, 2016-01-19
+  > „v bode 2 pokračovací prečin podplácania podľa § 332 ods. 1, ods. 2 Trestného zákona s poukazom na § 138 písm. b) Trestného zákona."
 
 ### § 333 — Podplácanie v súvislosti s obstarávaním veci všeobecného záujmu
 
@@ -317,6 +426,17 @@ Nápadným rysom je, že základná sadzba aktívneho podplácania (do jedného 
 Aktívny náprotivok § 329 — úplatok sa poskytuje, ponúka alebo sľubuje v súvislosti s obstarávaním veci všeobecného záujmu, bez väzby na porušenie konkrétnej pracovnoprávnej povinnosti adresáta. Rovnako ako pri vzťahu § 332 k § 328 je aj tu základná sadzba aktívneho podplácania (do dvoch rokov) nižšia než pri zodpovedajúcej pasívnej skutkovej podstate § 329 (jeden až päť rokov).
 
 Kvalifikovaná skutková podstata v odseku 2 (šesť mesiacov až tri roky) obsahuje dve samostatné alternatívy — závažnejší spôsob konania (písm. a), alebo spáchanie **voči verejnému činiteľovi** (písm. b). Táto druhá alternatíva zrkadlovo zodpovedá statusovej kvalifikácii v § 329 ods. 2, len z pohľadu podplácajúceho — zvýšená sadzba postihuje toho, kto úplatok ponúka práve verejnému činiteľovi. Odseky 3 a 4 ďalej stupňujú trest podľa značného a veľkého rozsahu.
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2020:9519100212.1, 2020-06-10
+  > „Najvyšší súd poznamenáva, že objektívnu stránku skutkovej podstaty prečinu podplácania podľa § 333 ods. 1 Trestného zákona tvorí konanie, v rámci ktorého páchateľ ponúkne úplatok za niečo čo súvisí s obstarávaním veci všeobecného záujmu."
+- *NS SR* ECLI ECLI:SK:NSSR:2021:9519100296.1, 2021-06-10
+  > „, pre prečin podplácania podľa § 333 ods. 1, ods. 2 písm. b) Trestného zákona, na verejnom zasadnutí konanom 10. júna 2021 v Bratislave prejednal odvolanie obžalovaného B."
+- *NS SR* ECLI ECLI:SK:NSSR:2021:9520100060.1, 2021-05-06
+  > „a spol., pre prečin podplácania podľa § 333 ods. 1 Trestného zákona, prerokoval na verejnom zasadnutí konanom 6. mája 2021 v Bratislave odvolania Úradu špeciálnej prokuratúry Generálnej prokuratúry Slovenskej republiky a obžalovaných U.."
+- *NS SR* ECLI ECLI:SK:NSSR:2021:9519100161.3, 2021-03-03
+  > „S. pre prečin podplácania podľa § 333 ods. 1 Trestného zákona prejednal odvolanie obžalovaného I."
 
 ### § 334 — Podplácanie v súvislosti s finančnými záujmami Európskej únie
 
@@ -368,6 +488,17 @@ Nepriama korupcia (tzv. obchodovanie s vplyvom) postihuje situáciu, keď úplat
 
 Na rozdiel od dvojíc § 328/§ 332, § 329/§ 333 a § 330/§ 334, ktoré rozdeľujú pasívnu a aktívnu formu do samostatných paragrafov, je nepriama korupcia upravená v jedinom ustanovení — odsek 1 postihuje pasívnu formu (prijatie, žiadanie alebo dohodu o úplatku sprostredkovateľom vplyvu), odsek 2 aktívnu formu (sľúbenie, ponúknutie alebo poskytnutie úplatku takémuto sprostredkovateľovi). Aj tu sa opakuje známy vzorec nižšej sadzby pre aktívnu formu — pasívna forma (odsek 1) je trestaná jedným až piatimi rokmi, aktívna forma (odsek 2) len do štyroch rokov.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2020:9519100043.1, 2020-01-22
+  > „V súhrne teda možno záverom k odvolaniu prokurátora uviesť, že z obsahu spisu a zo skutku ustáleného v obžalobnom návrhu rozhodne nemožno konštatovať bezpečný a nespochybniteľný záver, že obžalovaný v skutku popísaným konaním naplnil pojmové znaky žalovaného trestného činu nepriamej korupcie podľa § 336 ods.1 Trestného zákona."
+- *NS SR* sp. zn. 2 Tost 20/2015, 2015-06-23
+  > „je trestne stíhaná pre spolupáchateľstvo prečinu nepriamej korupcie podľa § 336 ods. 1 Trestného zákona, ktorého sa mala dopustiť na tom skutkovom základe, že v presne nezistenom období, od novembra 2014 do dňa 2. júna 2015, na doposiaľ presne neustálených miestach, prevažne v Košiciach a Bratislave, a na ďalšom doposiaľ nezistenom mieste vo Viedni, Spolková republika Rakúsko, po oslovení D."
+- *NS SR* ECLI ECLI:SK:NSSR:2021:9516100177.1, 2021-05-19
+  > „právoplatne uznaný za vinného z pokračovacieho prečinu nepriamej korupcie podľa § 336 Trestného zákona, na skutkovom základe, že (v dvoch skutkoch) v priebehu roku 2008 a začiatkom roku 2009 prijal úplatky vo výške 80 000 Sk (2 655,51 eur) a 2 670 eur za to, že bude vplývať na presne nestotožneného riadiaceho pracovníka Riaditeľstva hraničnej polície Sobrance, a tým v konečnom dôsledku zabezpečí prijatie vybraných uchádzačov do služobného pomeru príslušníka Policajného zboru na tamojšom Riaditeľstve hraničnej polície."
+- *NS SR* ECLI ECLI:SK:NSSR:2021:9513100040.1, 2021-04-14
+  > „pre účastníctvo vo forme pomoci k prečinu nepriamej korupcie podľa § 21 ods. 1 písm. d), § 336 ods. 1 Trestného zákona, o odvolaní obžalovaného O.."
+
 ### § 336a — Volebná korupcia
 
 > **§ 336a**
@@ -412,6 +543,17 @@ Volebná korupcia chráni slobodný výkon volebného práva a práva zúčastni
 
 Nápadnou osobitosťou tejto skutkovej podstaty je, že na rozdiel od dvojíc § 328/§ 332, § 329/§ 333 a § 330/§ 334 je tu **aktívna forma (odsek 1, do dvoch rokov) trestaná prísnejšie než pasívna forma (odsek 2, do jedného roka)**. Zákon tu teda pripisuje vyššiu mieru zavrhnutiahodnosti tomu, kto sa pokúša skorumpovať demokratický proces, než jednotlivému voličovi, ktorý na ponuku pristúpi. Kvalifikovaná skutková podstata (odsek 3, šesť mesiacov až päť rokov) sa vzťahuje na aktívnu formu podľa odseku 1 a postihuje závažnejší spôsob konania, spáchanie páchateľom v postavení verejného činiteľa, spáchanie na chránenej osobe, alebo spáchanie **verejne** — táto posledná okolnosť odráža zvýšenú spoločenskú škodlivosť otvoreného, verejne demonštrovaného ovplyvňovania volieb, ktoré podkopáva dôveru v demokratický proces ako celok.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2021:9519100061.1, 2021-02-23
+  > „pre prečin volebnej korupcie podľa § 336a ods. 1 písm. a), ods. 3 písm. a) Trestného zákona, na verejnom zasadnutí konanom 23. februára 2021 v Bratislave, o odvolaní prokurátora Úradu špeciálnej prokuratúry Generálnej prokuratúry Slovenskej republiky proti rozsudku Špecializovaného trestného súdu v Pezinku z 19. septembra 2019, sp. zn. PK-2T/7/2019, takto rozhodol: Podľa § 319 Trestného poriadku odvolanie prokurátora Úradu špeciálnej prokuratúry Generálnej prokuratúry Slovenskej republiky z a m i e t a ."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:9519100096.1, 2020-02-11
+  > „B., pre pokračovací prečin volebnej korupcie sčasti spáchaný formou spolupáchateľstva podľa § 20, § 336a ods. 2 písm. a) Trestného zákona, vedenej na Špecializovanom trestnom súde pod sp. zn. PK-2T/11/2109, o odvolaní obžalovaného B."
+- *NS SR* ECLI ECLI:SK:NSSR:2015:9514100114.1, 2015-04-15
+  > „pre prečin volebnej korupcie podľa § 336a ods. 2 písm. a/ Trestného zákona spolupáchateľstvom podľa § 20 Trestného zákona na verejnom zasadnutí konanom 15. apríla 2015 v Bratislave, prerokoval odvolanie prokurátora Úradu Špeciálnej prokuratúry Generálnej prokuratúry Slovenskej republiky a obžalovaných H."
+- *NS SR* sp. zn. 3 To 3/2015, 2015-04-15
+  > „pre prečin volebnej korupcie podľa § 336a ods. 2 písm. a/ Trestného zákona spolupáchateľstvom podľa § 20 Trestného zákona na verejnom zasadnutí konanom 15. apríla 2015 v Bratislave, prerokoval odvolanie prokurátora Úradu Špeciálnej prokuratúry Generálnej prokuratúry Slovenskej republiky a obžalovaných Š."
+
 ### § 336b — Športová korupcia
 
 > **§ 336b**
@@ -443,6 +585,11 @@ Nápadnou osobitosťou tejto skutkovej podstaty je, že na rozdiel od dvojíc §
 Športová korupcia (tzv. dohadovanie výsledkov, "match-fixing") chráni čestnosť priebehu a výsledku športovej súťaže. Na rozdiel od predchádzajúcich korupčných skutkových podstát tu zákon prisudzuje aktívnej forme (odsek 1 — sľúbenie, ponúknutie alebo poskytnutie úplatku, aby adresát ovplyvnil priebeh alebo výsledok súťaže) a pasívnej forme (odsek 2 — prijatie, žiadanie alebo dohoda o úplatku za rovnaký účel) **rovnakú trestnú sadzbu** ("rovnako ako v odseku 1" — do troch rokov), čím sa odlišuje od vzorca nižšej sadzby pre aktívnu formu, uplatňovaného pri § 328/§ 332 a obdobných dvojiciach.
 
 Kvalifikované skutkové podstaty (odseky 3 až 5) sa vzťahujú spoločne na obe formy (odsek 1 aj odsek 2). Osobitosťou odseku 3 písm. a je výslovná **recidívna kvalifikácia** — zvýšený trest jeden až päť rokov hrozí, ak bol páchateľ za taký alebo obdobný čin v predchádzajúcich dvadsiatich štyroch mesiacoch už odsúdený alebo postihnutý; ide o jediný korupčný delikt v tomto úseku zákona s takto výslovne formulovanou opakovanosťou ako kvalifikačným znakom. Odsek 4 (dva až sedem rokov) zvyšuje trest pri spáchaní osobou v osobitnom športovom postavení (rozhodca, delegát športového zväzu, funkcionár športovej organizácie), v súťaži organizovanej medzinárodnou športovou organizáciou, alebo v značnom rozsahu. Odsek 5 (tri až desať rokov) predstavuje najprísnejšiu kvalifikáciu pri veľkom rozsahu.
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2020:9517100111.1, 2020-06-30
+  > „Podľa § 51 ods. 4 písm. h) Trestného zákona ukladá povinnosť spočívajúcu v príkaze podrobiť sa v súčinnosti s probačným a mediačným úradníkom súdu výchovnému programu, ktorého súčasťou bude počas skúšobnej doby účasť ako verejnosť na hlavnom pojednávaní konanom pred Špecializovaným trestným súdom, v trestnej veci korupcie podľa § 328 až § 336b Trestného zákona, a to od samého začiatku hlavného pojednávania až do vyhlásenia rozsudku."
 
 ### Prijatie a poskytnutie nenáležitej výhody
 
@@ -496,6 +643,17 @@ Podnecovanie postihuje **verejné** apelovanie na spáchanie trestného činu al
 
 Zákon rozlišuje tri alternatívne predmety podnecovania: podnecovanie priamo na trestný čin (bez ohľadu na jeho druh), výzva na **hromadné neplnenie dôležitej povinnosti** uloženej zákonom alebo na jeho základe (napr. výzva k hromadnému odopieraniu daňovej povinnosti alebo brannej povinnosti) a výzva na **závažné porušovanie verejného poriadku**. Vo všetkých troch prípadoch ide o ochranu záujmu na riadnom fungovaní verejného poriadku a rešpektovaní právneho poriadku ako takého, nie o ochranu konkrétneho individuálneho záujmu.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2012:7012000003.1, 2012-09-05
+  > „uznaný za vinného z trestného činu marenia výkonu úradného rozhodnutia a vykázania podľa § 337 ods. 3 písm. b/ nového Trestného zákona Českej republiky a bol mu uložený trest odňatia slobody v trvaní 12 mesiacov a zároveň rozhodol o premene trestu odňatia slobody uloženého vyššie uvedenými rozhodnutiami českých súdov v súlade so zásadami stanovenými v § 517 ods. 1, ods. 2 Tr. por. Najvyšší súd Slovenskej republiky, ako súd odvolací, preskúmal napadnutý rozsudok, ako aj konanie, ktoré mu predchádzalo a zistil, že odvolanie námestníka Krajskej prokuratúry v Košiciach nie je dôvodné."
+- *NS SR* sp. zn. 3 Urto 1/2012, 2012-09-05
+  > „uznaný za vinného z trestného činu marenia výkonu úradného rozhodnutia a vykázania podľa § 337 ods. 3 písm. b/ nového Trestného zákona Českej republiky a bol mu uložený trest odňatia slobody v trvaní 12 mesiacov a zároveň rozhodol o premene trestu odňatia slobody uloženého vyššie uvedenými rozhodnutiami českých súdov v súlade so zásadami stanovenými v § 517 ods. 1, ods. 2 Tr. por. Najvyšší súd Slovenskej republiky, ako súd odvolací, preskúmal napadnutý rozsudok, ako aj konanie, ktoré mu predchádzalo a zistil, že odvolanie námestníka Krajskej prokuratúry v Košiciach nie je dôvodné."
+- *NS SR* ECLI ECLI:SK:NSSR:2019:6016897575.2, 2019-08-21
+  > „2) trestu odňatia slobody vo výmere 300 (tristo) dní, ktorý mu bol uložený trestným rozkazom Okresného súdu v Mladej Boleslavi, Česká republika, sp. zn. 1T 15/2015, zo dňa 21.04.2015, právoplatným dňa 12.05.2015, za prečin marenia výkonu úradného rozhodnutia a vykázania podľa § 337 ods. 1 písm. a/ českého Trestného zákona."
+- *NS SR* sp. zn. 6Urtos/7/2019, 2019-08-21
+  > „2) trestu odňatia slobody vo výmere 300 (tristo) dní, ktorý mu bol uložený trestným rozkazom Okresného súdu v Mladej Boleslavi, Česká republika, sp. zn. 1T 15/2015, zo dňa 21.04.2015, právoplatným dňa 12.05.2015, za prečin marenia výkonu úradného rozhodnutia a vykázania podľa § 337 ods. 1 písm. a/ českého Trestného zákona."
+
 ### § 338 — Schvaľovanie trestného činu
 
 > **§ 338**
@@ -536,6 +694,11 @@ Kľúčovou výnimkou je odsek 2, ktorý v zásade **vylučuje trestnosť nadrž
 
 Odsek 3 zakotvuje osobitný **liberačný dôvod** aj pre prípad, že nadržovanie nespadá pod výnimku odseku 2 (napr. nešlo o osobu blízku) — ak bol páchateľ k pomoci donútený a nemohol ju odmietnuť bez toho, aby seba alebo blízku osobu vystavil nebezpečenstvu smrti, ublíženia na zdraví alebo inej závažnej ujmy, trestnosť sa vylučuje. Ide o špecifickú aplikáciu myšlienky krajnej núdze prispôsobenú situácii vynúteného nadržovania.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2019:3710010442.1, 2019-12-10
+  > „W., pre skutok právne posúdený ako prečin krivej výpovede a krivej prísahy podľa § 346 ods. 1 Trestného zákona formou účastníctva podľa § 21 ods. 1 písm. b) Trestného zákon a prečin nadržiavania podľa § 339 ods. 1 Trestného zákona formou účastníctva (ako návodca) podľa § 21 ods. 1 písm. b) Trestného zákona."
+
 ### § 340 — Neoznámenie trestného činu
 
 > **§ 340**
@@ -556,6 +719,11 @@ Neoznámenie trestného činu zakotvuje jednu z mála všeobecných **oznamovac�
 
 Odsek 2 vylučuje trestnosť tam, kde by splnenie oznamovacej povinnosti vystavilo oznamovateľa alebo jemu blízku osobu nebezpečenstvu smrti, ublíženia na zdraví, inej závažnej ujmy alebo trestného stíhania — zákon teda nevyžaduje sebaobetovanie sa v prospech abstraktného verejného záujmu. Odsek 3 chráni dve kategórie zákonom uznanej mlčanlivosti pred kolíziou s oznamovacou povinnosťou: **spovedné tajomstvo** a tajomstvo zverené osobe poverenej pastoračnou činnosťou pod podmienkou mlčanlivosti (písm. a) a akúkoľvek inú **zákonom uznanú povinnosť mlčanlivosti** (písm. b, napr. advokátske alebo lekárske tajomstvo, pokiaľ ho osobitný zákon takto konštruuje) — tieto profesijné a duchovné väzby dôvery majú prednosť pred trestnoprávnou oznamovacou povinnosťou.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* sp. zn. 6 Tost 26/2014, 2014-07-17
+  > „X., Slovakia, za účelom jeho vydania na trestné stíhanie pre trestný čin sprenevery podľa § 321, podvodu a podvodného konania podľa § 326, § 326a, konkurzného podvodu podľa § 340, § 341, § 343 holandského trestného zákona, za ktoré mu hrozí trest odňatia slobody až na 6 rokov a ktorých sa mal dopustiť na tom skutkovom základe, že dňa 28. júna 2011 spoločnosť O."
+
 ### § 341 — Neprekazenie trestného činu
 
 > **§ 341**
@@ -575,6 +743,17 @@ Neprekazenie trestného činu je príbuzné s § 340, ale kladie prísnejšiu po
 Odsek 3 objasňuje, že jednou z legitímnych a dostatočných foriem prekazenia je práve **včasné oznámenie** príslušnému orgánu (s obdobnými alternatívami pre vojakov a osoby vo výkone trestu či väzby ako pri § 340) — nemusí teda ísť nutne o priamy fyzický zákrok. Odsek 2 stanovuje liberačný dôvod obdobný § 340 ods. 2, rozšírený navyše o kritérium **značných ťažkostí** pri prekazení, avšak s dôležitou výnimkou v druhej vete: ak hrozí blízkej osobe len nebezpečenstvo trestného stíhania (nie smrti či ťažkej ujmy) a ide o neprekazenie zločinu, za ktorý hrozí trest odňatia slobody na doživotie, táto okolnosť páchateľa trestnosti nezbavuje — pri najzávažnejšej trestnej činnosti tak zákon uprednostňuje verejný záujem na prekazení zločinu pred ochranou blízkej osoby pred trestným stíhaním. Odsek 4 napokon vyníma z povinnosti prekaziť zločin situácie, kde by splnenie tejto povinnosti porušilo spovedné tajomstvo.
 
 ## Piaty diel — Iné formy rušenia činnosti orgánov verejnej moci
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2013:9511100016.1, 2013-08-13
+  > „Je potom povinnosťou svedka, ktorý je v pozícii podľa § 129 ods. 2 Trestného poriadku vypovedať, či už sa jedná o prípravu, pokus, dokonaný trestný čin alebo dokončený trestný čin, samozrejme za splnenia podmienky, že sa jedná o trestný čin výslovne uvedený v § 341 Trestného zákona."
+- *NS SR* sp. zn. 2 To 7/2013, 2013-08-13
+  > „Je potom povinnosťou svedka, ktorý je v pozícii podľa § 129 4 2 To 7/2013 ods. 2 Trestného poriadku vypovedať, či už sa jedná o prípravu, pokus, dokonaný trestný čin alebo dokončený trestný čin, samozrejme za splnenia podmienky, že sa jedná o trestný čin výslovne uvedený v § 341 Trestného zákona."
+- *NS SR* sp. zn. 2 To 1/2012, 2012-08-21
+  > „nie je eliminovaná výnimkou podľa § 23 ods. 9 zákona o advokácii a podľa § 129 ods. 3 Tr. por. Tá sa týka trestného činu neprekazenia trestného činu podľa § 341 Trestného zákona."
+- *NS SR* sp. zn. 6 Tost 26/2014, 2014-07-17
+  > „X., Slovakia, za účelom jeho vydania na trestné stíhanie pre trestný čin sprenevery podľa § 321, podvodu a podvodného konania podľa § 326, § 326a, konkurzného podvodu podľa § 340, § 341, § 343 holandského trestného zákona, za ktoré mu hrozí trest odňatia slobody až na 6 rokov a ktorých sa mal dopustiť na tom skutkovom základe, že dňa 28. júna 2011 spoločnosť O."
 
 ### § 342 — Zasahovanie do nezávislosti súdu
 
@@ -620,6 +799,13 @@ Pohŕdanie súdom chráni **dôstojnosť a plynulý priebeh súdneho konania** p
 
 Zákon vymedzuje tri alternatívne formy tohto konania: závažné rušenie pojednávania (písm. a), urážlivé správanie sa k súdu alebo jeho znevažovanie na pojednávaní (písm. b) a neuposlúchnutie príkazu súdu alebo predvolania bez dostatočného ospravedlnenia (písm. c). Spoločným menovateľom je narušenie riadneho výkonu súdnej právomoci prejavom voči súdu samotnému, na rozdiel od § 342, ktorý cieli na zásah do nezávislosti rozhodovacej činnosti sudcu ako takej.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* sp. zn. 5Obo/61/2009, 2009-07-30
+  > „Žiadajú preto Najvyšší súd Slovenskej republiky, aby upozornil konkurzný súd, ktorý je povinný prejednať celú konečnú správu za obdobie od vyhlásenia konkurzu, že zo správania predošlých správcov je tu dôvodné podozrenie zo spáchania z trestného činu podľa § 343 písm. c/ a písm. b/ Trestného zákona."
+- *NS SR* sp. zn. 6 Tost 26/2014, 2014-07-17
+  > „X., Slovakia, za účelom jeho vydania na trestné stíhanie pre trestný čin sprenevery podľa § 321, podvodu a podvodného konania podľa § 326, § 326a, konkurzného podvodu podľa § 340, § 341, § 343 holandského trestného zákona, za ktoré mu hrozí trest odňatia slobody až na 6 rokov a ktorých sa mal dopustiť na tom skutkovom základe, že dňa 28. júna 2011 spoločnosť O."
+
 ### § 344 — Marenie spravodlivosti
 
 > **§ 344**
@@ -654,6 +840,17 @@ Marenie spravodlivosti je širokou skutkovou podstatou chrániacou **integritu d
 
 Odsek 2 stanovuje kvalifikovanú skutkovú podstatu s piatimi alternatívnymi okolnosťami podmieňujúcimi vyššiu trestnú sadzbu — zištný alebo škodový úmysel (písm. a), úmysel zmariť či sťažiť uplatnenie základných práv a slobôd (písm. b), osobitný motív (písm. c), postavenie verejného činiteľa alebo súvislosť s výkonom zamestnania, povolania, postavenia či funkcie páchateľa (písm. d) a postavenie osoby vykonávajúcej právomoc orgánu riadenia a správy súdov (písm. e) — táto štruktúra kvalifikačných znakov je zhodná s konštrukciou použitou pri § 342 ods. 2 a 3, čo odráža spoločný účel oboch ustanovení chrániť riadne fungovanie súdnej moci pred zneužitím mocenského či profesijného postavenia.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2016:6212010107.1, 2016-02-25
+  > „Vo vzťahu k právnej kvalifikácii skutku pod bodom 3/ rozsudku okresného súdu najvyšší súd dodáva, že tento skutok mal byť pri správnom použití Trestného zákona kvalifikovaný ako pokus k zločinu marenia spravodlivosti podľa § 344 ods. 1 písm. d/ Tr. zák. Odôvodňuje to i motív, pre ktorý sa obvinený tohto skutku dopustil, a to aby poškodená zmenila svoje predchádzajúce výpovede v procesnom postavení svedka v trestnej veci obvineného."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:9519100067.3, 2020-05-13
+  > „uznaný za vinného zo spáchania zločinu marenia spravodlivosti podľa § 344 ods. 1 písm. b) Trestného zákona formou účastníctva podľa § 21 ods. 1 písm. b) Trestného zákona (návodca), a to na skutkovom základe, že 1.) T."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:9519100067.2, 2020-02-26
+  > „uznaný za vinného zo spáchania zločinu marenia spravodlivosti podľa § 344 ods. 1 písm. b) Trestného zákona formou účastníctva podľa § 21 ods. 1 písm. b) Trestného zákona (návodca), a to na skutkovom základe, že: 1.) T."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:6308010256.1, 2020-01-28
+  > „pre zločin marenia spravodlivosti podľa § 344 ods. 1 písm. c), ods. 2 písm. c) Trestného zákona a iné, vedenej na Okresnom súde Brezno pod sp. zn. 1T/51/2008, na neverejnom zasadnutí konanom 28. januára 2020 v Bratislave, o dovolaní obvineného R. F."
+
 ### § 345 — Krivé obvinenie
 
 > **§ 345**
@@ -673,6 +870,17 @@ Odsek 2 stanovuje kvalifikovanú skutkovú podstatu s piatimi alternatívnymi ok
 Krivé obvinenie chráni jednak záujem konkrétneho jednotlivca na tom, aby nebol nepravdivo obviňovaný z trestnej činnosti, jednak záujem na riadnom fungovaní orgánov činných v trestnom konaní, ktoré by v dôsledku falošného obvinenia mohli byť zneužité na neopodstatnené trestné stíhanie. Podstatou skutkovej podstaty je **lživé obvinenie iného z trestného činu**, spojené so špecifickým úmyslom **privodiť jeho trestné stíhanie** — samotné nepravdivé tvrdenie bez tohto zámeru (napr. ohováranie bez snahy vyvolať trestné stíhanie) skutkovú podstatu nenapĺňa a môže byť posúdené inak.
 
 Odsek 2 kvalifikuje čin pri spáchaní z osobitného motívu (písm. a) alebo verejne (písm. b) — verejné krivé obvinenie má vyššiu spoločenskú škodlivosť, keďže poškodzuje dobrú povesť obvineného voči širšiemu okruhu osôb a súčasne pôsobí na formovanie verejnej mienky ešte pred akýmkoľvek rozhodnutím orgánov činných v trestnom konaní. Odsek 3 zavádza najprísnejšiu sadzbu pre prípad, že krivým obvinením bola spôsobená značná škoda alebo iný obzvlášť závažný následok — typicky ujma na povesti, majetku alebo osobnej slobode krivo obvineného v dôsledku skutočne začatého trestného stíhania.
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2018:2116010721.1, 2018-06-11
+  > „F., kde po náležitom poučení, okrem iného o zodpovednosti za vedomé nepravdivé údaje, najmä o zodpovednosti za trestný čin krivého obvinenia podľa § 345 Trestného zákona, úmyselne uviedol nepravdy, že sa M."
+- *NS SR* sp. zn. 4Tdo/26/2018, 2018-06-11
+  > „F., kde po náležitom poučení, okrem iného o zodpovednosti za vedomé nepravdivé údaje, najmä o zodpovednosti za trestný čin krivého obvinenia podľa § 345 Trestného zákona, úmyselne uviedol nepravdy, že sa M."
+- *NS SR* ECLI ECLI:SK:NSSR:2017:5416010027.1, 2017-12-13
+  > „pre pokračovací prečin krivého obvinenia podľa § 345 ods. 1 Trestného zákona, o dovolaní obvineného C."
+- *NS SR* sp. zn. 3Tdo/52/2017, 2017-12-13
+  > „pre pokračovací prečin krivého obvinenia podľa § 345 ods. 1 Trestného zákona, o dovolaní obvineného C."
 
 ### § 346 — Krivá výpoveď a krivá prísaha
 
@@ -695,6 +903,17 @@ Odsek 2 kvalifikuje čin pri spáchaní z osobitného motívu (písm. a) alebo v
 Skutková podstata chráni pravdivosť a spoľahlivosť **svedeckej výpovede** ako jedného zo základných dôkazných prostriedkov, na ktorých stojí spravodlivé rozhodovanie súdov a orgánov činných v trestnom konaní. Odsek 1 postihuje krivú výpoveď svedka v širokom okruhu konaní — pred súdom, v trestnom konaní, ale aj na účely trestného konania v cudzine pred prokurátorom, policajtom alebo sudcom medzinárodného orgánu uznaného Slovenskou republikou; postihované je tak uvedenie nepravdy o okolnosti podstatného významu pre rozhodnutie, ako aj jej **zamlčanie**. Odsek 2 postihuje samostatne prísnejšie sankcionovanú **krivú prísahu** — nepravdivú výpoveď v trestnom konaní alebo na jeho účely v cudzine, učinenú po zložení prísahy, čo predstavuje kvalifikovaný zásah do dôveryhodnosti dokazovania spojený s porušením osobitne posilneného záväzku hovoriť pravdu.
 
 Znakom podstatným pre oba odseky je, že nepravda alebo zamlčanie sa musia týkať okolnosti, ktorá má **podstatný význam pre rozhodnutie** — nepravdivé, ale nepodstatné tvrdenie skutkovú podstatu nenapĺňa. Odsek 3 kvalifikuje čin pri spáchaní závažnejším spôsobom konania (písm. a) alebo z osobitného motívu (písm. b), odsek 4 stanovuje najprísnejšiu sadzbu pri spôsobení značnej škody alebo iného obzvlášť závažného následku — typicky nespravodlivé odsúdenie alebo iná ťažko napraviteľná ujma vyplývajúca z toho, že rozhodnutie bolo založené na krivej výpovedi či prísahe.
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2020:7217010646.1, 2020-03-31
+  > „pre skutok právne posúdený ako prečin krivej výpovede a krivej prísahy podľa § 346 ods. 1 Trestného zákona, ktorého sa mal dopustiť v súvislosti s v tomto konaní prejednávaným skutkom, a iné, že výsluchy P."
+- *NS SR* ECLI ECLI:SK:NSSR:2019:4414010631.1, 2019-12-18
+  > „Písomným dopytom na JUDr. Zuzanu Lapárovú, na overenie obvineným tvrdenej skutočnosti, advokátka JUDr. Zuzana Lapárová tunajšiemu súdu 5. decembra 2019 oznámila, že obvineného zastupuje v inom konaní, a to v konaní vedenom na Okresnom súde Nové Zámky pod sp. zn. 2T/113/2018, pre prečin krivej výpovede a krivej prísahy podľa § 346 ods. 1 Trestného zákona a v žiadnej inej veci obvineného nezastupuje."
+- *NS SR* ECLI ECLI:SK:NSSR:2017:1112010563.1, 2017-10-18
+  > „pre prečin krivej výpovede a krivej prísahy podľa § 346 ods. 1 Trestného zákona na neverejnom zasadnutí 18. októbra 2017 v Bratislave, o dovolaní obvineného Z. V., ktoré podal prostredníctvom ustanoveného obhajcu JUDr. Rastislava Koutuna proti trestnému rozkazu Okresného súdu Bratislava I z 1. augusta 2012, sp. zn. 5T 51/2012 rozhodol rozhodol: Podľa § 382 písm. d/ Trestného poriadku dovolanie obvineného Z. V."
+- *NS SR* sp. zn. 3Tdo/51/2017, 2017-10-18
+  > „pre prečin krivej výpovede a krivej prísahy podľa § 346 ods. 1 Trestného zákona na neverejnom zasadnutí 18. októbra 2017 v Bratislave, o dovolaní obvineného Z. V., ktoré podal prostredníctvom ustanoveného obhajcu JUDr. Rastislava Koutuna proti trestnému rozkazu Okresného súdu Bratislava I z 1. augusta 2012, sp. zn. 5T 51/2012 rozhodol r o z h o d o l : Podľa § 382 písm. d/ Trestného poriadku dovolanie obvineného Z. V."
 
 ### § 347 — Nepravdivý znalecký posudok, tlmočnícky úkon a prekladateľský úkon
 
@@ -721,6 +940,13 @@ Znakom podstatným pre oba odseky je, že nepravda alebo zamlčanie sa musia tý
 Skutková podstata dopĺňa ochranu pravdivosti dôkazných prostriedkov o osobitnú kategóriu odborných subjektov — **znalcov, tlmočníkov a prekladateľov**, ktorých úkony majú v konaní osobitnú autoritu vyplývajúcu z ich odbornosti a formálneho postavenia. Písmeno a) postihuje nepravdivé alebo neúplné (zamlčané) tvrdenie o okolnosti podstatného významu pre rozhodnutie v širokom okruhu konaní — trestnom, civilnom, správnom súdnom, exekučnom, pred orgánom verejnej správy či pred rozhodcovským súdom. Písmeno b) postihuje samostatnú, užšiu situáciu — znalecký posudok alebo tlmočnícky či prekladateľský úkon vykonaný **na zmluvnom (nie procesnom) podklade**, kde uvedenie nepravdy alebo zamlčanie podstatnej okolnosti spôsobilo inému malú škodu; ide teda o postih nepravdivosti mimo formálneho konania, ale so spôsobeným škodlivým následkom ako doplňujúcou podmienkou trestnosti.
 
 Konštrukcia kvalifikovaných skutkových podstát v odsekoch 2 a 3 je zhodná s konštrukciou § 346 ods. 3 a 4 — vyššia sadzba pri závažnejšom spôsobe konania alebo osobitnom motíve (odsek 2), najvyššia sadzba pri spôsobení značnej škody alebo iného obzvlášť závažného následku (odsek 3). Táto paralelnosť odráža spoločnú logiku oboch ustanovení: postihujú zlyhanie dôveryhodnosti kľúčových procesných či odborných aktérov (svedok a prísaha na jednej strane, znalec/tlmočník/prekladateľ na strane druhej), na ktorých pravdivosti závisí správnosť následného rozhodnutia.
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2020:2106217085.1, 2020-08-31
+  > „Júliusa Ratulovského č. 53/2015 viď bod 7., bod, 21. a 45. rozsudku krajského súdu, pričom však ale tento znalecký posudok je výslovne účelový, nepravdivý a napĺňa znaky skutkovej podstaty prečinu podľa § 347 Trestného zákona."
+- *NS SR* ECLI ECLI:SK:NSSR:2020:1612010223.1, 2020-02-05
+  > „382 spisu) bol poučený tak podľa § 144 ods. 1 Trestného poriadku (o význame znaleckého posudku z hľadiska všeobecného záujmu) ako aj o trestných následkoch vedome nepravdivého znaleckého posudku podľa § 347 Trestného zákona."
 
 ### § 348 — Marenie výkonu úradného rozhodnutia
 
@@ -772,6 +998,17 @@ Spoločným znakom väčšiny týchto skutkových podstát je ich sekundárna (a
 
 Odsek 2 upravuje samostatnú, prísnejšie trestanú skutkovú podstatu marenia výkonu rozhodnutia orgánu verejnej moci špecificky v rámci prebiehajúceho trestného konania — buď zničením, poškodením, znefunkčnením, zatajením, odcudzením alebo odstránením veci, ktorej sa také rozhodnutie týka (písm. a, typicky vec dôkaznej alebo majetkovej povahy podliehajúca zaisteniu), alebo útekom stráži, z väzby či z výkonu trestu odňatia slobody, prípadne napomáhaním inému pri takom úteku (písm. b). Vyššia trestná sadzba (jeden rok až päť rokov) oproti odseku 1 (do dvoch rokov) odzrkadľuje väčšiu závažnosť priameho zásahu do prebiehajúceho trestného konania a s ním spojeného rizika zmarenia spravodlivého rozhodnutia vo veci.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2021:2318011260.1, 2021-02-23
+  > „Z vyššie uvedeného vyplýva, že skutková veta tak, ako bola ustálená, obsahuje všetky zákonné znaky trestných činov - prečinu ohrozenia pod vplyvom návykovej látky podľa § 289 ods. 1, ods. 3 písm. a) Trestného zákona v jednočinnom súbehu s prečinom marenia výkonu úradného rozhodnutia podľa § 348 ods. 1 písm. d) Trestného zákona, z ktorých bol obvinený J."
+- *NS SR* ECLI ECLI:SK:NSSR:2019:9517100147.1, 2019-06-26
+  > „V súvislosti s námietkou obžalovanej týkajúcej sa použitia priťažujúcej okolnosti podľa § 37 písm. m) Trestného zákona a možnosti neprihliadnutia na túto okolnosť podľa povahy predchádzajúceho odsúdenia najvyšší súd konštatuje, že rozsudkom Okresného súdu Bratislava I z 25. júna 2014, sp. zn. 8T/24/2014 bola obžalovaná uznaná vinnou zo spáchania trestného činu marenia výkonu úradného rozhodnutia podľa § 348 ods. 1 písm. a) Trestného zákona, za čo jej bol súdom uložený trest odňatia slobody vo výmere 8 (osem) mesiacov."
+- *NS SR* ECLI ECLI:SK:NSSR:2018:3111010143.1, 2018-01-24
+  > „Súd: Najvyšší súd SR Spisová značka: 3Tdo/82/2017 Identifikačné číslo spisu: 3111010143 Dátum vydania rozhodnutia: 24.01.2018 Meno a priezvisko: JUDr. Martin Bargel Funkcia: sudca ECLI: ECLI:SK:NSSR:2018:3111010143.1 Uznesenie Najvyšší súd Slovenskej republiky v senáte zloženom z predsedu JUDr. Martina Bargela a sudkýň JUDr. Aleny Šiškovej a JUDr. Gabriely Šimonovej v trestnej veci obvineného S. M., pre pokračovací prečin marenia výkonu úradného rozhodnutia podľa § 348 ods. 1 písm. d) Trestného zákona na neverejnom zasadnutí konanom 24. januára 2018 v Bratislave, o dovolaní obvineného S. M."
+- *NS SR* sp. zn. 3Tdo/82/2017, 2018-01-24
+  > „Nad rámec nevyhnutného najvyšší súd považuje za vhodné vyjadriť sa aj k argumentom dovolateľa spočívajúcim v tom, že rozhodnutie o priestupku Okresného dopravného inšpektorátu v Partizánskom, č. ORP-369/DI-PPE-2009, z 8. februára 2010 nenadobudlo právoplatnosť a preto sa nemohol dopustiť pokračovacieho prečinu marenia výkonu úradného rozhodnutia podľa § 348 ods. 1 písm. d) Trestného zákona a k obvineným prednesených rozborov a analýz spôsobu doručovania v správnom konaní."
+
 ### § 349 — Marenie výkonu rozhodnutia súdu vo veciach starostlivosti o maloletých a ochrany pred násilím
 
 > **§ 349**
@@ -784,6 +1021,17 @@ Chráneným záujmom je riadny výkon súdnych rozhodnutí a dohôd vo veciach s
 
 Druhá alternatíva postihuje marenie výkonu neodkladného (predbežného) opatrenia uloženého v civilnom procese na ochranu osôb ohrozených násilím alebo vo veciach starostlivosti súdu o maloletých — teda rýchlych a dočasných opatrení, ktorých účelom je bezodkladná ochrana ohrozených osôb (typicky obetí domáceho násilia) alebo maloletých pred hrozbou ujmy do právoplatného rozhodnutia vo veci samej. Vzhľadom na naliehavosť tejto ochrany a dočasnú, predbežnú povahu neodkladných opatrení zákon pri tejto alternatíve podmienku predchádzajúceho bezvýsledného použitia civilnoprocesných vykonávacích opatrení výslovne nespája.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2017:4010200612.2, 2017-02-23
+  > „Doplnil, že rozsudkom sp. zn. 1Tdo/49/2012 zo dňa 03. decembra 2012 Najvyšší súd Slovenskej republiky určil, že rozsudkom Okresného súdu Žilina sp. zn. 34T/58/2008 zo dňa 13. februára 2009 bol porušený zákon z dôvodu podľa § 371 ods. 1 písm. c/ Trestného poriadku v ustanovení § 349 ods. 2 Trestného zákona v neprospech žalobcu."
+- *NS SR* rozhodnutie z 2017-02-23, 2017-02-23
+  > „Doplnil, ţe rozsudkom sp. zn. 1Tdo/49/2012 zo dňa 03. decembra 2012 Najvyšší súd Slovenskej republiky určil, ţe rozsudkom Okresného súdu Ţilina sp. zn. 34T/58/2008 zo dňa 13. februára 2009 bol porušený zákon z dôvodu podľa § 371 ods. 1 písm. c/ Trestného poriadku v ustanovení § 349 ods. 2 Trestného zákona v neprospech ţalobcu."
+- *NS SR* ECLI ECLI:SK:NSSR:2019:6813010066.1, 2019-08-28
+  > „585) pokračoval v pojednávaní bez toho, aby sa vykonalo hlavné pojednávanie znova, najvyšší súd uvádza nasledovné: Samosudca vykonáva konanie o prečinoch a zločinoch, za ktoré zákon ustanovuje trest odňatia slobody, ktorého horná hranica neprevyšuje osem rokov (§ 349 ods. 1 Trestného zákona účinného do 31. júla 2019)."
+- *NS SR* sp. zn. 5 Tdo 24/2010, 2010-11-18
+  > „Za účinnosti nového zákonného ustanovenia podľa § 349 nového Trestného zákona č. 300/2005 Z. z. bol podľa obvineného, skutok tzv. „ukončený“, čo ale nie je presný termín, nakoľko neboli splnené podmienky na začatie trestného stíhania a s tým súvisiaceho vznesenia obvinenia, pretože skutok, ktorý sa stal, nebol v čase jeho spáchania (vyvolania protiprávneho stavu) trestným činom a tým nebol naplnený základný predpoklad ani na začatie trestného stíhania."
+
 ### § 350 — Marenie výkonu rozhodnutia Ústavného súdu Slovenskej republiky
 
 > **§ 350**
@@ -795,6 +1043,13 @@ Druhá alternatíva postihuje marenie výkonu neodkladného (predbežného) opat
 Ustanovenie chráni osobitné postavenie a autoritu Ústavného súdu Slovenskej republiky ako nezávislého orgánu ochrany ústavnosti, ktorý stojí mimo sústavy všeobecných súdov a iných orgánov verejnej moci uvedených v § 348. Práve z tohto dôvodu zákonodarca zvolil samostatnú skutkovú podstatu, hoci svojou konštrukciou zodpovedá odseku 1 § 348 — postihuje sa marenie alebo podstatné sťaženie výkonu rozhodnutia Ústavného súdu Slovenskej republiky nesplnením povinnosti, ktorá z takého rozhodnutia (napr. nálezu alebo uznesenia) vyplýva.
 
 Páchateľom môže byť každý, komu z rozhodnutia Ústavného súdu Slovenskej republiky vyplýva konkrétna povinnosť, ktorú nesplní; trestná sadzba (odňatie slobody až na dva roky) zodpovedá základnej skutkovej podstate podľa § 348 ods. 1, čo vyjadruje rovnocennú závažnosť neúcty k rozhodnutiam oboch typov orgánov, hoci ide legislatívno-technicky o samostatné ustanovenie.
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* sp. zn. 3 Tost 24/2013, 2013-10-23
+  > „zároveň podal 27. augusta 2013 na Generálnu prokuratúru Slovenskej republiky trestné oznámenie na senát Špecializovaného trestného súdu v Pezinku, pracovisko Banská Bystrica, ktorý rozhodoval o obnove konania pre podozrenie zo spáchania prečinu marenia výkonu rozhodnutia Ústavného súdu Slovenskej republiky podľa § 350 Trestného zákona a prečinu marenia úlohy verejného činiteľa podľa § 327 ods. 1 Trestného zákona."
+- *NS SR* sp. zn. 2 Dso 4/2010, 2010-08-16
+  > „8. K argumentácii navrhovateľa, ktorú obsahuje vyjadrenie k odvolaniu a podľa ktorej dôvodom podania návrhu na vyvodenie disciplinárnej zodpovednosti bola skutočnosť, že sudca nekonal viac ako šesť mesiacov vo veciach, kde mu bola uložená povinnosť konať rozhodnutím Ústavného súdu, odvolací súd poznamenáva, že nesplnenie povinnosti vyplývajúcej z rozhodnutia Ústavného súdu Slovenskej republiky, v dôsledku čoho sa marí alebo podstatne sťažuje výkon rozhodnutia Ústavného súdu Slovenskej republiky, je trestným činom podľa § 350 Trestného zákona."
 
 ### § 351 — Marenie prípravy a priebehu volieb a referenda
 
@@ -876,6 +1131,17 @@ Odseky 3 až 6 vytvárajú štvorstupňovú kvalifikačnú škálu prísnosti po
 
 Odsek 7 napokon rozširuje poskytovanú ochranu aj na cudzozemské (zahraničné) verejné listiny a úradné symboly — trestnoprávna ochrana teda nie je obmedzená len na listiny a pečate slovenského pôvodu, čo zodpovedá aj medzinárodným záväzkom Slovenskej republiky v oblasti boja proti falšovaniu dokladov a medzištátnej spolupráce pri ich odhaľovaní.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2019:7019200748.1, 2019-11-21
+  > „3. Voči sťažovateľovi bolo začaté trestné stíhanie pre prečin falšovania a pozmeňovania verejnej listiny, úradnej pečate, úradnej uzávery, úradného znaku a úradnej značky podľa § 352 ods. 1 Trestného zákona, pričom tento bol trestným rozkazom Okresným súdom Košice II sp. zn. 0T/205/2018 (právoplatnosť nadobudol 17.11.2018) odsúdený na trest odňatia slobody v trvaní 5 mesiacov s podmienečným odkladom s určením skúšobnej doby v trvaní 15 mesiacov."
+- *NS SR* ECLI ECLI:SK:NSSR:2019:9518100008.5, 2019-10-08
+  > „zo zločinu falšovania a pozmeňovania verejnej listiny, úradnej pečate, úradnej uzávery, úradného znaku a úradnej značky podľa § 352 ods. 1, ods. 6 Trestného zákona s poukazom na § 141 písm. a) Trestného zákona, na tom skutkovom základe, že D."
+- *NS SR* ECLI ECLI:SK:NSSR:2017:5715215364.1, 2017-10-25
+  > „Z., bol za uvedený skutok právoplatne odsúdený (bola schválená dohoda o vine a treste) pre prečin falšovania a pozmeňovania verejnej listiny, úradnej pečate, úradnej uzávery, úradného znaku a úradnej značky podľa § 352 ods. 1 Trestného zákona (v konaní na Okresnom súde Martin sp. zn. 3T 167/2015) a bol odsúdený k trestu odňatia slobody vo výmere 12 mesiacov, pričom výkon trestu bol podmienečne odložený na skúšobnú dobu 18 mesiacov."
+- *NS SR* ECLI ECLI:SK:NSSR:2017:8014201203.1, 2017-06-08
+  > „R. vedené konanie vo veci zrušenia dlhodobého pobytu, ktoré je v súčasnej dobe prerušené, nakoľko je voči nej vedené trestné stíhanie za prečin falšovania a pozmeňovania verejnej listiny, úradnej pečate, úradnej uzávery, úradného znaku a úradnej značky podľa § 352 ods. 1, ods. 2 zákona č. 300/2005 Z.z. Trestný zákon, nakoľko bolo preukázané, že k žiadosti o udelenie prechodného pobytu na území Slovenskej republiky dňa 10.04.2008, predložila falošný výpis z registra trestov Vietnamskej socialistickej republiky."
+
 ### § 352a — Falšovanie a vyhotovenie nepravdivej zdravotnej dokumentácie
 
 > **§ 352a**
@@ -925,6 +1191,17 @@ Odseky 2 až 4 stupňujú trestnosť podľa získaného prospechu alebo spôsobe
 Ustanovenie poskytuje nižší stupeň trestnoprávnej ochrany utajovaných skutočností v porovnaní s vyzvedačstvom podľa § 318, ktoré postihuje zásahy voči najprísnejším stupňom utajenia (Prísne tajné a Tajné). Toto ustanovenie naopak chráni nižšie stupne utajenia podľa zákona o ochrane utajovaných skutočností — Dôverné a Vyhradené — pričom chránenými môžu byť tak záujmy Slovenskej republiky, ako aj záujmy iného štátu, medzinárodnej organizácie, nadnárodnej organizácie alebo združenia štátov, na ochranu ktorých sa Slovenská republika zaviazala.
 
 Odsek 1 postihuje tri alternatívne konania spojené s cieľom alebo úmyslom vyzradenia nepovolanej osobe: vyzvedanie utajovanej skutočnosti, zber údajov, ktoré takú skutočnosť obsahujú, a napokon priame úmyselné vyzradenie nepovolanej osobe. Odsek 2 kvalifikuje prísnejšie tie isté formy konania, ak smerujú alebo vedú k vyzradeniu do cudziny — vyššia trestná sadzba (šesť mesiacov až tri roky) odráža zvýšené riziko, ktoré predstavuje únik chránenej informácie mimo dosahu slovenskej kontroly a možnosť jej zneužitia zahraničným subjektom.
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2021:8820010028.1, 2021-05-19
+  > „Ministerka spravodlivosti Slovenskej republiky navrhla, aby Najvyšší súd Slovenskej republiky rozhodol tak, že: - podľa § 386 ods. 1 Trestného poriadku vysloví, že právoplatným trestným rozkazom Okresného súdu Vranov nad Topľou, sp. zn. 13T/6/2020, z 26. februára 2020 bol porušený zákon v ustanoveniach § 149 ods. 1, ods. 2 písm. a) Trestného zákona s poukazom na § 138 písm. h) Trestného zákona a § 2 ods. 10, ods. 12, § 353 ods. 1 Trestného poriadku v neprospech obvineného JUDr. T."
+- *NS SR* ECLI ECLI:SK:NSSR:2018:1217888500.1, 2018-10-03
+  > „Obvinenému bol za to podľa § 212 ods. 3 Trestného zákona s použitím § 353 Trestného poriadku, § 37 písm. m) Trestného zákona uložený trest odňatia slobody vo výmere 18 (osemnásť) mesiacov."
+- *NS SR* ECLI ECLI:SK:NSSR:2017:9017200077.1, 2017-06-13
+  > „E., pre prečin nebezpečného vyhrážania podľa § 353 ods. 1, ods. 2 písm. c) českého Trestného zákona v jednočinnom súbehu s prečinom výtržníctva podľa § 358 ods. 1 českého Trestného zákona, o odvolaní odsúdeného proti rozsudku Krajského súdu v Banskej Bystrici z 11. apríla 2017, sp. zn. 5Ntc/4/2017, takto rozhodol: Podľa § 518 ods. 4, veta druhá Tr. por. odvolanie odsúdeného I."
+- *NS SR* sp. zn. 2 Urto 4/2017, 2017-06-13
+  > „V., pre prečin nebezpečného vyhrážania podľa § 353 ods. 1, ods. 2 písm. c) českého Trestného zákona v jednočinnom súbehu s prečinom výtržníctva podľa § 358 ods. 1 českého Trestného zákona, o odvolaní odsúdeného proti rozsudku Krajského súdu v Banskej Bystrici z 11. apríla 2017, sp. zn. 5Ntc/4/2017, takto r o z h o d o l : Podľa § 518 ods. 4, veta druhá Tr. por. odvolanie odsúdeného J."
 
 ### § 354 — Násilné prekročenie štátnej hranice
 
@@ -1004,6 +1281,17 @@ Chráneným záujmom je záujem štátu na kontrole a regulácii vstupu a pobytu
 
 Odseky 3 až 5 stupňujú trestnosť podľa viacerých alternatívnych okolností: väčší prospech, osobitný motív, spôsob ohrozujúci životy a zdravie prevádzaných osôb alebo znamenajúci neľudské či ponižujúce zaobchádzanie alebo zneužívanie prevádzaných osôb (typické najmä pri preprave v preplnených alebo inak nebezpečných dopravných prostriedkoch), a napokon závažnejší spôsob konania (odsek 3); spôsobenie ťažkej ujmy na zdraví alebo smrti, získanie značného prospechu alebo spáchanie ako člen nebezpečného zoskupenia (odsek 4); a najprísnejšie pásmo (dvanásť až dvadsať rokov) pre spôsobenie ťažkej ujmy na zdraví alebo smrti viacerých osôb, získanie prospechu veľkého rozsahu alebo spáchanie za krízovej situácie (odsek 5).
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2017:1216010430.1, 2017-11-14
+  > „V uvedenej súvislosti treba predovšetkým uviesť, že pokiaľ ide o námietku obvinenej, že jej konanie nevykazuje naplnenie objektívnej stránky skutkovej podstaty trestného činu podľa § 355 ods. 1, ods. 3 písm. d/ Trestného zákona v spojení s § 138 písm. j/ Trestného zákona, túto dovolací súd vyhodnotil ako nedôvodnú."
+- *NS SR* sp. zn. 3Tdo/36/2017, 2017-11-14
+  > „V uvedenej súvislosti treba predovšetkým uviesť, že pokiaľ ide o námietku obvinenej, že jej konanie nevykazuje naplnenie objektívnej stránky skutkovej podstaty trestného činu podľa § 355 ods. 1, ods. 3 písm. d/ Trestného zákona v spojení s § 138 písm. j/ Trestného zákona, túto dovolací súd vyhodnotil ako nedôvodnú."
+- *NS SR* ECLI ECLI:SK:NSSR:2021:8315010623.1, 2021-01-27
+  > „L., pre zločin prevádzačstva podľa § 355 ods. 2 písm. a), ods. 3 písm. d) Trestného zákona, na neverejnom zasadnutí konanom 27. januára 2021 v Bratislave, o dovolaní obvineného proti rozsudku Krajského súdu v Prešove, sp. zn. 10To/36/2018, zo 17. decembra 2019, takto rozhodol: Podľa § 382 písm. c) Trestného poriadku dovolanie obvineného L."
+- *NS SR* ECLI ECLI:SK:NSSR:2019:7717012347.1, 2019-10-23
+  > „W., pre zločin prevádzačstva podľa § 355 ods. 2 písm. a) Trestného zákona, o dovolaní obvineného Q."
+
 ### § 356 — Umožnenie neoprávneného zotrvania a nedovoleného zamestnania cudzinca
 
 > **§ 356**
@@ -1016,6 +1304,17 @@ Ustanovenie nadväzuje na § 355 — kým prevádzačstvo postihuje napomáhanie
 
 Okruh chránených území presahuje územie Slovenskej republiky a zahŕňa aj iné členské štáty Európskej únie a zmluvné štáty Dohody o Európskom hospodárskom priestore, čo odzrkadľuje cezhraničný charakter tejto formy trestnej činnosti a spoločný záujem štátov tohto priestoru na regulácii neoprávnenej migrácie a nelegálneho zamestnávania. Ide teda o samostatnú skutkovú podstatu, ktorá dopĺňa ochranu poskytovanú § 355 o ochranu záujmu na riadnej regulácii pobytu a zamestnávania cudzincov po ich (akokoľvek uskutočnenom) vstupe na chránené územie.
 
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2017:1013201061.1, 2017-09-28
+  > „pre zločin prevádzačstva podľa § 356 Trestného zákona vedenej na Ministerstve vnútra Slovenskej republiky, Národnou kriminálnou agentúrou, národnou protizločineckou jednotkou, expozitúra Stred v Banskej Bystrici pod č. 123/NKA-PZ-ST-2015, ako aj kópie vyhodnotených záznamov na základe použitia informačno-technických prostriedkov na základe príkazu sudcu pre prípravné konanie - konkrétne záznamov WhatsUp textovej komunikácie medzi osobami L."
+- *NS SR* ECLI ECLI:SK:NSSR:2013:6012200474.1, 2013-01-22
+  > „bolo začaté trestné stíhanie pre zločin prevádzačstva formou spolupáchateľstva podľa § 20 k § 356 Trestného zákona."
+- *NS SR* ECLI ECLI:SK:NSSR:2017:8014201203.1, 2017-06-08
+  > „Od spáchania skutku uplynula premlčacia lehota v zmysle § 87 ods. 1 písm. d) Trestného zákona, avšak v premlčacej dobe spáchala v roku 2011 úmyselný trestný čin - zločin prevádzačstva podľa § 356 Trestného zákona v štádiu prípravy (§ 13 Trestného zákona), za ktorý bola právoplatne odsúdená trestným rozkazom zo dňa 15. 10. 2013 Okresným súdom Spišská Nová Ves, spisová značka 3T/193/2013, ktorý nadobudol právoplatnosť dňa 30.10.2013 a teda nedošlo k premlčaniu trestného stíhania v zmysle § 87 ods. 3 písm. b) Trestného zákona."
+- *NS SR* sp. zn. 1Sža/2/2016, 2017-06-08
+  > „Od spáchania skutku uplynula premlčacia lehota v zmysle § 87 ods. 1 písm. d) Trestného zákona, avšak v premlčacej dobe spáchala v roku 2011 úmyselný trestný čin - zločin prevádzačstva podľa § 356 Trestného zákona v štádiu prípravy (§ 13 Trestného zákona), za ktorý bola právoplatne odsúdená trestným rozkazom zo dňa 15. 10. 2013 Okresným súdom Spišská Nová Ves, spisová značka 3T/193/2013, ktorý nadobudol právoplatnosť dňa 30.10.2013 a teda nedošlo k premlčaniu trestného stíhania v zmysle § 87 ods. 3 písm. b) Trestného zákona."
+
 ### § 357 — Nedovolené prekročenie štátnej hranice
 
 > **§ 357**
@@ -1027,6 +1326,13 @@ Okruh chránených území presahuje územie Slovenskej republiky a zahŕňa aj 
 Napriek svojmu názvu je skutková podstata obmedzená len na jednu konkrétnu formu konania — porušenie predpisov o medzinárodných letoch tým, že páchateľ vnikne vzdušným dopravným prostriedkom (lietadlom) na územie Slovenskej republiky. Chráneným záujmom je tu predovšetkým zvrchovanosť vzdušného priestoru Slovenskej republiky a kontrola leteckej dopravy prekračujúcej štátnu hranicu, s ohľadom na bezpečnostné a obranné záujmy štátu, nie všeobecná ochrana pozemnej či vodnej hranice ako taká.
 
 Trestná sadzba (šesť mesiacov až tri roky) je výrazne miernejšia než pri násilnom prekročení hranice podľa § 354, čo zodpovedá nižšej miere spoločenskej nebezpečnosti samotného protiprávneho vniknutia vzdušným dopravným prostriedkom bez použitia násilia — ide skôr o ochranu riadneho fungovania kontroly medzinárodnej leteckej dopravy než o priamy stret s orgánmi ochrany hranice.
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2017:1216010430.1, 2017-11-14
+  > „Nedovolené prekročenie štátnej hranice je v užšom slova zmysle v Trestnom zákone charakterizované podľa § 357 Trestného zákona ako konanie predpokladajúce porušenie predpisov o medzinárodných letoch tým, že osoba vnikne vzdušným dopravným prostriedkom na územie Slovenskej republiky."
+- *NS SR* sp. zn. 3Tdo/36/2017, 2017-11-14
+  > „Nedovolené prekročenie štátnej hranice je v užšom slova zmysle v Trestnom zákone charakterizované podľa § 357 Trestného zákona ako konanie predpokladajúce porušenie predpisov o medzinárodných letoch tým, že osoba vnikne vzdušným dopravným prostriedkom na územie Slovenskej republiky."
 
 ### § 358 — Vzbura väzňov
 
@@ -1041,3 +1347,15 @@ Trestná sadzba (šesť mesiacov až tri roky) je výrazne miernejšia než pri 
 Chráneným záujmom je zachovanie poriadku a disciplíny vo výkone väzby a trestu odňatia slobody, ako aj bezpečnosť príslušníkov dozorného orgánu (najmä Zboru väzenskej a justičnej stráže) a ďalších osôb prítomných v ústavoch na výkon väzby alebo trestu. Základná skutková podstata (odsek 1) postihuje samotnú účasť na kolektívnom odpore skupiny väzňov — teda vyžaduje sa mnohosť páchateľov konajúcich spoločne — proti dozornému orgánu, jeho rozkazu alebo väzenskému poriadku, pričom postihnutá je už samotná účasť na takomto hromadnom odpore, nielen jeho vyvolanie alebo vedenie.
 
 Odsek 2 kvalifikuje prísnejšie osobu, ktorá takýto odpor zorganizuje — teda iniciátora či organizátora vzbury —, s podstatne vyššou trestnou sadzbou (štyri až desať rokov) oproti radovému účastníkovi podľa odseku 1, čo zodpovedá zvýšenej miere zavinenia a spoločenskej nebezpečnosti organizátorskej úlohy pri narušení poriadku vo výkone väzby alebo trestu.
+
+**Citácia z odôvodnenia NS SR (dolovaná, nekurátorská):**
+
+- *NS SR* ECLI ECLI:SK:NSSR:2018:6018010007.1, 2018-11-07
+  > „pre prečin výtržníctva podľa § 358 ods. 1 Trestného zákona Českej republiky a iné, na neverejnom zasadnutí konanom 7. novembra 2018 v Bratislave, o odvolaní odsúdeného Z. M."
+- *NS SR* ECLI ECLI:SK:NSSR:2018:6018010007.2, 2018-11-07
+  > „pre prečin výtržníctva podľa § 358 ods. 1 Trestného zákona Českej republiky a iné, na neverejnom zasadnutí konanom 7. novembra 2018 v Bratislave, o žiadosti odsúdeného Z. M."
+- *NS SR* sp. zn. 4Urtos/9/2018, 2018-11-07
+  > „pre prečin výtržníctva podľa § 358 ods. 1 Trestného zákona Českej republiky a iné, na neverejnom zasadnutí konanom 7. novembra 2018 v Bratislave, o žiadosti odsúdeného Z. M."
+- *NS SR* sp. zn. 4Urto/7/2018, 2018-11-07
+  > „pre prečin výtržníctva podľa § 358 ods. 1 Trestného zákona Českej republiky a iné, na neverejnom zasadnutí konanom 7. novembra 2018 v Bratislave, o odvolaní odsúdeného Z. M."
+
