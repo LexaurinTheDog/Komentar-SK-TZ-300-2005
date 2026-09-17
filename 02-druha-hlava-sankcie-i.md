@@ -146,6 +146,11 @@ Odsek 5 dopĺňa individualizačné hľadiská pre osobitné situácie: mieru pr
 
 Odsek 7 vymenúva **kombinácie trestov, ktoré nemožno uložiť súbežne**, spravidla z dôvodu ich vzájomnej nezlučiteľnosti či prekrývania sa (odňatie slobody a domáce väzenie/povinná práca — všetky obmedzujú slobodu pohybu a prácu; peňažný trest a prepadnutie majetku, prepadnutie veci a prepadnutie majetku — prekrývajúce sa majetkové postihy; zákaz pobytu a vyhostenie — vzájomne sa vylučujúce obmedzenia pobytu na území SR).
 
+**Judikatúra (z miestnych zdrojov):**
+
+- *NSSSR* 1Stk/7/2023 — Rozsudok, 2025-03-31, ECLI ECLI:SK:NSSSR:2025:5021200561.1
+  > „Prihliadanie na osobu páchateľa, jeho pomery a možnosť nápravy je v zmysle § 34 ods. 4 Trestného zákona zásadou ukladania trestov. Ako však bolo naznačené vyššie, aplikácia jednotlivých trestnoprávnych zásad v správnom trestaní nie je absolútna a povinnosťou správneho orgánu nie je vysporiadať sa v rozhodnutí, ktorým sa ukladá sankcia, s otázkou možnej likvidačnej povahy pokuty vo vzťahu k osobe páchateľa vždy a za každých okolností v akejkoľvek veci správneho trestania. S prihliadnutím na povahu tejto konkrétnej veci však bola táto povinnosť správnych orgánov podľa názoru kasačného súdu jednoznačne daná. Ukladala sa totiž relatívne vysoká pokuta v sume 100.000- eur a sťažovateľ likvidačnú povahu pokuty v správnom konaní namietal a doložil dôkazy preukazujúce jeho finančnú situáciu, a teda pre správny orgán v konaní vyplynuli konkrétne okolnosti odôvodňujúce potrebu zaoberať sa možným likvidačným dopadom pokuty a túto trestnoprávnu zásadu ukladania sankcie aplikovať tak, aby bol naplnený účel ukladanej sankcie."
+
 ### § 35 — Zásady ukladania ochranných opatrení
 
 > **§ 35**
@@ -255,6 +260,11 @@ Tretiu skupinu tvoria okolnosti súvisiace s doterajším životom a postpenáln
 Podobne ako pri poľahčujúcich okolnostiach ide o **demonštratívny výpočet** pätnástich okolností sprísňujúcich individuálny trest. Prvú skupinu tvoria okolnosti súvisiace s motiváciou a spôsobom spáchania — obzvlášť zavrhnutiahodná pohnútka (písm. a), pomstový motív voči osobe plniacej si zákonnú povinnosť, najmä pedagogickým a odborným zamestnancom (písm. b, reflektujúca aktuálne spoločenské problémy násilia voči učiteľom), zámer zmariť základné práva iného alebo zakryť iný trestný čin (písm. c), zneužitie mimoriadnej udalosti (písm. d) a zneužitie zamestnania, povolania či postavenia (písm. e). Druhú skupinu tvoria okolnosti spôsobu a miesta spáchania — verejné spáchanie (písm. f) a spáchanie na osobitne chránenom mieste, najmä v cudzom obydlí (písm. g).
 
 Tretiu skupinu tvoria okolnosti súvisiace s mnohosťou trestnej činnosti a zapojením ďalších osôb — súbeh viacerých trestných činov (písm. h), zneužitie trestne nezodpovednej osoby ako nástroja (písm. i, tzv. nepriame páchateľstvo), zvedenie mladistvého (písm. j), postavenie organizátora (písm. k) a súčinnosť s cudzou mocou či cudzím činiteľom (písm. l). Písmeno m) upravuje **recidívu** ako priťažujúcu okolnosť, avšak s diskrečnou právomocou súdu neprihliadať na ňu podľa povahy predchádzajúceho odsúdenia (napr. ak ide o skutkovo a časovo vzdialené, málo závažné odsúdenie) — táto okolnosť úzko súvisí s obligatórnym zvýšením trestnej sadzby pri opätovnom spáchaní zločinu podľa § 38 ods. 3 a 4. Napokon písmená n) a o) predstavujú novšie doplnenia reagujúce na násilie v súvislosti so športovými podujatiami — spáchanie činu ako člen skupiny pri presune na/z športového podujatia alebo z dôvodu príslušnosti k športovému klubu (tzv. "hooligans").
+
+**Judikatúra (z miestnych zdrojov):**
+
+- *NSSSR* 31D/18/2023 — Rozhodnutie, 2024-09-24, ECLI ECLI:SK:NSSSR:2024:9623200496.1
+  > „Porušená povinnosť v predchádzajúcom odsudzujúcom rozhodnutí bola iná ako povinnosť vytýkaná disciplinárne obvinenému v tomto konaní. Z tohto dôvodu nešlo o okolnosť, ktorá by škodlivosť konania zvyšovala natoľko, aby konanie disciplinárne obvineného napĺňalo znaky závažného disciplinárneho previnenia."
 
 ### § 38 — Zákaz dvojitého zohľadnenia okolností a recidíva
 
@@ -381,6 +391,15 @@ Odseky 3 až 5 upravujú mechanizmus osvedčenia sa: pri dodržaní podmienok oc
 Úhrnný trest je základným mechanizmom postihu **súbehu** trestných činov, teda situácie, keď súd odsudzuje páchateľa naraz za dva alebo viac trestných činov v jednom konaní. Odsek 1 stanovuje princíp **asperácie v rámci najprísnejšej sadzby** — súd neukladá samostatný trest za každý čin, ale jeden úhrnný trest podľa ustanovenia vzťahujúceho sa na najprísnejšie trestný z nich, pričom môže pripojiť aj iný druh trestu, ak je odôvodnený niektorým zo zbiehajúcich sa činov (napr. peňažný trest pri majetkovom trestnom čine popri treste odňatia slobody za násilný trestný čin). Ak sa dolné hranice sadzieb líšia, uplatní sa najvyššia z nich — čo bráni tomu, aby súbeh viacerých činov viedol k nižšiemu trestu, než by hrozil za najprísnejšie postihnuteľný čin samostatne.
 
 Odsek 2 zavádza **asperačnú zásadu** v užšom zmysle — pri súbehu aspoň dvoch úmyselných trestných činov spáchaných rôznymi skutkami, z ktorých aspoň jeden je zločinom, sa horná hranica sadzby najprísnejšie trestného z nich zvyšuje o jednu tretinu (s absolútnym stropom dvadsaťpäť rokov, resp. osobitnou sadzbou pre mladistvých podľa § 117). Týmto sa má vyjadriť skutočnosť, že páchateľ sa dopustil viacerých samostatných skutkov, nielen jedného. Odsek 3 rieši technicky náročnú situáciu **pokračovacieho trestného činu** — ak sa po právoplatnom odsúdení za časť pokračovacieho činu zistí ďalší čiastkový útok, súd zruší pôvodný výrok o vine a treste a znova rozhodne o vine za celý pokračovací čin (vrátane nového útoku) a uloží **spoločný trest**, ktorý nesmie byť miernejší než trest uložený skorším rozsudkom (zákaz reformatio in peius v neprospech štátu, resp. ochrana princípu res iudicata v miernejšej podobe). Odsek 4 vylučuje tento postup, ak bol skorší rozsudok vydaný súdom iného členského štátu EÚ — v takom prípade sa uplatní iný mechanizmus (nezasahuje sa do cudzieho rozsudku).
+
+**Judikatúra (z miestnych zdrojov):**
+
+- *NSSSR* 2Stk/7/2025 — Rozsudok, 2026-01-30, ECLI ECLI:SK:NSSSR:2026:5022200622.1
+  > „Aby žalobca porozumel interpretácii právnej normy zo strany orgánu verejnej správy, rozhodnutie sa musí opierať o jasný právny základ, identifikáciu povinnosti a spôsob jej porušenia. V opačnom prípade dochádza k založeniu zodpovednosti na podklade, ktorý je nestabilný, podliehajúci domnienkam, nejasnostiam, narúšajúci právnu istotu, princíp legality a podmienku predvídateľnosti rozhodnutí."
+- *NSSSR* 31D/2/2024 — Rozhodnutie, 2024-11-06, ECLI ECLI:SK:NSSSR:2024:9624200010.1
+  > „Nie je možné disciplinárne obvinenej dávať za vinu nesplnenie lehôt uvedených v opatrení nadriadeného prokurátora v dobe, kedy z dôvodu dlhodobej pracovnej neschopnosti sa musela urýchlene zoznámiť z počas jej neprítomnosti napadnutými vecami, vyhodnocovať ich dôležitosť aj s ohľadom na pred pracovnou neschopnosťou nevybavené veci a urýchlene konať podľa tohto vyhodnotenia."
+- *NSSSR* 31D/18/2022 — Rozhodnutie, 2024-06-04, ECLI ECLI:SK:NSSSR:2024:9622200135.1
+  > „Pokiaľ má sudca zdravotné problémy, ktoré mu bránia v riadnom výkone práce, je potrebné využiť v právnom poriadku stanovené inštitúty."
 
 ### § 42 — Súhrnný trest
 

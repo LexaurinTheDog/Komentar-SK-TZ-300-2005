@@ -30,6 +30,11 @@
 
 Odsek 1 zakotvuje dve pravidlá: základné pravidlo **tempus regit actum** (rozhoduje zákon účinný v čase spáchania činu) a výnimku v prospech páchateľa — retroaktivitu miernejšieho zákona (**lex mitior**), ak sa právna úprava medzi spáchaním činu a rozsudkom zmenila. Porovnanie priaznivosti sa robí ako celok (nie kombináciou najpriaznivejších čiastkových ustanovení z oboch znení). Odsek 2 rieši samostatne druh trestu — možno uložiť len taký druh, aký pripúšťa zákon účinný v čase rozhodovania, ak je to pre páchateľa priaznivejšie. Odsek 3 rozširuje časovú pôsobnosť aj na ochranné opatrenia (ktoré nemajú represívnu, ale ochrannú/liečebnú povahu), s tým, že rozhoduje zákon účinný v čase rozhodovania o opatrení, pokiaľ zákon neustanoví inak.
 
+**Judikatúra (z miestnych zdrojov):**
+
+- *NSSSR* 2Stk/6/2023 — Rozsudok, 2024-11-26, ECLI ECLI:SK:NSSSR:2024:7022200122.1 (Zbierka rozhodnutí)
+  > „K tvrdeniam sťažovateľa, že oneskorené prihlásenie zamestnanca do registra poistencov a porušenie zákazu nelegálneho zamestnávania (vo vzťahu k tomu istému zamestnancovi) nie je identickým skutkom, kasačný súd uvádza, že hoci porušenie povinnosti zamestnávateľa prihlásiť nového zamestnanca do registra poistencov nesie so sebou i následok v podobe naplnenia objektívnej stránky správneho deliktu zákazu nelegálneho zamestnávania, dôležitý je obsah konania vedúci k tomuto následku, a tým je v oboch prípadoch nemenne omisívne konanie – neprihlásenie zamestnanca do registra poistencov (alternatívne jeho oneskorené prihlásenie)."
+
 ### § 3 — Územná pôsobnosť
 
 > **§ 3**
@@ -265,6 +270,21 @@ Na rozdiel od prípravy je pokus trestný pri **akomkoľvek** trestnom čine, ni
 **Výklad:**
 
 § 15 rozlišuje dve formy úmyslu: **priamy úmysel** (písm. a — páchateľ následok chcel) a **nepriamy (eventuálny) úmysel** (písm. b — vedel o možnosti následku a bol s ním uzrozumený, hoci ho priamo nechcel). § 16 ods. 1 symetricky rozlišuje **vedomú nedbanlivosť** (písm. a — páchateľ o riziku vedel, ale nedôvodne spoliehal na jeho neuskutočnenie) a **nevedomú nedbanlivosť** (písm. b — nevedel, hoci vedieť mal a mohol — objektivizovaná miera opatrnosti). Rozlíšenie medzi eventuálnym úmyslom a vedomou nedbanlivosťou je jedno z najnáročnejších dokazovacích otázok trestného práva — kľúčové je, či bol páchateľ so spôsobením následku "uzrozumený" (úmysel), alebo len nedôvodne spoliehal na jeho neuskutočnenie (nedbanlivosť). Odsek 2 zavádza kvalifikovanú formu **hrubej nedbanlivosti** (obzvlášť ľahostajné alebo hrubé porušenie povinnej opatrnosti) — táto kategória sa uplatňuje najmä pri prísnejšom postihu v doprave a pri ohrození života/zdravia.
+
+**Judikatúra (z miestnych zdrojov):**
+
+- *NSSSR* 33D/4/2025 — Rozhodnutie, 2025-10-30, ECLI ECLI:SK:NSSSR:2025:9625200217.1
+  > „Je neakceptovateľný postup, v rámci ktorého prokurátor vypracuje a podá na súd podľa § 85 ods. 4 Trestného poriadku návrh na vzatie obvineného do väzby pred tým, ako bol obvinený vypočutý a mal možnosť sa k obvineniu vyjadriť."
+- *NSSSR* 31D/2/2024 — Rozhodnutie, 2024-11-06, ECLI ECLI:SK:NSSSR:2024:9624200010.1
+  > „Nie je možné disciplinárne obvinenej dávať za vinu nesplnenie lehôt uvedených v opatrení nadriadeného prokurátora v dobe, kedy z dôvodu dlhodobej pracovnej neschopnosti sa musela urýchlene zoznámiť z počas jej neprítomnosti napadnutými vecami, vyhodnocovať ich dôležitosť aj s ohľadom na pred pracovnou neschopnosťou nevybavené veci a urýchlene konať podľa tohto vyhodnotenia."
+- *NSSSR* 31D/18/2023 — Rozhodnutie, 2024-09-24, ECLI ECLI:SK:NSSSR:2024:9623200496.1
+  > „Porušená povinnosť v predchádzajúcom odsudzujúcom rozhodnutí bola iná ako povinnosť vytýkaná disciplinárne obvinenému v tomto konaní. Z tohto dôvodu nešlo o okolnosť, ktorá by škodlivosť konania zvyšovala natoľko, aby konanie disciplinárne obvineného napĺňalo znaky závažného disciplinárneho previnenia."
+- *NSSSR* 31D/18/2022 — Rozhodnutie, 2024-06-04, ECLI ECLI:SK:NSSSR:2024:9622200135.1
+  > „Pokiaľ má sudca zdravotné problémy, ktoré mu bránia v riadnom výkone práce, je potrebné využiť v právnom poriadku stanovené inštitúty."
+- *NSSSR* 31D/14/2022 — Rozhodnutie, 2023-10-10, ECLI ECLI:SK:NSSSR:2023:9622200115.2
+  > „Paragrafy 81-82 Notárskeho poriadku účinného do 30. apríla 2021 sú vo vzťahu k nazeraniu do spisov a registrov osobitné ustanovenia k všeobecnej povinnosti mlčanlivosti uvedenej v § 39 Notárskeho poriadku v účinnom znení."
+- *NSSSR* 31D/16/2022 — Rozhodnutie, 2023-09-19, ECLI ECLI:SK:NSSSR:2023:9622200127.5
+  > „Súčasná právna úprava § 29 DSP nebráni, aby za navrhovateľku na základe poverenia konal poverený zástupca ministerstva."
 
 ### § 17 — Vyžadovaná forma zavinenia
 

@@ -52,6 +52,13 @@ Odseky 9 až 11 rozlišujú tri odlišné mnohosti trestnej činnosti s rozdieln
 
 Odsek 13 rieši procesnoprávne dôležitú otázku pokračovania v páchaní trestného činu zanedbania povinnej výživy (§ 207) po vznesení obvinenia — na rozdiel od všeobecného pravidla (kde ďalšie konanie po obvinení zakladá nový skutok) sa tu pokračovanie v neplatení výživného posudzuje ako jedno pokračujúce konanie až do vyhlásenia rozsudku prvého stupňa alebo záverečnej porady odvolacieho súdu. Odsek 14 definuje spáchanie trestného činu v súvislosti s účasťou na verejnom podujatí (vrátane širokého vymedzenia miesta a času, ktoré zahŕňa aj cestu na podujatie a z neho) — táto okolnosť je relevantná najmä pri kvalifikovaných skutkových podstatách násilnej a výtržníckej trestnej činnosti spojenej so športovými a kultúrnymi podujatiami.
 
+**Judikatúra (z miestnych zdrojov):**
+
+- *NSSSR* 31D/18/2023 — Rozhodnutie, 2024-09-24, ECLI ECLI:SK:NSSSR:2024:9623200496.1
+  > „Porušená povinnosť v predchádzajúcom odsudzujúcom rozhodnutí bola iná ako povinnosť vytýkaná disciplinárne obvinenému v tomto konaní. Z tohto dôvodu nešlo o okolnosť, ktorá by škodlivosť konania zvyšovala natoľko, aby konanie disciplinárne obvineného napĺňalo znaky závažného disciplinárneho previnenia."
+- *NSSSR* 31D/24/2021 — Rozhodnutie, 2022-09-07, ECLI ECLI:SK:NSSSR:2022:9621200129.2 (Zbierka rozhodnutí)
+  > „Okamihom, kedy Ústavný súd Slovenskej republiky vyslovil, že v určitej veci dochádza k porušovaniu práva na prerokovanie veci bez zbytočných prieťahov a prikázal vo veci ďalej konať, je súd ako orgán verejnej moci povinný všetkými dostupnými prostriedkami vykonať tento príkaz Ústavného súdu Slovenskej republiky. Pre konkrétneho sudcu to znamená, že od tohto okamihu musí takúto vec považovať za prednostnú, rovnako ako iné prednostné veci uvedené v rozvrhu práce."
+
 ### § 123 — Ujma na zdraví
 
 > **§ 123**

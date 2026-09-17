@@ -16,6 +16,11 @@ Ustanovenie je hmotnoprávnym dôsledkom zásady, že trestnosť činu sa posudz
 
 Zánik trestnosti podľa § 84 nastáva priamo zo zákona (ex lege), bez potreby osobitného rozhodnutia orgánu činného v trestnom konaní alebo súdu — takéto rozhodnutie (napríklad o zastavení trestného stíhania) má len deklaratórny charakter. Ustanovenie sa vzťahuje výlučne na prípad, že neskorší zákon dané konanie celkom dekriminalizuje; nevzťahuje sa na prípad, keď neskorší zákon len sprísni alebo zmierni podmienky trestnosti, prípadne zmení trestnú sadzbu — tam sa uplatní všeobecné pravidlo časovej pôsobnosti podľa § 2.
 
+**Judikatúra (z miestnych zdrojov):**
+
+- *NSSSR* 2Stk/6/2023 — Rozsudok, 2024-11-26, ECLI ECLI:SK:NSSSR:2024:7022200122.1 (Zbierka rozhodnutí)
+  > „K tvrdeniam sťažovateľa, že oneskorené prihlásenie zamestnanca do registra poistencov a porušenie zákazu nelegálneho zamestnávania (vo vzťahu k tomu istému zamestnancovi) nie je identickým skutkom, kasačný súd uvádza, že hoci porušenie povinnosti zamestnávateľa prihlásiť nového zamestnanca do registra poistencov nesie so sebou i následok v podobe naplnenia objektívnej stránky správneho deliktu zákazu nelegálneho zamestnávania, dôležitý je obsah konania vedúci k tomuto následku, a tým je v oboch prípadoch nemenne omisívne konanie – neprihlásenie zamestnanca do registra poistencov (alternatívne jeho oneskorené prihlásenie)."
+
 ### § 85 — Účinná ľútosť pri vybraných trestných činoch (I)
 
 > **§ 85**
@@ -215,6 +220,11 @@ Vnútorná súvislosť medzi § 88 a § 91 je logická a nutná — nemalo by zm
 Zahladenie odsúdenia je inštitútom, ktorý po uplynutí určitej doby a pri splnení podmienky vedenia riadneho života odníma odsúdeniu jeho trestnoprávne relevantné účinky — najmä z hľadiska posudzovania bezúhonnosti a prípadnej recidívy. Odsek 1 stanovuje trojstupňovú škálu dôb (10, 5 a 3 roky) odstupňovanú podľa dĺžky uloženého trestu odňatia slobody, ktoré musí odsúdený od výkonu, odpustenia alebo premlčania výkonu trestu nepretržite viesť riadny život, aby súd mohol (nie musel — ide o fakultatívne rozhodnutie súdu) odsúdenie zahladiť. Odsek 2 stanovuje osobitný, jednoduchší režim pre iné druhy trestov než odňatie slobody vymenované v § 32 písm. b) až l) — pri nich k zahladeniu dochádza automaticky samotným vykonaním trestu, bez potreby ďalšej čakacej doby a bez samostatného rozhodnutia súdu.
 
 Odsek 3 umožňuje súdu na žiadosť odsúdeného zahladiť odsúdenie predčasne, ešte pred uplynutím doby podľa odseku 1, ak odsúdený svojím vzorným správaním preukázal, že sa napravil — ide o odmenu za mimoriadne priaznivý priebeh nápravy presahujúci bežný štandard vyžadovaný pre riadny život. Odsek 4 rieši osobitne dĺžku rozhodnej doby pri podmienečnom prepustení a podmienečnom prepustení s dohľadom (kde platí fikcia, že trest bol vykonaný dňom prepustenia) — v takom prípade sa doba podľa odseku 1 neurčuje podľa pôvodne uloženého trestu, ale podľa dĺžky skutočne vykonanej časti trestu, a obdobne pri treste zmiernenom rozhodnutím prezidenta podľa dĺžky takto zmierneného trestu. Odsek 5 napokon zakotvuje mimoriadny spôsob zahladenia odsúdenia — priamym rozhodnutím prezidenta Slovenskej republiky formou milosti (individuálne) alebo amnestie (plošne), kedy k zahladeniu dochádza bez ohľadu na splnenie podmienok podľa predchádzajúcich odsekov.
+
+**Judikatúra (z miestnych zdrojov):**
+
+- *NSSSR* 14Svp/3/2022 — Rozsudok, 2023-02-03, ECLI ECLI:SK:NSSSR:2023:9622200228.1 (Zbierka rozhodnutí)
+  > „Prekážkou práva byť volený nie je právoplatné odsúdenie za akýkoľvek trestný čin, ale len za trestný čin úmyselný, pričom zároveň platí, že v prípade, ak došlo k zahladeniu takéhoto trestného činu, prekážka práva byť volený neexistuje.             Ak rozhodnutím trestného súdu došlo k upusteniu od uloženia súhrnného trestu, zahladenie takéhoto rozhodnutia sa materiálne musí viazať na zahladenie toho rozhodnutia, vzhľadom ku ktorému došlo k upusteniu od uloženia súhrnného trestu."
 
 ### § 93 — Účinky zahladenia odsúdenia
 
